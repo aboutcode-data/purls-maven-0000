@@ -1,0 +1,5 @@
+- pkg:maven/it.tidalwave.geo/it-tidalwave-forceten-lookandfeel@1.1.41?classifier=sources
+- pkg:maven/it.tidalwave.geo/it-tidalwave-forceten-lookandfeel@1.1.42?classifier=sources
+- pkg:maven/it.tidalwave.geo/it-tidalwave-forceten-lookandfeel@1.1.43?classifier=sources
+- pkg:maven/it.tidalwave.geo/it-tidalwave-forceten-lookandfeel@1.1.44?classifier=sources
+- pkg:maven/it.tidalwave.geo/it-tidalwave-forceten-lookandfeel@1.1.45?classifier=sources

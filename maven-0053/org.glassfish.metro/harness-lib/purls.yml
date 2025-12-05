@@ -1,0 +1,2 @@
+- pkg:maven/org.glassfish.metro/harness-lib@2.3
+- pkg:maven/org.glassfish.metro/harness-lib@2.3?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/com.melessoftware.testing/meles-concurrent-testing@0.1.0
+- pkg:maven/com.melessoftware.testing/meles-concurrent-testing@0.1.0?classifier=sources
+- pkg:maven/com.melessoftware.testing/meles-concurrent-testing@0.2.0
+- pkg:maven/com.melessoftware.testing/meles-concurrent-testing@0.2.0?classifier=sources

@@ -1,0 +1,6 @@
+- pkg:maven/nu.zoom.svansprogram/svansprogram-error@1.0
+- pkg:maven/nu.zoom.svansprogram/svansprogram-error@1.0?classifier=sources
+- pkg:maven/nu.zoom.svansprogram/svansprogram-error@2.2
+- pkg:maven/nu.zoom.svansprogram/svansprogram-error@2.2?classifier=sources
+- pkg:maven/nu.zoom.svansprogram/svansprogram-error@3.0
+- pkg:maven/nu.zoom.svansprogram/svansprogram-error@3.0?classifier=sources

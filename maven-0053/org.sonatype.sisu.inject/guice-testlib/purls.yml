@@ -1,0 +1,2 @@
+- pkg:maven/org.sonatype.sisu.inject/guice-testlib@3.2.1
+- pkg:maven/org.sonatype.sisu.inject/guice-testlib@3.2.1?classifier=sources

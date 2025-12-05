@@ -1,0 +1,4 @@
+- pkg:maven/maven-plugins/maven-dbunit-plugin@1.8
+- pkg:maven/maven-plugins/maven-dbunit-plugin@1.9
+- pkg:maven/maven-plugins/maven-dbunit-plugin@20030413.024213
+- pkg:maven/maven-plugins/maven-dbunit-plugin@20030818.022735

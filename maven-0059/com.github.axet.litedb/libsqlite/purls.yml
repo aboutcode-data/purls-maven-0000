@@ -1,0 +1,2 @@
+- pkg:maven/com.github.axet.litedb/libsqlite@0.282-3
+- pkg:maven/com.github.axet.litedb/libsqlite@0.282-3?classifier=sources

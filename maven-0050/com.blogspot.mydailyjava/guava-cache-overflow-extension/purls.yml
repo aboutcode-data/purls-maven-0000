@@ -1,0 +1,2 @@
+- pkg:maven/com.blogspot.mydailyjava/guava-cache-overflow-extension@0.2
+- pkg:maven/com.blogspot.mydailyjava/guava-cache-overflow-extension@0.2?classifier=sources

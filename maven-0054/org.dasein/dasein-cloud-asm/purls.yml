@@ -1,0 +1,2 @@
+- pkg:maven/org.dasein/dasein-cloud-asm@2013.07.2
+- pkg:maven/org.dasein/dasein-cloud-asm@2013.07.2?classifier=sources

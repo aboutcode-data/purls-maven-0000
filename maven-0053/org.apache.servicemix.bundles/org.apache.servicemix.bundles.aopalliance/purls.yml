@@ -1,0 +1,7 @@
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.aopalliance@1.0_1
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.aopalliance@1.0_1?classifier=sources
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.aopalliance@1.0_3
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.aopalliance@1.0_4
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.aopalliance@1.0_5
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.aopalliance@1.0_6
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.aopalliance@1.0_6?classifier=sources

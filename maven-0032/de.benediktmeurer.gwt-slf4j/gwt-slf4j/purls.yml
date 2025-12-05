@@ -1,0 +1,2 @@
+- pkg:maven/de.benediktmeurer.gwt-slf4j/gwt-slf4j@0.0.2
+- pkg:maven/de.benediktmeurer.gwt-slf4j/gwt-slf4j@0.0.2?classifier=sources

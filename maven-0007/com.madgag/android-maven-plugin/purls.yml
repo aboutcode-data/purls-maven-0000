@@ -1,0 +1,14 @@
+- pkg:maven/com.madgag/android-maven-plugin@3.0.0-alpha-13.99.0.1
+- pkg:maven/com.madgag/android-maven-plugin@3.0.0-alpha-13.99.0.1?classifier=sources
+- pkg:maven/com.madgag/android-maven-plugin@3.0.0-alpha-13.99.0.2
+- pkg:maven/com.madgag/android-maven-plugin@3.0.0-alpha-13.99.0.2?classifier=sources
+- pkg:maven/com.madgag/android-maven-plugin@3.1.1.99.0.1-UNOFFICIAL-ROBERTO-RELEASE
+- pkg:maven/com.madgag/android-maven-plugin@3.1.1.99.0.1-UNOFFICIAL-ROBERTO-RELEASE?classifier=sources
+- pkg:maven/com.madgag/android-maven-plugin@3.1.1.99.0.2-UNOFFICIAL-ROBERTO-RELEASE
+- pkg:maven/com.madgag/android-maven-plugin@3.1.1.99.0.2-UNOFFICIAL-ROBERTO-RELEASE?classifier=sources
+- pkg:maven/com.madgag/android-maven-plugin@3.1.1.99.0.4-UNOFFICIAL-ROBERTO-RELEASE
+- pkg:maven/com.madgag/android-maven-plugin@3.1.1.99.0.4-UNOFFICIAL-ROBERTO-RELEASE?classifier=sources
+- pkg:maven/com.madgag/android-maven-plugin@3.1.1.99.0.5-UNOFFICIAL-ROBERTO-RELEASE
+- pkg:maven/com.madgag/android-maven-plugin@3.1.1.99.0.5-UNOFFICIAL-ROBERTO-RELEASE?classifier=sources
+- pkg:maven/com.madgag/android-maven-plugin@3.1.1.99.0.6
+- pkg:maven/com.madgag/android-maven-plugin@3.1.1.99.0.6?classifier=sources

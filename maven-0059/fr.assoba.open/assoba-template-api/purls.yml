@@ -1,0 +1,2 @@
+- pkg:maven/fr.assoba.open/assoba-template-api@1.0
+- pkg:maven/fr.assoba.open/assoba-template-api@1.0?classifier=sources

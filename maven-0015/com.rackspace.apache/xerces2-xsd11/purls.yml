@@ -1,0 +1,4 @@
+- pkg:maven/com.rackspace.apache/xerces2-xsd11@2.11.1
+- pkg:maven/com.rackspace.apache/xerces2-xsd11@2.11.1?classifier=sources
+- pkg:maven/com.rackspace.apache/xerces2-xsd11@2.11.2
+- pkg:maven/com.rackspace.apache/xerces2-xsd11@2.11.2?classifier=sources

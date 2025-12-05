@@ -1,0 +1,1 @@
+- pkg:maven/org.jvnet.hudson.plugins/filesystem_scm@0.1?classifier=sources

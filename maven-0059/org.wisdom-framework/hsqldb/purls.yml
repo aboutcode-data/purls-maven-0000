@@ -1,0 +1,2 @@
+- pkg:maven/org.wisdom-framework/hsqldb@2.3.2_1
+- pkg:maven/org.wisdom-framework/hsqldb@2.3.2_1?classifier=sources

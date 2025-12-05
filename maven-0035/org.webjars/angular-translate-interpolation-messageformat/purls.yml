@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars/angular-translate-interpolation-messageformat@0.1.2
+- pkg:maven/org.webjars/angular-translate-interpolation-messageformat@0.1.2?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.geronimo.applications.magicGball/magicGball-web@1.2-beta?classifier=sources
+- pkg:maven/org.apache.geronimo.applications.magicGball/magicGball-web@1.2-beta?type=war

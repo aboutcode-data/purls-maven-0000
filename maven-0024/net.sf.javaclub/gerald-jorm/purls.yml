@@ -1,0 +1,8 @@
+- pkg:maven/net.sf.javaclub/gerald-jorm@1.0.6
+- pkg:maven/net.sf.javaclub/gerald-jorm@1.0.6?classifier=sources
+- pkg:maven/net.sf.javaclub/gerald-jorm@1.0.7
+- pkg:maven/net.sf.javaclub/gerald-jorm@1.0.7.GA
+- pkg:maven/net.sf.javaclub/gerald-jorm@1.0.7.GA?classifier=sources
+- pkg:maven/net.sf.javaclub/gerald-jorm@1.0.7?classifier=sources
+- pkg:maven/net.sf.javaclub/gerald-jorm@1.0.8.RC1
+- pkg:maven/net.sf.javaclub/gerald-jorm@1.0.8.RC1?classifier=sources

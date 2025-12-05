@@ -1,0 +1,2 @@
+- pkg:maven/com.coherentlogic.coherent.data-model/demo-application@0.9.0
+- pkg:maven/com.coherentlogic.coherent.data-model/demo-application@0.9.0?classifier=sources

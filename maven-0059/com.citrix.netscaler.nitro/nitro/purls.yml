@@ -1,0 +1,4 @@
+- pkg:maven/com.citrix.netscaler.nitro/nitro@10.0.e
+- pkg:maven/com.citrix.netscaler.nitro/nitro@10.0.e?classifier=sources
+- pkg:maven/com.citrix.netscaler.nitro/nitro@10.1
+- pkg:maven/com.citrix.netscaler.nitro/nitro@10.1?classifier=sources

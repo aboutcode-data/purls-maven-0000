@@ -1,0 +1,2 @@
+- pkg:maven/org.aperteworkflow/integration-liferay@3.0-beta1
+- pkg:maven/org.aperteworkflow/integration-liferay@3.0-beta1?classifier=sources

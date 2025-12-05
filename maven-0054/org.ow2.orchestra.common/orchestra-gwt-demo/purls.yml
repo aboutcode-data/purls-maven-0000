@@ -1,0 +1,2 @@
+- pkg:maven/org.ow2.orchestra.common/orchestra-gwt-demo@4.9.0?classifier=sources
+- pkg:maven/org.ow2.orchestra.common/orchestra-gwt-demo@4.9.0?type=war

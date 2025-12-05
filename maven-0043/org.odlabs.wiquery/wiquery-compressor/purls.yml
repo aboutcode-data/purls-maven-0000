@@ -1,0 +1,14 @@
+- pkg:maven/org.odlabs.wiquery/wiquery-compressor@6.0.0
+- pkg:maven/org.odlabs.wiquery/wiquery-compressor@6.0.0-beta3
+- pkg:maven/org.odlabs.wiquery/wiquery-compressor@6.0.0-beta3?classifier=sources
+- pkg:maven/org.odlabs.wiquery/wiquery-compressor@6.0.0?classifier=sources
+- pkg:maven/org.odlabs.wiquery/wiquery-compressor@6.2.0
+- pkg:maven/org.odlabs.wiquery/wiquery-compressor@6.2.0?classifier=sources
+- pkg:maven/org.odlabs.wiquery/wiquery-compressor@6.5.0
+- pkg:maven/org.odlabs.wiquery/wiquery-compressor@6.5.0?classifier=sources
+- pkg:maven/org.odlabs.wiquery/wiquery-compressor@6.6.0
+- pkg:maven/org.odlabs.wiquery/wiquery-compressor@6.6.0?classifier=sources
+- pkg:maven/org.odlabs.wiquery/wiquery-compressor@6.9.1
+- pkg:maven/org.odlabs.wiquery/wiquery-compressor@6.9.1?classifier=sources
+- pkg:maven/org.odlabs.wiquery/wiquery-compressor@6.9.2
+- pkg:maven/org.odlabs.wiquery/wiquery-compressor@6.9.2?classifier=sources

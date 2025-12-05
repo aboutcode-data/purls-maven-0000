@@ -1,0 +1,2 @@
+- pkg:maven/org.cheffo/jeplite@0.8.7a
+- pkg:maven/org.cheffo/jeplite@0.8.7a?classifier=sources

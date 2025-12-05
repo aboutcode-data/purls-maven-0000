@@ -1,0 +1,10 @@
+- pkg:maven/org.st-js.bridge/jqueryui@1.10.3.bv0
+- pkg:maven/org.st-js.bridge/jqueryui@1.10.3.bv0?classifier=sources
+- pkg:maven/org.st-js.bridge/jqueryui@1.10.3.bv1
+- pkg:maven/org.st-js.bridge/jqueryui@1.10.3.bv1?classifier=sources
+- pkg:maven/org.st-js.bridge/jqueryui@1.10.3.bv2
+- pkg:maven/org.st-js.bridge/jqueryui@1.10.3.bv2?classifier=sources
+- pkg:maven/org.st-js.bridge/jqueryui@1.8.24.0
+- pkg:maven/org.st-js.bridge/jqueryui@1.8.24.0?classifier=sources
+- pkg:maven/org.st-js.bridge/jqueryui@1.8.24.bv0
+- pkg:maven/org.st-js.bridge/jqueryui@1.8.24.bv0?classifier=sources

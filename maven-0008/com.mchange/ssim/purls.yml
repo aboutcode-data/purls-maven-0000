@@ -1,0 +1,2 @@
+- pkg:maven/com.mchange/ssim@0.6.1
+- pkg:maven/com.mchange/ssim@0.6.1?classifier=sources

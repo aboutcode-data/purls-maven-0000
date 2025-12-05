@@ -1,0 +1,4 @@
+- pkg:maven/org.ow2.util/util-jmx@1.0.8
+- pkg:maven/org.ow2.util/util-jmx@1.0.8?classifier=sources
+- pkg:maven/org.ow2.util/util-jmx@1.0.8b
+- pkg:maven/org.ow2.util/util-jmx@1.0.8b?classifier=sources

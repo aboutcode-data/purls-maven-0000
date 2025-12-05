@@ -1,0 +1,2 @@
+- pkg:maven/org.ow2.orchestra.console/ws-console@4.9.1
+- pkg:maven/org.ow2.orchestra.console/ws-console@4.9.1?classifier=sources

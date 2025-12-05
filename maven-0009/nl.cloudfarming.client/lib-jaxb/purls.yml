@@ -1,0 +1,4 @@
+- pkg:maven/nl.cloudfarming.client/lib-jaxb@2.2.4.1?classifier=sources
+- pkg:maven/nl.cloudfarming.client/lib-jaxb@2.2.4?classifier=sources
+- pkg:maven/nl.cloudfarming.client/lib-jaxb@2.2.6-NB72?classifier=sources
+- pkg:maven/nl.cloudfarming.client/lib-jaxb@2.2.6.1-NB72?classifier=sources

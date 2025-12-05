@@ -1,0 +1,5 @@
+- pkg:maven/org.codehaus.sonar-plugins/sonar-taglist-plugin@0.6
+- pkg:maven/org.codehaus.sonar-plugins/sonar-taglist-plugin@0.6?classifier=sources
+- pkg:maven/org.codehaus.sonar-plugins/sonar-taglist-plugin@0.7
+- pkg:maven/org.codehaus.sonar-plugins/sonar-taglist-plugin@0.7?classifier=sources
+- pkg:maven/org.codehaus.sonar-plugins/sonar-taglist-plugin@1.0?classifier=sources

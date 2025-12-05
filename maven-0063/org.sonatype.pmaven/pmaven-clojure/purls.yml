@@ -1,0 +1,2 @@
+- pkg:maven/org.sonatype.pmaven/pmaven-clojure@0.7
+- pkg:maven/org.sonatype.pmaven/pmaven-clojure@0.7?classifier=sources

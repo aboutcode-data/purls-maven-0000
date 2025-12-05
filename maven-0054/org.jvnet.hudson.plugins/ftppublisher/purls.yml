@@ -1,0 +1,2 @@
+- pkg:maven/org.jvnet.hudson.plugins/ftppublisher@0.9?classifier=sources
+- pkg:maven/org.jvnet.hudson.plugins/ftppublisher@1.0?classifier=sources

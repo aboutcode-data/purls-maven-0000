@@ -1,0 +1,2 @@
+- pkg:maven/net.sf.javaprinciples.persistence/persistence-api@4.0.0
+- pkg:maven/net.sf.javaprinciples.persistence/persistence-api@4.0.0?classifier=sources

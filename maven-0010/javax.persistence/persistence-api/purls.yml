@@ -1,0 +1,8 @@
+- pkg:maven/javax.persistence/persistence-api@1.0
+- pkg:maven/javax.persistence/persistence-api@1.0-rev-1
+- pkg:maven/javax.persistence/persistence-api@1.0-rev-1?classifier=sources
+- pkg:maven/javax.persistence/persistence-api@1.0.2
+- pkg:maven/javax.persistence/persistence-api@1.0.2?classifier=sources
+- pkg:maven/javax.persistence/persistence-api@1.0?classifier=sources
+- pkg:maven/javax.persistence/persistence-api@1.0b
+- pkg:maven/javax.persistence/persistence-api@1.0b?classifier=sources

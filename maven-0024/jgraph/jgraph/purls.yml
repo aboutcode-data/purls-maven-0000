@@ -1,0 +1,6 @@
+- pkg:maven/jgraph/jgraph@1.0.6
+- pkg:maven/jgraph/jgraph@5.0.4
+- pkg:maven/jgraph/jgraph@5.13.0.0
+- pkg:maven/jgraph/jgraph@5.13.0.0?classifier=sources
+- pkg:maven/jgraph/jgraph@5.5.1
+- pkg:maven/jgraph/jgraph@5.8.3.1

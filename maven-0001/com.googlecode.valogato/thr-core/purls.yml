@@ -1,0 +1,2 @@
+- pkg:maven/com.googlecode.valogato/thr-core@1.1
+- pkg:maven/com.googlecode.valogato/thr-core@1.1?classifier=sources

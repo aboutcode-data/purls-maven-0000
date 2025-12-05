@@ -1,0 +1,10 @@
+- pkg:maven/com.github.socketIo4Netty/socketIo4Netty@1.0.10
+- pkg:maven/com.github.socketIo4Netty/socketIo4Netty@1.0.10?classifier=sources
+- pkg:maven/com.github.socketIo4Netty/socketIo4Netty@1.0.11
+- pkg:maven/com.github.socketIo4Netty/socketIo4Netty@1.0.11?classifier=sources
+- pkg:maven/com.github.socketIo4Netty/socketIo4Netty@1.0.12
+- pkg:maven/com.github.socketIo4Netty/socketIo4Netty@1.0.12?classifier=sources
+- pkg:maven/com.github.socketIo4Netty/socketIo4Netty@1.0.14
+- pkg:maven/com.github.socketIo4Netty/socketIo4Netty@1.0.14?classifier=sources
+- pkg:maven/com.github.socketIo4Netty/socketIo4Netty@1.0.15
+- pkg:maven/com.github.socketIo4Netty/socketIo4Netty@1.0.15?classifier=sources

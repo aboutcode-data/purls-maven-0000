@@ -1,0 +1,4 @@
+- pkg:maven/com.esotericsoftware/minlog@1.3
+- pkg:maven/com.esotericsoftware/minlog@1.3-SNAPHOT
+- pkg:maven/com.esotericsoftware/minlog@1.3-SNAPHOT?classifier=sources
+- pkg:maven/com.esotericsoftware/minlog@1.3?classifier=sources

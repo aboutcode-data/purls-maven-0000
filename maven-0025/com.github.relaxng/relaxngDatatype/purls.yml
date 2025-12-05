@@ -1,0 +1,2 @@
+- pkg:maven/com.github.relaxng/relaxngDatatype@2011.1
+- pkg:maven/com.github.relaxng/relaxngDatatype@2011.1?classifier=sources

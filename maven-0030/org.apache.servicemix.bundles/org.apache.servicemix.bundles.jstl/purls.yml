@@ -1,0 +1,4 @@
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.jstl@1.1.2_1
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.jstl@1.1.2_2
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.jstl@1.1.2_3
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.jstl@1.1.2_3?classifier=sources

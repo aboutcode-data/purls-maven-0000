@@ -1,0 +1,7 @@
+- pkg:maven/bouncycastle/bcprov-jdk15@124
+- pkg:maven/bouncycastle/bcprov-jdk15@133
+- pkg:maven/bouncycastle/bcprov-jdk15@135
+- pkg:maven/bouncycastle/bcprov-jdk15@136
+- pkg:maven/bouncycastle/bcprov-jdk15@136?classifier=sources
+- pkg:maven/bouncycastle/bcprov-jdk15@140
+- pkg:maven/bouncycastle/bcprov-jdk15@140?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/javax.slee/jainslee-api@1.0
+- pkg:maven/javax.slee/jainslee-api@1.0?classifier=sources
+- pkg:maven/javax.slee/jainslee-api@1.1
+- pkg:maven/javax.slee/jainslee-api@1.1?classifier=sources

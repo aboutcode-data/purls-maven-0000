@@ -1,0 +1,2 @@
+- pkg:maven/de.knutwalker/forecast-io-scala_2.10@0.1.1
+- pkg:maven/de.knutwalker/forecast-io-scala_2.10@0.1.1?classifier=sources

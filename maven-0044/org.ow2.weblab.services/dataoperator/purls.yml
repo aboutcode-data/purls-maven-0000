@@ -1,0 +1,2 @@
+- pkg:maven/org.ow2.weblab.services/dataoperator@1.2.2
+- pkg:maven/org.ow2.weblab.services/dataoperator@1.2.2?classifier=sources

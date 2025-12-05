@@ -1,0 +1,2 @@
+- pkg:maven/org.jglue.cdi-unit/cdi-unit-tests-external-dependency@3.0.0
+- pkg:maven/org.jglue.cdi-unit/cdi-unit-tests-external-dependency@3.0.0?classifier=sources

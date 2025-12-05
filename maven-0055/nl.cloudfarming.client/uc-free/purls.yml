@@ -1,0 +1,9 @@
+- pkg:maven/nl.cloudfarming.client/uc-free@1.0.12?classifier=sources
+- pkg:maven/nl.cloudfarming.client/uc-free@1.0.17?classifier=sources
+- pkg:maven/nl.cloudfarming.client/uc-free@1.0.18?classifier=sources
+- pkg:maven/nl.cloudfarming.client/uc-free@1.0.19?classifier=sources
+- pkg:maven/nl.cloudfarming.client/uc-free@1.0.1?classifier=sources
+- pkg:maven/nl.cloudfarming.client/uc-free@1.0.20?classifier=sources
+- pkg:maven/nl.cloudfarming.client/uc-free@1.0.21?classifier=sources
+- pkg:maven/nl.cloudfarming.client/uc-free@1.0.23?classifier=sources
+- pkg:maven/nl.cloudfarming.client/uc-free@1.0?classifier=sources

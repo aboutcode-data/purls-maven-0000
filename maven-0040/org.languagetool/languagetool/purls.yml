@@ -1,0 +1,4 @@
+- pkg:maven/org.languagetool/languagetool@1.9
+- pkg:maven/org.languagetool/languagetool@1.9?classifier=sources
+- pkg:maven/org.languagetool/languagetool@2.0.1
+- pkg:maven/org.languagetool/languagetool@2.0.1?classifier=sources

@@ -1,0 +1,6 @@
+- pkg:maven/com.mtvi.plateng.hudson/ldapemail@0.1?classifier=sources
+- pkg:maven/com.mtvi.plateng.hudson/ldapemail@0.2?classifier=sources
+- pkg:maven/com.mtvi.plateng.hudson/ldapemail@0.3?classifier=sources
+- pkg:maven/com.mtvi.plateng.hudson/ldapemail@0.4?classifier=sources
+- pkg:maven/com.mtvi.plateng.hudson/ldapemail@0.5?classifier=sources
+- pkg:maven/com.mtvi.plateng.hudson/ldapemail@0.6?classifier=sources

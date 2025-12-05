@@ -1,0 +1,2 @@
+- pkg:maven/de.knutwalker/esclient_2.10@0.1.1
+- pkg:maven/de.knutwalker/esclient_2.10@0.1.1?classifier=sources

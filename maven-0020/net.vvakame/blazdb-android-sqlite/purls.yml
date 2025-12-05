@@ -1,0 +1,2 @@
+- pkg:maven/net.vvakame/blazdb-android-sqlite@0.2
+- pkg:maven/net.vvakame/blazdb-android-sqlite@0.2?classifier=sources

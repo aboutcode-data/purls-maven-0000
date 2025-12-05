@@ -1,0 +1,10 @@
+- pkg:maven/com.tocea.easycoverage/easyCoverage4J-junit@0.2.0
+- pkg:maven/com.tocea.easycoverage/easyCoverage4J-junit@0.2.0?classifier=sources
+- pkg:maven/com.tocea.easycoverage/easyCoverage4J-junit@0.2.1
+- pkg:maven/com.tocea.easycoverage/easyCoverage4J-junit@0.2.1?classifier=sources
+- pkg:maven/com.tocea.easycoverage/easyCoverage4J-junit@0.2.2
+- pkg:maven/com.tocea.easycoverage/easyCoverage4J-junit@0.2.2?classifier=sources
+- pkg:maven/com.tocea.easycoverage/easyCoverage4J-junit@0.2.3
+- pkg:maven/com.tocea.easycoverage/easyCoverage4J-junit@0.2.3?classifier=sources
+- pkg:maven/com.tocea.easycoverage/easyCoverage4J-junit@2.3.1
+- pkg:maven/com.tocea.easycoverage/easyCoverage4J-junit@2.3.1?classifier=sources

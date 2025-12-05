@@ -1,0 +1,2 @@
+- pkg:maven/org.mobicents.servlet.sip.examples/websockets-sip-servlet@2.0.0.FINAL?classifier=sources
+- pkg:maven/org.mobicents.servlet.sip.examples/websockets-sip-servlet@2.0.0.FINAL?type=war

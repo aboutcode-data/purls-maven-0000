@@ -1,0 +1,5 @@
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.commons-lang@2.4_3
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.commons-lang@2.4_4
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.commons-lang@2.4_5
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.commons-lang@2.4_6
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.commons-lang@2.4_6?classifier=sources

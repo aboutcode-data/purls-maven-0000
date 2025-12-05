@@ -1,0 +1,4 @@
+- pkg:maven/org.mule.tools/mule-test-exclusions-report-plugin@1.0
+- pkg:maven/org.mule.tools/mule-test-exclusions-report-plugin@1.1
+- pkg:maven/org.mule.tools/mule-test-exclusions-report-plugin@1.1?classifier=sources
+- pkg:maven/org.mule.tools/mule-test-exclusions-report-plugin@1.2

@@ -1,0 +1,4 @@
+- pkg:maven/net.sf.jinterflex/jinterflex@1.0-Beta2
+- pkg:maven/net.sf.jinterflex/jinterflex@1.0-Beta2?classifier=sources
+- pkg:maven/net.sf.jinterflex/jinterflex@1.0-Beta3
+- pkg:maven/net.sf.jinterflex/jinterflex@1.0-Beta3?classifier=sources

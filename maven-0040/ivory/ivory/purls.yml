@@ -1,0 +1,4 @@
+- pkg:maven/ivory/ivory@1.0-alpha-5?classifier=src&type=tar.gz
+- pkg:maven/ivory/ivory@1.0-alpha-5?classifier=src&type=zip
+- pkg:maven/ivory/ivory@1.0-beta-1?classifier=src&type=tar.gz
+- pkg:maven/ivory/ivory@1.0-beta-1?classifier=src&type=zip

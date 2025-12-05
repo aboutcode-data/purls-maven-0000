@@ -1,0 +1,9 @@
+- pkg:maven/com.eed3si9n/sbt-assembly_2.8.1@0.2
+- pkg:maven/com.eed3si9n/sbt-assembly_2.8.1@sbt0.10.0_0.3
+- pkg:maven/com.eed3si9n/sbt-assembly_2.8.1@sbt0.10.0_0.4
+- pkg:maven/com.eed3si9n/sbt-assembly_2.8.1@sbt0.10.0_0.5
+- pkg:maven/com.eed3si9n/sbt-assembly_2.8.1@sbt0.10.0_0.6
+- pkg:maven/com.eed3si9n/sbt-assembly_2.8.1@sbt0.10.1_0.3
+- pkg:maven/com.eed3si9n/sbt-assembly_2.8.1@sbt0.10.1_0.4
+- pkg:maven/com.eed3si9n/sbt-assembly_2.8.1@sbt0.10.1_0.5
+- pkg:maven/com.eed3si9n/sbt-assembly_2.8.1@sbt0.10.1_0.6

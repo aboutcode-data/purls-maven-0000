@@ -1,0 +1,2 @@
+- pkg:maven/com.googlecode.jinahya/servlet-helper@1.0-alpha-2
+- pkg:maven/com.googlecode.jinahya/servlet-helper@1.0-alpha-2?classifier=sources

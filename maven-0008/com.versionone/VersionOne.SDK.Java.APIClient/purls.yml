@@ -1,0 +1,10 @@
+- pkg:maven/com.versionone/VersionOne.SDK.Java.APIClient@12.3.0.114
+- pkg:maven/com.versionone/VersionOne.SDK.Java.APIClient@12.3.0.114?classifier=sources
+- pkg:maven/com.versionone/VersionOne.SDK.Java.APIClient@12.3.1.130
+- pkg:maven/com.versionone/VersionOne.SDK.Java.APIClient@12.3.1.130?classifier=sources
+- pkg:maven/com.versionone/VersionOne.SDK.Java.APIClient@12.3.2.130
+- pkg:maven/com.versionone/VersionOne.SDK.Java.APIClient@12.3.2.130?classifier=sources
+- pkg:maven/com.versionone/VersionOne.SDK.Java.APIClient@12.3.3.138
+- pkg:maven/com.versionone/VersionOne.SDK.Java.APIClient@12.3.3.138?classifier=sources
+- pkg:maven/com.versionone/VersionOne.SDK.Java.APIClient@13.0.1
+- pkg:maven/com.versionone/VersionOne.SDK.Java.APIClient@13.0.1?classifier=sources

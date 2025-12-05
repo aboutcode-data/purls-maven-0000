@@ -1,0 +1,2 @@
+- pkg:maven/cc.concurrent/config-server@0.1?classifier=sources
+- pkg:maven/cc.concurrent/config-server@0.1?type=war

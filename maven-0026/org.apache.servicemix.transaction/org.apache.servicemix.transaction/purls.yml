@@ -1,0 +1,6 @@
+- pkg:maven/org.apache.servicemix.transaction/org.apache.servicemix.transaction@1.0.0
+- pkg:maven/org.apache.servicemix.transaction/org.apache.servicemix.transaction@1.0.0?classifier=sources
+- pkg:maven/org.apache.servicemix.transaction/org.apache.servicemix.transaction@1.2.0
+- pkg:maven/org.apache.servicemix.transaction/org.apache.servicemix.transaction@1.2.0?classifier=sources
+- pkg:maven/org.apache.servicemix.transaction/org.apache.servicemix.transaction@4.0-m1
+- pkg:maven/org.apache.servicemix.transaction/org.apache.servicemix.transaction@4.0-m1?classifier=sources

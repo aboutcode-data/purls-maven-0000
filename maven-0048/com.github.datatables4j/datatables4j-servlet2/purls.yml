@@ -1,0 +1,2 @@
+- pkg:maven/com.github.datatables4j/datatables4j-servlet2@0.1.2
+- pkg:maven/com.github.datatables4j/datatables4j-servlet2@0.1.2?classifier=sources

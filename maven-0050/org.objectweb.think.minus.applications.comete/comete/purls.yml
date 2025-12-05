@@ -1,0 +1,2 @@
+- pkg:maven/org.objectweb.think.minus.applications.comete/comete@1.1-alpha-6?classifier=src&type=tar.gz
+- pkg:maven/org.objectweb.think.minus.applications.comete/comete@1.1?classifier=src&type=tar.gz

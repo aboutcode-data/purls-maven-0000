@@ -1,0 +1,6 @@
+- pkg:maven/org.ow2.orchestra/orchestra-ext-logging@4.9.0
+- pkg:maven/org.ow2.orchestra/orchestra-ext-logging@4.9.0-M3
+- pkg:maven/org.ow2.orchestra/orchestra-ext-logging@4.9.0-M3?classifier=sources
+- pkg:maven/org.ow2.orchestra/orchestra-ext-logging@4.9.0-M4
+- pkg:maven/org.ow2.orchestra/orchestra-ext-logging@4.9.0-M5
+- pkg:maven/org.ow2.orchestra/orchestra-ext-logging@4.9.1

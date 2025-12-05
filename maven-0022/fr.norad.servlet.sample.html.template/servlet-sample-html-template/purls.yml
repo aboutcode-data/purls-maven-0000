@@ -1,0 +1,4 @@
+- pkg:maven/fr.norad.servlet.sample.html.template/servlet-sample-html-template@0.6
+- pkg:maven/fr.norad.servlet.sample.html.template/servlet-sample-html-template@0.6?classifier=sources
+- pkg:maven/fr.norad.servlet.sample.html.template/servlet-sample-html-template@0.8
+- pkg:maven/fr.norad.servlet.sample.html.template/servlet-sample-html-template@0.8?classifier=sources

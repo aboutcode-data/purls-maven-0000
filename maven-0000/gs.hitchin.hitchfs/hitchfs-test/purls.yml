@@ -1,0 +1,2 @@
+- pkg:maven/gs.hitchin.hitchfs/hitchfs-test@0.0.2
+- pkg:maven/gs.hitchin.hitchfs/hitchfs-test@0.0.2?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.rackspace.eclipse.webtools.sourceediting/org.eclipse.wst.xml.xpath2.processor@2.1.100
+- pkg:maven/com.rackspace.eclipse.webtools.sourceediting/org.eclipse.wst.xml.xpath2.processor@2.1.100?classifier=sources

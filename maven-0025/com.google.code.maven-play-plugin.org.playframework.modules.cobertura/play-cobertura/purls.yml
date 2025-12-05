@@ -1,0 +1,4 @@
+- pkg:maven/com.google.code.maven-play-plugin.org.playframework.modules.cobertura/play-cobertura@2.4
+- pkg:maven/com.google.code.maven-play-plugin.org.playframework.modules.cobertura/play-cobertura@2.4-jdk15
+- pkg:maven/com.google.code.maven-play-plugin.org.playframework.modules.cobertura/play-cobertura@2.4-jdk15?classifier=sources
+- pkg:maven/com.google.code.maven-play-plugin.org.playframework.modules.cobertura/play-cobertura@2.4?classifier=sources

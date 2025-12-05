@@ -1,0 +1,3 @@
+- pkg:maven/de.larmic.maven.plugins/bitbucket@1.0-Alpha6
+- pkg:maven/de.larmic.maven.plugins/bitbucket@1.0-Alpha9
+- pkg:maven/de.larmic.maven.plugins/bitbucket@1.0-Alpha9?classifier=sources

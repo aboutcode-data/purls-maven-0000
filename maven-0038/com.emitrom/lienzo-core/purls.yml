@@ -1,0 +1,2 @@
+- pkg:maven/com.emitrom/lienzo-core@1.2-RELEASE
+- pkg:maven/com.emitrom/lienzo-core@1.2-RELEASE?classifier=sources

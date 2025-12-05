@@ -1,0 +1,2 @@
+- pkg:maven/eu.getintheloop/sbt-cloudbees-plugin@0.2.6
+- pkg:maven/eu.getintheloop/sbt-cloudbees-plugin@0.2.7

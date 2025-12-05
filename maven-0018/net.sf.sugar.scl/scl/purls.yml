@@ -1,0 +1,4 @@
+- pkg:maven/net.sf.sugar.scl/scl@1.0-alpha
+- pkg:maven/net.sf.sugar.scl/scl@1.1-alpha
+- pkg:maven/net.sf.sugar.scl/scl@1.1-beta
+- pkg:maven/net.sf.sugar.scl/scl@1.1-beta?classifier=sources

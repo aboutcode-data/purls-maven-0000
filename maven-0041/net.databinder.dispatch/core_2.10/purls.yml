@@ -1,0 +1,2 @@
+- pkg:maven/net.databinder.dispatch/core_2.10@0.9.1
+- pkg:maven/net.databinder.dispatch/core_2.10@0.9.1?classifier=sources

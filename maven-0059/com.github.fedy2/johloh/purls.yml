@@ -1,0 +1,2 @@
+- pkg:maven/com.github.fedy2/johloh@1.0.1
+- pkg:maven/com.github.fedy2/johloh@1.0.1?classifier=sources

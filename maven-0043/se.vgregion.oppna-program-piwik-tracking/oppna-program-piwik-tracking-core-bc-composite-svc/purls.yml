@@ -1,0 +1,2 @@
+- pkg:maven/se.vgregion.oppna-program-piwik-tracking/oppna-program-piwik-tracking-core-bc-composite-svc@1.0
+- pkg:maven/se.vgregion.oppna-program-piwik-tracking/oppna-program-piwik-tracking-core-bc-composite-svc@1.0?classifier=sources

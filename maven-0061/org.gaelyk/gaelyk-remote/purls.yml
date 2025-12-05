@@ -1,0 +1,2 @@
+- pkg:maven/org.gaelyk/gaelyk-remote@0.1
+- pkg:maven/org.gaelyk/gaelyk-remote@0.1?classifier=sources

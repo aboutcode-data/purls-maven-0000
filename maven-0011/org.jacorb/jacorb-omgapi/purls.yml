@@ -1,0 +1,2 @@
+- pkg:maven/org.jacorb/jacorb-omgapi@3.4
+- pkg:maven/org.jacorb/jacorb-omgapi@3.4?classifier=sources

@@ -1,0 +1,16 @@
+- pkg:maven/org.springframework.batch/spring-batch-samples@1.0.0.FINAL
+- pkg:maven/org.springframework.batch/spring-batch-samples@1.0.0.FINAL?classifier=sources
+- pkg:maven/org.springframework.batch/spring-batch-samples@1.0.1.RELEASE
+- pkg:maven/org.springframework.batch/spring-batch-samples@1.0.1.RELEASE?classifier=sources
+- pkg:maven/org.springframework.batch/spring-batch-samples@1.1.0.RELEASE
+- pkg:maven/org.springframework.batch/spring-batch-samples@1.1.0.RELEASE?classifier=sources
+- pkg:maven/org.springframework.batch/spring-batch-samples@1.1.1.RELEASE
+- pkg:maven/org.springframework.batch/spring-batch-samples@1.1.1.RELEASE?classifier=sources
+- pkg:maven/org.springframework.batch/spring-batch-samples@1.1.2.RELEASE
+- pkg:maven/org.springframework.batch/spring-batch-samples@1.1.2.RELEASE?classifier=sources
+- pkg:maven/org.springframework.batch/spring-batch-samples@1.1.3.RELEASE
+- pkg:maven/org.springframework.batch/spring-batch-samples@1.1.3.RELEASE-A
+- pkg:maven/org.springframework.batch/spring-batch-samples@1.1.3.RELEASE-A?classifier=sources
+- pkg:maven/org.springframework.batch/spring-batch-samples@1.1.3.RELEASE?classifier=sources
+- pkg:maven/org.springframework.batch/spring-batch-samples@1.1.4.RELEASE
+- pkg:maven/org.springframework.batch/spring-batch-samples@1.1.4.RELEASE?classifier=sources

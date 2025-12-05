@@ -1,0 +1,4 @@
+- pkg:maven/com.milaboratory/micommons@0.9
+- pkg:maven/com.milaboratory/micommons@0.9?classifier=sources
+- pkg:maven/com.milaboratory/micommons@1.0.3
+- pkg:maven/com.milaboratory/micommons@1.0.3?classifier=sources

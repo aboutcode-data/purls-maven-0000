@@ -1,0 +1,10 @@
+- pkg:maven/org.jasig.openregistry/openregistry-webapp-jasig@0.8.9?classifier=sources
+- pkg:maven/org.jasig.openregistry/openregistry-webapp-jasig@0.8.9?type=war
+- pkg:maven/org.jasig.openregistry/openregistry-webapp-jasig@0.9.1?classifier=sources
+- pkg:maven/org.jasig.openregistry/openregistry-webapp-jasig@0.9.1?type=war
+- pkg:maven/org.jasig.openregistry/openregistry-webapp-jasig@0.9.2.1?classifier=sources
+- pkg:maven/org.jasig.openregistry/openregistry-webapp-jasig@0.9.2.1?type=war
+- pkg:maven/org.jasig.openregistry/openregistry-webapp-jasig@0.9.2?classifier=sources
+- pkg:maven/org.jasig.openregistry/openregistry-webapp-jasig@0.9.2?type=war
+- pkg:maven/org.jasig.openregistry/openregistry-webapp-jasig@0.9?classifier=sources
+- pkg:maven/org.jasig.openregistry/openregistry-webapp-jasig@0.9?type=war

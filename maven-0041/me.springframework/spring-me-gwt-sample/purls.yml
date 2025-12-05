@@ -1,0 +1,2 @@
+- pkg:maven/me.springframework/spring-me-gwt-sample@1.0?classifier=sources
+- pkg:maven/me.springframework/spring-me-gwt-sample@1.0?type=war

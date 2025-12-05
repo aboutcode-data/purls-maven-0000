@@ -1,0 +1,2 @@
+- pkg:maven/com.google.code.maven-play-plugin.org.playframework.modules.fbgraph/play-fbgraph@0.4
+- pkg:maven/com.google.code.maven-play-plugin.org.playframework.modules.fbgraph/play-fbgraph@0.4?classifier=sources

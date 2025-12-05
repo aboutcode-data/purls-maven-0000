@@ -1,0 +1,2 @@
+- pkg:maven/com.github.dimovelev/metrics-sampler-extension-exec@0.7.1
+- pkg:maven/com.github.dimovelev/metrics-sampler-extension-exec@0.7.1?classifier=sources

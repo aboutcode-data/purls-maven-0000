@@ -1,0 +1,8 @@
+- pkg:maven/org.ow2.dragon/dragon-aop@1.0
+- pkg:maven/org.ow2.dragon/dragon-aop@1.0-RC1
+- pkg:maven/org.ow2.dragon/dragon-aop@1.0-RC1?classifier=sources
+- pkg:maven/org.ow2.dragon/dragon-aop@1.0?classifier=sources
+- pkg:maven/org.ow2.dragon/dragon-aop@1.1
+- pkg:maven/org.ow2.dragon/dragon-aop@1.1-alpha1
+- pkg:maven/org.ow2.dragon/dragon-aop@1.1-alpha1?classifier=sources
+- pkg:maven/org.ow2.dragon/dragon-aop@1.1?classifier=sources

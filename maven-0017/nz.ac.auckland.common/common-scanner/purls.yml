@@ -1,0 +1,4 @@
+- pkg:maven/nz.ac.auckland.common/common-scanner@1.14
+- pkg:maven/nz.ac.auckland.common/common-scanner@1.14?classifier=sources
+- pkg:maven/nz.ac.auckland.common/common-scanner@1.15
+- pkg:maven/nz.ac.auckland.common/common-scanner@1.15?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/wicket/wicket-contrib@0.9.16-beta
+- pkg:maven/wicket/wicket-contrib@0.9.17-beta
+- pkg:maven/wicket/wicket-contrib@0.9.18-beta
+- pkg:maven/wicket/wicket-contrib@0.9.19-beta

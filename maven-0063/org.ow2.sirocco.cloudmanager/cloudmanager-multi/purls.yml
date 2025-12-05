@@ -1,0 +1,2 @@
+- pkg:maven/org.ow2.sirocco.cloudmanager/cloudmanager-multi@0.5.5?classifier=source-release&type=zip
+- pkg:maven/org.ow2.sirocco.cloudmanager/cloudmanager-multi@0.6.0?classifier=source-release&type=zip

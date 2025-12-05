@@ -1,0 +1,4 @@
+- pkg:maven/org.apache.camel.archetypes/camel-archetype-cxf-contract-first-blueprint@2.12.1?classifier=sources
+- pkg:maven/org.apache.camel.archetypes/camel-archetype-cxf-contract-first-blueprint@2.12.2?classifier=sources
+- pkg:maven/org.apache.camel.archetypes/camel-archetype-cxf-contract-first-blueprint@2.12.3?classifier=sources
+- pkg:maven/org.apache.camel.archetypes/camel-archetype-cxf-contract-first-blueprint@2.13.0?classifier=sources

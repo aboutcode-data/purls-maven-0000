@@ -1,0 +1,10 @@
+- pkg:maven/net.java.dev.weblets/weblets-api@0.2
+- pkg:maven/net.java.dev.weblets/weblets-api@0.2?classifier=sources
+- pkg:maven/net.java.dev.weblets/weblets-api@0.4
+- pkg:maven/net.java.dev.weblets/weblets-api@0.4?classifier=sources
+- pkg:maven/net.java.dev.weblets/weblets-api@1.0
+- pkg:maven/net.java.dev.weblets/weblets-api@1.0?classifier=sources
+- pkg:maven/net.java.dev.weblets/weblets-api@1.1
+- pkg:maven/net.java.dev.weblets/weblets-api@1.1.1-BETA-1
+- pkg:maven/net.java.dev.weblets/weblets-api@1.1.1-BETA-1?classifier=sources
+- pkg:maven/net.java.dev.weblets/weblets-api@1.1?classifier=sources

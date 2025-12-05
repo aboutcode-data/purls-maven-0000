@@ -1,0 +1,2 @@
+- pkg:maven/net.disy.prototype/prototype@1.6.0.3
+- pkg:maven/net.disy.prototype/prototype@1.6.0.3?classifier=sources

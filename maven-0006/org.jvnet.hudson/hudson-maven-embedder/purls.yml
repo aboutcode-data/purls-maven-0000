@@ -1,0 +1,5 @@
+- pkg:maven/org.jvnet.hudson/hudson-maven-embedder@3.0
+- pkg:maven/org.jvnet.hudson/hudson-maven-embedder@3.1
+- pkg:maven/org.jvnet.hudson/hudson-maven-embedder@3.1?classifier=sources
+- pkg:maven/org.jvnet.hudson/hudson-maven-embedder@3.2
+- pkg:maven/org.jvnet.hudson/hudson-maven-embedder@3.2?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.glassfish.hk2/hk2-locator-no-proxies@2.3.0-b05
+- pkg:maven/org.glassfish.hk2/hk2-locator-no-proxies@2.3.0-b05?classifier=sources

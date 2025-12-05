@@ -1,0 +1,2 @@
+- pkg:maven/com.englishtown/jmx-bean-management@1.1.0-final
+- pkg:maven/com.englishtown/jmx-bean-management@1.1.0-final?classifier=sources

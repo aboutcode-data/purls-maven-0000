@@ -1,0 +1,2 @@
+- pkg:maven/net.loadbang/net.loadbang.shado@2.2.1
+- pkg:maven/net.loadbang/net.loadbang.shado@2.2.1?classifier=sources

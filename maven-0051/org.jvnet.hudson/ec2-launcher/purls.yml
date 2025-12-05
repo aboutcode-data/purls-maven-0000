@@ -1,0 +1,2 @@
+- pkg:maven/org.jvnet.hudson/ec2-launcher@1.0
+- pkg:maven/org.jvnet.hudson/ec2-launcher@1.0?classifier=sources

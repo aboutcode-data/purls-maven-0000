@@ -1,0 +1,6 @@
+- pkg:maven/com.github.concept-not-found/shroud@1
+- pkg:maven/com.github.concept-not-found/shroud@1?classifier=sources
+- pkg:maven/com.github.concept-not-found/shroud@2
+- pkg:maven/com.github.concept-not-found/shroud@2?classifier=sources
+- pkg:maven/com.github.concept-not-found/shroud@3
+- pkg:maven/com.github.concept-not-found/shroud@3?classifier=sources

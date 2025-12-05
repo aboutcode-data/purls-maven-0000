@@ -1,0 +1,2 @@
+- pkg:maven/at.ff-esternberg.sybos/libsybos@0.1-beta1
+- pkg:maven/at.ff-esternberg.sybos/libsybos@0.1-beta1?classifier=sources

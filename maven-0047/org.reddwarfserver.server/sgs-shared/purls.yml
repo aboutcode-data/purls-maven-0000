@@ -1,0 +1,2 @@
+- pkg:maven/org.reddwarfserver.server/sgs-shared@1.12
+- pkg:maven/org.reddwarfserver.server/sgs-shared@1.12?classifier=sources

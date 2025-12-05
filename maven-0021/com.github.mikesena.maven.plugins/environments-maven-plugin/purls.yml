@@ -1,0 +1,4 @@
+- pkg:maven/com.github.mikesena.maven.plugins/environments-maven-plugin@0.0.16
+- pkg:maven/com.github.mikesena.maven.plugins/environments-maven-plugin@0.0.16?classifier=sources
+- pkg:maven/com.github.mikesena.maven.plugins/environments-maven-plugin@0.0.17
+- pkg:maven/com.github.mikesena.maven.plugins/environments-maven-plugin@0.0.17?classifier=sources

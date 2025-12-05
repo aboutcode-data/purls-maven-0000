@@ -1,0 +1,2 @@
+- pkg:maven/fi.jpalomaki.markdown/sundown-java-binding@1.0.0
+- pkg:maven/fi.jpalomaki.markdown/sundown-java-binding@1.0.0?classifier=sources

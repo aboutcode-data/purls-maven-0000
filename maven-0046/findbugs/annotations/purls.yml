@@ -1,0 +1,4 @@
+- pkg:maven/findbugs/annotations@0.9.3
+- pkg:maven/findbugs/annotations@0.9.4
+- pkg:maven/findbugs/annotations@0.9.6
+- pkg:maven/findbugs/annotations@1.0.0

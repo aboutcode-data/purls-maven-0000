@@ -1,0 +1,2 @@
+- pkg:maven/com.willowtreeapps.android.maven.plugins/lint-trap-maven-plugin@1.0.4
+- pkg:maven/com.willowtreeapps.android.maven.plugins/lint-trap-maven-plugin@1.0.4?classifier=sources

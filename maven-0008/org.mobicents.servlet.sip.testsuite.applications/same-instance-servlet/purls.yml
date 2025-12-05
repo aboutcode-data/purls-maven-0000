@@ -1,0 +1,4 @@
+- pkg:maven/org.mobicents.servlet.sip.testsuite.applications/same-instance-servlet@1.7.0.FINAL?classifier=sources
+- pkg:maven/org.mobicents.servlet.sip.testsuite.applications/same-instance-servlet@1.7.0.FINAL?type=war
+- pkg:maven/org.mobicents.servlet.sip.testsuite.applications/same-instance-servlet@2.0.0.FINAL?classifier=sources
+- pkg:maven/org.mobicents.servlet.sip.testsuite.applications/same-instance-servlet@2.0.0.FINAL?type=war

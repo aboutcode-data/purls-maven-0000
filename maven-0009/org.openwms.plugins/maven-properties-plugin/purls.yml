@@ -1,0 +1,2 @@
+- pkg:maven/org.openwms.plugins/maven-properties-plugin@1.0.1
+- pkg:maven/org.openwms.plugins/maven-properties-plugin@1.0.1?classifier=sources

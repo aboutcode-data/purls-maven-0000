@@ -1,0 +1,9 @@
+- pkg:maven/tomcat/bootstrap@4.0.6
+- pkg:maven/tomcat/bootstrap@4.1.34
+- pkg:maven/tomcat/bootstrap@4.1.36
+- pkg:maven/tomcat/bootstrap@5.0.16
+- pkg:maven/tomcat/bootstrap@5.0.18
+- pkg:maven/tomcat/bootstrap@5.0.28
+- pkg:maven/tomcat/bootstrap@5.5.12
+- pkg:maven/tomcat/bootstrap@5.5.23
+- pkg:maven/tomcat/bootstrap@5.5.23?classifier=sources

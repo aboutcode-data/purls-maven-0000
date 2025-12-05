@@ -1,0 +1,2 @@
+- pkg:maven/org.codehaus.plexus/plexus-avalon-personality@0.13
+- pkg:maven/org.codehaus.plexus/plexus-avalon-personality@0.13?classifier=sources

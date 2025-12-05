@@ -1,0 +1,14 @@
+- pkg:maven/com.wadpam.openserver/transactions@21
+- pkg:maven/com.wadpam.openserver/transactions@21?classifier=sources
+- pkg:maven/com.wadpam.openserver/transactions@22
+- pkg:maven/com.wadpam.openserver/transactions@22?classifier=sources
+- pkg:maven/com.wadpam.openserver/transactions@25
+- pkg:maven/com.wadpam.openserver/transactions@25?classifier=sources
+- pkg:maven/com.wadpam.openserver/transactions@26
+- pkg:maven/com.wadpam.openserver/transactions@26?classifier=sources
+- pkg:maven/com.wadpam.openserver/transactions@27
+- pkg:maven/com.wadpam.openserver/transactions@27?classifier=sources
+- pkg:maven/com.wadpam.openserver/transactions@28
+- pkg:maven/com.wadpam.openserver/transactions@28?classifier=sources
+- pkg:maven/com.wadpam.openserver/transactions@29
+- pkg:maven/com.wadpam.openserver/transactions@29?classifier=sources

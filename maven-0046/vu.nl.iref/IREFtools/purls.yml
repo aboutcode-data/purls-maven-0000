@@ -1,0 +1,2 @@
+- pkg:maven/vu.nl.iref/IREFtools@0.2
+- pkg:maven/vu.nl.iref/IREFtools@0.2?classifier=sources

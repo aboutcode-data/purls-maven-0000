@@ -1,0 +1,3 @@
+- pkg:maven/geronimo/geronimo-hot-deploy@1.0
+- pkg:maven/geronimo/geronimo-hot-deploy@1.1
+- pkg:maven/geronimo/geronimo-hot-deploy@1.1.1

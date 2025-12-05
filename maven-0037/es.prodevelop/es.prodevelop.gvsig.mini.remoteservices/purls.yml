@@ -1,0 +1,4 @@
+- pkg:maven/es.prodevelop/es.prodevelop.gvsig.mini.remoteservices@0.2.4
+- pkg:maven/es.prodevelop/es.prodevelop.gvsig.mini.remoteservices@0.2.4?classifier=sources
+- pkg:maven/es.prodevelop/es.prodevelop.gvsig.mini.remoteservices@0.2.5
+- pkg:maven/es.prodevelop/es.prodevelop.gvsig.mini.remoteservices@0.2.5?classifier=sources

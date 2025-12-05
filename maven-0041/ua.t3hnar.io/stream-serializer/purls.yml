@@ -1,0 +1,2 @@
+- pkg:maven/ua.t3hnar.io/stream-serializer@1.0.1
+- pkg:maven/ua.t3hnar.io/stream-serializer@1.0.1?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.tashlin/gradle-tashlin-plugin@0.0.1
+- pkg:maven/org.tashlin/gradle-tashlin-plugin@0.0.1?classifier=sources

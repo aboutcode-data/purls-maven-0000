@@ -1,0 +1,2 @@
+- pkg:maven/net.zeroinstall.pom2feed/pom2feed-service@1.0.0?classifier=sources
+- pkg:maven/net.zeroinstall.pom2feed/pom2feed-service@1.0.0?type=war

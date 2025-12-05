@@ -1,0 +1,2 @@
+- pkg:maven/org.glassfish.jersey.containers.glassfish/jersey-gf-cdi-ban-custom-hk2-binding@2.7
+- pkg:maven/org.glassfish.jersey.containers.glassfish/jersey-gf-cdi-ban-custom-hk2-binding@2.7?classifier=sources

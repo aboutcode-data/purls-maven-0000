@@ -1,0 +1,2 @@
+- pkg:maven/org.picketbox/picketbox-quickstarts-common@5.0.0-2013Jan04
+- pkg:maven/org.picketbox/picketbox-quickstarts-common@5.0.0-2013Jan04?classifier=sources

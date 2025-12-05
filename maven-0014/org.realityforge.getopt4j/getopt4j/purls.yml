@@ -1,0 +1,2 @@
+- pkg:maven/org.realityforge.getopt4j/getopt4j@1.1
+- pkg:maven/org.realityforge.getopt4j/getopt4j@1.1?classifier=sources

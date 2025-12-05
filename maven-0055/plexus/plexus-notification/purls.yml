@@ -1,0 +1,3 @@
+- pkg:maven/plexus/plexus-notification@1.0-alpha-3
+- pkg:maven/plexus/plexus-notification@1.0-alpha-4
+- pkg:maven/plexus/plexus-notification@1.0-alpha-4?classifier=sources

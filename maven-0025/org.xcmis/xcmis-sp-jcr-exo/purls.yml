@@ -1,0 +1,2 @@
+- pkg:maven/org.xcmis/xcmis-sp-jcr-exo@1.0
+- pkg:maven/org.xcmis/xcmis-sp-jcr-exo@1.0?classifier=sources

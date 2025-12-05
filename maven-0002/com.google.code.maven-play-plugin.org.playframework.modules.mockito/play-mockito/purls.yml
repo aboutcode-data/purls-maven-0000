@@ -1,0 +1,2 @@
+- pkg:maven/com.google.code.maven-play-plugin.org.playframework.modules.mockito/play-mockito@0.1
+- pkg:maven/com.google.code.maven-play-plugin.org.playframework.modules.mockito/play-mockito@0.1?classifier=sources

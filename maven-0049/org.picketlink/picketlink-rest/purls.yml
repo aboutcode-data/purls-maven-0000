@@ -1,0 +1,6 @@
+- pkg:maven/org.picketlink/picketlink-rest@2.5.0.Beta5
+- pkg:maven/org.picketlink/picketlink-rest@2.5.0.Beta5?classifier=sources
+- pkg:maven/org.picketlink/picketlink-rest@2.5.3.Beta2
+- pkg:maven/org.picketlink/picketlink-rest@2.5.3.Beta2?classifier=sources
+- pkg:maven/org.picketlink/picketlink-rest@2.5.3.Beta3
+- pkg:maven/org.picketlink/picketlink-rest@2.5.3.Beta3?classifier=sources

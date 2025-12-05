@@ -1,0 +1,4 @@
+- pkg:maven/org.apache.hive/hive-beeline@0.11.0
+- pkg:maven/org.apache.hive/hive-beeline@0.12.0
+- pkg:maven/org.apache.hive/hive-beeline@0.13.0
+- pkg:maven/org.apache.hive/hive-beeline@0.13.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/de.newsarea.homecockpit/de.newsarea.homecockpit.fsuipc@0.9.1
+- pkg:maven/de.newsarea.homecockpit/de.newsarea.homecockpit.fsuipc@0.9.1?classifier=sources

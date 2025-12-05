@@ -1,0 +1,2 @@
+- pkg:maven/nz.ac.auckland.common/common-jackson@1.6
+- pkg:maven/nz.ac.auckland.common/common-jackson@1.6?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/se.jguru.nazgul.test.bundles.hello.impl.plain/nazgul-test-hello-impl-plain@3.0.2
+- pkg:maven/se.jguru.nazgul.test.bundles.hello.impl.plain/nazgul-test-hello-impl-plain@3.0.2?classifier=sources

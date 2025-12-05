@@ -1,0 +1,2 @@
+- pkg:maven/mockobjects/mockobjects-jdk1.4-j2ee1.3@0.09
+- pkg:maven/mockobjects/mockobjects-jdk1.4-j2ee1.3@0.09?classifier=sources

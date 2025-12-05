@@ -1,0 +1,4 @@
+- pkg:maven/com.discursive.dao.generic/generic-dao@1.0
+- pkg:maven/com.discursive.dao.generic/generic-dao@2.0
+- pkg:maven/com.discursive.dao.generic/generic-dao@2.1
+- pkg:maven/com.discursive.dao.generic/generic-dao@2.1?classifier=sources

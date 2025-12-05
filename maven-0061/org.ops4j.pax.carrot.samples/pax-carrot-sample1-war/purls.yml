@@ -1,0 +1,5 @@
+- pkg:maven/org.ops4j.pax.carrot.samples/pax-carrot-sample1-war@0.1.0?type=war
+- pkg:maven/org.ops4j.pax.carrot.samples/pax-carrot-sample1-war@0.2.0?type=war
+- pkg:maven/org.ops4j.pax.carrot.samples/pax-carrot-sample1-war@0.3.0?type=war
+- pkg:maven/org.ops4j.pax.carrot.samples/pax-carrot-sample1-war@0.4.0?type=war
+- pkg:maven/org.ops4j.pax.carrot.samples/pax-carrot-sample1-war@0.4.1?type=war

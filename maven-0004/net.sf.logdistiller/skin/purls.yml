@@ -1,0 +1,2 @@
+- pkg:maven/net.sf.logdistiller/skin@1.0
+- pkg:maven/net.sf.logdistiller/skin@1.0?classifier=sources

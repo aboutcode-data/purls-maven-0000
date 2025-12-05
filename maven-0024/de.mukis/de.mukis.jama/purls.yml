@@ -1,0 +1,4 @@
+- pkg:maven/de.mukis/de.mukis.jama@1.1.2
+- pkg:maven/de.mukis/de.mukis.jama@1.1.2?classifier=sources
+- pkg:maven/de.mukis/de.mukis.jama@2.0.0.M1
+- pkg:maven/de.mukis/de.mukis.jama@2.0.0.M1?classifier=sources

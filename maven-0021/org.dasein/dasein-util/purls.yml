@@ -1,0 +1,16 @@
+- pkg:maven/org.dasein/dasein-util@10.2010.10.3
+- pkg:maven/org.dasein/dasein-util@10.2010.10.3?classifier=sources
+- pkg:maven/org.dasein/dasein-util@10.2010.10.4
+- pkg:maven/org.dasein/dasein-util@10.2010.10.4?classifier=sources
+- pkg:maven/org.dasein/dasein-util@2011.02
+- pkg:maven/org.dasein/dasein-util@2011.02?classifier=sources
+- pkg:maven/org.dasein/dasein-util@2011.08
+- pkg:maven/org.dasein/dasein-util@2011.08?classifier=sources
+- pkg:maven/org.dasein/dasein-util@2012.01
+- pkg:maven/org.dasein/dasein-util@2012.01?classifier=sources
+- pkg:maven/org.dasein/dasein-util@2012.02
+- pkg:maven/org.dasein/dasein-util@2012.02?classifier=sources
+- pkg:maven/org.dasein/dasein-util@2012.08
+- pkg:maven/org.dasein/dasein-util@2012.08?classifier=sources
+- pkg:maven/org.dasein/dasein-util@2013.02
+- pkg:maven/org.dasein/dasein-util@2013.02?classifier=sources

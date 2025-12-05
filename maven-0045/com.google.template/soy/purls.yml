@@ -1,0 +1,4 @@
+- pkg:maven/com.google.template/soy@2011-22-12
+- pkg:maven/com.google.template/soy@2011-22-12?classifier=sources
+- pkg:maven/com.google.template/soy@2012-12-21
+- pkg:maven/com.google.template/soy@2012-12-21?classifier=sources

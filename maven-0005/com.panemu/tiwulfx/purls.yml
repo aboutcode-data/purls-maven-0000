@@ -1,0 +1,2 @@
+- pkg:maven/com.panemu/tiwulfx@1.1
+- pkg:maven/com.panemu/tiwulfx@1.1?classifier=sources

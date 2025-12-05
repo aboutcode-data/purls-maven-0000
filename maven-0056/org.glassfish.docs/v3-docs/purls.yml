@@ -1,0 +1,2 @@
+- pkg:maven/org.glassfish.docs/v3-docs@0.1
+- pkg:maven/org.glassfish.docs/v3-docs@0.1?classifier=sources

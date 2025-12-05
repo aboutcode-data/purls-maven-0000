@@ -1,0 +1,2 @@
+- pkg:maven/net.sf.sdedit/sdedit-light@3.1
+- pkg:maven/net.sf.sdedit/sdedit-light@3.1?classifier=sources

@@ -1,0 +1,5 @@
+- pkg:maven/org.objectweb.fractal.bf.examples.amazon/fractal-bf-examples-amazon-model@0.7
+- pkg:maven/org.objectweb.fractal.bf.examples.amazon/fractal-bf-examples-amazon-model@0.7?classifier=sources
+- pkg:maven/org.objectweb.fractal.bf.examples.amazon/fractal-bf-examples-amazon-model@0.8
+- pkg:maven/org.objectweb.fractal.bf.examples.amazon/fractal-bf-examples-amazon-model@0.8?classifier=sources
+- pkg:maven/org.objectweb.fractal.bf.examples.amazon/fractal-bf-examples-amazon-model@0.9

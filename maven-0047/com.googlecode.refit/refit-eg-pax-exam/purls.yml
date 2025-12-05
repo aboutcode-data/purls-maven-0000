@@ -1,0 +1,2 @@
+- pkg:maven/com.googlecode.refit/refit-eg-pax-exam@1.8.0
+- pkg:maven/com.googlecode.refit/refit-eg-pax-exam@1.8.0?classifier=sources

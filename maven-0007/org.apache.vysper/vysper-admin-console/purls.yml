@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.vysper/vysper-admin-console@0.7?classifier=sources
+- pkg:maven/org.apache.vysper/vysper-admin-console@0.7?type=war

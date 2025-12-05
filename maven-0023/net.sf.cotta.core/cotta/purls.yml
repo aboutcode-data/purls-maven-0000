@@ -1,0 +1,2 @@
+- pkg:maven/net.sf.cotta.core/cotta@3.0
+- pkg:maven/net.sf.cotta.core/cotta@3.0?classifier=sources

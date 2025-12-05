@@ -1,0 +1,2 @@
+- pkg:maven/net.sf.nimrod/nimrod-laf@1.2
+- pkg:maven/net.sf.nimrod/nimrod-laf@1.2?classifier=sources

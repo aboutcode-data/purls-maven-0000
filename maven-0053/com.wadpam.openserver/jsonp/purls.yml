@@ -1,0 +1,16 @@
+- pkg:maven/com.wadpam.openserver/jsonp@20
+- pkg:maven/com.wadpam.openserver/jsonp@20?classifier=sources
+- pkg:maven/com.wadpam.openserver/jsonp@21
+- pkg:maven/com.wadpam.openserver/jsonp@21?classifier=sources
+- pkg:maven/com.wadpam.openserver/jsonp@22
+- pkg:maven/com.wadpam.openserver/jsonp@22?classifier=sources
+- pkg:maven/com.wadpam.openserver/jsonp@25
+- pkg:maven/com.wadpam.openserver/jsonp@25?classifier=sources
+- pkg:maven/com.wadpam.openserver/jsonp@26
+- pkg:maven/com.wadpam.openserver/jsonp@26?classifier=sources
+- pkg:maven/com.wadpam.openserver/jsonp@27
+- pkg:maven/com.wadpam.openserver/jsonp@27?classifier=sources
+- pkg:maven/com.wadpam.openserver/jsonp@28
+- pkg:maven/com.wadpam.openserver/jsonp@28?classifier=sources
+- pkg:maven/com.wadpam.openserver/jsonp@29
+- pkg:maven/com.wadpam.openserver/jsonp@29?classifier=sources

@@ -1,0 +1,5 @@
+- pkg:maven/net.sf.docbook/docbook-xsl-webhelpindexer@1.0.0
+- pkg:maven/net.sf.docbook/docbook-xsl-webhelpindexer@1.0.0-9777
+- pkg:maven/net.sf.docbook/docbook-xsl-webhelpindexer@1.0.0-9777?classifier=sources
+- pkg:maven/net.sf.docbook/docbook-xsl-webhelpindexer@1.0.1-pre
+- pkg:maven/net.sf.docbook/docbook-xsl-webhelpindexer@1.0.1-pre?classifier=sources

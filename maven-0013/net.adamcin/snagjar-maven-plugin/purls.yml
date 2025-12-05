@@ -1,0 +1,2 @@
+- pkg:maven/net.adamcin/snagjar-maven-plugin@0.8.0
+- pkg:maven/net.adamcin/snagjar-maven-plugin@0.8.0?classifier=sources

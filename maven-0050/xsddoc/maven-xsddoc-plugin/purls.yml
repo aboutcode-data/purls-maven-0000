@@ -1,0 +1,3 @@
+- pkg:maven/xsddoc/maven-xsddoc-plugin@0.5
+- pkg:maven/xsddoc/maven-xsddoc-plugin@0.6
+- pkg:maven/xsddoc/maven-xsddoc-plugin@0.7

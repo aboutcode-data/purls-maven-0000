@@ -1,0 +1,2 @@
+- pkg:maven/com.sparkjava/spark-template-freemarker@1.0
+- pkg:maven/com.sparkjava/spark-template-freemarker@1.0?classifier=sources

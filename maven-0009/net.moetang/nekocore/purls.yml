@@ -1,0 +1,6 @@
+- pkg:maven/net.moetang/nekocore@0.0.10-r
+- pkg:maven/net.moetang/nekocore@0.0.10-r?classifier=sources
+- pkg:maven/net.moetang/nekocore@0.0.12-r
+- pkg:maven/net.moetang/nekocore@0.0.12-r?classifier=sources
+- pkg:maven/net.moetang/nekocore@0.0.13-r
+- pkg:maven/net.moetang/nekocore@0.0.13-r?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.jboss.ws/jbossws-jboss600x@3.1.0.CR1
+- pkg:maven/org.jboss.ws/jbossws-jboss600x@3.1.0.CR1?classifier=sources

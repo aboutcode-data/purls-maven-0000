@@ -1,0 +1,2 @@
+- pkg:maven/com.sksamuel.scoverage/scalac-scoverage-plugin_2.11.0-RC1@0.96.0
+- pkg:maven/com.sksamuel.scoverage/scalac-scoverage-plugin_2.11.0-RC1@0.96.0?classifier=sources

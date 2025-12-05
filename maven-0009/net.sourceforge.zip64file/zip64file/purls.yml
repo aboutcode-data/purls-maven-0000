@@ -1,0 +1,2 @@
+- pkg:maven/net.sourceforge.zip64file/zip64file@1.02
+- pkg:maven/net.sourceforge.zip64file/zip64file@1.02?classifier=sources

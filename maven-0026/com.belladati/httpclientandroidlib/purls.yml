@@ -1,0 +1,2 @@
+- pkg:maven/com.belladati/httpclientandroidlib@4.3.0
+- pkg:maven/com.belladati/httpclientandroidlib@4.3.0?classifier=sources

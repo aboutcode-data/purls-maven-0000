@@ -1,0 +1,2 @@
+- pkg:maven/com.catify.bpmn/bpmn-engine-core@1.1
+- pkg:maven/com.catify.bpmn/bpmn-engine-core@1.1?classifier=sources

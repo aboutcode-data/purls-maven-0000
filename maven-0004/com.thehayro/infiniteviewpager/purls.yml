@@ -1,0 +1,2 @@
+- pkg:maven/com.thehayro/infiniteviewpager@0.3?classifier=sources
+- pkg:maven/com.thehayro/infiniteviewpager@0.4?classifier=sources
