@@ -1,2 +1,4 @@
 - pkg:maven/org.webjars.bower/angular-data-table@0.4.15
 - pkg:maven/org.webjars.bower/angular-data-table@0.4.15?classifier=sources
+- pkg:maven/org.webjars.bower/angular-data-table@0.7.0
+- pkg:maven/org.webjars.bower/angular-data-table@0.7.0?classifier=sources

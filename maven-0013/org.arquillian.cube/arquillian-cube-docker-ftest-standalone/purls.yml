@@ -4,6 +4,8 @@
 - pkg:maven/org.arquillian.cube/arquillian-cube-docker-ftest-standalone@1.0.0.Alpha13
 - pkg:maven/org.arquillian.cube/arquillian-cube-docker-ftest-standalone@1.0.0.Alpha14
 - pkg:maven/org.arquillian.cube/arquillian-cube-docker-ftest-standalone@1.0.0.Alpha15
+- pkg:maven/org.arquillian.cube/arquillian-cube-docker-ftest-standalone@1.0.0.Alpha16
+- pkg:maven/org.arquillian.cube/arquillian-cube-docker-ftest-standalone@1.0.0.Alpha17
 - pkg:maven/org.arquillian.cube/arquillian-cube-docker-ftest-standalone@1.0.0.Alpha6
 - pkg:maven/org.arquillian.cube/arquillian-cube-docker-ftest-standalone@1.0.0.Alpha7
 - pkg:maven/org.arquillian.cube/arquillian-cube-docker-ftest-standalone@1.0.0.Alpha8

@@ -6,3 +6,9 @@
 - pkg:maven/com.io7m.changelog/io7m-changelog-documentation@2.1.1?type=zip
 - pkg:maven/com.io7m.changelog/io7m-changelog-documentation@2.1.2?classifier=sources
 - pkg:maven/com.io7m.changelog/io7m-changelog-documentation@2.1.2?type=zip
+- pkg:maven/com.io7m.changelog/io7m-changelog-documentation@3.0.1?classifier=sources
+- pkg:maven/com.io7m.changelog/io7m-changelog-documentation@3.0.1?type=zip
+- pkg:maven/com.io7m.changelog/io7m-changelog-documentation@3.0.2?classifier=sources
+- pkg:maven/com.io7m.changelog/io7m-changelog-documentation@3.0.2?type=zip
+- pkg:maven/com.io7m.changelog/io7m-changelog-documentation@3.0.3?classifier=sources
+- pkg:maven/com.io7m.changelog/io7m-changelog-documentation@3.0.3?type=zip

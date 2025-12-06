@@ -1,0 +1,2 @@
+- pkg:maven/com.centurylink.mdw/mdw-common@6.0.03
+- pkg:maven/com.centurylink.mdw/mdw-common@6.0.03?classifier=sources

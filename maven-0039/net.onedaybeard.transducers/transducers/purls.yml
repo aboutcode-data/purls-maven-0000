@@ -1,0 +1,6 @@
+- pkg:maven/net.onedaybeard.transducers/transducers@0.2.2
+- pkg:maven/net.onedaybeard.transducers/transducers@0.2.2?classifier=sources
+- pkg:maven/net.onedaybeard.transducers/transducers@0.3.0
+- pkg:maven/net.onedaybeard.transducers/transducers@0.3.0?classifier=sources
+- pkg:maven/net.onedaybeard.transducers/transducers@0.4.0
+- pkg:maven/net.onedaybeard.transducers/transducers@0.4.0?classifier=sources

@@ -1,2 +1,4 @@
 - pkg:maven/org.webjars.bower/github-com-PolymerElements-paper-checkbox@1.0.10
 - pkg:maven/org.webjars.bower/github-com-PolymerElements-paper-checkbox@1.0.10?classifier=sources
+- pkg:maven/org.webjars.bower/github-com-PolymerElements-paper-checkbox@1.4.2
+- pkg:maven/org.webjars.bower/github-com-PolymerElements-paper-checkbox@1.4.2?classifier=sources

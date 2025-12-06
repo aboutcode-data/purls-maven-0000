@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/github-com-hiddentao-squel@5.5.1
+- pkg:maven/org.webjars.npm/github-com-hiddentao-squel@5.5.1?classifier=sources

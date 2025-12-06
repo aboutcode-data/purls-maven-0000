@@ -1,0 +1,2 @@
+- pkg:maven/sk.upjs.zirro/fpm10-fingerprint-sensor@0.0.1
+- pkg:maven/sk.upjs.zirro/fpm10-fingerprint-sensor@0.0.1?classifier=sources

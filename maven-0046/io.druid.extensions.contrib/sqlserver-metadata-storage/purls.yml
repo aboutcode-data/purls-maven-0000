@@ -1,0 +1,2 @@
+- pkg:maven/io.druid.extensions.contrib/sqlserver-metadata-storage@0.10.0
+- pkg:maven/io.druid.extensions.contrib/sqlserver-metadata-storage@0.10.0?classifier=sources

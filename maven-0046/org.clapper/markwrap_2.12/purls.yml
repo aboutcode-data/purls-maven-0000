@@ -1,0 +1,2 @@
+- pkg:maven/org.clapper/markwrap_2.12@1.1.2
+- pkg:maven/org.clapper/markwrap_2.12@1.1.2?classifier=sources

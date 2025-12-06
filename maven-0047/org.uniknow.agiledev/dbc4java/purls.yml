@@ -1,4 +1,6 @@
 - pkg:maven/org.uniknow.agiledev/dbc4java@0.1.13
 - pkg:maven/org.uniknow.agiledev/dbc4java@0.1.13?classifier=sources
+- pkg:maven/org.uniknow.agiledev/dbc4java@0.1.14
+- pkg:maven/org.uniknow.agiledev/dbc4java@0.1.14?classifier=sources
 - pkg:maven/org.uniknow.agiledev/dbc4java@0.1.8
 - pkg:maven/org.uniknow.agiledev/dbc4java@0.1.8?classifier=sources

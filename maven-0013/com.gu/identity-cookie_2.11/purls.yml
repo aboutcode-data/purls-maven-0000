@@ -1,0 +1,2 @@
+- pkg:maven/com.gu/identity-cookie_2.11@3.66
+- pkg:maven/com.gu/identity-cookie_2.11@3.66?classifier=sources

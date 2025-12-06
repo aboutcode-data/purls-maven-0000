@@ -1,2 +1,6 @@
+- pkg:maven/com.graphhopper/jsprit-instances@1.7
 - pkg:maven/com.graphhopper/jsprit-instances@1.7-RC1
 - pkg:maven/com.graphhopper/jsprit-instances@1.7-RC1?classifier=sources
+- pkg:maven/com.graphhopper/jsprit-instances@1.7.1
+- pkg:maven/com.graphhopper/jsprit-instances@1.7.1?classifier=sources
+- pkg:maven/com.graphhopper/jsprit-instances@1.7?classifier=sources

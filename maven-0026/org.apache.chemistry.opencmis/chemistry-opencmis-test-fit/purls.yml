@@ -31,3 +31,5 @@
 - pkg:maven/org.apache.chemistry.opencmis/chemistry-opencmis-test-fit@0.9.0?type=war
 - pkg:maven/org.apache.chemistry.opencmis/chemistry-opencmis-test-fit@1.0.0?classifier=sources
 - pkg:maven/org.apache.chemistry.opencmis/chemistry-opencmis-test-fit@1.0.0?type=war
+- pkg:maven/org.apache.chemistry.opencmis/chemistry-opencmis-test-fit@1.1.0?classifier=sources
+- pkg:maven/org.apache.chemistry.opencmis/chemistry-opencmis-test-fit@1.1.0?type=war

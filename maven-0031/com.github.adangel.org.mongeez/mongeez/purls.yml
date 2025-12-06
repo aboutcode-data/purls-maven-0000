@@ -1,0 +1,2 @@
+- pkg:maven/com.github.adangel.org.mongeez/mongeez@0.9.7-adangel
+- pkg:maven/com.github.adangel.org.mongeez/mongeez@0.9.7-adangel?classifier=sources

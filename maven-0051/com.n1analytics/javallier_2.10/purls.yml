@@ -8,3 +8,5 @@
 - pkg:maven/com.n1analytics/javallier_2.10@0.5.0?classifier=sources
 - pkg:maven/com.n1analytics/javallier_2.10@0.5.1
 - pkg:maven/com.n1analytics/javallier_2.10@0.5.1?classifier=sources
+- pkg:maven/com.n1analytics/javallier_2.10@0.6.0
+- pkg:maven/com.n1analytics/javallier_2.10@0.6.0?classifier=sources

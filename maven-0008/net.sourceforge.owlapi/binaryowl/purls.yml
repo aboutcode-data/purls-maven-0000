@@ -10,3 +10,5 @@
 - pkg:maven/net.sourceforge.owlapi/binaryowl@1.4.4?classifier=sources
 - pkg:maven/net.sourceforge.owlapi/binaryowl@2.0.0
 - pkg:maven/net.sourceforge.owlapi/binaryowl@2.0.0?classifier=sources
+- pkg:maven/net.sourceforge.owlapi/binaryowl@2.0.1
+- pkg:maven/net.sourceforge.owlapi/binaryowl@2.0.1?classifier=sources

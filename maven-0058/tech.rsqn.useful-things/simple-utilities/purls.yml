@@ -1,0 +1,6 @@
+- pkg:maven/tech.rsqn.useful-things/simple-utilities@1.0.10
+- pkg:maven/tech.rsqn.useful-things/simple-utilities@1.0.10?classifier=sources
+- pkg:maven/tech.rsqn.useful-things/simple-utilities@1.0.11
+- pkg:maven/tech.rsqn.useful-things/simple-utilities@1.0.11?classifier=sources
+- pkg:maven/tech.rsqn.useful-things/simple-utilities@1.0.12
+- pkg:maven/tech.rsqn.useful-things/simple-utilities@1.0.12?classifier=sources

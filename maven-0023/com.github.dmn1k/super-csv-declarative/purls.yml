@@ -1,0 +1,2 @@
+- pkg:maven/com.github.dmn1k/super-csv-declarative@3.0.0
+- pkg:maven/com.github.dmn1k/super-csv-declarative@3.0.0?classifier=sources

@@ -10,3 +10,5 @@
 - pkg:maven/org.webjars.bower/satellizer@0.14.1?classifier=sources
 - pkg:maven/org.webjars.bower/satellizer@0.15.4
 - pkg:maven/org.webjars.bower/satellizer@0.15.4?classifier=sources
+- pkg:maven/org.webjars.bower/satellizer@0.15.5
+- pkg:maven/org.webjars.bower/satellizer@0.15.5?classifier=sources

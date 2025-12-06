@@ -1,0 +1,4 @@
+- pkg:maven/org.eclipse.platform/org.eclipse.e4.ui.workbench.addons.swt@1.2.100
+- pkg:maven/org.eclipse.platform/org.eclipse.e4.ui.workbench.addons.swt@1.2.100?classifier=sources
+- pkg:maven/org.eclipse.platform/org.eclipse.e4.ui.workbench.addons.swt@1.2.101
+- pkg:maven/org.eclipse.platform/org.eclipse.e4.ui.workbench.addons.swt@1.2.101?classifier=sources

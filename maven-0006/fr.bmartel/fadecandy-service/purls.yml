@@ -1,0 +1,2 @@
+- pkg:maven/fr.bmartel/fadecandy-service@1.4?classifier=sources
+- pkg:maven/fr.bmartel/fadecandy-service@1.4?type=aar

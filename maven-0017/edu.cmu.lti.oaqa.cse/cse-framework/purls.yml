@@ -18,3 +18,5 @@
 - pkg:maven/edu.cmu.lti.oaqa.cse/cse-framework@2.3.3?classifier=sources
 - pkg:maven/edu.cmu.lti.oaqa.cse/cse-framework@2.5.0
 - pkg:maven/edu.cmu.lti.oaqa.cse/cse-framework@2.5.0?classifier=sources
+- pkg:maven/edu.cmu.lti.oaqa.cse/cse-framework@2.5.1
+- pkg:maven/edu.cmu.lti.oaqa.cse/cse-framework@2.5.1?classifier=sources

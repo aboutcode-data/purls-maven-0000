@@ -1,0 +1,2 @@
+- pkg:maven/mobi.openddr/openddr-data@1.31
+- pkg:maven/mobi.openddr/openddr-data@1.31?classifier=sources

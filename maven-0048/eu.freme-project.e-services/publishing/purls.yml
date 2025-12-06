@@ -1,0 +1,6 @@
+- pkg:maven/eu.freme-project.e-services/publishing@0.8
+- pkg:maven/eu.freme-project.e-services/publishing@0.8?classifier=sources
+- pkg:maven/eu.freme-project.e-services/publishing@0.9
+- pkg:maven/eu.freme-project.e-services/publishing@0.9?classifier=sources
+- pkg:maven/eu.freme-project.e-services/publishing@1.0
+- pkg:maven/eu.freme-project.e-services/publishing@1.0?classifier=sources

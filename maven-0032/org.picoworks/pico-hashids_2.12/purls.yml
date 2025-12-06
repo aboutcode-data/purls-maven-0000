@@ -1,0 +1,2 @@
+- pkg:maven/org.picoworks/pico-hashids_2.12@4.4.141
+- pkg:maven/org.picoworks/pico-hashids_2.12@4.4.141?classifier=sources

@@ -4,3 +4,9 @@
 - pkg:maven/org.webjars.npm/finalhandler@0.3.4?classifier=sources
 - pkg:maven/org.webjars.npm/finalhandler@0.5.0
 - pkg:maven/org.webjars.npm/finalhandler@0.5.0?classifier=sources
+- pkg:maven/org.webjars.npm/finalhandler@0.5.1
+- pkg:maven/org.webjars.npm/finalhandler@0.5.1?classifier=sources
+- pkg:maven/org.webjars.npm/finalhandler@1.0.0
+- pkg:maven/org.webjars.npm/finalhandler@1.0.0?classifier=sources
+- pkg:maven/org.webjars.npm/finalhandler@1.0.3
+- pkg:maven/org.webjars.npm/finalhandler@1.0.3?classifier=sources

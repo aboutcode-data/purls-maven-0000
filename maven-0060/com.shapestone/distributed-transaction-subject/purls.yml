@@ -1,0 +1,2 @@
+- pkg:maven/com.shapestone/distributed-transaction-subject@1.0.19
+- pkg:maven/com.shapestone/distributed-transaction-subject@1.0.19?classifier=sources

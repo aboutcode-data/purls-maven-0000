@@ -3,3 +3,4 @@
 - pkg:maven/no.difi.oxalis/oxalis-integration-test@3.2.0-RC1
 - pkg:maven/no.difi.oxalis/oxalis-integration-test@4.0.0-BETA1
 - pkg:maven/no.difi.oxalis/oxalis-integration-test@4.0.0-RC1
+- pkg:maven/no.difi.oxalis/oxalis-integration-test@4.0.0-RC2

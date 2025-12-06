@@ -1,2 +1,4 @@
 - pkg:maven/it.lucichkevin/cip-library-helpers@1.0.0
 - pkg:maven/it.lucichkevin/cip-library-helpers@1.0.0?classifier=sources
+- pkg:maven/it.lucichkevin/cip-library-helpers@unspecified?classifier=sources
+- pkg:maven/it.lucichkevin/cip-library-helpers@unspecified?type=aar

@@ -1,0 +1,2 @@
+- pkg:maven/io.taig/communicator-communicator_2.11@3.0.0-RC10
+- pkg:maven/io.taig/communicator-communicator_2.11@3.0.0-RC10?classifier=sources

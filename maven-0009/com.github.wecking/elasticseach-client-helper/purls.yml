@@ -1,0 +1,2 @@
+- pkg:maven/com.github.wecking/elasticseach-client-helper@0.0.3-BETA
+- pkg:maven/com.github.wecking/elasticseach-client-helper@0.0.3-BETA?classifier=sources

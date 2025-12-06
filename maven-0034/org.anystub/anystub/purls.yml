@@ -5,6 +5,12 @@
 - pkg:maven/org.anystub/anystub@0.1.0
 - pkg:maven/org.anystub/anystub@0.1.0?classifier=sources
 - pkg:maven/org.anystub/anystub@0.1.1
+- pkg:maven/org.anystub/anystub@0.1.15
+- pkg:maven/org.anystub/anystub@0.1.15?classifier=sources
+- pkg:maven/org.anystub/anystub@0.1.17
+- pkg:maven/org.anystub/anystub@0.1.17?classifier=sources
+- pkg:maven/org.anystub/anystub@0.1.18
+- pkg:maven/org.anystub/anystub@0.1.18?classifier=sources
 - pkg:maven/org.anystub/anystub@0.1.1?classifier=sources
 - pkg:maven/org.anystub/anystub@0.1.2
 - pkg:maven/org.anystub/anystub@0.1.2?classifier=sources

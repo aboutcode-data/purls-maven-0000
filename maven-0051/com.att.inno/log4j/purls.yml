@@ -1,0 +1,2 @@
+- pkg:maven/com.att.inno/log4j@1.2.11
+- pkg:maven/com.att.inno/log4j@1.2.11?classifier=sources

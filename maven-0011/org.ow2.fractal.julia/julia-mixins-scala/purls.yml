@@ -1,2 +1,4 @@
 - pkg:maven/org.ow2.fractal.julia/julia-mixins-scala@2.5.2
+- pkg:maven/org.ow2.fractal.julia/julia-mixins-scala@2.5.2.1
+- pkg:maven/org.ow2.fractal.julia/julia-mixins-scala@2.5.2.1?classifier=sources
 - pkg:maven/org.ow2.fractal.julia/julia-mixins-scala@2.5.2?classifier=sources

@@ -2,3 +2,7 @@
 - pkg:maven/org.apache.fulcrum/fulcrum-factory@1.0.4?classifier=sources
 - pkg:maven/org.apache.fulcrum/fulcrum-factory@1.0.4?classifier=src&type=tar.gz
 - pkg:maven/org.apache.fulcrum/fulcrum-factory@1.0.4?classifier=src&type=zip
+- pkg:maven/org.apache.fulcrum/fulcrum-factory@1.1.0
+- pkg:maven/org.apache.fulcrum/fulcrum-factory@1.1.0?classifier=sources
+- pkg:maven/org.apache.fulcrum/fulcrum-factory@1.1.0?classifier=src&type=tar.gz
+- pkg:maven/org.apache.fulcrum/fulcrum-factory@1.1.0?classifier=src&type=zip

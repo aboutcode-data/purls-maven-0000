@@ -18,3 +18,5 @@
 - pkg:maven/nz.ac.waikato.cms.weka/weka-dev@3.7.9?classifier=sources
 - pkg:maven/nz.ac.waikato.cms.weka/weka-dev@3.9.0
 - pkg:maven/nz.ac.waikato.cms.weka/weka-dev@3.9.0?classifier=sources
+- pkg:maven/nz.ac.waikato.cms.weka/weka-dev@3.9.1
+- pkg:maven/nz.ac.waikato.cms.weka/weka-dev@3.9.1?classifier=sources

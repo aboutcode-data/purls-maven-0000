@@ -1,0 +1,2 @@
+- pkg:maven/org.eclipse.platform/org.eclipse.ui.examples.multipageeditor@3.2.300
+- pkg:maven/org.eclipse.platform/org.eclipse.ui.examples.multipageeditor@3.2.300?classifier=sources

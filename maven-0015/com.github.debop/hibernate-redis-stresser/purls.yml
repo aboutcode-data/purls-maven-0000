@@ -1,0 +1,2 @@
+- pkg:maven/com.github.debop/hibernate-redis-stresser@2.3.2
+- pkg:maven/com.github.debop/hibernate-redis-stresser@2.3.2?classifier=sources

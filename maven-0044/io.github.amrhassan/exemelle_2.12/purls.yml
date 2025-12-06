@@ -1,0 +1,10 @@
+- pkg:maven/io.github.amrhassan/exemelle_2.12@0.1.0-RC3
+- pkg:maven/io.github.amrhassan/exemelle_2.12@0.1.0-RC3?classifier=sources
+- pkg:maven/io.github.amrhassan/exemelle_2.12@1.0.0
+- pkg:maven/io.github.amrhassan/exemelle_2.12@1.0.0?classifier=sources
+- pkg:maven/io.github.amrhassan/exemelle_2.12@1.1.0
+- pkg:maven/io.github.amrhassan/exemelle_2.12@1.1.0?classifier=sources
+- pkg:maven/io.github.amrhassan/exemelle_2.12@2.0.0
+- pkg:maven/io.github.amrhassan/exemelle_2.12@2.0.0?classifier=sources
+- pkg:maven/io.github.amrhassan/exemelle_2.12@2.1.0
+- pkg:maven/io.github.amrhassan/exemelle_2.12@2.1.0?classifier=sources

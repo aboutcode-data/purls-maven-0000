@@ -1,0 +1,2 @@
+- pkg:maven/de.wenzlaff.phonebook/de.wenzlaff.phonebook@1.0.2
+- pkg:maven/de.wenzlaff.phonebook/de.wenzlaff.phonebook@1.0.2?classifier=sources

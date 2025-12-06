@@ -1,0 +1,2 @@
+- pkg:maven/ro.hasna.ts/time-series-math@0.16
+- pkg:maven/ro.hasna.ts/time-series-math@0.16?classifier=sources

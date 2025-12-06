@@ -1,0 +1,2 @@
+- pkg:maven/com.christiangp/auto-value-nested-tostring-annotations@0.2.0
+- pkg:maven/com.christiangp/auto-value-nested-tostring-annotations@0.2.0?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/pl.pkk82.test.ci/maven-bbp-mmmrp-oss@1.0.0
+- pkg:maven/pl.pkk82.test.ci/maven-bbp-mmmrp-oss@1.0.0?classifier=sources
+- pkg:maven/pl.pkk82.test.ci/maven-bbp-mmmrp-oss@1.0.1
+- pkg:maven/pl.pkk82.test.ci/maven-bbp-mmmrp-oss@1.0.1?classifier=sources

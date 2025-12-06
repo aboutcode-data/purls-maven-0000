@@ -2,3 +2,5 @@
 - pkg:maven/nl.vpro/jcr-criteria@1.0?classifier=sources
 - pkg:maven/nl.vpro/jcr-criteria@1.1
 - pkg:maven/nl.vpro/jcr-criteria@1.1?classifier=sources
+- pkg:maven/nl.vpro/jcr-criteria@1.2
+- pkg:maven/nl.vpro/jcr-criteria@1.2?classifier=sources

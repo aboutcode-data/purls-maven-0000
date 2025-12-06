@@ -1,0 +1,2 @@
+- pkg:maven/com.aliyun.dts/client@2.2.1.40-cloud
+- pkg:maven/com.aliyun.dts/client@2.2.1.40-cloud?classifier=sources

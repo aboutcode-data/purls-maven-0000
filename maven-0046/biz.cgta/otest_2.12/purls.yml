@@ -1,0 +1,2 @@
+- pkg:maven/biz.cgta/otest_2.12@0.2.6
+- pkg:maven/biz.cgta/otest_2.12@0.2.6?classifier=sources

@@ -1,2 +1,4 @@
 - pkg:maven/tech.sirwellington.alchemy/alchemy-http-mock@1.0
 - pkg:maven/tech.sirwellington.alchemy/alchemy-http-mock@1.0?classifier=sources
+- pkg:maven/tech.sirwellington.alchemy/alchemy-http-mock@1.1
+- pkg:maven/tech.sirwellington.alchemy/alchemy-http-mock@1.1?classifier=sources

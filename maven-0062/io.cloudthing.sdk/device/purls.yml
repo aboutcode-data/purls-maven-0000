@@ -1,0 +1,10 @@
+- pkg:maven/io.cloudthing.sdk/device@0.1.0?classifier=sources
+- pkg:maven/io.cloudthing.sdk/device@0.1.0?type=aar
+- pkg:maven/io.cloudthing.sdk/device@0.1.1?classifier=sources
+- pkg:maven/io.cloudthing.sdk/device@0.1.1?type=aar
+- pkg:maven/io.cloudthing.sdk/device@0.2.1
+- pkg:maven/io.cloudthing.sdk/device@0.2.1?classifier=sources
+- pkg:maven/io.cloudthing.sdk/device@0.2.2
+- pkg:maven/io.cloudthing.sdk/device@0.2.2?classifier=sources
+- pkg:maven/io.cloudthing.sdk/device@0.3.0
+- pkg:maven/io.cloudthing.sdk/device@0.3.0?classifier=sources

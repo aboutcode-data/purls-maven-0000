@@ -18,3 +18,7 @@
 - pkg:maven/com.qualinsight.mojo.cobertura/qualinsight-mojo-cobertura-core@1.0.8?classifier=sources
 - pkg:maven/com.qualinsight.mojo.cobertura/qualinsight-mojo-cobertura-core@1.1.0
 - pkg:maven/com.qualinsight.mojo.cobertura/qualinsight-mojo-cobertura-core@1.1.0?classifier=sources
+- pkg:maven/com.qualinsight.mojo.cobertura/qualinsight-mojo-cobertura-core@2.0.0
+- pkg:maven/com.qualinsight.mojo.cobertura/qualinsight-mojo-cobertura-core@2.0.0-RC1
+- pkg:maven/com.qualinsight.mojo.cobertura/qualinsight-mojo-cobertura-core@2.0.0-RC1?classifier=sources
+- pkg:maven/com.qualinsight.mojo.cobertura/qualinsight-mojo-cobertura-core@2.0.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/io.reactivesocket/reactivesocket-transport-netty@0.6.0
+- pkg:maven/io.reactivesocket/reactivesocket-transport-netty@0.6.0?classifier=sources

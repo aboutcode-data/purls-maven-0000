@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.bower/pdfmake-dist@0.1.31
+- pkg:maven/org.webjars.bower/pdfmake-dist@0.1.31?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.lucidchart/akka-context_2.11@0.2
+- pkg:maven/com.lucidchart/akka-context_2.11@0.2?classifier=sources

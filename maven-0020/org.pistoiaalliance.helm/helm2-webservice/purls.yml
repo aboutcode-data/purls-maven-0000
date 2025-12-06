@@ -1,2 +1,8 @@
 - pkg:maven/org.pistoiaalliance.helm/helm2-webservice@1.0.0
 - pkg:maven/org.pistoiaalliance.helm/helm2-webservice@1.0.0?classifier=sources
+- pkg:maven/org.pistoiaalliance.helm/helm2-webservice@1.1.0?classifier=sources
+- pkg:maven/org.pistoiaalliance.helm/helm2-webservice@1.1.0?type=war
+- pkg:maven/org.pistoiaalliance.helm/helm2-webservice@2.0.0?classifier=sources
+- pkg:maven/org.pistoiaalliance.helm/helm2-webservice@2.0.0?type=war
+- pkg:maven/org.pistoiaalliance.helm/helm2-webservice@2.1.0?classifier=sources
+- pkg:maven/org.pistoiaalliance.helm/helm2-webservice@2.1.0?type=war

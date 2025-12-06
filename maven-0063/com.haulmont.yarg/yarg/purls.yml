@@ -13,3 +13,7 @@
 - pkg:maven/com.haulmont.yarg/yarg@1.0.58
 - pkg:maven/com.haulmont.yarg/yarg@1.0.58?classifier=sources
 - pkg:maven/com.haulmont.yarg/yarg@1.0.59?classifier=sources
+- pkg:maven/com.haulmont.yarg/yarg@1.0.67
+- pkg:maven/com.haulmont.yarg/yarg@1.0.67?classifier=sources
+- pkg:maven/com.haulmont.yarg/yarg@1.0.70
+- pkg:maven/com.haulmont.yarg/yarg@1.0.70?classifier=sources

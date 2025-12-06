@@ -5,3 +5,6 @@
 - pkg:maven/org.openscience.cdk/cdk-annotation@1.5.12
 - pkg:maven/org.openscience.cdk/cdk-annotation@1.5.12?classifier=sources
 - pkg:maven/org.openscience.cdk/cdk-annotation@1.5.13
+- pkg:maven/org.openscience.cdk/cdk-annotation@1.5.14
+- pkg:maven/org.openscience.cdk/cdk-annotation@1.5.15
+- pkg:maven/org.openscience.cdk/cdk-annotation@2.0

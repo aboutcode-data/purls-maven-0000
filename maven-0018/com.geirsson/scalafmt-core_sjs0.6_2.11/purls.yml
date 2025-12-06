@@ -1,0 +1,2 @@
+- pkg:maven/com.geirsson/scalafmt-core_sjs0.6_2.11@0.7.0-RC1
+- pkg:maven/com.geirsson/scalafmt-core_sjs0.6_2.11@0.7.0-RC1?classifier=sources

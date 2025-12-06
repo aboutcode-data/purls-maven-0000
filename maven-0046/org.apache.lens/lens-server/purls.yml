@@ -10,3 +10,5 @@
 - pkg:maven/org.apache.lens/lens-server@2.4.0-beta?type=war
 - pkg:maven/org.apache.lens/lens-server@2.5.0-beta?classifier=sources
 - pkg:maven/org.apache.lens/lens-server@2.5.0-beta?type=war
+- pkg:maven/org.apache.lens/lens-server@2.6.1?classifier=sources
+- pkg:maven/org.apache.lens/lens-server@2.6.1?type=war

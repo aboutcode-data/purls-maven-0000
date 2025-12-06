@@ -1,0 +1,2 @@
+- pkg:maven/io.sovaj.heartbeat/heartbeat-samples@1.0.0.0.RELEASE?classifier=sources
+- pkg:maven/io.sovaj.heartbeat/heartbeat-samples@1.0.0.0.RELEASE?type=war

@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/term-size@0.1.1
+- pkg:maven/org.webjars.npm/term-size@0.1.1?classifier=sources

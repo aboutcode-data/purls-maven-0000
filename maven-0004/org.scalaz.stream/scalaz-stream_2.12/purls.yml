@@ -1,0 +1,4 @@
+- pkg:maven/org.scalaz.stream/scalaz-stream_2.12@0.8.6
+- pkg:maven/org.scalaz.stream/scalaz-stream_2.12@0.8.6?classifier=sources
+- pkg:maven/org.scalaz.stream/scalaz-stream_2.12@0.8.6a
+- pkg:maven/org.scalaz.stream/scalaz-stream_2.12@0.8.6a?classifier=sources

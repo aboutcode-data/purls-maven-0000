@@ -1,0 +1,4 @@
+- pkg:maven/org.eclipse.neoscada.ide/org.eclipse.scada.configuration.recipe.ui@0.2.0
+- pkg:maven/org.eclipse.neoscada.ide/org.eclipse.scada.configuration.recipe.ui@0.2.0?classifier=sources
+- pkg:maven/org.eclipse.neoscada.ide/org.eclipse.scada.configuration.recipe.ui@0.4.0
+- pkg:maven/org.eclipse.neoscada.ide/org.eclipse.scada.configuration.recipe.ui@0.4.0?classifier=sources

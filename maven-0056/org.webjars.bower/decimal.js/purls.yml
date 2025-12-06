@@ -4,3 +4,5 @@
 - pkg:maven/org.webjars.bower/decimal.js@4.0.3?classifier=sources
 - pkg:maven/org.webjars.bower/decimal.js@6.0.0
 - pkg:maven/org.webjars.bower/decimal.js@6.0.0?classifier=sources
+- pkg:maven/org.webjars.bower/decimal.js@7.0.1
+- pkg:maven/org.webjars.bower/decimal.js@7.0.1?classifier=sources

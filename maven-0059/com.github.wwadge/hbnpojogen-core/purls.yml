@@ -1,2 +1,14 @@
 - pkg:maven/com.github.wwadge/hbnpojogen-core@1.4.32
 - pkg:maven/com.github.wwadge/hbnpojogen-core@1.4.32?classifier=sources
+- pkg:maven/com.github.wwadge/hbnpojogen-core@1.4.33
+- pkg:maven/com.github.wwadge/hbnpojogen-core@1.4.33?classifier=sources
+- pkg:maven/com.github.wwadge/hbnpojogen-core@1.4.34
+- pkg:maven/com.github.wwadge/hbnpojogen-core@1.4.34?classifier=sources
+- pkg:maven/com.github.wwadge/hbnpojogen-core@1.4.35
+- pkg:maven/com.github.wwadge/hbnpojogen-core@1.4.35?classifier=sources
+- pkg:maven/com.github.wwadge/hbnpojogen-core@1.4.36
+- pkg:maven/com.github.wwadge/hbnpojogen-core@1.4.36?classifier=sources
+- pkg:maven/com.github.wwadge/hbnpojogen-core@1.4.38
+- pkg:maven/com.github.wwadge/hbnpojogen-core@1.4.38?classifier=sources
+- pkg:maven/com.github.wwadge/hbnpojogen-core@1.4.39
+- pkg:maven/com.github.wwadge/hbnpojogen-core@1.4.39?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/edu.ksu.ome.lti/lti-launch@1.4.0
+- pkg:maven/edu.ksu.ome.lti/lti-launch@1.4.0?classifier=sources

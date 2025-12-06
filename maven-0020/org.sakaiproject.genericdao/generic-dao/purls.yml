@@ -1,2 +1,4 @@
 - pkg:maven/org.sakaiproject.genericdao/generic-dao@0.10.0
 - pkg:maven/org.sakaiproject.genericdao/generic-dao@0.10.0?classifier=sources
+- pkg:maven/org.sakaiproject.genericdao/generic-dao@0.11.0
+- pkg:maven/org.sakaiproject.genericdao/generic-dao@0.11.0?classifier=sources

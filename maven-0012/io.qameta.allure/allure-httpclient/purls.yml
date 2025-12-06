@@ -1,0 +1,2 @@
+- pkg:maven/io.qameta.allure/allure-httpclient@2.0-BETA7
+- pkg:maven/io.qameta.allure/allure-httpclient@2.0-BETA7?classifier=sources

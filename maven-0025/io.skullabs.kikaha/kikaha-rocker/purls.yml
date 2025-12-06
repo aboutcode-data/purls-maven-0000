@@ -1,0 +1,6 @@
+- pkg:maven/io.skullabs.kikaha/kikaha-rocker@2.1.0-alpha17
+- pkg:maven/io.skullabs.kikaha/kikaha-rocker@2.1.0-alpha17?classifier=sources
+- pkg:maven/io.skullabs.kikaha/kikaha-rocker@2.1.0-alpha18
+- pkg:maven/io.skullabs.kikaha/kikaha-rocker@2.1.0-alpha18?classifier=sources
+- pkg:maven/io.skullabs.kikaha/kikaha-rocker@2.1.0-alpha19
+- pkg:maven/io.skullabs.kikaha/kikaha-rocker@2.1.0-alpha19?classifier=sources

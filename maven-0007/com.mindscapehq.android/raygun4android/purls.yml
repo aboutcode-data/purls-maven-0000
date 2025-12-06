@@ -15,3 +15,5 @@
 - pkg:maven/com.mindscapehq.android/raygun4android@2.1.1?type=aar
 - pkg:maven/com.mindscapehq.android/raygun4android@2.2.0-beta-1?classifier=sources
 - pkg:maven/com.mindscapehq.android/raygun4android@2.2.0-beta-1?type=aar
+- pkg:maven/com.mindscapehq.android/raygun4android@3.0.0?classifier=sources
+- pkg:maven/com.mindscapehq.android/raygun4android@3.0.0?type=aar

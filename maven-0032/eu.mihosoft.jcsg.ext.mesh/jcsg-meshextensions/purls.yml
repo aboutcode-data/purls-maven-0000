@@ -1,0 +1,4 @@
+- pkg:maven/eu.mihosoft.jcsg.ext.mesh/jcsg-meshextensions@0.1
+- pkg:maven/eu.mihosoft.jcsg.ext.mesh/jcsg-meshextensions@0.1?classifier=sources
+- pkg:maven/eu.mihosoft.jcsg.ext.mesh/jcsg-meshextensions@0.3
+- pkg:maven/eu.mihosoft.jcsg.ext.mesh/jcsg-meshextensions@0.3?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/org.webjars.npm/types__redux-logger@2.6.32
+- pkg:maven/org.webjars.npm/types__redux-logger@2.6.32?classifier=sources
+- pkg:maven/org.webjars.npm/types__redux-logger@3.0.0
+- pkg:maven/org.webjars.npm/types__redux-logger@3.0.0?classifier=sources

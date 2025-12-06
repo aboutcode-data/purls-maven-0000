@@ -1,0 +1,2 @@
+- pkg:maven/com.io7m.jsx/io7m-jsx-cmdline@0.7.0
+- pkg:maven/com.io7m.jsx/io7m-jsx-cmdline@0.7.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/net.kaliber/jira-exception-processor_2.11@5.0.0
+- pkg:maven/net.kaliber/jira-exception-processor_2.11@5.0.0?classifier=sources

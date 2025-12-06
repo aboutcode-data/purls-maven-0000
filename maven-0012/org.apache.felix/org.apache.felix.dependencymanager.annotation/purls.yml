@@ -9,3 +9,4 @@
 - pkg:maven/org.apache.felix/org.apache.felix.dependencymanager.annotation@4.0.2
 - pkg:maven/org.apache.felix/org.apache.felix.dependencymanager.annotation@4.0.3
 - pkg:maven/org.apache.felix/org.apache.felix.dependencymanager.annotation@4.1.0
+- pkg:maven/org.apache.felix/org.apache.felix.dependencymanager.annotation@4.2.0

@@ -16,3 +16,5 @@
 - pkg:maven/com.toastcoders/yavijava@6.0.03?classifier=sources
 - pkg:maven/com.toastcoders/yavijava@6.0.04
 - pkg:maven/com.toastcoders/yavijava@6.0.04?classifier=sources
+- pkg:maven/com.toastcoders/yavijava@6.0.05
+- pkg:maven/com.toastcoders/yavijava@6.0.05?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/eu.fraho.spring/security-jwt-base@0.5.2
+- pkg:maven/eu.fraho.spring/security-jwt-base@0.5.2?classifier=sources
+- pkg:maven/eu.fraho.spring/security-jwt-base@0.6.0
+- pkg:maven/eu.fraho.spring/security-jwt-base@0.6.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.obsidiantoaster.quickstart/secured-springboot-rest@1.0.0.Alpha1
+- pkg:maven/org.obsidiantoaster.quickstart/secured-springboot-rest@1.0.0.Alpha1?classifier=sources

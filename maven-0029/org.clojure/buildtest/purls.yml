@@ -1,0 +1,4 @@
+- pkg:maven/org.clojure/buildtest@0.1.10
+- pkg:maven/org.clojure/buildtest@0.1.11
+- pkg:maven/org.clojure/buildtest@0.1.8
+- pkg:maven/org.clojure/buildtest@0.1.9

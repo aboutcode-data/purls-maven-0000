@@ -34,3 +34,5 @@
 - pkg:maven/org.eclipse.tycho/tycho-compiler-jdt@0.25.0?classifier=sources
 - pkg:maven/org.eclipse.tycho/tycho-compiler-jdt@0.26.0
 - pkg:maven/org.eclipse.tycho/tycho-compiler-jdt@0.26.0?classifier=sources
+- pkg:maven/org.eclipse.tycho/tycho-compiler-jdt@1.0.0
+- pkg:maven/org.eclipse.tycho/tycho-compiler-jdt@1.0.0?classifier=sources

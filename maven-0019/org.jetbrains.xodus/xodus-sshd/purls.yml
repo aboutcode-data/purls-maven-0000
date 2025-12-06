@@ -1,0 +1,2 @@
+- pkg:maven/org.jetbrains.xodus/xodus-sshd@1.0.5
+- pkg:maven/org.jetbrains.xodus/xodus-sshd@1.0.5?classifier=sources

@@ -1,2 +1,6 @@
 - pkg:maven/com.io7m.jpuddle/io7m-jpuddle-documentation@0.1.0?classifier=sources
 - pkg:maven/com.io7m.jpuddle/io7m-jpuddle-documentation@0.1.0?type=zip
+- pkg:maven/com.io7m.jpuddle/io7m-jpuddle-documentation@0.2.0?classifier=sources
+- pkg:maven/com.io7m.jpuddle/io7m-jpuddle-documentation@0.2.0?type=zip
+- pkg:maven/com.io7m.jpuddle/io7m-jpuddle-documentation@0.3.0?classifier=sources
+- pkg:maven/com.io7m.jpuddle/io7m-jpuddle-documentation@0.3.0?type=zip

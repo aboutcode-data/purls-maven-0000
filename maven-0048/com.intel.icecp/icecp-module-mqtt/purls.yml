@@ -1,0 +1,2 @@
+- pkg:maven/com.intel.icecp/icecp-module-mqtt@0.3.4
+- pkg:maven/com.intel.icecp/icecp-module-mqtt@0.3.4?classifier=sources

@@ -1,2 +1,4 @@
 - pkg:maven/org.webjars.bower/scrollMonitor@1.0.12
 - pkg:maven/org.webjars.bower/scrollMonitor@1.0.12?classifier=sources
+- pkg:maven/org.webjars.bower/scrollMonitor@1.2.2
+- pkg:maven/org.webjars.bower/scrollMonitor@1.2.2?classifier=sources
