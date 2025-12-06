@@ -1,0 +1,2 @@
+- pkg:maven/com.automationrockstars.gunter/gunter-allure@1.0.2
+- pkg:maven/com.automationrockstars.gunter/gunter-allure@1.0.2?classifier=sources

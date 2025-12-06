@@ -1,0 +1,8 @@
+- pkg:maven/de.appelgriepsch.logback/logback-gelf-appender@1.0
+- pkg:maven/de.appelgriepsch.logback/logback-gelf-appender@1.0?classifier=sources
+- pkg:maven/de.appelgriepsch.logback/logback-gelf-appender@1.1
+- pkg:maven/de.appelgriepsch.logback/logback-gelf-appender@1.1.1
+- pkg:maven/de.appelgriepsch.logback/logback-gelf-appender@1.1.1?classifier=sources
+- pkg:maven/de.appelgriepsch.logback/logback-gelf-appender@1.1?classifier=sources
+- pkg:maven/de.appelgriepsch.logback/logback-gelf-appender@1.2
+- pkg:maven/de.appelgriepsch.logback/logback-gelf-appender@1.2?classifier=sources

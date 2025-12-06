@@ -10,3 +10,7 @@
 - pkg:maven/com.github.bmelnychuk/atv@1.2.6?type=aar
 - pkg:maven/com.github.bmelnychuk/atv@1.2.7?classifier=sources
 - pkg:maven/com.github.bmelnychuk/atv@1.2.7?type=aar
+- pkg:maven/com.github.bmelnychuk/atv@1.2.8?classifier=sources
+- pkg:maven/com.github.bmelnychuk/atv@1.2.8?type=aar
+- pkg:maven/com.github.bmelnychuk/atv@1.2.9?classifier=sources
+- pkg:maven/com.github.bmelnychuk/atv@1.2.9?type=aar

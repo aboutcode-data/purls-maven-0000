@@ -1,0 +1,14 @@
+- pkg:maven/io.grpc/grpc-protobuf-lite@0.14.0
+- pkg:maven/io.grpc/grpc-protobuf-lite@0.14.0?classifier=sources
+- pkg:maven/io.grpc/grpc-protobuf-lite@0.14.1
+- pkg:maven/io.grpc/grpc-protobuf-lite@0.14.1?classifier=sources
+- pkg:maven/io.grpc/grpc-protobuf-lite@0.15.0
+- pkg:maven/io.grpc/grpc-protobuf-lite@0.15.0?classifier=sources
+- pkg:maven/io.grpc/grpc-protobuf-lite@1.0.0
+- pkg:maven/io.grpc/grpc-protobuf-lite@1.0.0-pre1
+- pkg:maven/io.grpc/grpc-protobuf-lite@1.0.0-pre1?classifier=sources
+- pkg:maven/io.grpc/grpc-protobuf-lite@1.0.0-pre2
+- pkg:maven/io.grpc/grpc-protobuf-lite@1.0.0-pre2?classifier=sources
+- pkg:maven/io.grpc/grpc-protobuf-lite@1.0.0?classifier=sources
+- pkg:maven/io.grpc/grpc-protobuf-lite@1.0.1
+- pkg:maven/io.grpc/grpc-protobuf-lite@1.0.1?classifier=sources

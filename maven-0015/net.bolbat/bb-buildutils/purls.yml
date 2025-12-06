@@ -2,3 +2,5 @@
 - pkg:maven/net.bolbat/bb-buildutils@2?classifier=sources
 - pkg:maven/net.bolbat/bb-buildutils@3
 - pkg:maven/net.bolbat/bb-buildutils@3?classifier=sources
+- pkg:maven/net.bolbat/bb-buildutils@4
+- pkg:maven/net.bolbat/bb-buildutils@4?classifier=sources

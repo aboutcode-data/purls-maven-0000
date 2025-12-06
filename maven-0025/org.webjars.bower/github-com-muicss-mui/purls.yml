@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.bower/github-com-muicss-mui@0.7.5
+- pkg:maven/org.webjars.bower/github-com-muicss-mui@0.7.5?classifier=sources

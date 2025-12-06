@@ -1,0 +1,2 @@
+- pkg:maven/org.neociclo.tools/gshell-bootstrap@1.0.1
+- pkg:maven/org.neociclo.tools/gshell-bootstrap@1.0.1?classifier=sources

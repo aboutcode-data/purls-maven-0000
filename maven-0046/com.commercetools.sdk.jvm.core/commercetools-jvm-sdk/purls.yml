@@ -1,0 +1,2 @@
+- pkg:maven/com.commercetools.sdk.jvm.core/commercetools-jvm-sdk@1.0.0-RC1
+- pkg:maven/com.commercetools.sdk.jvm.core/commercetools-jvm-sdk@1.0.0-RC1?classifier=sources

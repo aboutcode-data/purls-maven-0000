@@ -1,0 +1,2 @@
+- pkg:maven/com.hazelcast/hazelcast-zookeeper@3.6.1
+- pkg:maven/com.hazelcast/hazelcast-zookeeper@3.6.1?classifier=sources

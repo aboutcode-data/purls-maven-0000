@@ -1,0 +1,2 @@
+- pkg:maven/org.bondolo/cowans7@2
+- pkg:maven/org.bondolo/cowans7@2?classifier=sources

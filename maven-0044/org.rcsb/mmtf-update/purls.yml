@@ -1,0 +1,2 @@
+- pkg:maven/org.rcsb/mmtf-update@0.0.1-alpha3
+- pkg:maven/org.rcsb/mmtf-update@0.0.1-alpha3?classifier=sources

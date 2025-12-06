@@ -1,6 +1,12 @@
+- pkg:maven/ws.securesocial/securesocial_2.11@2.1.4-for-play24
+- pkg:maven/ws.securesocial/securesocial_2.11@2.1.4-for-play24?classifier=sources
+- pkg:maven/ws.securesocial/securesocial_2.11@2.1.4.1-for-play24
+- pkg:maven/ws.securesocial/securesocial_2.11@2.1.4.1-for-play24?classifier=sources
 - pkg:maven/ws.securesocial/securesocial_2.11@3.0-M1
 - pkg:maven/ws.securesocial/securesocial_2.11@3.0-M1?classifier=sources
 - pkg:maven/ws.securesocial/securesocial_2.11@3.0-M2
 - pkg:maven/ws.securesocial/securesocial_2.11@3.0-M2?classifier=sources
 - pkg:maven/ws.securesocial/securesocial_2.11@3.0-M3
 - pkg:maven/ws.securesocial/securesocial_2.11@3.0-M3?classifier=sources
+- pkg:maven/ws.securesocial/securesocial_2.11@3.0-M4
+- pkg:maven/ws.securesocial/securesocial_2.11@3.0-M4?classifier=sources

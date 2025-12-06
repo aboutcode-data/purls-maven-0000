@@ -1,0 +1,4 @@
+- pkg:maven/fr.lteconsulting/builder-generator@0.9
+- pkg:maven/fr.lteconsulting/builder-generator@0.9?classifier=sources
+- pkg:maven/fr.lteconsulting/builder-generator@1.0
+- pkg:maven/fr.lteconsulting/builder-generator@1.0?classifier=sources

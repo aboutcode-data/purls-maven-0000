@@ -1,2 +1,10 @@
 - pkg:maven/com.github.jean-merelis/coffeepot-bean-wr@1.2.0-FINAL
 - pkg:maven/com.github.jean-merelis/coffeepot-bean-wr@1.2.0-FINAL?classifier=sources
+- pkg:maven/com.github.jean-merelis/coffeepot-bean-wr@1.2.1-FINAL
+- pkg:maven/com.github.jean-merelis/coffeepot-bean-wr@1.2.1-FINAL?classifier=sources
+- pkg:maven/com.github.jean-merelis/coffeepot-bean-wr@1.2.2-FINAL
+- pkg:maven/com.github.jean-merelis/coffeepot-bean-wr@1.2.2-FINAL?classifier=sources
+- pkg:maven/com.github.jean-merelis/coffeepot-bean-wr@1.2.3-FINAL
+- pkg:maven/com.github.jean-merelis/coffeepot-bean-wr@1.2.3-FINAL?classifier=sources
+- pkg:maven/com.github.jean-merelis/coffeepot-bean-wr@1.3.0-Beta.1
+- pkg:maven/com.github.jean-merelis/coffeepot-bean-wr@1.3.0-Beta.1?classifier=sources

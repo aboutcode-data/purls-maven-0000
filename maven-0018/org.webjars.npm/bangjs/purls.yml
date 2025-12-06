@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/bangjs@0.4.2
+- pkg:maven/org.webjars.npm/bangjs@0.4.2?classifier=sources

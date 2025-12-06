@@ -1,0 +1,4 @@
+- pkg:maven/org.siani.javafmi/kernel@2.16.6
+- pkg:maven/org.siani.javafmi/kernel@2.16.6?classifier=sources
+- pkg:maven/org.siani.javafmi/kernel@2.16.7
+- pkg:maven/org.siani.javafmi/kernel@2.16.7?classifier=sources

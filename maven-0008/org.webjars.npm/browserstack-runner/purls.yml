@@ -1,0 +1,4 @@
+- pkg:maven/org.webjars.npm/browserstack-runner@0.3.8
+- pkg:maven/org.webjars.npm/browserstack-runner@0.3.8?classifier=sources
+- pkg:maven/org.webjars.npm/browserstack-runner@0.4.2
+- pkg:maven/org.webjars.npm/browserstack-runner@0.4.2?classifier=sources

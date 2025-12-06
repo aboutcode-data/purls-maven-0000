@@ -1,1 +1,2 @@
 - pkg:maven/com.brotherlogic/simplestore@0.4
+- pkg:maven/com.brotherlogic/simplestore@0.4?classifier=sources

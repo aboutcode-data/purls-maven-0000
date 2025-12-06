@@ -2,3 +2,6 @@
 - pkg:maven/org.teavm/teavm-tests@0.3.1
 - pkg:maven/org.teavm/teavm-tests@0.3.2
 - pkg:maven/org.teavm/teavm-tests@0.4.0
+- pkg:maven/org.teavm/teavm-tests@0.4.1
+- pkg:maven/org.teavm/teavm-tests@0.4.2
+- pkg:maven/org.teavm/teavm-tests@0.4.3

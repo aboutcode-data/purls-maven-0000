@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/angular2-universal@0.99.0
+- pkg:maven/org.webjars.npm/angular2-universal@0.99.0?classifier=sources

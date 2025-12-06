@@ -8,6 +8,8 @@
 - pkg:maven/org.broadleafcommerce/broadleaf-admin-functional-tests@3.1.13-GA?classifier=sources
 - pkg:maven/org.broadleafcommerce/broadleaf-admin-functional-tests@3.1.14-GA
 - pkg:maven/org.broadleafcommerce/broadleaf-admin-functional-tests@3.1.14-GA?classifier=sources
+- pkg:maven/org.broadleafcommerce/broadleaf-admin-functional-tests@3.1.15-GA
+- pkg:maven/org.broadleafcommerce/broadleaf-admin-functional-tests@3.1.15-GA?classifier=sources
 - pkg:maven/org.broadleafcommerce/broadleaf-admin-functional-tests@3.1.5-GA
 - pkg:maven/org.broadleafcommerce/broadleaf-admin-functional-tests@3.1.5-GA?classifier=sources
 - pkg:maven/org.broadleafcommerce/broadleaf-admin-functional-tests@3.1.6-GA

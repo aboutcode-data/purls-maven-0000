@@ -1,0 +1,6 @@
+- pkg:maven/uk.org.retep.xmpp.protocol/component-connect@10.1
+- pkg:maven/uk.org.retep.xmpp.protocol/component-connect@10.1?classifier=sources
+- pkg:maven/uk.org.retep.xmpp.protocol/component-connect@10.6
+- pkg:maven/uk.org.retep.xmpp.protocol/component-connect@10.6?classifier=sources
+- pkg:maven/uk.org.retep.xmpp.protocol/component-connect@9.11
+- pkg:maven/uk.org.retep.xmpp.protocol/component-connect@9.11?classifier=sources

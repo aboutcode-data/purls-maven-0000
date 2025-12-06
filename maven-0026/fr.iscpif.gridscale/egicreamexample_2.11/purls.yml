@@ -1,2 +1,4 @@
 - pkg:maven/fr.iscpif.gridscale/egicreamexample_2.11@1.86
 - pkg:maven/fr.iscpif.gridscale/egicreamexample_2.11@1.86?classifier=sources
+- pkg:maven/fr.iscpif.gridscale/egicreamexample_2.11@1.87.0
+- pkg:maven/fr.iscpif.gridscale/egicreamexample_2.11@1.87.0?classifier=sources

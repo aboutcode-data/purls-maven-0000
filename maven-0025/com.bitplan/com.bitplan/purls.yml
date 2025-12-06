@@ -1,0 +1,2 @@
+- pkg:maven/com.bitplan/com.bitplan@0.0.1
+- pkg:maven/com.bitplan/com.bitplan@0.0.1?classifier=sources

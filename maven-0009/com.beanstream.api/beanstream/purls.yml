@@ -1,0 +1,2 @@
+- pkg:maven/com.beanstream.api/beanstream@1.0.0
+- pkg:maven/com.beanstream.api/beanstream@1.0.0?classifier=sources

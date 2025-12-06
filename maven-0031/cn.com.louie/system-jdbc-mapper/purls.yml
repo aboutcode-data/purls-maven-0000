@@ -1,0 +1,2 @@
+- pkg:maven/cn.com.louie/system-jdbc-mapper@1.0.0
+- pkg:maven/cn.com.louie/system-jdbc-mapper@1.0.0?classifier=sources

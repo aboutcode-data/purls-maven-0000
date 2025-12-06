@@ -22,6 +22,12 @@
 - pkg:maven/net.imagej/ij1-patcher@0.12.1?classifier=sources
 - pkg:maven/net.imagej/ij1-patcher@0.12.2
 - pkg:maven/net.imagej/ij1-patcher@0.12.2?classifier=sources
+- pkg:maven/net.imagej/ij1-patcher@0.12.3
+- pkg:maven/net.imagej/ij1-patcher@0.12.3?classifier=sources
+- pkg:maven/net.imagej/ij1-patcher@0.12.4
+- pkg:maven/net.imagej/ij1-patcher@0.12.4?classifier=sources
+- pkg:maven/net.imagej/ij1-patcher@0.12.5
+- pkg:maven/net.imagej/ij1-patcher@0.12.5?classifier=sources
 - pkg:maven/net.imagej/ij1-patcher@0.2.0
 - pkg:maven/net.imagej/ij1-patcher@0.2.0?classifier=sources
 - pkg:maven/net.imagej/ij1-patcher@0.2.1

@@ -1,0 +1,4 @@
+- pkg:maven/org.webjars.npm/jspm@0.16.33
+- pkg:maven/org.webjars.npm/jspm@0.16.33?classifier=sources
+- pkg:maven/org.webjars.npm/jspm@0.17.0-beta.13
+- pkg:maven/org.webjars.npm/jspm@0.17.0-beta.13?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.tinyj.web/tinyj-web-mvc@0.1.0
+- pkg:maven/org.tinyj.web/tinyj-web-mvc@0.1.0?classifier=sources

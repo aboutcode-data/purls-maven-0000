@@ -1,0 +1,4 @@
+- pkg:maven/com.directual/utils-kafka@0.7
+- pkg:maven/com.directual/utils-kafka@0.7?classifier=sources
+- pkg:maven/com.directual/utils-kafka@0.8-SNAPSNOT
+- pkg:maven/com.directual/utils-kafka@0.8-SNAPSNOT?classifier=sources

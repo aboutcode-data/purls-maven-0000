@@ -1,0 +1,2 @@
+- pkg:maven/pl.jalokim.propertiestojson/java-properties-to-json@1.1
+- pkg:maven/pl.jalokim.propertiestojson/java-properties-to-json@1.1?classifier=sources

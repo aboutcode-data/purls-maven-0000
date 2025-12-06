@@ -1,0 +1,4 @@
+- pkg:maven/com.ibm.mobilefirstplatform.clientsdk.android/jsonstore@1.0.0?type=aar
+- pkg:maven/com.ibm.mobilefirstplatform.clientsdk.android/jsonstore@1.0.1?type=aar
+- pkg:maven/com.ibm.mobilefirstplatform.clientsdk.android/jsonstore@1.1.0?type=aar
+- pkg:maven/com.ibm.mobilefirstplatform.clientsdk.android/jsonstore@1.1.1?type=aar

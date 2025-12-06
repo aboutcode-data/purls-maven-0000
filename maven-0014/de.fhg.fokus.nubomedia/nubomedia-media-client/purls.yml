@@ -1,0 +1,10 @@
+- pkg:maven/de.fhg.fokus.nubomedia/nubomedia-media-client@1.0
+- pkg:maven/de.fhg.fokus.nubomedia/nubomedia-media-client@1.0.1
+- pkg:maven/de.fhg.fokus.nubomedia/nubomedia-media-client@1.0.1?classifier=sources
+- pkg:maven/de.fhg.fokus.nubomedia/nubomedia-media-client@1.0.2
+- pkg:maven/de.fhg.fokus.nubomedia/nubomedia-media-client@1.0.2?classifier=sources
+- pkg:maven/de.fhg.fokus.nubomedia/nubomedia-media-client@1.0?classifier=sources
+- pkg:maven/de.fhg.fokus.nubomedia/nubomedia-media-client@6.5.0
+- pkg:maven/de.fhg.fokus.nubomedia/nubomedia-media-client@6.5.0?classifier=sources
+- pkg:maven/de.fhg.fokus.nubomedia/nubomedia-media-client@6.6.0
+- pkg:maven/de.fhg.fokus.nubomedia/nubomedia-media-client@6.6.0?classifier=sources

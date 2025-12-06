@@ -4,3 +4,15 @@
 - pkg:maven/de.alpharogroup/auth-security@4.1.0?classifier=sources
 - pkg:maven/de.alpharogroup/auth-security@4.2.0
 - pkg:maven/de.alpharogroup/auth-security@4.2.0?classifier=sources
+- pkg:maven/de.alpharogroup/auth-security@4.4.0
+- pkg:maven/de.alpharogroup/auth-security@4.4.0?classifier=sources
+- pkg:maven/de.alpharogroup/auth-security@4.5.0
+- pkg:maven/de.alpharogroup/auth-security@4.5.0?classifier=sources
+- pkg:maven/de.alpharogroup/auth-security@4.6.0
+- pkg:maven/de.alpharogroup/auth-security@4.6.0?classifier=sources
+- pkg:maven/de.alpharogroup/auth-security@4.7.0
+- pkg:maven/de.alpharogroup/auth-security@4.7.0?classifier=sources
+- pkg:maven/de.alpharogroup/auth-security@4.8.0
+- pkg:maven/de.alpharogroup/auth-security@4.8.0?classifier=sources
+- pkg:maven/de.alpharogroup/auth-security@4.9.0
+- pkg:maven/de.alpharogroup/auth-security@4.9.0?classifier=sources

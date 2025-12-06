@@ -1,0 +1,4 @@
+- pkg:maven/com.ea.orbit/orbit-jetty@0.8.0-preview2
+- pkg:maven/com.ea.orbit/orbit-jetty@0.8.0-preview2?classifier=sources
+- pkg:maven/com.ea.orbit/orbit-jetty@0.8.0-preview3
+- pkg:maven/com.ea.orbit/orbit-jetty@0.8.0-preview3?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.usefultoys/slf4j-toys@1.5.0
+- pkg:maven/org.usefultoys/slf4j-toys@1.5.0?classifier=sources

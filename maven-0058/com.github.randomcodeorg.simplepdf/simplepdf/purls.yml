@@ -1,0 +1,2 @@
+- pkg:maven/com.github.randomcodeorg.simplepdf/simplepdf@0.0.1
+- pkg:maven/com.github.randomcodeorg.simplepdf/simplepdf@0.0.1?classifier=sources

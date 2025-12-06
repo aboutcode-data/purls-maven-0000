@@ -8,3 +8,5 @@
 - pkg:maven/org.jtransfo/jtransfo-cdi@0.14?classifier=sources
 - pkg:maven/org.jtransfo/jtransfo-cdi@0.15
 - pkg:maven/org.jtransfo/jtransfo-cdi@0.15?classifier=sources
+- pkg:maven/org.jtransfo/jtransfo-cdi@1.0
+- pkg:maven/org.jtransfo/jtransfo-cdi@1.0?classifier=sources

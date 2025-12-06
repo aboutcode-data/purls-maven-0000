@@ -1,0 +1,2 @@
+- pkg:maven/com.atomicleopard.thundr/thundr-contrib-freemarker@2.0.0-alpha
+- pkg:maven/com.atomicleopard.thundr/thundr-contrib-freemarker@2.0.0-alpha?classifier=sources

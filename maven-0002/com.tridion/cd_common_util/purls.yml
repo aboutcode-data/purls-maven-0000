@@ -1,0 +1,4 @@
+- pkg:maven/com.tridion/cd_common_util@8.1.1-1002
+- pkg:maven/com.tridion/cd_common_util@8.1.1-1002?classifier=sources
+- pkg:maven/com.tridion/cd_common_util@8.2.0-1004
+- pkg:maven/com.tridion/cd_common_util@8.2.0-1004?classifier=sources

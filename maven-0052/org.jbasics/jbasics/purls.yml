@@ -1,2 +1,12 @@
 - pkg:maven/org.jbasics/jbasics@0.7.0
 - pkg:maven/org.jbasics/jbasics@0.7.0?classifier=sources
+- pkg:maven/org.jbasics/jbasics@0.7.1
+- pkg:maven/org.jbasics/jbasics@0.7.1?classifier=sources
+- pkg:maven/org.jbasics/jbasics@0.80.0
+- pkg:maven/org.jbasics/jbasics@0.80.0?classifier=sources
+- pkg:maven/org.jbasics/jbasics@0.81.0
+- pkg:maven/org.jbasics/jbasics@0.81.0?classifier=sources
+- pkg:maven/org.jbasics/jbasics@0.82.0
+- pkg:maven/org.jbasics/jbasics@0.82.0?classifier=sources
+- pkg:maven/org.jbasics/jbasics@0.83.0
+- pkg:maven/org.jbasics/jbasics@0.83.0?classifier=sources

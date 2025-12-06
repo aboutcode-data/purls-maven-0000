@@ -1,2 +1,4 @@
+- pkg:maven/org.webjars.npm/v8flags@2.0.10
+- pkg:maven/org.webjars.npm/v8flags@2.0.10?classifier=sources
 - pkg:maven/org.webjars.npm/v8flags@2.0.2
 - pkg:maven/org.webjars.npm/v8flags@2.0.2?classifier=sources

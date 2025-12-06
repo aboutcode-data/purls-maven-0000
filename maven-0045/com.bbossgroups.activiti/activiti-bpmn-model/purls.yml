@@ -1,0 +1,2 @@
+- pkg:maven/com.bbossgroups.activiti/activiti-bpmn-model@5.12
+- pkg:maven/com.bbossgroups.activiti/activiti-bpmn-model@5.12?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/com.github.anno4j/anno4j-ontologies-mmm@2.0.0
+- pkg:maven/com.github.anno4j/anno4j-ontologies-mmm@2.0.0?classifier=sources
+- pkg:maven/com.github.anno4j/anno4j-ontologies-mmm@2.0.1
+- pkg:maven/com.github.anno4j/anno4j-ontologies-mmm@2.0.1?classifier=sources

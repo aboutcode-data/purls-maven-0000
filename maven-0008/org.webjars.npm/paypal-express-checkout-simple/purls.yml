@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/paypal-express-checkout-simple@0.1.2
+- pkg:maven/org.webjars.npm/paypal-express-checkout-simple@0.1.2?classifier=sources

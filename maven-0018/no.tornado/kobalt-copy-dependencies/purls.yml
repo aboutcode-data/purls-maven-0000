@@ -1,0 +1,2 @@
+- pkg:maven/no.tornado/kobalt-copy-dependencies@0.2
+- pkg:maven/no.tornado/kobalt-copy-dependencies@0.2?classifier=sources

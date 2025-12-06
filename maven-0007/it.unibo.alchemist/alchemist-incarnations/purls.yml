@@ -16,3 +16,11 @@
 - pkg:maven/it.unibo.alchemist/alchemist-incarnations@2.3.0?classifier=sources
 - pkg:maven/it.unibo.alchemist/alchemist-incarnations@2.4.0
 - pkg:maven/it.unibo.alchemist/alchemist-incarnations@2.4.0?classifier=sources
+- pkg:maven/it.unibo.alchemist/alchemist-incarnations@2.5.0
+- pkg:maven/it.unibo.alchemist/alchemist-incarnations@2.5.0?classifier=sources
+- pkg:maven/it.unibo.alchemist/alchemist-incarnations@3.0.0
+- pkg:maven/it.unibo.alchemist/alchemist-incarnations@3.0.0?classifier=sources
+- pkg:maven/it.unibo.alchemist/alchemist-incarnations@3.1.0
+- pkg:maven/it.unibo.alchemist/alchemist-incarnations@3.1.0?classifier=sources
+- pkg:maven/it.unibo.alchemist/alchemist-incarnations@3.2.0
+- pkg:maven/it.unibo.alchemist/alchemist-incarnations@3.2.0?classifier=sources

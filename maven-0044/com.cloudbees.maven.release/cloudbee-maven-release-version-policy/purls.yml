@@ -1,2 +1,4 @@
 - pkg:maven/com.cloudbees.maven.release/cloudbee-maven-release-version-policy@1.0
 - pkg:maven/com.cloudbees.maven.release/cloudbee-maven-release-version-policy@1.0?classifier=sources
+- pkg:maven/com.cloudbees.maven.release/cloudbee-maven-release-version-policy@2.0
+- pkg:maven/com.cloudbees.maven.release/cloudbee-maven-release-version-policy@2.0?classifier=sources

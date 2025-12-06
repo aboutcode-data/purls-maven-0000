@@ -12,3 +12,7 @@
 - pkg:maven/org.ops4j.pax.jdbc/pax-jdbc-derby@0.6.0?classifier=sources
 - pkg:maven/org.ops4j.pax.jdbc/pax-jdbc-derby@0.7.0
 - pkg:maven/org.ops4j.pax.jdbc/pax-jdbc-derby@0.7.0?classifier=sources
+- pkg:maven/org.ops4j.pax.jdbc/pax-jdbc-derby@0.8.0
+- pkg:maven/org.ops4j.pax.jdbc/pax-jdbc-derby@0.8.0?classifier=sources
+- pkg:maven/org.ops4j.pax.jdbc/pax-jdbc-derby@0.9.0
+- pkg:maven/org.ops4j.pax.jdbc/pax-jdbc-derby@0.9.0?classifier=sources

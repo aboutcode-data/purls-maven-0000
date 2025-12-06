@@ -2,3 +2,7 @@
 - pkg:maven/com.lithium.luces/luces@0.16?classifier=sources
 - pkg:maven/com.lithium.luces/luces@0.17
 - pkg:maven/com.lithium.luces/luces@0.17?classifier=sources
+- pkg:maven/com.lithium.luces/luces@0.20
+- pkg:maven/com.lithium.luces/luces@0.20?classifier=sources
+- pkg:maven/com.lithium.luces/luces@0.22
+- pkg:maven/com.lithium.luces/luces@0.22?classifier=sources

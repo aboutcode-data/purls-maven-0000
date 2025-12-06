@@ -30,3 +30,5 @@
 - pkg:maven/org.elasticsearch/elasticsearch-cloud-azure@2.8.1?type=zip
 - pkg:maven/org.elasticsearch/elasticsearch-cloud-azure@2.8.2?classifier=sources
 - pkg:maven/org.elasticsearch/elasticsearch-cloud-azure@2.8.2?type=zip
+- pkg:maven/org.elasticsearch/elasticsearch-cloud-azure@2.8.3?classifier=sources
+- pkg:maven/org.elasticsearch/elasticsearch-cloud-azure@2.8.3?type=zip

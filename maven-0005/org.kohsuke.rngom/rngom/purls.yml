@@ -2,3 +2,5 @@
 - pkg:maven/org.kohsuke.rngom/rngom@20061207?classifier=sources
 - pkg:maven/org.kohsuke.rngom/rngom@20100718
 - pkg:maven/org.kohsuke.rngom/rngom@20100718?classifier=sources
+- pkg:maven/org.kohsuke.rngom/rngom@201605
+- pkg:maven/org.kohsuke.rngom/rngom@201605?classifier=sources

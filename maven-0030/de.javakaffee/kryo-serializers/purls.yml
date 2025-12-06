@@ -38,5 +38,13 @@
 - pkg:maven/de.javakaffee/kryo-serializers@0.36?classifier=sources
 - pkg:maven/de.javakaffee/kryo-serializers@0.37
 - pkg:maven/de.javakaffee/kryo-serializers@0.37?classifier=sources
+- pkg:maven/de.javakaffee/kryo-serializers@0.38
+- pkg:maven/de.javakaffee/kryo-serializers@0.38?classifier=sources
+- pkg:maven/de.javakaffee/kryo-serializers@0.39
+- pkg:maven/de.javakaffee/kryo-serializers@0.39?classifier=sources
+- pkg:maven/de.javakaffee/kryo-serializers@0.40
+- pkg:maven/de.javakaffee/kryo-serializers@0.40?classifier=sources
+- pkg:maven/de.javakaffee/kryo-serializers@0.41
+- pkg:maven/de.javakaffee/kryo-serializers@0.41?classifier=sources
 - pkg:maven/de.javakaffee/kryo-serializers@0.9
 - pkg:maven/de.javakaffee/kryo-serializers@0.9?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.unfoldingword.tools/gogs-client@1.0.0?classifier=sources
+- pkg:maven/org.unfoldingword.tools/gogs-client@1.0.0?type=aar

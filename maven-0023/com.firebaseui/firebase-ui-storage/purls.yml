@@ -1,0 +1,2 @@
+- pkg:maven/com.firebaseui/firebase-ui-storage@0.6.0?classifier=sources
+- pkg:maven/com.firebaseui/firebase-ui-storage@0.6.0?type=aar

@@ -1,0 +1,2 @@
+- pkg:maven/org.ferris/ferris-bible-rss@0.0.5?classifier=sources
+- pkg:maven/org.ferris/ferris-bible-rss@0.0.5?type=war

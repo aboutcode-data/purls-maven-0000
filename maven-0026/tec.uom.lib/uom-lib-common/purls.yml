@@ -1,0 +1,4 @@
+- pkg:maven/tec.uom.lib/uom-lib-common@0.9
+- pkg:maven/tec.uom.lib/uom-lib-common@0.9?classifier=sources
+- pkg:maven/tec.uom.lib/uom-lib-common@1.0
+- pkg:maven/tec.uom.lib/uom-lib-common@1.0?classifier=sources

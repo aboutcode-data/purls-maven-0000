@@ -1,1 +1,3 @@
 - pkg:maven/org.protelis/protelis.parser.tests@4.0.0?classifier=sources
+- pkg:maven/org.protelis/protelis.parser.tests@5.0.0?classifier=sources
+- pkg:maven/org.protelis/protelis.parser.tests@6.0.0?classifier=sources

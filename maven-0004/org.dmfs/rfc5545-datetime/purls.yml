@@ -9,4 +9,6 @@
 - pkg:maven/org.dmfs/rfc5545-datetime@0.2.2?classifier=sources
 - pkg:maven/org.dmfs/rfc5545-datetime@0.2.3
 - pkg:maven/org.dmfs/rfc5545-datetime@0.2.3?classifier=sources
+- pkg:maven/org.dmfs/rfc5545-datetime@0.2.4
+- pkg:maven/org.dmfs/rfc5545-datetime@0.2.4?classifier=sources
 - pkg:maven/org.dmfs/rfc5545-datetime@0.2?classifier=sources

@@ -11,3 +11,5 @@
 - pkg:maven/org.mapsforge/Samples@0.5.2?classifier=sources
 - pkg:maven/org.mapsforge/Samples@0.6.0-rc1?classifier=sources
 - pkg:maven/org.mapsforge/Samples@0.6.0-rc2?classifier=sources
+- pkg:maven/org.mapsforge/Samples@0.6.0-rc3?classifier=sources
+- pkg:maven/org.mapsforge/Samples@0.6.0?classifier=sources

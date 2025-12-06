@@ -1,0 +1,2 @@
+- pkg:maven/com.github.growth2/lazybones-mybatis-generator-plugin@0.0.1
+- pkg:maven/com.github.growth2/lazybones-mybatis-generator-plugin@0.0.1?classifier=sources

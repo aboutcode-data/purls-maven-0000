@@ -1,0 +1,8 @@
+- pkg:maven/nl.meandi.apns.example/apns-example-notifier@0.17?classifier=sources
+- pkg:maven/nl.meandi.apns.example/apns-example-notifier@0.17?type=war
+- pkg:maven/nl.meandi.apns.example/apns-example-notifier@0.18?classifier=sources
+- pkg:maven/nl.meandi.apns.example/apns-example-notifier@0.18?type=war
+- pkg:maven/nl.meandi.apns.example/apns-example-notifier@0.19?classifier=sources
+- pkg:maven/nl.meandi.apns.example/apns-example-notifier@0.19?type=war
+- pkg:maven/nl.meandi.apns.example/apns-example-notifier@0.20?classifier=sources
+- pkg:maven/nl.meandi.apns.example/apns-example-notifier@0.20?type=war

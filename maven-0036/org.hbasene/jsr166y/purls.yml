@@ -1,0 +1,2 @@
+- pkg:maven/org.hbasene/jsr166y@1.7.0-20100501
+- pkg:maven/org.hbasene/jsr166y@1.7.0-20100501?classifier=sources

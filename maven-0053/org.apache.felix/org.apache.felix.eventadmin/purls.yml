@@ -28,3 +28,9 @@
 - pkg:maven/org.apache.felix/org.apache.felix.eventadmin@1.4.4
 - pkg:maven/org.apache.felix/org.apache.felix.eventadmin@1.4.4?classifier=source-release&type=zip
 - pkg:maven/org.apache.felix/org.apache.felix.eventadmin@1.4.4?classifier=sources
+- pkg:maven/org.apache.felix/org.apache.felix.eventadmin@1.4.6
+- pkg:maven/org.apache.felix/org.apache.felix.eventadmin@1.4.6?classifier=source-release&type=zip
+- pkg:maven/org.apache.felix/org.apache.felix.eventadmin@1.4.6?classifier=sources
+- pkg:maven/org.apache.felix/org.apache.felix.eventadmin@1.4.8
+- pkg:maven/org.apache.felix/org.apache.felix.eventadmin@1.4.8?classifier=source-release&type=zip
+- pkg:maven/org.apache.felix/org.apache.felix.eventadmin@1.4.8?classifier=sources

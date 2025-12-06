@@ -1,0 +1,2 @@
+- pkg:maven/io.github.cgi/zabbix-api@0.0.2
+- pkg:maven/io.github.cgi/zabbix-api@0.0.2?classifier=sources

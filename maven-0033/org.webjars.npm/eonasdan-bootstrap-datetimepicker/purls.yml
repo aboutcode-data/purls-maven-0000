@@ -1,0 +1,4 @@
+- pkg:maven/org.webjars.npm/eonasdan-bootstrap-datetimepicker@4.15.35
+- pkg:maven/org.webjars.npm/eonasdan-bootstrap-datetimepicker@4.15.35?classifier=sources
+- pkg:maven/org.webjars.npm/eonasdan-bootstrap-datetimepicker@4.17.42
+- pkg:maven/org.webjars.npm/eonasdan-bootstrap-datetimepicker@4.17.42?classifier=sources

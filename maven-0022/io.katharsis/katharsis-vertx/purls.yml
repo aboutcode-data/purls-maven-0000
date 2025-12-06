@@ -1,0 +1,2 @@
+- pkg:maven/io.katharsis/katharsis-vertx@0.0.16
+- pkg:maven/io.katharsis/katharsis-vertx@0.0.16?classifier=sources

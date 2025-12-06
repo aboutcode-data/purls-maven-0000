@@ -1,2 +1,6 @@
 - pkg:maven/org.mapdb/mapdb-noassert@2.0-beta10
 - pkg:maven/org.mapdb/mapdb-noassert@2.0-beta10?classifier=sources
+- pkg:maven/org.mapdb/mapdb-noassert@2.0-beta11
+- pkg:maven/org.mapdb/mapdb-noassert@2.0-beta11?classifier=sources
+- pkg:maven/org.mapdb/mapdb-noassert@2.0-beta12
+- pkg:maven/org.mapdb/mapdb-noassert@2.0-beta12?classifier=sources

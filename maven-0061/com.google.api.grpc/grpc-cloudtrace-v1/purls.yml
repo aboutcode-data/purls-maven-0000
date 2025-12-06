@@ -1,0 +1,2 @@
+- pkg:maven/com.google.api.grpc/grpc-cloudtrace-v1@0.0.2
+- pkg:maven/com.google.api.grpc/grpc-cloudtrace-v1@0.0.2?classifier=sources

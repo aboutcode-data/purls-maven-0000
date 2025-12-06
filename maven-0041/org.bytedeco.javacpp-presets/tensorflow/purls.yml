@@ -1,0 +1,4 @@
+- pkg:maven/org.bytedeco.javacpp-presets/tensorflow@0.8.0-1.2
+- pkg:maven/org.bytedeco.javacpp-presets/tensorflow@0.8.0-1.2?classifier=sources
+- pkg:maven/org.bytedeco.javacpp-presets/tensorflow@0.9.0-1.2
+- pkg:maven/org.bytedeco.javacpp-presets/tensorflow@0.9.0-1.2?classifier=sources

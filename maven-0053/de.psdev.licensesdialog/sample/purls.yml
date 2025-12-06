@@ -8,3 +8,4 @@
 - pkg:maven/de.psdev.licensesdialog/sample@1.6.0?classifier=sources
 - pkg:maven/de.psdev.licensesdialog/sample@1.7.0?classifier=sources
 - pkg:maven/de.psdev.licensesdialog/sample@1.8.0?classifier=sources
+- pkg:maven/de.psdev.licensesdialog/sample@1.8.1?classifier=sources

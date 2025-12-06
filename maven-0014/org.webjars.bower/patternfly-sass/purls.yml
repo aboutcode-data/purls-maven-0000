@@ -1,0 +1,4 @@
+- pkg:maven/org.webjars.bower/patternfly-sass@2.10.0
+- pkg:maven/org.webjars.bower/patternfly-sass@2.10.0?classifier=sources
+- pkg:maven/org.webjars.bower/patternfly-sass@3.3.4
+- pkg:maven/org.webjars.bower/patternfly-sass@3.3.4?classifier=sources

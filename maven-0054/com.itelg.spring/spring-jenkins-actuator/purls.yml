@@ -1,0 +1,2 @@
+- pkg:maven/com.itelg.spring/spring-jenkins-actuator@0.1.0-RELEASE
+- pkg:maven/com.itelg.spring/spring-jenkins-actuator@0.1.0-RELEASE?classifier=sources

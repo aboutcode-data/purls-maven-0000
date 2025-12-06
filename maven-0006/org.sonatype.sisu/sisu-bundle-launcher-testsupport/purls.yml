@@ -1,2 +1,4 @@
 - pkg:maven/org.sonatype.sisu/sisu-bundle-launcher-testsupport@1.8
 - pkg:maven/org.sonatype.sisu/sisu-bundle-launcher-testsupport@1.8?classifier=sources
+- pkg:maven/org.sonatype.sisu/sisu-bundle-launcher-testsupport@1.9
+- pkg:maven/org.sonatype.sisu/sisu-bundle-launcher-testsupport@1.9?classifier=sources

@@ -1,0 +1,12 @@
+- pkg:maven/org.fissore.steroids/steroidmap@0.0.1
+- pkg:maven/org.fissore.steroids/steroidmap@0.0.1?classifier=sources
+- pkg:maven/org.fissore.steroids/steroidmap@0.0.2
+- pkg:maven/org.fissore.steroids/steroidmap@0.0.2?classifier=sources
+- pkg:maven/org.fissore.steroids/steroidmap@1.0.0
+- pkg:maven/org.fissore.steroids/steroidmap@1.0.0?classifier=sources
+- pkg:maven/org.fissore.steroids/steroidmap@1.1.0
+- pkg:maven/org.fissore.steroids/steroidmap@1.1.0?classifier=sources
+- pkg:maven/org.fissore.steroids/steroidmap@2.0.0
+- pkg:maven/org.fissore.steroids/steroidmap@2.0.0?classifier=sources
+- pkg:maven/org.fissore.steroids/steroidmap@2.1.0
+- pkg:maven/org.fissore.steroids/steroidmap@2.1.0?classifier=sources

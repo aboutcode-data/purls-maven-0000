@@ -1,0 +1,8 @@
+- pkg:maven/com.github.anotherjavacoder/TimberSE@0.1
+- pkg:maven/com.github.anotherjavacoder/TimberSE@0.1?classifier=sources
+- pkg:maven/com.github.anotherjavacoder/TimberSE@0.2
+- pkg:maven/com.github.anotherjavacoder/TimberSE@0.2?classifier=sources
+- pkg:maven/com.github.anotherjavacoder/TimberSE@0.3-ALPHA
+- pkg:maven/com.github.anotherjavacoder/TimberSE@0.3-ALPHA?classifier=sources
+- pkg:maven/com.github.anotherjavacoder/TimberSE@0.3.1
+- pkg:maven/com.github.anotherjavacoder/TimberSE@0.3.1?classifier=sources

@@ -1,6 +1,16 @@
+- pkg:maven/org.ancoron.postgresql/org.postgresql.osgi.test@8.4.702.jdbc4.1-rc1
+- pkg:maven/org.ancoron.postgresql/org.postgresql.osgi.test@8.4.702.jdbc4.1-rc2
+- pkg:maven/org.ancoron.postgresql/org.postgresql.osgi.test@8.4.702.jdbc4.1-rc3
+- pkg:maven/org.ancoron.postgresql/org.postgresql.osgi.test@8.4.702.jdbc4.1-rc4
 - pkg:maven/org.ancoron.postgresql/org.postgresql.osgi.test@8.4.702.jdbc4.1-rc5
 - pkg:maven/org.ancoron.postgresql/org.postgresql.osgi.test@8.4.702.jdbc4.1-rc6
 - pkg:maven/org.ancoron.postgresql/org.postgresql.osgi.test@8.4.702.jdbc4.1-rc7
+- pkg:maven/org.ancoron.postgresql/org.postgresql.osgi.test@9.1.901.jdbc4.1-rc1
+- pkg:maven/org.ancoron.postgresql/org.postgresql.osgi.test@9.1.901.jdbc4.1-rc2
+- pkg:maven/org.ancoron.postgresql/org.postgresql.osgi.test@9.1.901.jdbc4.1-rc3
+- pkg:maven/org.ancoron.postgresql/org.postgresql.osgi.test@9.1.901.jdbc4.1-rc4
+- pkg:maven/org.ancoron.postgresql/org.postgresql.osgi.test@9.1.901.jdbc4.1-rc5
+- pkg:maven/org.ancoron.postgresql/org.postgresql.osgi.test@9.1.901.jdbc4.1-rc6
 - pkg:maven/org.ancoron.postgresql/org.postgresql.osgi.test@9.1.901.jdbc4.1-rc7
 - pkg:maven/org.ancoron.postgresql/org.postgresql.osgi.test@9.1.901.jdbc4.1-rc8
 - pkg:maven/org.ancoron.postgresql/org.postgresql.osgi.test@9.1.901.jdbc4.1-rc9

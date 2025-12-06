@@ -1,0 +1,2 @@
+- pkg:maven/com.zappos/zappos-json@0.1-alpha
+- pkg:maven/com.zappos/zappos-json@0.1-alpha?classifier=sources

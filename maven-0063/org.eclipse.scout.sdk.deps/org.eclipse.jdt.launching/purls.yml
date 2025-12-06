@@ -1,0 +1,4 @@
+- pkg:maven/org.eclipse.scout.sdk.deps/org.eclipse.jdt.launching@3.8.0.v20150527-0946
+- pkg:maven/org.eclipse.scout.sdk.deps/org.eclipse.jdt.launching@3.8.0.v20150527-0946?classifier=sources
+- pkg:maven/org.eclipse.scout.sdk.deps/org.eclipse.jdt.launching@3.8.100.v20160505-0636
+- pkg:maven/org.eclipse.scout.sdk.deps/org.eclipse.jdt.launching@3.8.100.v20160505-0636?classifier=sources

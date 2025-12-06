@@ -1,0 +1,4 @@
+- pkg:maven/org.eclipse.scout.sdk.deps/org.eclipse.equinox.preferences@3.5.300.v20150408-1437
+- pkg:maven/org.eclipse.scout.sdk.deps/org.eclipse.equinox.preferences@3.5.300.v20150408-1437?classifier=sources
+- pkg:maven/org.eclipse.scout.sdk.deps/org.eclipse.equinox.preferences@3.6.0.v20160120-1756
+- pkg:maven/org.eclipse.scout.sdk.deps/org.eclipse.equinox.preferences@3.6.0.v20160120-1756?classifier=sources

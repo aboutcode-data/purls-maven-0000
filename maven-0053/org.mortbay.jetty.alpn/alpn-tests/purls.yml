@@ -13,3 +13,6 @@
 - pkg:maven/org.mortbay.jetty.alpn/alpn-tests@8.1.4.v20150727
 - pkg:maven/org.mortbay.jetty.alpn/alpn-tests@8.1.5.v20150921
 - pkg:maven/org.mortbay.jetty.alpn/alpn-tests@8.1.6.v20151105
+- pkg:maven/org.mortbay.jetty.alpn/alpn-tests@8.1.7.v20160121
+- pkg:maven/org.mortbay.jetty.alpn/alpn-tests@8.1.8.v20160420
+- pkg:maven/org.mortbay.jetty.alpn/alpn-tests@8.1.9.v20160720

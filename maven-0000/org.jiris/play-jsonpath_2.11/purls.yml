@@ -1,0 +1,2 @@
+- pkg:maven/org.jiris/play-jsonpath_2.11@1.0
+- pkg:maven/org.jiris/play-jsonpath_2.11@1.0?classifier=sources

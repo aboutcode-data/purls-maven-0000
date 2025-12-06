@@ -1,0 +1,16 @@
+- pkg:maven/de.adorsys.oauth/oauth-login-theme@0.10?type=war
+- pkg:maven/de.adorsys.oauth/oauth-login-theme@0.11?type=war
+- pkg:maven/de.adorsys.oauth/oauth-login-theme@0.12?type=war
+- pkg:maven/de.adorsys.oauth/oauth-login-theme@0.13?type=war
+- pkg:maven/de.adorsys.oauth/oauth-login-theme@0.14?type=war
+- pkg:maven/de.adorsys.oauth/oauth-login-theme@0.15?type=war
+- pkg:maven/de.adorsys.oauth/oauth-login-theme@0.16?type=war
+- pkg:maven/de.adorsys.oauth/oauth-login-theme@0.17?type=war
+- pkg:maven/de.adorsys.oauth/oauth-login-theme@0.19?type=war
+- pkg:maven/de.adorsys.oauth/oauth-login-theme@0.20?type=war
+- pkg:maven/de.adorsys.oauth/oauth-login-theme@0.21?type=war
+- pkg:maven/de.adorsys.oauth/oauth-login-theme@0.22?type=war
+- pkg:maven/de.adorsys.oauth/oauth-login-theme@0.23?type=war
+- pkg:maven/de.adorsys.oauth/oauth-login-theme@0.24?type=war
+- pkg:maven/de.adorsys.oauth/oauth-login-theme@0.25?type=war
+- pkg:maven/de.adorsys.oauth/oauth-login-theme@0.26?type=war

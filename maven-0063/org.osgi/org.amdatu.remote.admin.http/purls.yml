@@ -1,0 +1,2 @@
+- pkg:maven/org.osgi/org.amdatu.remote.admin.http@0.1.2
+- pkg:maven/org.osgi/org.amdatu.remote.admin.http@0.1.2?classifier=sources

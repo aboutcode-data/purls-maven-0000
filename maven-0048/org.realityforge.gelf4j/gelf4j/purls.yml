@@ -1,3 +1,5 @@
+- pkg:maven/org.realityforge.gelf4j/gelf4j@1.10
+- pkg:maven/org.realityforge.gelf4j/gelf4j@1.10?classifier=sources
 - pkg:maven/org.realityforge.gelf4j/gelf4j@1.7
 - pkg:maven/org.realityforge.gelf4j/gelf4j@1.7?classifier=sources
 - pkg:maven/org.realityforge.gelf4j/gelf4j@1.8

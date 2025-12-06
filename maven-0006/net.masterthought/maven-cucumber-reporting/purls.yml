@@ -14,3 +14,17 @@
 - pkg:maven/net.masterthought/maven-cucumber-reporting@0.0.8?classifier=sources
 - pkg:maven/net.masterthought/maven-cucumber-reporting@0.1.0
 - pkg:maven/net.masterthought/maven-cucumber-reporting@0.1.0?classifier=sources
+- pkg:maven/net.masterthought/maven-cucumber-reporting@2.0.0
+- pkg:maven/net.masterthought/maven-cucumber-reporting@2.0.0?classifier=sources
+- pkg:maven/net.masterthought/maven-cucumber-reporting@2.3.0
+- pkg:maven/net.masterthought/maven-cucumber-reporting@2.3.0?classifier=sources
+- pkg:maven/net.masterthought/maven-cucumber-reporting@2.4.0
+- pkg:maven/net.masterthought/maven-cucumber-reporting@2.4.0?classifier=sources
+- pkg:maven/net.masterthought/maven-cucumber-reporting@2.7.0
+- pkg:maven/net.masterthought/maven-cucumber-reporting@2.7.0?classifier=sources
+- pkg:maven/net.masterthought/maven-cucumber-reporting@2.8.0
+- pkg:maven/net.masterthought/maven-cucumber-reporting@2.8.0?classifier=sources
+- pkg:maven/net.masterthought/maven-cucumber-reporting@3.0.0
+- pkg:maven/net.masterthought/maven-cucumber-reporting@3.0.0?classifier=sources
+- pkg:maven/net.masterthought/maven-cucumber-reporting@3.1.0
+- pkg:maven/net.masterthought/maven-cucumber-reporting@3.1.0?classifier=sources

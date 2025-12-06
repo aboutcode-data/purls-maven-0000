@@ -7,3 +7,5 @@
 - pkg:maven/org.webjars/bootstrap-timepicker@0.2.3-1
 - pkg:maven/org.webjars/bootstrap-timepicker@0.2.3-1?classifier=sources
 - pkg:maven/org.webjars/bootstrap-timepicker@0.2.3?classifier=sources
+- pkg:maven/org.webjars/bootstrap-timepicker@0.5.2
+- pkg:maven/org.webjars/bootstrap-timepicker@0.5.2?classifier=sources

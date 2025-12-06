@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.taverna.osgi/taverna-maven-plugin@0.2.1-incubating
+- pkg:maven/org.apache.taverna.osgi/taverna-maven-plugin@0.2.1-incubating?classifier=sources

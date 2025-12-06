@@ -1,0 +1,2 @@
+- pkg:maven/org.tinygroup/org.tinygroup.ui.videoplayer@2.3.4
+- pkg:maven/org.tinygroup/org.tinygroup.ui.videoplayer@2.3.4?classifier=sources

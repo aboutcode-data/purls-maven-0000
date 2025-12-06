@@ -1,0 +1,2 @@
+- pkg:maven/com.vlkan/flatbuffers@1.2.0-3f79e055
+- pkg:maven/com.vlkan/flatbuffers@1.2.0-3f79e055?classifier=sources

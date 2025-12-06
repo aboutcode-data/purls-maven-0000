@@ -1,0 +1,6 @@
+- pkg:maven/com.typesafe.akka/akka-persistence-dynamodb_2.11@1.0.0
+- pkg:maven/com.typesafe.akka/akka-persistence-dynamodb_2.11@1.0.0-RC3
+- pkg:maven/com.typesafe.akka/akka-persistence-dynamodb_2.11@1.0.0-RC3?classifier=sources
+- pkg:maven/com.typesafe.akka/akka-persistence-dynamodb_2.11@1.0.0-RC4
+- pkg:maven/com.typesafe.akka/akka-persistence-dynamodb_2.11@1.0.0-RC4?classifier=sources
+- pkg:maven/com.typesafe.akka/akka-persistence-dynamodb_2.11@1.0.0?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/com.unseenspace.junit/webapp-rule@0.1
+- pkg:maven/com.unseenspace.junit/webapp-rule@0.1.1
+- pkg:maven/com.unseenspace.junit/webapp-rule@0.1.1?classifier=sources
+- pkg:maven/com.unseenspace.junit/webapp-rule@0.1?classifier=sources

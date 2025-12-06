@@ -1,0 +1,2 @@
+- pkg:maven/net.emaze/emaze-csv@8.1
+- pkg:maven/net.emaze/emaze-csv@8.1?classifier=sources

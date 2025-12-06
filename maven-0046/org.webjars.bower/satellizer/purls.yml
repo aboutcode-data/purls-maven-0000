@@ -2,3 +2,11 @@
 - pkg:maven/org.webjars.bower/satellizer@0.12.4?classifier=sources
 - pkg:maven/org.webjars.bower/satellizer@0.12.5
 - pkg:maven/org.webjars.bower/satellizer@0.12.5?classifier=sources
+- pkg:maven/org.webjars.bower/satellizer@0.13.4
+- pkg:maven/org.webjars.bower/satellizer@0.13.4?classifier=sources
+- pkg:maven/org.webjars.bower/satellizer@0.14.0
+- pkg:maven/org.webjars.bower/satellizer@0.14.0?classifier=sources
+- pkg:maven/org.webjars.bower/satellizer@0.14.1
+- pkg:maven/org.webjars.bower/satellizer@0.14.1?classifier=sources
+- pkg:maven/org.webjars.bower/satellizer@0.15.4
+- pkg:maven/org.webjars.bower/satellizer@0.15.4?classifier=sources

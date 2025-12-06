@@ -1,2 +1,4 @@
 - pkg:maven/com.qualinsight.core/qualinsight-core-licenseheaders@1.0.0
 - pkg:maven/com.qualinsight.core/qualinsight-core-licenseheaders@1.0.0?classifier=sources
+- pkg:maven/com.qualinsight.core/qualinsight-core-licenseheaders@2.0.0
+- pkg:maven/com.qualinsight.core/qualinsight-core-licenseheaders@2.0.0?classifier=sources

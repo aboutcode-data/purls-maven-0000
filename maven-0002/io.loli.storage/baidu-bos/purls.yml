@@ -1,0 +1,2 @@
+- pkg:maven/io.loli.storage/baidu-bos@0.0.1
+- pkg:maven/io.loli.storage/baidu-bos@0.0.1?classifier=sources

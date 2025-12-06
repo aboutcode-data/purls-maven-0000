@@ -1,0 +1,6 @@
+- pkg:maven/org.kevoree.mwg/corejs@1
+- pkg:maven/org.kevoree.mwg/corejs@2
+- pkg:maven/org.kevoree.mwg/corejs@3
+- pkg:maven/org.kevoree.mwg/corejs@4
+- pkg:maven/org.kevoree.mwg/corejs@5
+- pkg:maven/org.kevoree.mwg/corejs@6

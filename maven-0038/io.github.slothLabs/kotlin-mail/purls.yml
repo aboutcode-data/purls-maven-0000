@@ -1,0 +1,4 @@
+- pkg:maven/io.github.slothLabs/kotlin-mail@0.1.0
+- pkg:maven/io.github.slothLabs/kotlin-mail@0.1.0-RC6
+- pkg:maven/io.github.slothLabs/kotlin-mail@0.1.0-RC6?classifier=sources
+- pkg:maven/io.github.slothLabs/kotlin-mail@0.1.0?classifier=sources

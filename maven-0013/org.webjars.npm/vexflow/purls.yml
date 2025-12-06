@@ -1,2 +1,4 @@
 - pkg:maven/org.webjars.npm/vexflow@1.2.36
 - pkg:maven/org.webjars.npm/vexflow@1.2.36?classifier=sources
+- pkg:maven/org.webjars.npm/vexflow@1.2.41
+- pkg:maven/org.webjars.npm/vexflow@1.2.41?classifier=sources

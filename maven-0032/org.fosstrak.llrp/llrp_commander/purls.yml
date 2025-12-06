@@ -1,0 +1,2 @@
+- pkg:maven/org.fosstrak.llrp/llrp_commander@1.1.0
+- pkg:maven/org.fosstrak.llrp/llrp_commander@1.1.0?classifier=sources

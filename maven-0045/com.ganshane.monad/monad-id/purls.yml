@@ -4,3 +4,5 @@
 - pkg:maven/com.ganshane.monad/monad-id@5.0.17?classifier=sources
 - pkg:maven/com.ganshane.monad/monad-id@5.0.18
 - pkg:maven/com.ganshane.monad/monad-id@5.0.18?classifier=sources
+- pkg:maven/com.ganshane.monad/monad-id@5.1.0
+- pkg:maven/com.ganshane.monad/monad-id@5.1.0?classifier=sources

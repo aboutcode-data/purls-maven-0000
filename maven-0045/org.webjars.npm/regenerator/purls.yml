@@ -2,6 +2,8 @@
 - pkg:maven/org.webjars.npm/regenerator@0.8.26?classifier=sources
 - pkg:maven/org.webjars.npm/regenerator@0.8.30
 - pkg:maven/org.webjars.npm/regenerator@0.8.30?classifier=sources
+- pkg:maven/org.webjars.npm/regenerator@0.8.34
+- pkg:maven/org.webjars.npm/regenerator@0.8.34?classifier=sources
 - pkg:maven/org.webjars.npm/regenerator@0.8.35
 - pkg:maven/org.webjars.npm/regenerator@0.8.35?classifier=sources
 - pkg:maven/org.webjars.npm/regenerator@0.8.36

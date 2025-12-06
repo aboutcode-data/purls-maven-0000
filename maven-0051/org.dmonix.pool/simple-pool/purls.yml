@@ -1,0 +1,2 @@
+- pkg:maven/org.dmonix.pool/simple-pool@1.0
+- pkg:maven/org.dmonix.pool/simple-pool@1.0?classifier=sources

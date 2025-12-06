@@ -8,3 +8,6 @@
 - pkg:maven/org.jboss.maven.plugins/bom-builder-maven-plugin@1.0.0.Beta3?classifier=sources
 - pkg:maven/org.jboss.maven.plugins/bom-builder-maven-plugin@1.0.0?classifier=source-release&type=zip
 - pkg:maven/org.jboss.maven.plugins/bom-builder-maven-plugin@1.0.0?classifier=sources
+- pkg:maven/org.jboss.maven.plugins/bom-builder-maven-plugin@1.1.0
+- pkg:maven/org.jboss.maven.plugins/bom-builder-maven-plugin@1.1.0?classifier=source-release&type=zip
+- pkg:maven/org.jboss.maven.plugins/bom-builder-maven-plugin@1.1.0?classifier=sources

@@ -1,2 +1,8 @@
 - pkg:maven/org.webjars.npm/engine.io@1.5.2
 - pkg:maven/org.webjars.npm/engine.io@1.5.2?classifier=sources
+- pkg:maven/org.webjars.npm/engine.io@1.5.4
+- pkg:maven/org.webjars.npm/engine.io@1.5.4?classifier=sources
+- pkg:maven/org.webjars.npm/engine.io@1.6.11
+- pkg:maven/org.webjars.npm/engine.io@1.6.11?classifier=sources
+- pkg:maven/org.webjars.npm/engine.io@1.6.9
+- pkg:maven/org.webjars.npm/engine.io@1.6.9?classifier=sources
