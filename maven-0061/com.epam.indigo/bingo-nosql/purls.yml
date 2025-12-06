@@ -1,0 +1,2 @@
+- pkg:maven/com.epam.indigo/bingo-nosql@1.2.2beta-r13
+- pkg:maven/com.epam.indigo/bingo-nosql@1.2.2beta-r13?classifier=sources

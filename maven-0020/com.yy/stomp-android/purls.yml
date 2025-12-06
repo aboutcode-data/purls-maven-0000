@@ -1,0 +1,2 @@
+- pkg:maven/com.yy/stomp-android@1.0.0
+- pkg:maven/com.yy/stomp-android@1.0.0?classifier=sources

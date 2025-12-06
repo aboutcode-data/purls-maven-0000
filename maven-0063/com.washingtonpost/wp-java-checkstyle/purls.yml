@@ -1,0 +1,2 @@
+- pkg:maven/com.washingtonpost/wp-java-checkstyle@2.0
+- pkg:maven/com.washingtonpost/wp-java-checkstyle@2.0?classifier=sources

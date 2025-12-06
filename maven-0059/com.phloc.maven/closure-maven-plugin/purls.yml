@@ -1,0 +1,2 @@
+- pkg:maven/com.phloc.maven/closure-maven-plugin@1.0.10
+- pkg:maven/com.phloc.maven/closure-maven-plugin@1.0.10?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/com.rhcloud/timemanager-timer@1.0
+- pkg:maven/com.rhcloud/timemanager-timer@1.0?classifier=sources
+- pkg:maven/com.rhcloud/timemanager-timer@1.6-RELEASE
+- pkg:maven/com.rhcloud/timemanager-timer@1.6-RELEASE?classifier=sources

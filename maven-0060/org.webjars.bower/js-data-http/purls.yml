@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.bower/js-data-http@2.1.2
+- pkg:maven/org.webjars.bower/js-data-http@2.1.2?classifier=sources

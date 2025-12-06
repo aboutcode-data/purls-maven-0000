@@ -2,3 +2,5 @@
 - pkg:maven/edu.gmu.cs/ecj@20.0?classifier=sources
 - pkg:maven/edu.gmu.cs/ecj@21
 - pkg:maven/edu.gmu.cs/ecj@21?classifier=sources
+- pkg:maven/edu.gmu.cs/ecj@22
+- pkg:maven/edu.gmu.cs/ecj@22?classifier=sources

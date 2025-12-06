@@ -1,0 +1,2 @@
+- pkg:maven/io.probedock.client/probedock-itf@0.1.0
+- pkg:maven/io.probedock.client/probedock-itf@0.1.0?classifier=sources

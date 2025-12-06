@@ -1,0 +1,4 @@
+- pkg:maven/org.everit.osgi/org.everit.osgi.props.ri@1.0.0
+- pkg:maven/org.everit.osgi/org.everit.osgi.props.ri@1.0.0?classifier=sources
+- pkg:maven/org.everit.osgi/org.everit.osgi.props.ri@2.0.0
+- pkg:maven/org.everit.osgi/org.everit.osgi.props.ri@2.0.0?classifier=sources

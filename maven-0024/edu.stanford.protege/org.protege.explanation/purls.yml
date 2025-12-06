@@ -1,0 +1,4 @@
+- pkg:maven/edu.stanford.protege/org.protege.explanation@1.0.0
+- pkg:maven/edu.stanford.protege/org.protege.explanation@1.0.0?classifier=sources
+- pkg:maven/edu.stanford.protege/org.protege.explanation@2.0.0
+- pkg:maven/edu.stanford.protege/org.protege.explanation@2.0.0?classifier=sources

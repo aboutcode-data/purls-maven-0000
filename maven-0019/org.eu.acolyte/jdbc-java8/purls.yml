@@ -1,0 +1,4 @@
+- pkg:maven/org.eu.acolyte/jdbc-java8@1.0.33-j7p
+- pkg:maven/org.eu.acolyte/jdbc-java8@1.0.33-j7p?classifier=sources
+- pkg:maven/org.eu.acolyte/jdbc-java8@1.0.34-j7p
+- pkg:maven/org.eu.acolyte/jdbc-java8@1.0.34-j7p?classifier=sources

@@ -1,0 +1,12 @@
+- pkg:maven/org.vibur/vibur-dbcp-hibernate4-012@1.1.0
+- pkg:maven/org.vibur/vibur-dbcp-hibernate4-012@1.1.0?classifier=sources
+- pkg:maven/org.vibur/vibur-dbcp-hibernate4-012@1.1.1
+- pkg:maven/org.vibur/vibur-dbcp-hibernate4-012@1.1.1?classifier=sources
+- pkg:maven/org.vibur/vibur-dbcp-hibernate4-012@1.2.0
+- pkg:maven/org.vibur/vibur-dbcp-hibernate4-012@1.2.0?classifier=sources
+- pkg:maven/org.vibur/vibur-dbcp-hibernate4-012@3.0
+- pkg:maven/org.vibur/vibur-dbcp-hibernate4-012@3.0?classifier=sources
+- pkg:maven/org.vibur/vibur-dbcp-hibernate4-012@4.0
+- pkg:maven/org.vibur/vibur-dbcp-hibernate4-012@4.0?classifier=sources
+- pkg:maven/org.vibur/vibur-dbcp-hibernate4-012@5.0
+- pkg:maven/org.vibur/vibur-dbcp-hibernate4-012@5.0?classifier=sources

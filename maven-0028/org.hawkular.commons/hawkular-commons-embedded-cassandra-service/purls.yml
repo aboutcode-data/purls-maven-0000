@@ -1,0 +1,5 @@
+- pkg:maven/org.hawkular.commons/hawkular-commons-embedded-cassandra-service@0.1.1.Final?classifier=sources
+- pkg:maven/org.hawkular.commons/hawkular-commons-embedded-cassandra-service@0.2.0.Final?classifier=sources
+- pkg:maven/org.hawkular.commons/hawkular-commons-embedded-cassandra-service@0.2.1.Final?classifier=sources
+- pkg:maven/org.hawkular.commons/hawkular-commons-embedded-cassandra-service@0.2.2.Final?classifier=sources
+- pkg:maven/org.hawkular.commons/hawkular-commons-embedded-cassandra-service@0.2.3.Final?classifier=sources

@@ -2,3 +2,7 @@
 - pkg:maven/me.grantland/autofittextview@0.1.0?type=aar
 - pkg:maven/me.grantland/autofittextview@0.1.1?classifier=sources
 - pkg:maven/me.grantland/autofittextview@0.1.1?type=aar
+- pkg:maven/me.grantland/autofittextview@0.2.0?classifier=sources
+- pkg:maven/me.grantland/autofittextview@0.2.0?type=aar
+- pkg:maven/me.grantland/autofittextview@0.2.1?classifier=sources
+- pkg:maven/me.grantland/autofittextview@0.2.1?type=aar

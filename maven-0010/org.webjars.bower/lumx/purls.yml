@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.bower/lumx@0.3.94
+- pkg:maven/org.webjars.bower/lumx@0.3.94?classifier=sources

@@ -1,0 +1,10 @@
+- pkg:maven/uy.klutter/klutter-reflect-lite-jdk6@0.7.0
+- pkg:maven/uy.klutter/klutter-reflect-lite-jdk6@0.7.0?classifier=sources
+- pkg:maven/uy.klutter/klutter-reflect-lite-jdk6@0.7.1
+- pkg:maven/uy.klutter/klutter-reflect-lite-jdk6@0.7.1?classifier=sources
+- pkg:maven/uy.klutter/klutter-reflect-lite-jdk6@0.7.2
+- pkg:maven/uy.klutter/klutter-reflect-lite-jdk6@0.7.2?classifier=sources
+- pkg:maven/uy.klutter/klutter-reflect-lite-jdk6@0.8.0
+- pkg:maven/uy.klutter/klutter-reflect-lite-jdk6@0.8.0?classifier=sources
+- pkg:maven/uy.klutter/klutter-reflect-lite-jdk6@0.8.1
+- pkg:maven/uy.klutter/klutter-reflect-lite-jdk6@0.8.1?classifier=sources

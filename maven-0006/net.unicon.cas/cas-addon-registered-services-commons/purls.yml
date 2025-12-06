@@ -1,0 +1,8 @@
+- pkg:maven/net.unicon.cas/cas-addon-registered-services-commons@1.0.0-GA
+- pkg:maven/net.unicon.cas/cas-addon-registered-services-commons@1.0.0-GA?classifier=sources
+- pkg:maven/net.unicon.cas/cas-addon-registered-services-commons@1.0.0-RC1
+- pkg:maven/net.unicon.cas/cas-addon-registered-services-commons@1.0.0-RC1?classifier=sources
+- pkg:maven/net.unicon.cas/cas-addon-registered-services-commons@1.0.0.ALFA1
+- pkg:maven/net.unicon.cas/cas-addon-registered-services-commons@1.0.0.ALFA1?classifier=sources
+- pkg:maven/net.unicon.cas/cas-addon-registered-services-commons@1.0.0.RC1
+- pkg:maven/net.unicon.cas/cas-addon-registered-services-commons@1.0.0.RC1?classifier=sources

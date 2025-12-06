@@ -16,3 +16,5 @@
 - pkg:maven/nl.topicus/whighcharts@6.2.0?classifier=sources
 - pkg:maven/nl.topicus/whighcharts@6.9.1
 - pkg:maven/nl.topicus/whighcharts@6.9.1?classifier=sources
+- pkg:maven/nl.topicus/whighcharts@7.0.0
+- pkg:maven/nl.topicus/whighcharts@7.0.0?classifier=sources

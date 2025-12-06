@@ -1,0 +1,4 @@
+- pkg:maven/com.thenewentity/dropwizard-multi-config@0.1.12
+- pkg:maven/com.thenewentity/dropwizard-multi-config@0.1.12?classifier=sources
+- pkg:maven/com.thenewentity/dropwizard-multi-config@0.2.15
+- pkg:maven/com.thenewentity/dropwizard-multi-config@0.2.15?classifier=sources

@@ -1,2 +1,8 @@
 - pkg:maven/com.sappenin.objectify/objectify-utils@2.3.5
 - pkg:maven/com.sappenin.objectify/objectify-utils@2.3.5?classifier=sources
+- pkg:maven/com.sappenin.objectify/objectify-utils@2.3.7
+- pkg:maven/com.sappenin.objectify/objectify-utils@2.3.7?classifier=sources
+- pkg:maven/com.sappenin.objectify/objectify-utils@5.0.2
+- pkg:maven/com.sappenin.objectify/objectify-utils@5.0.2?classifier=sources
+- pkg:maven/com.sappenin.objectify/objectify-utils@5.1.3
+- pkg:maven/com.sappenin.objectify/objectify-utils@5.1.3?classifier=sources

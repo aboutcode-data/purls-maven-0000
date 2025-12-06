@@ -1,0 +1,4 @@
+- pkg:maven/com.sparkjava/spark-template-handlebars@1.0.0
+- pkg:maven/com.sparkjava/spark-template-handlebars@1.0.0?classifier=sources
+- pkg:maven/com.sparkjava/spark-template-handlebars@2.3
+- pkg:maven/com.sparkjava/spark-template-handlebars@2.3?classifier=sources

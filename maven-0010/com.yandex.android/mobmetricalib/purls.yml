@@ -2,3 +2,15 @@
 - pkg:maven/com.yandex.android/mobmetricalib@1.0?classifier=sources
 - pkg:maven/com.yandex.android/mobmetricalib@1.2
 - pkg:maven/com.yandex.android/mobmetricalib@1.2?classifier=sources
+- pkg:maven/com.yandex.android/mobmetricalib@1.60
+- pkg:maven/com.yandex.android/mobmetricalib@1.60?classifier=sources
+- pkg:maven/com.yandex.android/mobmetricalib@1.65
+- pkg:maven/com.yandex.android/mobmetricalib@1.65?classifier=sources
+- pkg:maven/com.yandex.android/mobmetricalib@1.82
+- pkg:maven/com.yandex.android/mobmetricalib@1.82?classifier=sources
+- pkg:maven/com.yandex.android/mobmetricalib@2.00
+- pkg:maven/com.yandex.android/mobmetricalib@2.00?classifier=sources
+- pkg:maven/com.yandex.android/mobmetricalib@2.20?classifier=sources
+- pkg:maven/com.yandex.android/mobmetricalib@2.20?type=aar
+- pkg:maven/com.yandex.android/mobmetricalib@2.21?classifier=sources
+- pkg:maven/com.yandex.android/mobmetricalib@2.21?type=aar

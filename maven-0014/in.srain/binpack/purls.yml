@@ -1,0 +1,2 @@
+- pkg:maven/in.srain/binpack@1.0.1
+- pkg:maven/in.srain/binpack@1.0.1?classifier=sources

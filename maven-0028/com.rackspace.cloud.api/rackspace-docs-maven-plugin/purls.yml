@@ -1,0 +1,2 @@
+- pkg:maven/com.rackspace.cloud.api/rackspace-docs-maven-plugin@2.1.5
+- pkg:maven/com.rackspace.cloud.api/rackspace-docs-maven-plugin@2.1.5?classifier=sources

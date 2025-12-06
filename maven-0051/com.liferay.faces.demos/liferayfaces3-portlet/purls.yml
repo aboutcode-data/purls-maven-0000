@@ -1,0 +1,2 @@
+- pkg:maven/com.liferay.faces.demos/liferayfaces3-portlet@3.2.5-ga6?classifier=sources
+- pkg:maven/com.liferay.faces.demos/liferayfaces3-portlet@3.2.5-ga6?type=war

@@ -14,3 +14,5 @@
 - pkg:maven/org.dihedron.commons/commons@0.0.7?classifier=sources
 - pkg:maven/org.dihedron.commons/commons@0.1.0
 - pkg:maven/org.dihedron.commons/commons@0.1.0?classifier=sources
+- pkg:maven/org.dihedron.commons/commons@0.1.1
+- pkg:maven/org.dihedron.commons/commons@0.1.1?classifier=sources

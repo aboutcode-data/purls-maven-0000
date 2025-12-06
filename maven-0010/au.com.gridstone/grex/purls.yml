@@ -1,0 +1,8 @@
+- pkg:maven/au.com.gridstone/grex@1.0.0
+- pkg:maven/au.com.gridstone/grex@1.0.0?classifier=sources
+- pkg:maven/au.com.gridstone/grex@1.1.0
+- pkg:maven/au.com.gridstone/grex@1.1.0?classifier=sources
+- pkg:maven/au.com.gridstone/grex@2.0.0
+- pkg:maven/au.com.gridstone/grex@2.0.0?classifier=sources
+- pkg:maven/au.com.gridstone/grex@3.0.0
+- pkg:maven/au.com.gridstone/grex@3.0.0?classifier=sources

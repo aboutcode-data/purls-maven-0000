@@ -1,0 +1,2 @@
+- pkg:maven/com.ibeetl/btjson@0.94
+- pkg:maven/com.ibeetl/btjson@0.94?classifier=sources

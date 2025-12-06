@@ -1,0 +1,4 @@
+- pkg:maven/de.timroes/aXMLRPC@1.7.3
+- pkg:maven/de.timroes/aXMLRPC@1.7.3?classifier=sources
+- pkg:maven/de.timroes/aXMLRPC@1.8.0
+- pkg:maven/de.timroes/aXMLRPC@1.8.0?classifier=sources

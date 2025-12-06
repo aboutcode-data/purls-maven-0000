@@ -1,0 +1,4 @@
+- pkg:maven/org.hibersap/sapjco3@3.0
+- pkg:maven/org.hibersap/sapjco3@3.0-RC02
+- pkg:maven/org.hibersap/sapjco3@3.0-RC02?classifier=sources
+- pkg:maven/org.hibersap/sapjco3@3.0?classifier=sources

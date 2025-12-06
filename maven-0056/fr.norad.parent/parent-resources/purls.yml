@@ -1,2 +1,4 @@
 - pkg:maven/fr.norad.parent/parent-resources@1.18
 - pkg:maven/fr.norad.parent/parent-resources@1.18?classifier=sources
+- pkg:maven/fr.norad.parent/parent-resources@1.19
+- pkg:maven/fr.norad.parent/parent-resources@1.19?classifier=sources

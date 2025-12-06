@@ -8,3 +8,5 @@
 - pkg:maven/net.ftlines.wicket-source/wicket-source@1.5.0_06?classifier=sources
 - pkg:maven/net.ftlines.wicket-source/wicket-source@6.0.0.8
 - pkg:maven/net.ftlines.wicket-source/wicket-source@6.0.0.8?classifier=sources
+- pkg:maven/net.ftlines.wicket-source/wicket-source@7.0.0
+- pkg:maven/net.ftlines.wicket-source/wicket-source@7.0.0?classifier=sources

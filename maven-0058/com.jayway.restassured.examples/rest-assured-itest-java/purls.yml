@@ -27,3 +27,11 @@
 - pkg:maven/com.jayway.restassured.examples/rest-assured-itest-java@2.1.0
 - pkg:maven/com.jayway.restassured.examples/rest-assured-itest-java@2.2.0
 - pkg:maven/com.jayway.restassured.examples/rest-assured-itest-java@2.3.1
+- pkg:maven/com.jayway.restassured.examples/rest-assured-itest-java@2.3.2
+- pkg:maven/com.jayway.restassured.examples/rest-assured-itest-java@2.3.3
+- pkg:maven/com.jayway.restassured.examples/rest-assured-itest-java@2.3.4
+- pkg:maven/com.jayway.restassured.examples/rest-assured-itest-java@2.4.0
+- pkg:maven/com.jayway.restassured.examples/rest-assured-itest-java@2.4.1
+- pkg:maven/com.jayway.restassured.examples/rest-assured-itest-java@2.5.0
+- pkg:maven/com.jayway.restassured.examples/rest-assured-itest-java@2.6.0
+- pkg:maven/com.jayway.restassured.examples/rest-assured-itest-java@2.7.0

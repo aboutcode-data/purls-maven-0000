@@ -1,3 +1,10 @@
 - pkg:maven/com.strategicgains.archetype/restexpress-cassandra@1.10?classifier=sources
+- pkg:maven/com.strategicgains.archetype/restexpress-cassandra@1.11?classifier=sources
+- pkg:maven/com.strategicgains.archetype/restexpress-cassandra@1.12?classifier=sources
+- pkg:maven/com.strategicgains.archetype/restexpress-cassandra@1.13?classifier=sources
+- pkg:maven/com.strategicgains.archetype/restexpress-cassandra@1.14?classifier=sources
+- pkg:maven/com.strategicgains.archetype/restexpress-cassandra@1.15?classifier=sources
+- pkg:maven/com.strategicgains.archetype/restexpress-cassandra@1.16?classifier=sources
+- pkg:maven/com.strategicgains.archetype/restexpress-cassandra@1.17?classifier=sources
 - pkg:maven/com.strategicgains.archetype/restexpress-cassandra@1.8?classifier=sources
 - pkg:maven/com.strategicgains.archetype/restexpress-cassandra@1.9?classifier=sources

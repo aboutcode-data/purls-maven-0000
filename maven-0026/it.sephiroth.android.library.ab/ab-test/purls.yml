@@ -1,0 +1,4 @@
+- pkg:maven/it.sephiroth.android.library.ab/ab-test@2.0.3?classifier=sources
+- pkg:maven/it.sephiroth.android.library.ab/ab-test@2.0.3?type=aar
+- pkg:maven/it.sephiroth.android.library.ab/ab-test@2.0.4
+- pkg:maven/it.sephiroth.android.library.ab/ab-test@2.0.5?type=aar

@@ -1,0 +1,2 @@
+- pkg:maven/de.hhu.stups/sablecc@3.2.10
+- pkg:maven/de.hhu.stups/sablecc@3.2.10?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/fr.jcgay.log4j/log4j-color@1.0
+- pkg:maven/fr.jcgay.log4j/log4j-color@1.0?classifier=sources

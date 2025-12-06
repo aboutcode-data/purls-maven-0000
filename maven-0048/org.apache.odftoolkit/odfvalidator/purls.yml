@@ -1,2 +1,4 @@
 - pkg:maven/org.apache.odftoolkit/odfvalidator@1.1.5-incubating?classifier=sources
 - pkg:maven/org.apache.odftoolkit/odfvalidator@1.1.5-incubating?type=war
+- pkg:maven/org.apache.odftoolkit/odfvalidator@1.1.7-incubating?classifier=sources
+- pkg:maven/org.apache.odftoolkit/odfvalidator@1.1.7-incubating?type=war

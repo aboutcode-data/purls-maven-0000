@@ -1,0 +1,6 @@
+- pkg:maven/com.github.intel-hadoop/gearpump-experiments-kafka-hbase-pipeline_2.11@0.3.4
+- pkg:maven/com.github.intel-hadoop/gearpump-experiments-kafka-hbase-pipeline_2.11@0.3.4?classifier=sources
+- pkg:maven/com.github.intel-hadoop/gearpump-experiments-kafka-hbase-pipeline_2.11@0.3.6
+- pkg:maven/com.github.intel-hadoop/gearpump-experiments-kafka-hbase-pipeline_2.11@0.3.6?classifier=sources
+- pkg:maven/com.github.intel-hadoop/gearpump-experiments-kafka-hbase-pipeline_2.11@0.3.7
+- pkg:maven/com.github.intel-hadoop/gearpump-experiments-kafka-hbase-pipeline_2.11@0.3.7?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/com.xjeffrose/xio2@0.10.0
+- pkg:maven/com.xjeffrose/xio2@0.10.0?classifier=sources
+- pkg:maven/com.xjeffrose/xio2@0.9.6
+- pkg:maven/com.xjeffrose/xio2@0.9.6?classifier=sources

@@ -4,3 +4,5 @@
 - pkg:maven/net.databinder.conscript/conscript_2.9.2@0.4.3?classifier=sources
 - pkg:maven/net.databinder.conscript/conscript_2.9.2@0.4.4
 - pkg:maven/net.databinder.conscript/conscript_2.9.2@0.4.4?classifier=sources
+- pkg:maven/net.databinder.conscript/conscript_2.9.2@0.4.5-beta1
+- pkg:maven/net.databinder.conscript/conscript_2.9.2@0.4.5-beta1?classifier=sources

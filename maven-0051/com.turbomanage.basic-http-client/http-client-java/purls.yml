@@ -1,0 +1,2 @@
+- pkg:maven/com.turbomanage.basic-http-client/http-client-java@0.89
+- pkg:maven/com.turbomanage.basic-http-client/http-client-java@0.89?classifier=sources

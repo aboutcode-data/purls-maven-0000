@@ -1,0 +1,4 @@
+- pkg:maven/com.io7m.jsx/io7m-jsx-documentation@0.3.0?classifier=sources
+- pkg:maven/com.io7m.jsx/io7m-jsx-documentation@0.3.0?type=zip
+- pkg:maven/com.io7m.jsx/io7m-jsx-documentation@0.4.0?classifier=sources
+- pkg:maven/com.io7m.jsx/io7m-jsx-documentation@0.4.0?type=zip

@@ -1,0 +1,2 @@
+- pkg:maven/org.tinygroup/org.tinygroup.error404@2.0.10
+- pkg:maven/org.tinygroup/org.tinygroup.error404@2.0.10?classifier=sources

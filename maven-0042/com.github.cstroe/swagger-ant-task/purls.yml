@@ -1,0 +1,2 @@
+- pkg:maven/com.github.cstroe/swagger-ant-task@0.0.1
+- pkg:maven/com.github.cstroe/swagger-ant-task@0.0.1?classifier=sources

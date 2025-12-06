@@ -1,0 +1,2 @@
+- pkg:maven/com.ahome-it/ahome-tooling-server-vaadin-core@1.0.112-RELEASE
+- pkg:maven/com.ahome-it/ahome-tooling-server-vaadin-core@1.0.112-RELEASE?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/us.hornerscorners.hungrycaterpillar/CaterpillarServices@1.0
+- pkg:maven/us.hornerscorners.hungrycaterpillar/CaterpillarServices@1.0?classifier=sources

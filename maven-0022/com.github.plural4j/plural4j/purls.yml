@@ -1,0 +1,2 @@
+- pkg:maven/com.github.plural4j/plural4j@1.0.0
+- pkg:maven/com.github.plural4j/plural4j@1.0.0?classifier=sources

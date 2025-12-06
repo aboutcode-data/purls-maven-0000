@@ -2,3 +2,5 @@
 - pkg:maven/org.jwall/jwall-rbld@0.3?classifier=sources
 - pkg:maven/org.jwall/jwall-rbld@0.4
 - pkg:maven/org.jwall/jwall-rbld@0.4?classifier=sources
+- pkg:maven/org.jwall/jwall-rbld@0.5.0
+- pkg:maven/org.jwall/jwall-rbld@0.5.0?classifier=sources

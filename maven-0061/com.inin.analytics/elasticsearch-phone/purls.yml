@@ -1,0 +1,2 @@
+- pkg:maven/com.inin.analytics/elasticsearch-phone@1.0.0?classifier=sources
+- pkg:maven/com.inin.analytics/elasticsearch-phone@1.0.0?type=zip

@@ -6,3 +6,13 @@
 - pkg:maven/edu.arizona.sista/processors@2.0?classifier=sources
 - pkg:maven/edu.arizona.sista/processors@2.1
 - pkg:maven/edu.arizona.sista/processors@2.1?classifier=sources
+- pkg:maven/edu.arizona.sista/processors@2.2
+- pkg:maven/edu.arizona.sista/processors@2.2?classifier=sources
+- pkg:maven/edu.arizona.sista/processors@3.0
+- pkg:maven/edu.arizona.sista/processors@3.0?classifier=sources
+- pkg:maven/edu.arizona.sista/processors@3.1
+- pkg:maven/edu.arizona.sista/processors@3.1?classifier=sources
+- pkg:maven/edu.arizona.sista/processors@3.2
+- pkg:maven/edu.arizona.sista/processors@3.2?classifier=sources
+- pkg:maven/edu.arizona.sista/processors@3.3
+- pkg:maven/edu.arizona.sista/processors@3.3?classifier=sources

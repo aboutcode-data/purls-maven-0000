@@ -1,0 +1,12 @@
+- pkg:maven/com.ahome-it/ahome-tooling-json@1.0.37-RC1
+- pkg:maven/com.ahome-it/ahome-tooling-json@1.0.37-RC1?classifier=sources
+- pkg:maven/com.ahome-it/ahome-tooling-json@1.0.37-RELEASE
+- pkg:maven/com.ahome-it/ahome-tooling-json@1.0.37-RELEASE?classifier=sources
+- pkg:maven/com.ahome-it/ahome-tooling-json@1.0.38-RELEASE
+- pkg:maven/com.ahome-it/ahome-tooling-json@1.0.38-RELEASE?classifier=sources
+- pkg:maven/com.ahome-it/ahome-tooling-json@1.0.40-RELEASE
+- pkg:maven/com.ahome-it/ahome-tooling-json@1.0.40-RELEASE?classifier=sources
+- pkg:maven/com.ahome-it/ahome-tooling-json@1.0.41-RELEASE
+- pkg:maven/com.ahome-it/ahome-tooling-json@1.0.41-RELEASE?classifier=sources
+- pkg:maven/com.ahome-it/ahome-tooling-json@1.0.45-RELEASE
+- pkg:maven/com.ahome-it/ahome-tooling-json@1.0.45-RELEASE?classifier=sources

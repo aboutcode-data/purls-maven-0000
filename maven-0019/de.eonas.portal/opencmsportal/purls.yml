@@ -10,3 +10,17 @@
 - pkg:maven/de.eonas.portal/opencmsportal@9.0.0.3?type=war
 - pkg:maven/de.eonas.portal/opencmsportal@9.0.0.4?classifier=sources
 - pkg:maven/de.eonas.portal/opencmsportal@9.0.0.4?type=war
+- pkg:maven/de.eonas.portal/opencmsportal@9.0.0.5?classifier=sources
+- pkg:maven/de.eonas.portal/opencmsportal@9.0.0.5?type=war
+- pkg:maven/de.eonas.portal/opencmsportal@9.0.0.6?classifier=sources
+- pkg:maven/de.eonas.portal/opencmsportal@9.0.0.6?type=war
+- pkg:maven/de.eonas.portal/opencmsportal@9.0.0.7?classifier=sources
+- pkg:maven/de.eonas.portal/opencmsportal@9.0.0.7?type=war
+- pkg:maven/de.eonas.portal/opencmsportal@9.0.0.8?classifier=sources
+- pkg:maven/de.eonas.portal/opencmsportal@9.0.0.8?type=war
+- pkg:maven/de.eonas.portal/opencmsportal@9.0.0.9?classifier=sources
+- pkg:maven/de.eonas.portal/opencmsportal@9.0.0.9?type=war
+- pkg:maven/de.eonas.portal/opencmsportal@9.5.1.1?classifier=sources
+- pkg:maven/de.eonas.portal/opencmsportal@9.5.1.1?type=war
+- pkg:maven/de.eonas.portal/opencmsportal@9.5.2.0?classifier=sources
+- pkg:maven/de.eonas.portal/opencmsportal@9.5.2.0?type=war

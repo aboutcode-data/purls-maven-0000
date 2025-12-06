@@ -1,0 +1,2 @@
+- pkg:maven/org.kevoree.modeling/org.kevoree.modeling.microframework.benchmark@4.19.0
+- pkg:maven/org.kevoree.modeling/org.kevoree.modeling.microframework.benchmark@4.19.0?classifier=sources

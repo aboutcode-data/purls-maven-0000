@@ -1,0 +1,4 @@
+- pkg:maven/net.liftmodules/lift-jquery-module_2.6_2.11@2.8
+- pkg:maven/net.liftmodules/lift-jquery-module_2.6_2.11@2.8?classifier=sources
+- pkg:maven/net.liftmodules/lift-jquery-module_2.6_2.11@2.9
+- pkg:maven/net.liftmodules/lift-jquery-module_2.6_2.11@2.9?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/nz.ac.auckland.bathe.initializers/jira-initializer@1.2
+- pkg:maven/nz.ac.auckland.bathe.initializers/jira-initializer@1.2?classifier=sources

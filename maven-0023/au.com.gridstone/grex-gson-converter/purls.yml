@@ -1,0 +1,6 @@
+- pkg:maven/au.com.gridstone/grex-gson-converter@1.1.0
+- pkg:maven/au.com.gridstone/grex-gson-converter@1.1.0?classifier=sources
+- pkg:maven/au.com.gridstone/grex-gson-converter@2.0.0
+- pkg:maven/au.com.gridstone/grex-gson-converter@2.0.0?classifier=sources
+- pkg:maven/au.com.gridstone/grex-gson-converter@3.0.0
+- pkg:maven/au.com.gridstone/grex-gson-converter@3.0.0?classifier=sources

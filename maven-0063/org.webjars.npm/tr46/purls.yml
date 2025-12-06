@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/tr46@0.0.2
+- pkg:maven/org.webjars.npm/tr46@0.0.2?classifier=sources

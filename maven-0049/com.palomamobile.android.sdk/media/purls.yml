@@ -1,0 +1,4 @@
+- pkg:maven/com.palomamobile.android.sdk/media@2.3?type=aar
+- pkg:maven/com.palomamobile.android.sdk/media@2.6?type=aar
+- pkg:maven/com.palomamobile.android.sdk/media@2.7.0?classifier=sources
+- pkg:maven/com.palomamobile.android.sdk/media@2.7.0?type=aar

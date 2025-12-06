@@ -1,0 +1,2 @@
+- pkg:maven/net.riccardocossu.i18split/i18split-export@1.0.0
+- pkg:maven/net.riccardocossu.i18split/i18split-export@1.0.0?classifier=sources

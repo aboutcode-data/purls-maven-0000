@@ -1,0 +1,2 @@
+- pkg:maven/io.jeo/proj4j@0.1.1
+- pkg:maven/io.jeo/proj4j@0.1.1?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.github.nmondal/njexl.testing@0.2
+- pkg:maven/com.github.nmondal/njexl.testing@0.2?classifier=sources

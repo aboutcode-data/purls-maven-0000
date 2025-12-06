@@ -1,0 +1,6 @@
+- pkg:maven/org.webjars.npm/redux-devtools@2.0.0
+- pkg:maven/org.webjars.npm/redux-devtools@2.0.0?classifier=sources
+- pkg:maven/org.webjars.npm/redux-devtools@2.1.5
+- pkg:maven/org.webjars.npm/redux-devtools@2.1.5?classifier=sources
+- pkg:maven/org.webjars.npm/redux-devtools@3.0.0-beta-3
+- pkg:maven/org.webjars.npm/redux-devtools@3.0.0-beta-3?classifier=sources

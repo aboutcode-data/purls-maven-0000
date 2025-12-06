@@ -1,0 +1,4 @@
+- pkg:maven/nu.jibe/jibe-tools-fsm@0.9.10
+- pkg:maven/nu.jibe/jibe-tools-fsm@0.9.10?classifier=sources
+- pkg:maven/nu.jibe/jibe-tools-fsm@0.9.8
+- pkg:maven/nu.jibe/jibe-tools-fsm@0.9.8?classifier=sources

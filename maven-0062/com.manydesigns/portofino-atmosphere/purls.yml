@@ -1,0 +1,8 @@
+- pkg:maven/com.manydesigns/portofino-atmosphere@4.1.1
+- pkg:maven/com.manydesigns/portofino-atmosphere@4.1.1?classifier=sources
+- pkg:maven/com.manydesigns/portofino-atmosphere@4.1.2
+- pkg:maven/com.manydesigns/portofino-atmosphere@4.1.2?classifier=sources
+- pkg:maven/com.manydesigns/portofino-atmosphere@4.1.3
+- pkg:maven/com.manydesigns/portofino-atmosphere@4.1.3?classifier=sources
+- pkg:maven/com.manydesigns/portofino-atmosphere@4.2
+- pkg:maven/com.manydesigns/portofino-atmosphere@4.2?classifier=sources

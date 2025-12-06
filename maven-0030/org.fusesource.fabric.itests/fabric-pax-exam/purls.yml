@@ -6,3 +6,4 @@
 - pkg:maven/org.fusesource.fabric.itests/fabric-pax-exam@7.1.0.fuse-047
 - pkg:maven/org.fusesource.fabric.itests/fabric-pax-exam@7.2.0.redhat-024
 - pkg:maven/org.fusesource.fabric.itests/fabric-pax-exam@7.2.0.redhat-060
+- pkg:maven/org.fusesource.fabric.itests/fabric-pax-exam@7.2.0.redhat-065

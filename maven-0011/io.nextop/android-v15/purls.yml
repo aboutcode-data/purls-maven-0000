@@ -1,0 +1,4 @@
+- pkg:maven/io.nextop/android-v15@0.1.4?classifier=sources
+- pkg:maven/io.nextop/android-v15@0.1.4?type=aar
+- pkg:maven/io.nextop/android-v15@0.1.5
+- pkg:maven/io.nextop/android-v15@0.1.5?classifier=sources

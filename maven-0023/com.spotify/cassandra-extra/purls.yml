@@ -1,0 +1,2 @@
+- pkg:maven/com.spotify/cassandra-extra@0.0.2
+- pkg:maven/com.spotify/cassandra-extra@0.0.2?classifier=sources

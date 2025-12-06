@@ -1,0 +1,2 @@
+- pkg:maven/com.tagmycode/tagmycode-plugin-framework@0.2
+- pkg:maven/com.tagmycode/tagmycode-plugin-framework@0.2?classifier=sources

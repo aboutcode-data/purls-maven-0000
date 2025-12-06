@@ -1,0 +1,2 @@
+- pkg:maven/net.mgorski.quicktag/quicktag@2.1.5
+- pkg:maven/net.mgorski.quicktag/quicktag@2.1.5?classifier=sources

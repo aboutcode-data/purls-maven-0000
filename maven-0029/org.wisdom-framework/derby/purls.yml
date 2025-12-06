@@ -1,2 +1,4 @@
 - pkg:maven/org.wisdom-framework/derby@10.11.1.1_1
 - pkg:maven/org.wisdom-framework/derby@10.11.1.1_1?classifier=sources
+- pkg:maven/org.wisdom-framework/derby@10.11.1.1_2
+- pkg:maven/org.wisdom-framework/derby@10.11.1.1_2?classifier=sources

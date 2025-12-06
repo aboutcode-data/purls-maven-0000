@@ -1,0 +1,6 @@
+- pkg:maven/net.code-story/fluent@1.0
+- pkg:maven/net.code-story/fluent@1.0?classifier=sources
+- pkg:maven/net.code-story/fluent@1.1
+- pkg:maven/net.code-story/fluent@1.1?classifier=sources
+- pkg:maven/net.code-story/fluent@1.4
+- pkg:maven/net.code-story/fluent@1.4?classifier=sources

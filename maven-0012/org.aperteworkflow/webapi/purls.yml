@@ -1,2 +1,4 @@
 - pkg:maven/org.aperteworkflow/webapi@3.0-beta1
 - pkg:maven/org.aperteworkflow/webapi@3.0-beta1?classifier=sources
+- pkg:maven/org.aperteworkflow/webapi@3.2-RC1
+- pkg:maven/org.aperteworkflow/webapi@3.2-RC1?classifier=sources

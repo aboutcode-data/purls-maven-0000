@@ -1,0 +1,2 @@
+- pkg:maven/com.torstling.intellij/notnull-instrumenter-maven-plugin@0.1.0
+- pkg:maven/com.torstling.intellij/notnull-instrumenter-maven-plugin@0.1.0?classifier=sources

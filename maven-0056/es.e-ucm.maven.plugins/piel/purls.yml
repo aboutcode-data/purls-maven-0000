@@ -1,0 +1,4 @@
+- pkg:maven/es.e-ucm.maven.plugins/piel@1.0
+- pkg:maven/es.e-ucm.maven.plugins/piel@1.0?classifier=sources
+- pkg:maven/es.e-ucm.maven.plugins/piel@1.1
+- pkg:maven/es.e-ucm.maven.plugins/piel@1.1?classifier=sources

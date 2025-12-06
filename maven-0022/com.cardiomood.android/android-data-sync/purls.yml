@@ -1,0 +1,10 @@
+- pkg:maven/com.cardiomood.android/android-data-sync@0.1?classifier=sources
+- pkg:maven/com.cardiomood.android/android-data-sync@0.1?type=aar
+- pkg:maven/com.cardiomood.android/android-data-sync@0.2.1?classifier=sources
+- pkg:maven/com.cardiomood.android/android-data-sync@0.2.1?type=aar
+- pkg:maven/com.cardiomood.android/android-data-sync@0.2.2?classifier=sources
+- pkg:maven/com.cardiomood.android/android-data-sync@0.2.2?type=aar
+- pkg:maven/com.cardiomood.android/android-data-sync@0.2?classifier=sources
+- pkg:maven/com.cardiomood.android/android-data-sync@0.2?type=aar
+- pkg:maven/com.cardiomood.android/android-data-sync@0.3?classifier=sources
+- pkg:maven/com.cardiomood.android/android-data-sync@0.3?type=aar

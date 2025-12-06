@@ -12,3 +12,7 @@
 - pkg:maven/org.kualigan.liquibase/kualigan-lb-extensions@1.0.7?classifier=sources
 - pkg:maven/org.kualigan.liquibase/kualigan-lb-extensions@1.0.8
 - pkg:maven/org.kualigan.liquibase/kualigan-lb-extensions@1.0.8?classifier=sources
+- pkg:maven/org.kualigan.liquibase/kualigan-lb-extensions@2.0.0
+- pkg:maven/org.kualigan.liquibase/kualigan-lb-extensions@2.0.0?classifier=sources
+- pkg:maven/org.kualigan.liquibase/kualigan-lb-extensions@2.0.1
+- pkg:maven/org.kualigan.liquibase/kualigan-lb-extensions@2.0.1?classifier=sources

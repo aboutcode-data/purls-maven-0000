@@ -1,0 +1,2 @@
+- pkg:maven/co.lemonlabs/expandable-button-menu@1.0.0?classifier=sources
+- pkg:maven/co.lemonlabs/expandable-button-menu@1.0.0?type=aar

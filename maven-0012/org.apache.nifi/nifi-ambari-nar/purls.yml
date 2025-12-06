@@ -1,0 +1,1 @@
+- pkg:maven/org.apache.nifi/nifi-ambari-nar@0.3.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.ozoneplatform/ozone-messaging@1.19?classifier=sources
+- pkg:maven/org.ozoneplatform/ozone-messaging@1.19?type=zip

@@ -1,0 +1,2 @@
+- pkg:maven/uk.co.techblue/alfresco-restclient@1.1
+- pkg:maven/uk.co.techblue/alfresco-restclient@1.1?classifier=sources

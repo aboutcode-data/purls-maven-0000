@@ -1,1 +1,4 @@
 - pkg:maven/org.ow2.chameleon.fuchsia.base.philips-hue/org.ow2.chameleon.fuchsia.base.philips-hue.huedsk-bundle@0.0.2
+- pkg:maven/org.ow2.chameleon.fuchsia.base.philips-hue/org.ow2.chameleon.fuchsia.base.philips-hue.huedsk-bundle@0.0.3
+- pkg:maven/org.ow2.chameleon.fuchsia.base.philips-hue/org.ow2.chameleon.fuchsia.base.philips-hue.huedsk-bundle@0.0.4
+- pkg:maven/org.ow2.chameleon.fuchsia.base.philips-hue/org.ow2.chameleon.fuchsia.base.philips-hue.huedsk-bundle@0.0.4?classifier=sources

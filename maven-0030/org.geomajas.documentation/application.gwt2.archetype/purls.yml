@@ -1,0 +1,2 @@
+- pkg:maven/org.geomajas.documentation/application.gwt2.archetype@1.12.0
+- pkg:maven/org.geomajas.documentation/application.gwt2.archetype@1.12.0?classifier=sources

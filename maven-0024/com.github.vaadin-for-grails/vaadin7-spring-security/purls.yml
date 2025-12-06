@@ -1,0 +1,2 @@
+- pkg:maven/com.github.vaadin-for-grails/vaadin7-spring-security@2.0?classifier=sources
+- pkg:maven/com.github.vaadin-for-grails/vaadin7-spring-security@2.1?classifier=sources

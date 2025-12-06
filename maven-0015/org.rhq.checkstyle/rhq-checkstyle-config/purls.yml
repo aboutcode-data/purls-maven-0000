@@ -1,0 +1,6 @@
+- pkg:maven/org.rhq.checkstyle/rhq-checkstyle-config@1
+- pkg:maven/org.rhq.checkstyle/rhq-checkstyle-config@1?classifier=sources
+- pkg:maven/org.rhq.checkstyle/rhq-checkstyle-config@2
+- pkg:maven/org.rhq.checkstyle/rhq-checkstyle-config@2?classifier=sources
+- pkg:maven/org.rhq.checkstyle/rhq-checkstyle-config@3
+- pkg:maven/org.rhq.checkstyle/rhq-checkstyle-config@3?classifier=sources

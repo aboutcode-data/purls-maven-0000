@@ -1,0 +1,4 @@
+- pkg:maven/me.codeboy.android/align-text-view@2.0.1.3?classifier=sources
+- pkg:maven/me.codeboy.android/align-text-view@2.0.1.3?type=aar
+- pkg:maven/me.codeboy.android/align-text-view@2.0.2?classifier=sources
+- pkg:maven/me.codeboy.android/align-text-view@2.0.2?type=aar

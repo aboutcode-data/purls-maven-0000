@@ -1,0 +1,2 @@
+- pkg:maven/org.sakaiproject/sakai-rwiki-pack@10.3?classifier=sources
+- pkg:maven/org.sakaiproject/sakai-rwiki-pack@10.4?classifier=sources

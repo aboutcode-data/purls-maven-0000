@@ -1,0 +1,2 @@
+- pkg:maven/com.github.riccardove.easyjasub/bdsup2sub@5.2.0?classifier=sources
+- pkg:maven/com.github.riccardove.easyjasub/bdsup2sub@5.2.0?type=zip

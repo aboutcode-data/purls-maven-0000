@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.bower/better-dateinput-polyfill@1.5.2
+- pkg:maven/org.webjars.bower/better-dateinput-polyfill@1.5.2?classifier=sources

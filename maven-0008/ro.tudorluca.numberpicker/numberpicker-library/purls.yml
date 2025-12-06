@@ -1,0 +1,2 @@
+- pkg:maven/ro.tudorluca.numberpicker/numberpicker-library@1.0?classifier=sources
+- pkg:maven/ro.tudorluca.numberpicker/numberpicker-library@1.0?type=aar

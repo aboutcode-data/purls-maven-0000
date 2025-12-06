@@ -1,0 +1,8 @@
+- pkg:maven/de.ruedigermoeller/netty2go@1.0
+- pkg:maven/de.ruedigermoeller/netty2go@1.01
+- pkg:maven/de.ruedigermoeller/netty2go@1.01?classifier=sources
+- pkg:maven/de.ruedigermoeller/netty2go@1.02
+- pkg:maven/de.ruedigermoeller/netty2go@1.02?classifier=sources
+- pkg:maven/de.ruedigermoeller/netty2go@1.04
+- pkg:maven/de.ruedigermoeller/netty2go@1.04?classifier=sources
+- pkg:maven/de.ruedigermoeller/netty2go@1.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/io.meles.testing/tomcat-test@0.5
+- pkg:maven/io.meles.testing/tomcat-test@0.5?classifier=sources

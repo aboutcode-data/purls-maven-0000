@@ -1,0 +1,1 @@
+- pkg:maven/org.sonarsource.sonar-web-plugin/sonar-web-plugin@2.4?classifier=sources

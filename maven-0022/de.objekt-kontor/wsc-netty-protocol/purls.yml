@@ -1,0 +1,2 @@
+- pkg:maven/de.objekt-kontor/wsc-netty-protocol@1.1.0
+- pkg:maven/de.objekt-kontor/wsc-netty-protocol@1.1.0?classifier=sources

@@ -16,6 +16,12 @@
 - pkg:maven/org.rhq/rhq-portal@4.0.1?type=war
 - pkg:maven/org.rhq/rhq-portal@4.10.0?classifier=sources
 - pkg:maven/org.rhq/rhq-portal@4.10.0?type=war
+- pkg:maven/org.rhq/rhq-portal@4.11.0?classifier=sources
+- pkg:maven/org.rhq/rhq-portal@4.11.0?type=war
+- pkg:maven/org.rhq/rhq-portal@4.12.0?classifier=sources
+- pkg:maven/org.rhq/rhq-portal@4.12.0?type=war
+- pkg:maven/org.rhq/rhq-portal@4.13.0?classifier=sources
+- pkg:maven/org.rhq/rhq-portal@4.13.0?type=war
 - pkg:maven/org.rhq/rhq-portal@4.2.0?classifier=sources
 - pkg:maven/org.rhq/rhq-portal@4.2.0?type=war
 - pkg:maven/org.rhq/rhq-portal@4.3.0?classifier=sources

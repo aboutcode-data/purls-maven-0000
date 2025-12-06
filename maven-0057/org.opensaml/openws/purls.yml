@@ -10,3 +10,5 @@
 - pkg:maven/org.opensaml/openws@1.5.0?classifier=sources
 - pkg:maven/org.opensaml/openws@1.5.1
 - pkg:maven/org.opensaml/openws@1.5.1?classifier=sources
+- pkg:maven/org.opensaml/openws@1.5.4
+- pkg:maven/org.opensaml/openws@1.5.4?classifier=sources

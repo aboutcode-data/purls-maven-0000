@@ -1,0 +1,2 @@
+- pkg:maven/com.snell.michael.kawaii/kawaii@0.7
+- pkg:maven/com.snell.michael.kawaii/kawaii@0.7?classifier=sources

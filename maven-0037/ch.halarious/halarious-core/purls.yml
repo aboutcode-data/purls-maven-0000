@@ -1,0 +1,2 @@
+- pkg:maven/ch.halarious/halarious-core@0.14
+- pkg:maven/ch.halarious/halarious-core@0.14?classifier=sources

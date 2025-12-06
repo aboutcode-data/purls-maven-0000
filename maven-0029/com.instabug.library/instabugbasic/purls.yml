@@ -1,0 +1,16 @@
+- pkg:maven/com.instabug.library/instabugbasic@1.3.8.1?classifier=sources
+- pkg:maven/com.instabug.library/instabugbasic@1.3.8.1?type=aar
+- pkg:maven/com.instabug.library/instabugbasic@1.3.8?classifier=sources
+- pkg:maven/com.instabug.library/instabugbasic@1.3.8?type=aar
+- pkg:maven/com.instabug.library/instabugbasic@1.3.9?classifier=sources
+- pkg:maven/com.instabug.library/instabugbasic@1.3.9?type=aar
+- pkg:maven/com.instabug.library/instabugbasic@1.4?classifier=sources
+- pkg:maven/com.instabug.library/instabugbasic@1.4?type=aar
+- pkg:maven/com.instabug.library/instabugbasic@1.5?classifier=sources
+- pkg:maven/com.instabug.library/instabugbasic@1.5?type=aar
+- pkg:maven/com.instabug.library/instabugbasic@1.6.1?classifier=sources
+- pkg:maven/com.instabug.library/instabugbasic@1.6.1?type=aar
+- pkg:maven/com.instabug.library/instabugbasic@1.6?classifier=sources
+- pkg:maven/com.instabug.library/instabugbasic@1.6?type=aar
+- pkg:maven/com.instabug.library/instabugbasic@1.7?classifier=sources
+- pkg:maven/com.instabug.library/instabugbasic@1.7?type=aar

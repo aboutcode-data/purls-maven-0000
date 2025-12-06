@@ -1,2 +1,6 @@
 - pkg:maven/org.apache.clerezza/platform.graphprovider.content@0.6-incubating
 - pkg:maven/org.apache.clerezza/platform.graphprovider.content@0.6-incubating?classifier=sources
+- pkg:maven/org.apache.clerezza/platform.graphprovider.content@0.7
+- pkg:maven/org.apache.clerezza/platform.graphprovider.content@0.7?classifier=sources
+- pkg:maven/org.apache.clerezza/platform.graphprovider.content@1.0.0
+- pkg:maven/org.apache.clerezza/platform.graphprovider.content@1.0.0?classifier=sources

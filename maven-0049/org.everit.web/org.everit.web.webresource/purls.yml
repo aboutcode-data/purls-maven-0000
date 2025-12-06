@@ -1,0 +1,2 @@
+- pkg:maven/org.everit.web/org.everit.web.webresource@1.0.0
+- pkg:maven/org.everit.web/org.everit.web.webresource@1.0.0?classifier=sources

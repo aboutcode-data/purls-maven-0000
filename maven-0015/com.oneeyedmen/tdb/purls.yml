@@ -1,0 +1,6 @@
+- pkg:maven/com.oneeyedmen/tdb@0.10
+- pkg:maven/com.oneeyedmen/tdb@0.10?classifier=sources
+- pkg:maven/com.oneeyedmen/tdb@1.0.0
+- pkg:maven/com.oneeyedmen/tdb@1.0.0?classifier=sources
+- pkg:maven/com.oneeyedmen/tdb@1.0.1
+- pkg:maven/com.oneeyedmen/tdb@1.0.1?classifier=sources

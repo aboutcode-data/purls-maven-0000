@@ -1,0 +1,4 @@
+- pkg:maven/com.medallia.word2vec/Word2VecJava@0.10.3
+- pkg:maven/com.medallia.word2vec/Word2VecJava@0.10.3?classifier=sources
+- pkg:maven/com.medallia.word2vec/Word2VecJava@0.9.0
+- pkg:maven/com.medallia.word2vec/Word2VecJava@0.9.0?classifier=sources

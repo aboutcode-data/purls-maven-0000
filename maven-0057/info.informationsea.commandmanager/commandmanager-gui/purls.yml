@@ -1,0 +1,4 @@
+- pkg:maven/info.informationsea.commandmanager/commandmanager-gui@0.0.2
+- pkg:maven/info.informationsea.commandmanager/commandmanager-gui@0.0.2?classifier=sources
+- pkg:maven/info.informationsea.commandmanager/commandmanager-gui@0.0.4
+- pkg:maven/info.informationsea.commandmanager/commandmanager-gui@0.0.4?classifier=sources

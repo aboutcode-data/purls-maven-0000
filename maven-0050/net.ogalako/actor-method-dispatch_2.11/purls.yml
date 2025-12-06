@@ -1,0 +1,2 @@
+- pkg:maven/net.ogalako/actor-method-dispatch_2.11@0.2
+- pkg:maven/net.ogalako/actor-method-dispatch_2.11@0.2?classifier=sources

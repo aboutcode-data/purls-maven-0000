@@ -4,3 +4,6 @@
 - pkg:maven/org.ow2.util.maven/jbuilding-maven-plugin@2.0.1
 - pkg:maven/org.ow2.util.maven/jbuilding-maven-plugin@2.0.1?classifier=source-release&type=zip
 - pkg:maven/org.ow2.util.maven/jbuilding-maven-plugin@2.0.1?classifier=sources
+- pkg:maven/org.ow2.util.maven/jbuilding-maven-plugin@2.1.0
+- pkg:maven/org.ow2.util.maven/jbuilding-maven-plugin@2.1.0?classifier=source-release&type=zip
+- pkg:maven/org.ow2.util.maven/jbuilding-maven-plugin@2.1.0?classifier=sources

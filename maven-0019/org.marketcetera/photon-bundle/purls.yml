@@ -1,2 +1,5 @@
 - pkg:maven/org.marketcetera/photon-bundle@2.2.0
 - pkg:maven/org.marketcetera/photon-bundle@2.2.0?classifier=sources
+- pkg:maven/org.marketcetera/photon-bundle@2.4.0
+- pkg:maven/org.marketcetera/photon-bundle@2.4.1
+- pkg:maven/org.marketcetera/photon-bundle@2.4.2

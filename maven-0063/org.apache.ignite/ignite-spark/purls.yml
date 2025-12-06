@@ -1,0 +1,6 @@
+- pkg:maven/org.apache.ignite/ignite-spark@1.2.0-incubating
+- pkg:maven/org.apache.ignite/ignite-spark@1.2.0-incubating?classifier=sources
+- pkg:maven/org.apache.ignite/ignite-spark@1.3.0-incubating
+- pkg:maven/org.apache.ignite/ignite-spark@1.3.0-incubating?classifier=sources
+- pkg:maven/org.apache.ignite/ignite-spark@1.4.0
+- pkg:maven/org.apache.ignite/ignite-spark@1.4.0?classifier=sources

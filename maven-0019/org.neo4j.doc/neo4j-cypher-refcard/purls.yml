@@ -1,0 +1,2 @@
+- pkg:maven/org.neo4j.doc/neo4j-cypher-refcard@2.3.0-M03
+- pkg:maven/org.neo4j.doc/neo4j-cypher-refcard@2.3.0-M03?classifier=sources

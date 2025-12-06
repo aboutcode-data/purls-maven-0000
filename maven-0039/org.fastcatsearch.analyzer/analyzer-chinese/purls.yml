@@ -1,0 +1,2 @@
+- pkg:maven/org.fastcatsearch.analyzer/analyzer-chinese@2.13.7
+- pkg:maven/org.fastcatsearch.analyzer/analyzer-chinese@2.13.7?classifier=sources

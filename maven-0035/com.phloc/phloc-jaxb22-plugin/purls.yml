@@ -1,0 +1,2 @@
+- pkg:maven/com.phloc/phloc-jaxb22-plugin@2.2.7.5
+- pkg:maven/com.phloc/phloc-jaxb22-plugin@2.2.7.5?classifier=sources

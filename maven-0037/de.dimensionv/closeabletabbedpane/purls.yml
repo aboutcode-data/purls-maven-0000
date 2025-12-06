@@ -1,0 +1,2 @@
+- pkg:maven/de.dimensionv/closeabletabbedpane@1.0.0
+- pkg:maven/de.dimensionv/closeabletabbedpane@1.0.0?classifier=sources

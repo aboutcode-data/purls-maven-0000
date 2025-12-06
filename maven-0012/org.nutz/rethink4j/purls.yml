@@ -1,0 +1,2 @@
+- pkg:maven/org.nutz/rethink4j@1.1
+- pkg:maven/org.nutz/rethink4j@1.1?classifier=sources

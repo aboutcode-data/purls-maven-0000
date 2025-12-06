@@ -4,3 +4,7 @@
 - pkg:maven/com.samskivert/pom-util@0.3?classifier=sources
 - pkg:maven/com.samskivert/pom-util@0.4
 - pkg:maven/com.samskivert/pom-util@0.4?classifier=sources
+- pkg:maven/com.samskivert/pom-util@1.7.3
+- pkg:maven/com.samskivert/pom-util@1.7.3?classifier=sources
+- pkg:maven/com.samskivert/pom-util@1.7.5
+- pkg:maven/com.samskivert/pom-util@1.7.5?classifier=sources

@@ -30,5 +30,17 @@
 - pkg:maven/org.primefaces.extensions/resources-ckeditor@1.2.0?classifier=sources
 - pkg:maven/org.primefaces.extensions/resources-ckeditor@1.2.1
 - pkg:maven/org.primefaces.extensions/resources-ckeditor@1.2.1?classifier=sources
+- pkg:maven/org.primefaces.extensions/resources-ckeditor@2.0.0
 - pkg:maven/org.primefaces.extensions/resources-ckeditor@2.0.0.RC
 - pkg:maven/org.primefaces.extensions/resources-ckeditor@2.0.0.RC?classifier=sources
+- pkg:maven/org.primefaces.extensions/resources-ckeditor@2.0.0?classifier=sources
+- pkg:maven/org.primefaces.extensions/resources-ckeditor@2.1.0
+- pkg:maven/org.primefaces.extensions/resources-ckeditor@2.1.0?classifier=sources
+- pkg:maven/org.primefaces.extensions/resources-ckeditor@3.0.0
+- pkg:maven/org.primefaces.extensions/resources-ckeditor@3.0.0?classifier=sources
+- pkg:maven/org.primefaces.extensions/resources-ckeditor@3.1.0
+- pkg:maven/org.primefaces.extensions/resources-ckeditor@3.1.0?classifier=sources
+- pkg:maven/org.primefaces.extensions/resources-ckeditor@3.2.0
+- pkg:maven/org.primefaces.extensions/resources-ckeditor@3.2.0?classifier=sources
+- pkg:maven/org.primefaces.extensions/resources-ckeditor@4.0.0
+- pkg:maven/org.primefaces.extensions/resources-ckeditor@4.0.0?classifier=sources

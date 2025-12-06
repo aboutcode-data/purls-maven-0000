@@ -1,0 +1,4 @@
+- pkg:maven/com.lihaoyi/ammonite-sshd_2.11.7@0.4.7
+- pkg:maven/com.lihaoyi/ammonite-sshd_2.11.7@0.4.7?classifier=sources
+- pkg:maven/com.lihaoyi/ammonite-sshd_2.11.7@0.4.8
+- pkg:maven/com.lihaoyi/ammonite-sshd_2.11.7@0.4.8?classifier=sources

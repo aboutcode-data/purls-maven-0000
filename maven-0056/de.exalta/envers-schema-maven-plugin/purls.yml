@@ -1,0 +1,2 @@
+- pkg:maven/de.exalta/envers-schema-maven-plugin@1.0.1
+- pkg:maven/de.exalta/envers-schema-maven-plugin@1.0.1?classifier=sources

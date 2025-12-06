@@ -1,0 +1,2 @@
+- pkg:maven/com.aamend.hadoop/hadoop-primitive-clustering@1.0
+- pkg:maven/com.aamend.hadoop/hadoop-primitive-clustering@1.0?classifier=sources

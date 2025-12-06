@@ -1,6 +1,8 @@
 - pkg:maven/li.rudin.core/core-logger@1.0
 - pkg:maven/li.rudin.core/core-logger@1.0?classifier=sources
 - pkg:maven/li.rudin.core/core-logger@1.1
+- pkg:maven/li.rudin.core/core-logger@1.10
+- pkg:maven/li.rudin.core/core-logger@1.10?classifier=sources
 - pkg:maven/li.rudin.core/core-logger@1.1?classifier=sources
 - pkg:maven/li.rudin.core/core-logger@1.2
 - pkg:maven/li.rudin.core/core-logger@1.2?classifier=sources
@@ -20,3 +22,5 @@
 - pkg:maven/li.rudin.core/core-logger@1.8?classifier=sources
 - pkg:maven/li.rudin.core/core-logger@1.9
 - pkg:maven/li.rudin.core/core-logger@1.9?classifier=sources
+- pkg:maven/li.rudin.core/core-logger@2.0
+- pkg:maven/li.rudin.core/core-logger@2.0?classifier=sources

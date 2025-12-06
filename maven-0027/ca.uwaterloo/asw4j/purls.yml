@@ -1,0 +1,4 @@
+- pkg:maven/ca.uwaterloo/asw4j@1.0.0-RELEASE
+- pkg:maven/ca.uwaterloo/asw4j@1.0.0-RELEASE?classifier=sources
+- pkg:maven/ca.uwaterloo/asw4j@1.0.1-RELEASE
+- pkg:maven/ca.uwaterloo/asw4j@1.0.1-RELEASE?classifier=sources

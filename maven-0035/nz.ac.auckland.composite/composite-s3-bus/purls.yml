@@ -1,1 +1,2 @@
 - pkg:maven/nz.ac.auckland.composite/composite-s3-bus@2.1
+- pkg:maven/nz.ac.auckland.composite/composite-s3-bus@3.1

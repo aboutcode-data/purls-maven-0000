@@ -1,0 +1,4 @@
+- pkg:maven/es.sandbox.test/sandbox-test-support@0.1.0
+- pkg:maven/es.sandbox.test/sandbox-test-support@0.1.0?classifier=sources
+- pkg:maven/es.sandbox.test/sandbox-test-support@0.1.1
+- pkg:maven/es.sandbox.test/sandbox-test-support@0.1.1?classifier=sources

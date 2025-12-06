@@ -1,0 +1,5 @@
+- pkg:maven/eu.ocathain.com.sun.mail/javax.mail@1.5.2
+- pkg:maven/eu.ocathain.com.sun.mail/javax.mail@1.5.2?classifier=sources
+- pkg:maven/eu.ocathain.com.sun.mail/javax.mail@1.5.3.1
+- pkg:maven/eu.ocathain.com.sun.mail/javax.mail@1.5.3.1?classifier=sources
+- pkg:maven/eu.ocathain.com.sun.mail/javax.mail@1.5.4?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.github.lbroudoux.elasticsearch/sluice-admin-ui@0.0.1
+- pkg:maven/com.github.lbroudoux.elasticsearch/sluice-admin-ui@0.0.1?classifier=sources
