@@ -1,0 +1,2 @@
+- pkg:maven/cn.bestwu.gradle/dbscript-plugin@0.0.1
+- pkg:maven/cn.bestwu.gradle/dbscript-plugin@0.0.1?classifier=sources

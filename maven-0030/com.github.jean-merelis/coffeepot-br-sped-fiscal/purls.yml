@@ -10,3 +10,9 @@
 - pkg:maven/com.github.jean-merelis/coffeepot-br-sped-fiscal@1.0.0-Beta.4?classifier=sources
 - pkg:maven/com.github.jean-merelis/coffeepot-br-sped-fiscal@1.0.0-Beta.5
 - pkg:maven/com.github.jean-merelis/coffeepot-br-sped-fiscal@1.0.0-Beta.5?classifier=sources
+- pkg:maven/com.github.jean-merelis/coffeepot-br-sped-fiscal@1.0.0-Beta.7
+- pkg:maven/com.github.jean-merelis/coffeepot-br-sped-fiscal@1.0.0-Beta.7?classifier=sources
+- pkg:maven/com.github.jean-merelis/coffeepot-br-sped-fiscal@1.0.0-Beta.8
+- pkg:maven/com.github.jean-merelis/coffeepot-br-sped-fiscal@1.0.0-Beta.8?classifier=sources
+- pkg:maven/com.github.jean-merelis/coffeepot-br-sped-fiscal@1.0.0-Beta.9
+- pkg:maven/com.github.jean-merelis/coffeepot-br-sped-fiscal@1.0.0-Beta.9?classifier=sources

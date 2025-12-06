@@ -1,0 +1,2 @@
+- pkg:maven/com.github.niqo01.rxplayservices/rx-play-services-task-kotlin@0.1.0?classifier=sources
+- pkg:maven/com.github.niqo01.rxplayservices/rx-play-services-task-kotlin@0.1.0?type=aar

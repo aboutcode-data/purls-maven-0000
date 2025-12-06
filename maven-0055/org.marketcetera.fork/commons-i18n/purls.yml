@@ -1,0 +1,2 @@
+- pkg:maven/org.marketcetera.fork/commons-i18n@3.0.12
+- pkg:maven/org.marketcetera.fork/commons-i18n@3.0.12?classifier=sources

@@ -10,3 +10,5 @@
 - pkg:maven/com.github.wu191287278/spring-boot-starter-dubbo@1.5.33
 - pkg:maven/com.github.wu191287278/spring-boot-starter-dubbo@1.5.33?classifier=sources
 - pkg:maven/com.github.wu191287278/spring-boot-starter-dubbo@1.5.3?classifier=sources
+- pkg:maven/com.github.wu191287278/spring-boot-starter-dubbo@1.5.4
+- pkg:maven/com.github.wu191287278/spring-boot-starter-dubbo@1.5.4?classifier=sources

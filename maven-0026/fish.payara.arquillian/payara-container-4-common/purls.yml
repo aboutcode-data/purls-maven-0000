@@ -1,0 +1,2 @@
+- pkg:maven/fish.payara.arquillian/payara-container-4-common@1.0.Beta2
+- pkg:maven/fish.payara.arquillian/payara-container-4-common@1.0.Beta2?classifier=sources

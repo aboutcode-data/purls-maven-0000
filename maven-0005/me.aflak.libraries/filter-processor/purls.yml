@@ -1,0 +1,4 @@
+- pkg:maven/me.aflak.libraries/filter-processor@1.0
+- pkg:maven/me.aflak.libraries/filter-processor@1.0?classifier=sources
+- pkg:maven/me.aflak.libraries/filter-processor@1.2
+- pkg:maven/me.aflak.libraries/filter-processor@1.2?classifier=sources

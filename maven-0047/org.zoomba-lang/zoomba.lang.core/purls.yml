@@ -1,2 +1,8 @@
 - pkg:maven/org.zoomba-lang/zoomba.lang.core@0.1-beta1
 - pkg:maven/org.zoomba-lang/zoomba.lang.core@0.1-beta1?classifier=sources
+- pkg:maven/org.zoomba-lang/zoomba.lang.core@0.1-beta2
+- pkg:maven/org.zoomba-lang/zoomba.lang.core@0.1-beta2?classifier=sources
+- pkg:maven/org.zoomba-lang/zoomba.lang.core@0.1-beta3
+- pkg:maven/org.zoomba-lang/zoomba.lang.core@0.1-beta3?classifier=sources
+- pkg:maven/org.zoomba-lang/zoomba.lang.core@0.1-beta4
+- pkg:maven/org.zoomba-lang/zoomba.lang.core@0.1-beta4?classifier=sources

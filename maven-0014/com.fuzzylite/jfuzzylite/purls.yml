@@ -1,2 +1,4 @@
 - pkg:maven/com.fuzzylite/jfuzzylite@5.0
 - pkg:maven/com.fuzzylite/jfuzzylite@5.0?classifier=sources
+- pkg:maven/com.fuzzylite/jfuzzylite@6.0.1
+- pkg:maven/com.fuzzylite/jfuzzylite@6.0.1?classifier=sources

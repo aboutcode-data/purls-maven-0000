@@ -1,0 +1,10 @@
+- pkg:maven/io.github.soc/directories@1
+- pkg:maven/io.github.soc/directories@1?classifier=sources
+- pkg:maven/io.github.soc/directories@2
+- pkg:maven/io.github.soc/directories@2?classifier=sources
+- pkg:maven/io.github.soc/directories@3
+- pkg:maven/io.github.soc/directories@3?classifier=sources
+- pkg:maven/io.github.soc/directories@4
+- pkg:maven/io.github.soc/directories@4?classifier=sources
+- pkg:maven/io.github.soc/directories@5
+- pkg:maven/io.github.soc/directories@5?classifier=sources

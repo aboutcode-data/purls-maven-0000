@@ -14,3 +14,5 @@
 - pkg:maven/com.ruijc/spring-boot-starter-fastjson@1.2.0?classifier=sources
 - pkg:maven/com.ruijc/spring-boot-starter-fastjson@2.0.0
 - pkg:maven/com.ruijc/spring-boot-starter-fastjson@2.0.0?classifier=sources
+- pkg:maven/com.ruijc/spring-boot-starter-fastjson@2.2.0
+- pkg:maven/com.ruijc/spring-boot-starter-fastjson@2.2.0?classifier=sources

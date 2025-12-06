@@ -10,3 +10,5 @@
 - pkg:maven/net.ftlines.wicket-fullcalendar/wicket-fullcalendar-examples@2.1?type=war
 - pkg:maven/net.ftlines.wicket-fullcalendar/wicket-fullcalendar-examples@2.2.0?classifier=sources
 - pkg:maven/net.ftlines.wicket-fullcalendar/wicket-fullcalendar-examples@2.2.0?type=war
+- pkg:maven/net.ftlines.wicket-fullcalendar/wicket-fullcalendar-examples@3.0?classifier=sources
+- pkg:maven/net.ftlines.wicket-fullcalendar/wicket-fullcalendar-examples@3.0?type=war

@@ -34,6 +34,16 @@
 - pkg:maven/com.readytalk/swt-bling@2.1.6?classifier=sources
 - pkg:maven/com.readytalk/swt-bling@3.0.0
 - pkg:maven/com.readytalk/swt-bling@3.0.0?classifier=sources
+- pkg:maven/com.readytalk/swt-bling@3.0.10
+- pkg:maven/com.readytalk/swt-bling@3.0.10?classifier=sources
+- pkg:maven/com.readytalk/swt-bling@3.0.11
+- pkg:maven/com.readytalk/swt-bling@3.0.11?classifier=sources
+- pkg:maven/com.readytalk/swt-bling@3.0.13
+- pkg:maven/com.readytalk/swt-bling@3.0.13?classifier=sources
+- pkg:maven/com.readytalk/swt-bling@3.0.14
+- pkg:maven/com.readytalk/swt-bling@3.0.14?classifier=sources
+- pkg:maven/com.readytalk/swt-bling@3.0.15
+- pkg:maven/com.readytalk/swt-bling@3.0.15?classifier=sources
 - pkg:maven/com.readytalk/swt-bling@3.0.2
 - pkg:maven/com.readytalk/swt-bling@3.0.2?classifier=sources
 - pkg:maven/com.readytalk/swt-bling@3.0.3

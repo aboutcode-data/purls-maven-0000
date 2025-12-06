@@ -1,0 +1,2 @@
+- pkg:maven/com.waicool20.skrypton/skrypton-api@1.0.0-alpha
+- pkg:maven/com.waicool20.skrypton/skrypton-api@1.0.0-alpha?classifier=sources

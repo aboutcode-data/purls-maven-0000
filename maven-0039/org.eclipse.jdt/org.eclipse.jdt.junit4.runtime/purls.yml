@@ -1,2 +1,4 @@
 - pkg:maven/org.eclipse.jdt/org.eclipse.jdt.junit4.runtime@1.1.600
 - pkg:maven/org.eclipse.jdt/org.eclipse.jdt.junit4.runtime@1.1.600?classifier=sources
+- pkg:maven/org.eclipse.jdt/org.eclipse.jdt.junit4.runtime@1.1.650
+- pkg:maven/org.eclipse.jdt/org.eclipse.jdt.junit4.runtime@1.1.650?classifier=sources

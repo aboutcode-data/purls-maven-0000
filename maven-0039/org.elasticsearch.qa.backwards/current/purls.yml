@@ -16,3 +16,4 @@
 - pkg:maven/org.elasticsearch.qa.backwards/current@2.4.3
 - pkg:maven/org.elasticsearch.qa.backwards/current@2.4.4
 - pkg:maven/org.elasticsearch.qa.backwards/current@2.4.5
+- pkg:maven/org.elasticsearch.qa.backwards/current@2.4.6

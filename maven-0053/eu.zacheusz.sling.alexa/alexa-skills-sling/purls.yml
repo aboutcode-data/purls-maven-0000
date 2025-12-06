@@ -1,0 +1,6 @@
+- pkg:maven/eu.zacheusz.sling.alexa/alexa-skills-sling@1.0.0
+- pkg:maven/eu.zacheusz.sling.alexa/alexa-skills-sling@1.0.0?classifier=sources
+- pkg:maven/eu.zacheusz.sling.alexa/alexa-skills-sling@1.1.0
+- pkg:maven/eu.zacheusz.sling.alexa/alexa-skills-sling@1.1.0?classifier=sources
+- pkg:maven/eu.zacheusz.sling.alexa/alexa-skills-sling@1.2.1
+- pkg:maven/eu.zacheusz.sling.alexa/alexa-skills-sling@1.2.1?classifier=sources

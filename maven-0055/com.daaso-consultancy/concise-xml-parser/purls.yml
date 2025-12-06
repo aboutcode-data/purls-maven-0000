@@ -1,0 +1,4 @@
+- pkg:maven/com.daaso-consultancy/concise-xml-parser@0.9-java7-beta
+- pkg:maven/com.daaso-consultancy/concise-xml-parser@0.9-java7-beta?classifier=sources
+- pkg:maven/com.daaso-consultancy/concise-xml-parser@0.9-java8-beta
+- pkg:maven/com.daaso-consultancy/concise-xml-parser@0.9-java8-beta?classifier=sources

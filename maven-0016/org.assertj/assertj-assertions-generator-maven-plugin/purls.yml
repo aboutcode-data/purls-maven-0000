@@ -16,3 +16,5 @@
 - pkg:maven/org.assertj/assertj-assertions-generator-maven-plugin@1.6.0?classifier=sources
 - pkg:maven/org.assertj/assertj-assertions-generator-maven-plugin@2.0.0
 - pkg:maven/org.assertj/assertj-assertions-generator-maven-plugin@2.0.0?classifier=sources
+- pkg:maven/org.assertj/assertj-assertions-generator-maven-plugin@2.1.0
+- pkg:maven/org.assertj/assertj-assertions-generator-maven-plugin@2.1.0?classifier=sources

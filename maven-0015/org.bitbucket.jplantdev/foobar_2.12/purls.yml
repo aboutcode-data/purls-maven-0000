@@ -1,0 +1,12 @@
+- pkg:maven/org.bitbucket.jplantdev/foobar_2.12@0.1.1%2B6-06eb472c
+- pkg:maven/org.bitbucket.jplantdev/foobar_2.12@0.1.1%2B6-06eb472c?classifier=sources
+- pkg:maven/org.bitbucket.jplantdev/foobar_2.12@0.1.1%2B6-5f784fae
+- pkg:maven/org.bitbucket.jplantdev/foobar_2.12@0.1.1%2B6-5f784fae?classifier=sources
+- pkg:maven/org.bitbucket.jplantdev/foobar_2.12@0.1.1%2B6-7eee5a19
+- pkg:maven/org.bitbucket.jplantdev/foobar_2.12@0.1.1%2B6-7eee5a19?classifier=sources
+- pkg:maven/org.bitbucket.jplantdev/foobar_2.12@0.1.1%2B6-853ee031
+- pkg:maven/org.bitbucket.jplantdev/foobar_2.12@0.1.1%2B6-853ee031?classifier=sources
+- pkg:maven/org.bitbucket.jplantdev/foobar_2.12@0.1.1%2B6-b3917101
+- pkg:maven/org.bitbucket.jplantdev/foobar_2.12@0.1.1%2B6-b3917101?classifier=sources
+- pkg:maven/org.bitbucket.jplantdev/foobar_2.12@0.1.1%2B6-e980cf32
+- pkg:maven/org.bitbucket.jplantdev/foobar_2.12@0.1.1%2B6-e980cf32?classifier=sources

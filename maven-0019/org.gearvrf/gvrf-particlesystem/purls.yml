@@ -1,0 +1,4 @@
+- pkg:maven/org.gearvrf/gvrf-particlesystem@3.3.0?classifier=sources
+- pkg:maven/org.gearvrf/gvrf-particlesystem@3.3.0?type=aar
+- pkg:maven/org.gearvrf/gvrf-particlesystem@4.0.0?classifier=sources
+- pkg:maven/org.gearvrf/gvrf-particlesystem@4.0.0?type=aar

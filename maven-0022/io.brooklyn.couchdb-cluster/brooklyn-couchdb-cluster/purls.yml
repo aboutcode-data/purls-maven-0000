@@ -1,0 +1,2 @@
+- pkg:maven/io.brooklyn.couchdb-cluster/brooklyn-couchdb-cluster@1.0.4
+- pkg:maven/io.brooklyn.couchdb-cluster/brooklyn-couchdb-cluster@1.0.5

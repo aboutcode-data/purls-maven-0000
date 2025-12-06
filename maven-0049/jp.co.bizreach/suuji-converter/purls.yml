@@ -1,0 +1,2 @@
+- pkg:maven/jp.co.bizreach/suuji-converter@1.0.0
+- pkg:maven/jp.co.bizreach/suuji-converter@1.0.0?classifier=sources

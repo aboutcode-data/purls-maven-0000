@@ -1,2 +1,4 @@
 - pkg:maven/org.eclipse.platform/org.eclipse.equinox.simpleconfigurator.manipulator@2.0.200
 - pkg:maven/org.eclipse.platform/org.eclipse.equinox.simpleconfigurator.manipulator@2.0.200?classifier=sources
+- pkg:maven/org.eclipse.platform/org.eclipse.equinox.simpleconfigurator.manipulator@2.0.300
+- pkg:maven/org.eclipse.platform/org.eclipse.equinox.simpleconfigurator.manipulator@2.0.300?classifier=sources

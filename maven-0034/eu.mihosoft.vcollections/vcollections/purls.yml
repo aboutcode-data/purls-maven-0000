@@ -14,3 +14,5 @@
 - pkg:maven/eu.mihosoft.vcollections/vcollections@0.0.7?classifier=sources
 - pkg:maven/eu.mihosoft.vcollections/vcollections@0.0.9
 - pkg:maven/eu.mihosoft.vcollections/vcollections@0.0.9?classifier=sources
+- pkg:maven/eu.mihosoft.vcollections/vcollections@0.2.0
+- pkg:maven/eu.mihosoft.vcollections/vcollections@0.2.0?classifier=sources

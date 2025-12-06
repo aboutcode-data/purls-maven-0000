@@ -12,3 +12,5 @@
 - pkg:maven/org.webjars.bower/reflux@0.3.0?classifier=sources
 - pkg:maven/org.webjars.bower/reflux@0.4.1
 - pkg:maven/org.webjars.bower/reflux@0.4.1?classifier=sources
+- pkg:maven/org.webjars.bower/reflux@6.4.1
+- pkg:maven/org.webjars.bower/reflux@6.4.1?classifier=sources

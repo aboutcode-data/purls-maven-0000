@@ -1,2 +1,4 @@
 - pkg:maven/com.github.krokyze/ucropnedit@2.1.2?classifier=sources
 - pkg:maven/com.github.krokyze/ucropnedit@2.1.2?type=aar
+- pkg:maven/com.github.krokyze/ucropnedit@2.2.1-native?classifier=sources
+- pkg:maven/com.github.krokyze/ucropnedit@2.2.1-native?type=aar

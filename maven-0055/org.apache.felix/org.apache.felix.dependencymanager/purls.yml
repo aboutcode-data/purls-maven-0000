@@ -11,3 +11,4 @@
 - pkg:maven/org.apache.felix/org.apache.felix.dependencymanager@4.2.0
 - pkg:maven/org.apache.felix/org.apache.felix.dependencymanager@4.3.0
 - pkg:maven/org.apache.felix/org.apache.felix.dependencymanager@4.4.0
+- pkg:maven/org.apache.felix/org.apache.felix.dependencymanager@4.4.1

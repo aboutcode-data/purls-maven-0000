@@ -1,0 +1,2 @@
+- pkg:maven/com.centit.framework/framework-system-module@4.0.1
+- pkg:maven/com.centit.framework/framework-system-module@4.0.1?classifier=sources

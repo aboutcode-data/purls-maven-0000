@@ -1,3 +1,5 @@
+- pkg:maven/org.mitre.dsmiley.httpproxy/smiley-http-proxy-servlet@1.10
+- pkg:maven/org.mitre.dsmiley.httpproxy/smiley-http-proxy-servlet@1.10?classifier=sources
 - pkg:maven/org.mitre.dsmiley.httpproxy/smiley-http-proxy-servlet@1.2
 - pkg:maven/org.mitre.dsmiley.httpproxy/smiley-http-proxy-servlet@1.2?classifier=sources
 - pkg:maven/org.mitre.dsmiley.httpproxy/smiley-http-proxy-servlet@1.3

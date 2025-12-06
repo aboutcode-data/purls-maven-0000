@@ -1,0 +1,6 @@
+- pkg:maven/fr.bmartel/multi-event-library@0.32?classifier=sources
+- pkg:maven/fr.bmartel/multi-event-library@0.32?type=aar
+- pkg:maven/fr.bmartel/multi-event-library@0.34?classifier=sources
+- pkg:maven/fr.bmartel/multi-event-library@0.34?type=aar
+- pkg:maven/fr.bmartel/multi-event-library@0.35?classifier=sources
+- pkg:maven/fr.bmartel/multi-event-library@0.35?type=aar

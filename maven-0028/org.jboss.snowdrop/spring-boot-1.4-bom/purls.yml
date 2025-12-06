@@ -1,0 +1,2 @@
+- pkg:maven/org.jboss.snowdrop/spring-boot-1.4-bom@1?classifier=source-release&type=zip
+- pkg:maven/org.jboss.snowdrop/spring-boot-1.4-bom@2?classifier=source-release&type=zip

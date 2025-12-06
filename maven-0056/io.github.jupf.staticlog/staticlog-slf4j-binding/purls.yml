@@ -1,0 +1,2 @@
+- pkg:maven/io.github.jupf.staticlog/staticlog-slf4j-binding@1.0.0
+- pkg:maven/io.github.jupf.staticlog/staticlog-slf4j-binding@1.0.0?classifier=sources

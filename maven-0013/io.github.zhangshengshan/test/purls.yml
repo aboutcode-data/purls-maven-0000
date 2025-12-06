@@ -1,0 +1,2 @@
+- pkg:maven/io.github.zhangshengshan/test@3.0-SNAPSHAOT
+- pkg:maven/io.github.zhangshengshan/test@3.0-SNAPSHAOT?classifier=sources

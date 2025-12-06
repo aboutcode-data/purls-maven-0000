@@ -10,3 +10,7 @@
 - pkg:maven/net.uiqui/woody@2.1.0?classifier=sources
 - pkg:maven/net.uiqui/woody@2.2.0
 - pkg:maven/net.uiqui/woody@2.2.0?classifier=sources
+- pkg:maven/net.uiqui/woody@2.3.0
+- pkg:maven/net.uiqui/woody@2.3.0?classifier=sources
+- pkg:maven/net.uiqui/woody@2.4.0
+- pkg:maven/net.uiqui/woody@2.4.0?classifier=sources

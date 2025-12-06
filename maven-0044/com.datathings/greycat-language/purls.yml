@@ -1,0 +1,14 @@
+- pkg:maven/com.datathings/greycat-language@10
+- pkg:maven/com.datathings/greycat-language@10?classifier=sources
+- pkg:maven/com.datathings/greycat-language@8
+- pkg:maven/com.datathings/greycat-language@8.1
+- pkg:maven/com.datathings/greycat-language@8.1?classifier=sources
+- pkg:maven/com.datathings/greycat-language@8.2
+- pkg:maven/com.datathings/greycat-language@8.2?classifier=sources
+- pkg:maven/com.datathings/greycat-language@8.3
+- pkg:maven/com.datathings/greycat-language@8.3?classifier=sources
+- pkg:maven/com.datathings/greycat-language@8.4
+- pkg:maven/com.datathings/greycat-language@8.4?classifier=sources
+- pkg:maven/com.datathings/greycat-language@8?classifier=sources
+- pkg:maven/com.datathings/greycat-language@9
+- pkg:maven/com.datathings/greycat-language@9?classifier=sources

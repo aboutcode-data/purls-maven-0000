@@ -1,0 +1,2 @@
+- pkg:maven/com.develouz/library@1.0.0?classifier=sources
+- pkg:maven/com.develouz/library@1.0.0?type=aar

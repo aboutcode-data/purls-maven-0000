@@ -1,0 +1,16 @@
+- pkg:maven/com.machinezoo.sourceafis/sourceafis@2.0.0-alpha
+- pkg:maven/com.machinezoo.sourceafis/sourceafis@2.0.0-alpha?classifier=sources
+- pkg:maven/com.machinezoo.sourceafis/sourceafis@2.0.10
+- pkg:maven/com.machinezoo.sourceafis/sourceafis@2.0.10?classifier=sources
+- pkg:maven/com.machinezoo.sourceafis/sourceafis@2.0.11
+- pkg:maven/com.machinezoo.sourceafis/sourceafis@2.0.11?classifier=sources
+- pkg:maven/com.machinezoo.sourceafis/sourceafis@2.0.7-alpha
+- pkg:maven/com.machinezoo.sourceafis/sourceafis@2.0.7-alpha?classifier=sources
+- pkg:maven/com.machinezoo.sourceafis/sourceafis@2.0.8-alpha
+- pkg:maven/com.machinezoo.sourceafis/sourceafis@2.0.8-alpha?classifier=sources
+- pkg:maven/com.machinezoo.sourceafis/sourceafis@2.0.9-beta
+- pkg:maven/com.machinezoo.sourceafis/sourceafis@2.0.9-beta?classifier=sources
+- pkg:maven/com.machinezoo.sourceafis/sourceafis@2.1.0
+- pkg:maven/com.machinezoo.sourceafis/sourceafis@2.1.0?classifier=sources
+- pkg:maven/com.machinezoo.sourceafis/sourceafis@2.2.0
+- pkg:maven/com.machinezoo.sourceafis/sourceafis@2.2.0?classifier=sources

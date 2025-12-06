@@ -12,3 +12,9 @@
 - pkg:maven/com.google.appengine/appengine-local-runtime-shared@1.9.51
 - pkg:maven/com.google.appengine/appengine-local-runtime-shared@1.9.52
 - pkg:maven/com.google.appengine/appengine-local-runtime-shared@1.9.53
+- pkg:maven/com.google.appengine/appengine-local-runtime-shared@1.9.54
+- pkg:maven/com.google.appengine/appengine-local-runtime-shared@1.9.55
+- pkg:maven/com.google.appengine/appengine-local-runtime-shared@1.9.56
+- pkg:maven/com.google.appengine/appengine-local-runtime-shared@1.9.57
+- pkg:maven/com.google.appengine/appengine-local-runtime-shared@1.9.58
+- pkg:maven/com.google.appengine/appengine-local-runtime-shared@1.9.59

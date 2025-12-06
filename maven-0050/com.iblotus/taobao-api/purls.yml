@@ -1,0 +1,2 @@
+- pkg:maven/com.iblotus/taobao-api@1.0
+- pkg:maven/com.iblotus/taobao-api@1.0?classifier=sources

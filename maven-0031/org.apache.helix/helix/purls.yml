@@ -6,5 +6,7 @@
 - pkg:maven/org.apache.helix/helix@0.6.5?classifier=source-release&type=zip
 - pkg:maven/org.apache.helix/helix@0.6.6?classifier=source-release&type=zip
 - pkg:maven/org.apache.helix/helix@0.6.7?classifier=source-release&type=zip
+- pkg:maven/org.apache.helix/helix@0.6.8?classifier=source-release&type=zip
+- pkg:maven/org.apache.helix/helix@0.6.9?classifier=source-release&type=zip
 - pkg:maven/org.apache.helix/helix@0.7.0-incubating?classifier=source-release&type=zip
 - pkg:maven/org.apache.helix/helix@0.7.1?classifier=source-release&type=zip

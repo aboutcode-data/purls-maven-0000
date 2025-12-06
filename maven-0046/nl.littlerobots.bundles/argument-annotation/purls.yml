@@ -1,0 +1,4 @@
+- pkg:maven/nl.littlerobots.bundles/argument-annotation@2.0.0
+- pkg:maven/nl.littlerobots.bundles/argument-annotation@2.0.0?classifier=sources
+- pkg:maven/nl.littlerobots.bundles/argument-annotation@2.0.1
+- pkg:maven/nl.littlerobots.bundles/argument-annotation@2.0.1?classifier=sources

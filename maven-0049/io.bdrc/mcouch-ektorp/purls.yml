@@ -1,2 +1,4 @@
 - pkg:maven/io.bdrc/mcouch-ektorp@1.0.0
 - pkg:maven/io.bdrc/mcouch-ektorp@1.0.0?classifier=sources
+- pkg:maven/io.bdrc/mcouch-ektorp@1.1.0
+- pkg:maven/io.bdrc/mcouch-ektorp@1.1.0?classifier=sources

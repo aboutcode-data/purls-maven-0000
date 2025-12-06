@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/chroma-js@1.3.4
+- pkg:maven/org.webjars.npm/chroma-js@1.3.4?classifier=sources

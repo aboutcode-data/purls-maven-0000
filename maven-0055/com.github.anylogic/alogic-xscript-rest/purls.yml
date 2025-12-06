@@ -8,3 +8,5 @@
 - pkg:maven/com.github.anylogic/alogic-xscript-rest@4.5.2-20170315?classifier=sources
 - pkg:maven/com.github.anylogic/alogic-xscript-rest@4.5.2-20170512
 - pkg:maven/com.github.anylogic/alogic-xscript-rest@4.5.2-20170512?classifier=sources
+- pkg:maven/com.github.anylogic/alogic-xscript-rest@4.5.2-20170829
+- pkg:maven/com.github.anylogic/alogic-xscript-rest@4.5.2-20170829?classifier=sources

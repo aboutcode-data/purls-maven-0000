@@ -3,3 +3,4 @@
 - pkg:maven/org.marketcetera/photon-bundle@2.4.0
 - pkg:maven/org.marketcetera/photon-bundle@2.4.1
 - pkg:maven/org.marketcetera/photon-bundle@2.4.2
+- pkg:maven/org.marketcetera/photon-bundle@3.0.12

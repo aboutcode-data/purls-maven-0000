@@ -40,6 +40,8 @@
 - pkg:maven/org.projectlombok/lombok-utils@1.16.14?classifier=sources
 - pkg:maven/org.projectlombok/lombok-utils@1.16.16
 - pkg:maven/org.projectlombok/lombok-utils@1.16.16?classifier=sources
+- pkg:maven/org.projectlombok/lombok-utils@1.16.18
+- pkg:maven/org.projectlombok/lombok-utils@1.16.18?classifier=sources
 - pkg:maven/org.projectlombok/lombok-utils@1.16.2
 - pkg:maven/org.projectlombok/lombok-utils@1.16.2?classifier=sources
 - pkg:maven/org.projectlombok/lombok-utils@1.16.4

@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/three-js-csg@72.0.0
+- pkg:maven/org.webjars.npm/three-js-csg@72.0.0?classifier=sources

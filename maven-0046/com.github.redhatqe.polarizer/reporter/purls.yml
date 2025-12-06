@@ -1,0 +1,2 @@
+- pkg:maven/com.github.redhatqe.polarizer/reporter@0.2.0
+- pkg:maven/com.github.redhatqe.polarizer/reporter@0.2.0?classifier=sources

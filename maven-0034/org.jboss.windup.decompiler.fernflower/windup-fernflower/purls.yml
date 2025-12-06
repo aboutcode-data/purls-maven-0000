@@ -1,2 +1,6 @@
 - pkg:maven/org.jboss.windup.decompiler.fernflower/windup-fernflower@1.0.0.20160505
 - pkg:maven/org.jboss.windup.decompiler.fernflower/windup-fernflower@1.0.0.20160505?classifier=sources
+- pkg:maven/org.jboss.windup.decompiler.fernflower/windup-fernflower@1.0.0.20160505b
+- pkg:maven/org.jboss.windup.decompiler.fernflower/windup-fernflower@1.0.0.20160505b?classifier=sources
+- pkg:maven/org.jboss.windup.decompiler.fernflower/windup-fernflower@1.0.0.20171018
+- pkg:maven/org.jboss.windup.decompiler.fernflower/windup-fernflower@1.0.0.20171018?classifier=sources

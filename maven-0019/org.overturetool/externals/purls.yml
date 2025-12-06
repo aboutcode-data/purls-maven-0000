@@ -3,3 +3,8 @@
 - pkg:maven/org.overturetool/externals@2.4.2
 - pkg:maven/org.overturetool/externals@2.4.4
 - pkg:maven/org.overturetool/externals@2.4.6
+- pkg:maven/org.overturetool/externals@2.4.8
+- pkg:maven/org.overturetool/externals@2.5.0
+- pkg:maven/org.overturetool/externals@2.5.2
+- pkg:maven/org.overturetool/externals@2.5.4
+- pkg:maven/org.overturetool/externals@2.5.6

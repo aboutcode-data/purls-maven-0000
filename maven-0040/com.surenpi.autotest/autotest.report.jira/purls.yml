@@ -1,0 +1,2 @@
+- pkg:maven/com.surenpi.autotest/autotest.report.jira@1.0.0-20170701
+- pkg:maven/com.surenpi.autotest/autotest.report.jira@1.0.0-20170701?classifier=sources

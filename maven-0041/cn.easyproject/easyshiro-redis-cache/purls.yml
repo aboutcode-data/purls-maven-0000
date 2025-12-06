@@ -1,0 +1,2 @@
+- pkg:maven/cn.easyproject/easyshiro-redis-cache@2.6.0-RELEASE
+- pkg:maven/cn.easyproject/easyshiro-redis-cache@2.6.0-RELEASE?classifier=sources

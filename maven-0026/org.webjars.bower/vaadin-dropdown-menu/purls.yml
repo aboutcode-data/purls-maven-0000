@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.bower/vaadin-dropdown-menu@1.0.0-alpha4
+- pkg:maven/org.webjars.bower/vaadin-dropdown-menu@1.0.0-alpha4?classifier=sources

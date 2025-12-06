@@ -1,0 +1,2 @@
+- pkg:maven/jp.co.yahoo.dataplatform.config/dataplatform-common-config@1.1.0
+- pkg:maven/jp.co.yahoo.dataplatform.config/dataplatform-common-config@1.1.0?classifier=sources

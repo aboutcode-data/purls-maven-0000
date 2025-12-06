@@ -6,6 +6,12 @@
 - pkg:maven/com.joseflavio/iperoxo@1.0-A12?classifier=sources
 - pkg:maven/com.joseflavio/iperoxo@1.0-A13
 - pkg:maven/com.joseflavio/iperoxo@1.0-A13?classifier=sources
+- pkg:maven/com.joseflavio/iperoxo@1.0-A14
+- pkg:maven/com.joseflavio/iperoxo@1.0-A14?classifier=sources
+- pkg:maven/com.joseflavio/iperoxo@1.0-A15
+- pkg:maven/com.joseflavio/iperoxo@1.0-A15?classifier=sources
+- pkg:maven/com.joseflavio/iperoxo@1.0-A16
+- pkg:maven/com.joseflavio/iperoxo@1.0-A16?classifier=sources
 - pkg:maven/com.joseflavio/iperoxo@1.0-A6
 - pkg:maven/com.joseflavio/iperoxo@1.0-A6?classifier=sources
 - pkg:maven/com.joseflavio/iperoxo@1.0-A7

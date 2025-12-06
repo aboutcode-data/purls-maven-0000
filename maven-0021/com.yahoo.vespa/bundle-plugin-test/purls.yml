@@ -1,0 +1,13 @@
+- pkg:maven/com.yahoo.vespa/bundle-plugin-test@6.172.31?classifier=sources
+- pkg:maven/com.yahoo.vespa/bundle-plugin-test@6.173.62?classifier=sources
+- pkg:maven/com.yahoo.vespa/bundle-plugin-test@6.175.31?classifier=sources
+- pkg:maven/com.yahoo.vespa/bundle-plugin-test@6.176.233?classifier=sources
+- pkg:maven/com.yahoo.vespa/bundle-plugin-test@6.177.31?classifier=sources
+- pkg:maven/com.yahoo.vespa/bundle-plugin-test@6.178.22?classifier=sources
+- pkg:maven/com.yahoo.vespa/bundle-plugin-test@6.179.30?classifier=sources
+- pkg:maven/com.yahoo.vespa/bundle-plugin-test@6.182.28?classifier=sources
+- pkg:maven/com.yahoo.vespa/bundle-plugin-test@6.183.169?classifier=sources
+- pkg:maven/com.yahoo.vespa/bundle-plugin-test@6.184.43?classifier=sources
+- pkg:maven/com.yahoo.vespa/bundle-plugin-test@6.185.9?classifier=sources
+- pkg:maven/com.yahoo.vespa/bundle-plugin-test@6.186.84?classifier=sources
+- pkg:maven/com.yahoo.vespa/bundle-plugin-test@6.187.27?classifier=sources

@@ -6,3 +6,7 @@
 - pkg:maven/com.mikepenz/fastadapter-extensions-realm@2.2.0?type=aar
 - pkg:maven/com.mikepenz/fastadapter-extensions-realm@2.5.0?classifier=sources
 - pkg:maven/com.mikepenz/fastadapter-extensions-realm@2.5.0?type=aar
+- pkg:maven/com.mikepenz/fastadapter-extensions-realm@2.6.0?classifier=sources
+- pkg:maven/com.mikepenz/fastadapter-extensions-realm@2.6.0?type=aar
+- pkg:maven/com.mikepenz/fastadapter-extensions-realm@2.6.3?classifier=sources
+- pkg:maven/com.mikepenz/fastadapter-extensions-realm@2.6.3?type=aar

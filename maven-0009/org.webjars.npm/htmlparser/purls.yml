@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/htmlparser@1.7.6
+- pkg:maven/org.webjars.npm/htmlparser@1.7.6?classifier=sources

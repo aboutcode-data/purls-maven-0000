@@ -1,2 +1,10 @@
 - pkg:maven/com.aliyun.dts/client@2.2.1.40-cloud
 - pkg:maven/com.aliyun.dts/client@2.2.1.40-cloud?classifier=sources
+- pkg:maven/com.aliyun.dts/client@2.2.1.41-cloud
+- pkg:maven/com.aliyun.dts/client@2.2.1.41-cloud.beta
+- pkg:maven/com.aliyun.dts/client@2.2.1.41-cloud.beta.1
+- pkg:maven/com.aliyun.dts/client@2.2.1.41-cloud.beta.1?classifier=sources
+- pkg:maven/com.aliyun.dts/client@2.2.1.41-cloud.beta.2
+- pkg:maven/com.aliyun.dts/client@2.2.1.41-cloud.beta.2?classifier=sources
+- pkg:maven/com.aliyun.dts/client@2.2.1.41-cloud.beta?classifier=sources
+- pkg:maven/com.aliyun.dts/client@2.2.1.41-cloud?classifier=sources

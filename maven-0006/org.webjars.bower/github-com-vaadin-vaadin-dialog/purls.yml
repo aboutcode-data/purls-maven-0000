@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.bower/github-com-vaadin-vaadin-dialog@v1.0.0
+- pkg:maven/org.webjars.bower/github-com-vaadin-vaadin-dialog@v1.0.0?classifier=sources

@@ -3,3 +3,5 @@
 - pkg:maven/org.jboss.aerogear/aerogear-android-auth@2.1.0?classifier=sources
 - pkg:maven/org.jboss.aerogear/aerogear-android-auth@3.0.0?classifier=sources
 - pkg:maven/org.jboss.aerogear/aerogear-android-auth@3.1.0?classifier=sources
+- pkg:maven/org.jboss.aerogear/aerogear-android-auth@4.0.0?classifier=sources
+- pkg:maven/org.jboss.aerogear/aerogear-android-auth@4.0.0?type=aar

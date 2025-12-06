@@ -16,3 +16,5 @@
 - pkg:maven/de.charite.compbio/jannovar-core@0.21?classifier=sources
 - pkg:maven/de.charite.compbio/jannovar-core@0.22
 - pkg:maven/de.charite.compbio/jannovar-core@0.22?classifier=sources
+- pkg:maven/de.charite.compbio/jannovar-core@0.23
+- pkg:maven/de.charite.compbio/jannovar-core@0.23?classifier=sources

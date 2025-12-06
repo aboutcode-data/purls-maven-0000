@@ -8,3 +8,9 @@
 - pkg:maven/com.firebaseui/firebase-ui-storage@1.0.0?type=aar
 - pkg:maven/com.firebaseui/firebase-ui-storage@1.1.0?classifier=sources
 - pkg:maven/com.firebaseui/firebase-ui-storage@1.1.0?type=aar
+- pkg:maven/com.firebaseui/firebase-ui-storage@1.2.0?classifier=sources
+- pkg:maven/com.firebaseui/firebase-ui-storage@1.2.0?type=aar
+- pkg:maven/com.firebaseui/firebase-ui-storage@2.0.0?classifier=sources
+- pkg:maven/com.firebaseui/firebase-ui-storage@2.0.0?type=aar
+- pkg:maven/com.firebaseui/firebase-ui-storage@2.1.0?classifier=sources
+- pkg:maven/com.firebaseui/firebase-ui-storage@2.1.0?type=aar

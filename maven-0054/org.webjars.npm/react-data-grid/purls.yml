@@ -16,3 +16,5 @@
 - pkg:maven/org.webjars.npm/react-data-grid@1.0.40-vv-issue-4401846?classifier=sources
 - pkg:maven/org.webjars.npm/react-data-grid@1.0.42
 - pkg:maven/org.webjars.npm/react-data-grid@1.0.42?classifier=sources
+- pkg:maven/org.webjars.npm/react-data-grid@2.0.73
+- pkg:maven/org.webjars.npm/react-data-grid@2.0.73?classifier=sources

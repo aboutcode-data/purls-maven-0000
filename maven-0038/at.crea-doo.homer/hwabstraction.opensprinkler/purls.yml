@@ -1,5 +1,7 @@
 - pkg:maven/at.crea-doo.homer/hwabstraction.opensprinkler@1.0.10
 - pkg:maven/at.crea-doo.homer/hwabstraction.opensprinkler@1.0.10?classifier=sources
+- pkg:maven/at.crea-doo.homer/hwabstraction.opensprinkler@1.0.11
+- pkg:maven/at.crea-doo.homer/hwabstraction.opensprinkler@1.0.11?classifier=sources
 - pkg:maven/at.crea-doo.homer/hwabstraction.opensprinkler@1.0.7
 - pkg:maven/at.crea-doo.homer/hwabstraction.opensprinkler@1.0.7?classifier=sources
 - pkg:maven/at.crea-doo.homer/hwabstraction.opensprinkler@1.0.8

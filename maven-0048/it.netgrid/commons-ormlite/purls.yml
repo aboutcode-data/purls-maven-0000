@@ -1,0 +1,2 @@
+- pkg:maven/it.netgrid/commons-ormlite@0.0.3
+- pkg:maven/it.netgrid/commons-ormlite@0.0.3?classifier=sources

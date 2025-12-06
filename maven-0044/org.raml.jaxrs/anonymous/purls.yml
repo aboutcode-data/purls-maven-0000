@@ -1,0 +1,2 @@
+- pkg:maven/org.raml.jaxrs/anonymous@2.1.1
+- pkg:maven/org.raml.jaxrs/anonymous@2.1.1?classifier=sources

@@ -132,3 +132,5 @@
 - pkg:maven/io.yawp/yawp@1.6.8?classifier=sources
 - pkg:maven/io.yawp/yawp@1.6.9
 - pkg:maven/io.yawp/yawp@1.6.9?classifier=sources
+- pkg:maven/io.yawp/yawp@2.0.0alpha
+- pkg:maven/io.yawp/yawp@2.0.0alpha?classifier=sources

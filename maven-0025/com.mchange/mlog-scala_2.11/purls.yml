@@ -1,3 +1,5 @@
+- pkg:maven/com.mchange/mlog-scala_2.11@0.3.10
+- pkg:maven/com.mchange/mlog-scala_2.11@0.3.10?classifier=sources
 - pkg:maven/com.mchange/mlog-scala_2.11@0.3.4
 - pkg:maven/com.mchange/mlog-scala_2.11@0.3.4?classifier=sources
 - pkg:maven/com.mchange/mlog-scala_2.11@0.3.5

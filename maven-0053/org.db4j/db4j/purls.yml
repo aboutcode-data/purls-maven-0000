@@ -8,3 +8,5 @@
 - pkg:maven/org.db4j/db4j@0.9.3?classifier=sources
 - pkg:maven/org.db4j/db4j@0.9.4
 - pkg:maven/org.db4j/db4j@0.9.4?classifier=sources
+- pkg:maven/org.db4j/db4j@0.9.5
+- pkg:maven/org.db4j/db4j@0.9.5?classifier=sources

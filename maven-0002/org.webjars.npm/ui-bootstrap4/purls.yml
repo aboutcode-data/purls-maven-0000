@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/ui-bootstrap4@3.0.0-beta.3
+- pkg:maven/org.webjars.npm/ui-bootstrap4@3.0.0-beta.3?classifier=sources

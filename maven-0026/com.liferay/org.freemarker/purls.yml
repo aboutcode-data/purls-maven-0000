@@ -6,3 +6,5 @@
 - pkg:maven/com.liferay/org.freemarker@2.3.23.LIFERAY-PATCHED-2?classifier=sources
 - pkg:maven/com.liferay/org.freemarker@2.3.23.LIFERAY-PATCHED-3
 - pkg:maven/com.liferay/org.freemarker@2.3.23.LIFERAY-PATCHED-3?classifier=sources
+- pkg:maven/com.liferay/org.freemarker@2.3.23.LIFERAY-PATCHED-4
+- pkg:maven/com.liferay/org.freemarker@2.3.23.LIFERAY-PATCHED-4?classifier=sources

@@ -1,3 +1,4 @@
 - pkg:maven/com.io7m.mutable.numbers/com.io7m.mutable.numbers.tests@0.0.1
 - pkg:maven/com.io7m.mutable.numbers/com.io7m.mutable.numbers.tests@0.0.2
 - pkg:maven/com.io7m.mutable.numbers/com.io7m.mutable.numbers.tests@1.0.0
+- pkg:maven/com.io7m.mutable.numbers/com.io7m.mutable.numbers.tests@2.0.0

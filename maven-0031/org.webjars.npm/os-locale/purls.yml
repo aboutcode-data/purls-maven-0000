@@ -1,2 +1,4 @@
 - pkg:maven/org.webjars.npm/os-locale@1.4.0
 - pkg:maven/org.webjars.npm/os-locale@1.4.0?classifier=sources
+- pkg:maven/org.webjars.npm/os-locale@2.1.0
+- pkg:maven/org.webjars.npm/os-locale@2.1.0?classifier=sources

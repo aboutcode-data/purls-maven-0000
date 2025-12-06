@@ -60,3 +60,7 @@
 - pkg:maven/org.nuiton.topia/topia-service-csv@3.2.1
 - pkg:maven/org.nuiton.topia/topia-service-csv@3.2.1?classifier=sources
 - pkg:maven/org.nuiton.topia/topia-service-csv@3.2?classifier=sources
+- pkg:maven/org.nuiton.topia/topia-service-csv@3.3
+- pkg:maven/org.nuiton.topia/topia-service-csv@3.3.1
+- pkg:maven/org.nuiton.topia/topia-service-csv@3.3.1?classifier=sources
+- pkg:maven/org.nuiton.topia/topia-service-csv@3.3?classifier=sources

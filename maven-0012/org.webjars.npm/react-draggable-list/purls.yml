@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/react-draggable-list@3.4.1
+- pkg:maven/org.webjars.npm/react-draggable-list@3.4.1?classifier=sources

@@ -8,3 +8,15 @@
 - pkg:maven/com.microsoft.azure/azure-data-lake-store-sdk@2.1.4?classifier=sources
 - pkg:maven/com.microsoft.azure/azure-data-lake-store-sdk@2.1.5
 - pkg:maven/com.microsoft.azure/azure-data-lake-store-sdk@2.1.5?classifier=sources
+- pkg:maven/com.microsoft.azure/azure-data-lake-store-sdk@2.2.0-preview1
+- pkg:maven/com.microsoft.azure/azure-data-lake-store-sdk@2.2.0-preview1?classifier=sources
+- pkg:maven/com.microsoft.azure/azure-data-lake-store-sdk@2.2.1
+- pkg:maven/com.microsoft.azure/azure-data-lake-store-sdk@2.2.1?classifier=sources
+- pkg:maven/com.microsoft.azure/azure-data-lake-store-sdk@2.2.2
+- pkg:maven/com.microsoft.azure/azure-data-lake-store-sdk@2.2.2?classifier=sources
+- pkg:maven/com.microsoft.azure/azure-data-lake-store-sdk@2.2.3
+- pkg:maven/com.microsoft.azure/azure-data-lake-store-sdk@2.2.3?classifier=sources
+- pkg:maven/com.microsoft.azure/azure-data-lake-store-sdk@2.3.0-preview1
+- pkg:maven/com.microsoft.azure/azure-data-lake-store-sdk@2.3.0-preview1?classifier=sources
+- pkg:maven/com.microsoft.azure/azure-data-lake-store-sdk@2.3.0-preview2
+- pkg:maven/com.microsoft.azure/azure-data-lake-store-sdk@2.3.0-preview2?classifier=sources

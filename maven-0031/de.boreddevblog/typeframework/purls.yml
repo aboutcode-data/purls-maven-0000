@@ -1,2 +1,4 @@
 - pkg:maven/de.boreddevblog/typeframework@0.0.2
 - pkg:maven/de.boreddevblog/typeframework@0.0.2?classifier=sources
+- pkg:maven/de.boreddevblog/typeframework@1.0.0
+- pkg:maven/de.boreddevblog/typeframework@1.0.0?classifier=sources

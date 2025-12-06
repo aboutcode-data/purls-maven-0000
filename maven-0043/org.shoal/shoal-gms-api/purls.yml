@@ -109,3 +109,5 @@
 - pkg:maven/org.shoal/shoal-gms-api@1.6.22?classifier=sources
 - pkg:maven/org.shoal/shoal-gms-api@1.6.50
 - pkg:maven/org.shoal/shoal-gms-api@1.6.50?classifier=sources
+- pkg:maven/org.shoal/shoal-gms-api@1.6.51
+- pkg:maven/org.shoal/shoal-gms-api@1.6.51?classifier=sources

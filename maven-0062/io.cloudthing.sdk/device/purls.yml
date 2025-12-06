@@ -8,3 +8,7 @@
 - pkg:maven/io.cloudthing.sdk/device@0.2.2?classifier=sources
 - pkg:maven/io.cloudthing.sdk/device@0.3.0
 - pkg:maven/io.cloudthing.sdk/device@0.3.0?classifier=sources
+- pkg:maven/io.cloudthing.sdk/device@0.3.3
+- pkg:maven/io.cloudthing.sdk/device@0.3.3?classifier=sources
+- pkg:maven/io.cloudthing.sdk/device@0.3.4
+- pkg:maven/io.cloudthing.sdk/device@0.3.4?classifier=sources

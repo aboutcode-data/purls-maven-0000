@@ -1,0 +1,2 @@
+- pkg:maven/com.microsoft.msr.malmo/MalmoJavaJar@0.30.0
+- pkg:maven/com.microsoft.msr.malmo/MalmoJavaJar@0.30.0?classifier=sources

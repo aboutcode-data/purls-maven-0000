@@ -1,0 +1,2 @@
+- pkg:maven/com.github.w1tebear/jcmdline@2.0.1
+- pkg:maven/com.github.w1tebear/jcmdline@2.0.1?classifier=sources

@@ -14,3 +14,9 @@
 - pkg:maven/com.graphql-java/graphql-java-annotations@0.14.0?classifier=sources
 - pkg:maven/com.graphql-java/graphql-java-annotations@0.9.0
 - pkg:maven/com.graphql-java/graphql-java-annotations@0.9.0?classifier=sources
+- pkg:maven/com.graphql-java/graphql-java-annotations@3.0.2
+- pkg:maven/com.graphql-java/graphql-java-annotations@3.0.2-alpha4
+- pkg:maven/com.graphql-java/graphql-java-annotations@3.0.2-alpha4?classifier=sources
+- pkg:maven/com.graphql-java/graphql-java-annotations@3.0.2?classifier=sources
+- pkg:maven/com.graphql-java/graphql-java-annotations@3.0.3
+- pkg:maven/com.graphql-java/graphql-java-annotations@3.0.3?classifier=sources

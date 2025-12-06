@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/salesforce__canvas-js-sdk@1.40.1
+- pkg:maven/org.webjars.npm/salesforce__canvas-js-sdk@1.40.1?classifier=sources

@@ -2,6 +2,8 @@
 - pkg:maven/com.trueaccord.lenses/lenses_sjs0.6_2.10@0.4.10?classifier=sources
 - pkg:maven/com.trueaccord.lenses/lenses_sjs0.6_2.10@0.4.11
 - pkg:maven/com.trueaccord.lenses/lenses_sjs0.6_2.10@0.4.11?classifier=sources
+- pkg:maven/com.trueaccord.lenses/lenses_sjs0.6_2.10@0.4.12
+- pkg:maven/com.trueaccord.lenses/lenses_sjs0.6_2.10@0.4.12?classifier=sources
 - pkg:maven/com.trueaccord.lenses/lenses_sjs0.6_2.10@0.4.4
 - pkg:maven/com.trueaccord.lenses/lenses_sjs0.6_2.10@0.4.4?classifier=sources
 - pkg:maven/com.trueaccord.lenses/lenses_sjs0.6_2.10@0.4.5

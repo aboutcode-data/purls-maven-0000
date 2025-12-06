@@ -1,2 +1,6 @@
 - pkg:maven/de.sweetcode/e@1.6.0-alpha
 - pkg:maven/de.sweetcode/e@1.6.0-alpha?classifier=sources
+- pkg:maven/de.sweetcode/e@1.7.1-alpha
+- pkg:maven/de.sweetcode/e@1.7.1-alpha?classifier=sources
+- pkg:maven/de.sweetcode/e@1.7.2-alpha
+- pkg:maven/de.sweetcode/e@1.7.2-alpha?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.gimbal.android.v3/gimbal-sdk@3.0?classifier=sources
+- pkg:maven/com.gimbal.android.v3/gimbal-sdk@3.0?type=aar

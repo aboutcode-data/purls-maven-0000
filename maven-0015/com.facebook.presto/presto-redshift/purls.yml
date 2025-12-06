@@ -1,0 +1,6 @@
+- pkg:maven/com.facebook.presto/presto-redshift@0.186?classifier=sources
+- pkg:maven/com.facebook.presto/presto-redshift@0.187?classifier=sources
+- pkg:maven/com.facebook.presto/presto-redshift@0.188?classifier=sources
+- pkg:maven/com.facebook.presto/presto-redshift@0.189?classifier=sources
+- pkg:maven/com.facebook.presto/presto-redshift@0.190?classifier=sources
+- pkg:maven/com.facebook.presto/presto-redshift@0.191?classifier=sources

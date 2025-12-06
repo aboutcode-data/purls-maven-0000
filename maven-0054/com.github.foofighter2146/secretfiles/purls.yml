@@ -1,0 +1,2 @@
+- pkg:maven/com.github.foofighter2146/secretfiles@1.0
+- pkg:maven/com.github.foofighter2146/secretfiles@1.0?classifier=sources

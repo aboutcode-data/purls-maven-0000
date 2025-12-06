@@ -1,0 +1,2 @@
+- pkg:maven/com.github.mike10004/extensible-firefox-webdriver@3.7.1x1
+- pkg:maven/com.github.mike10004/extensible-firefox-webdriver@3.7.1x1?classifier=sources

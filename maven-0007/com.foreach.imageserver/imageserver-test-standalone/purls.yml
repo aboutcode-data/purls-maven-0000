@@ -1,0 +1,2 @@
+- pkg:maven/com.foreach.imageserver/imageserver-test-standalone@4.0.0.RELEASE?classifier=sources
+- pkg:maven/com.foreach.imageserver/imageserver-test-standalone@4.0.0.RELEASE?type=war

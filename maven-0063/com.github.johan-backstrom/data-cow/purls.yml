@@ -1,0 +1,2 @@
+- pkg:maven/com.github.johan-backstrom/data-cow@1.0.0
+- pkg:maven/com.github.johan-backstrom/data-cow@1.0.0?classifier=sources

@@ -34,3 +34,11 @@
 - pkg:maven/com.sdl.lt/Testy@2.3.0?classifier=sources
 - pkg:maven/com.sdl.lt/Testy@2.4.0
 - pkg:maven/com.sdl.lt/Testy@2.4.0?classifier=sources
+- pkg:maven/com.sdl.lt/Testy@2.5.0
+- pkg:maven/com.sdl.lt/Testy@2.5.0?classifier=sources
+- pkg:maven/com.sdl.lt/Testy@2.6.2
+- pkg:maven/com.sdl.lt/Testy@2.6.2?classifier=sources
+- pkg:maven/com.sdl.lt/Testy@2.7.0
+- pkg:maven/com.sdl.lt/Testy@2.7.0?classifier=sources
+- pkg:maven/com.sdl.lt/Testy@2.8.0
+- pkg:maven/com.sdl.lt/Testy@2.8.0?classifier=sources
