@@ -1,2 +1,4 @@
 - pkg:maven/com.empyr/client@0.9.6
 - pkg:maven/com.empyr/client@0.9.6?classifier=sources
+- pkg:maven/com.empyr/client@0.9.7
+- pkg:maven/com.empyr/client@0.9.7?classifier=sources

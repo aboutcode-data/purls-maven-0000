@@ -1,0 +1,2 @@
+- pkg:maven/com.graphhopper/graphhopper-navigation@0.12.0-pre2
+- pkg:maven/com.graphhopper/graphhopper-navigation@0.12.0-pre2?classifier=sources

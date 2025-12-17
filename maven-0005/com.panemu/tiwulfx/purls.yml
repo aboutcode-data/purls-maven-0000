@@ -4,3 +4,5 @@
 - pkg:maven/com.panemu/tiwulfx@1.9.1
 - pkg:maven/com.panemu/tiwulfx@1.9.1?classifier=sources
 - pkg:maven/com.panemu/tiwulfx@1.9?classifier=sources
+- pkg:maven/com.panemu/tiwulfx@2.0
+- pkg:maven/com.panemu/tiwulfx@2.0?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/org.webjars.bowergithub.onuridrisoglu/calendar-component@1.0.0
+- pkg:maven/org.webjars.bowergithub.onuridrisoglu/calendar-component@1.0.0?classifier=sources
+- pkg:maven/org.webjars.bowergithub.onuridrisoglu/calendar-component@1.0.1-beta
+- pkg:maven/org.webjars.bowergithub.onuridrisoglu/calendar-component@1.0.1-beta?classifier=sources

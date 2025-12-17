@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/plotly.js-dist@1.39.0
+- pkg:maven/org.webjars.npm/plotly.js-dist@1.39.0?classifier=sources

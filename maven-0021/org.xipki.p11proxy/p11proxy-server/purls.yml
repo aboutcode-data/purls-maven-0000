@@ -2,3 +2,5 @@
 - pkg:maven/org.xipki.p11proxy/p11proxy-server@2.3.0?classifier=sources
 - pkg:maven/org.xipki.p11proxy/p11proxy-server@3.0.0
 - pkg:maven/org.xipki.p11proxy/p11proxy-server@3.0.0?classifier=sources
+- pkg:maven/org.xipki.p11proxy/p11proxy-server@4.0.0
+- pkg:maven/org.xipki.p11proxy/p11proxy-server@4.0.0?classifier=sources

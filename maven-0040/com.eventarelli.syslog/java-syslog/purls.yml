@@ -1,0 +1,4 @@
+- pkg:maven/com.eventarelli.syslog/java-syslog@1.0.0
+- pkg:maven/com.eventarelli.syslog/java-syslog@1.0.0?classifier=sources
+- pkg:maven/com.eventarelli.syslog/java-syslog@2.0.0
+- pkg:maven/com.eventarelli.syslog/java-syslog@2.0.0?classifier=sources

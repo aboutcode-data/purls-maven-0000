@@ -1,3 +1,5 @@
+- pkg:maven/org.webjars.bowergithub.polymerelements/paper-radio-group@1.2.2
+- pkg:maven/org.webjars.bowergithub.polymerelements/paper-radio-group@1.2.2?classifier=sources
 - pkg:maven/org.webjars.bowergithub.polymerelements/paper-radio-group@2.1.0
 - pkg:maven/org.webjars.bowergithub.polymerelements/paper-radio-group@2.1.0?classifier=sources
 - pkg:maven/org.webjars.bowergithub.polymerelements/paper-radio-group@2.2.0

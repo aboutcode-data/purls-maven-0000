@@ -1,3 +1,7 @@
+- pkg:maven/org.wso2.carbon.extension.identity.oauth.addons/org.wso2.carbon.identity.oauth2.token.handler.clientauth.mutualtls@1.0.10
+- pkg:maven/org.wso2.carbon.extension.identity.oauth.addons/org.wso2.carbon.identity.oauth2.token.handler.clientauth.mutualtls@1.0.10?classifier=sources
+- pkg:maven/org.wso2.carbon.extension.identity.oauth.addons/org.wso2.carbon.identity.oauth2.token.handler.clientauth.mutualtls@1.0.11
+- pkg:maven/org.wso2.carbon.extension.identity.oauth.addons/org.wso2.carbon.identity.oauth2.token.handler.clientauth.mutualtls@1.0.11?classifier=sources
 - pkg:maven/org.wso2.carbon.extension.identity.oauth.addons/org.wso2.carbon.identity.oauth2.token.handler.clientauth.mutualtls@1.0.4
 - pkg:maven/org.wso2.carbon.extension.identity.oauth.addons/org.wso2.carbon.identity.oauth2.token.handler.clientauth.mutualtls@1.0.4?classifier=sources
 - pkg:maven/org.wso2.carbon.extension.identity.oauth.addons/org.wso2.carbon.identity.oauth2.token.handler.clientauth.mutualtls@1.0.5
@@ -10,3 +14,7 @@
 - pkg:maven/org.wso2.carbon.extension.identity.oauth.addons/org.wso2.carbon.identity.oauth2.token.handler.clientauth.mutualtls@1.0.8?classifier=sources
 - pkg:maven/org.wso2.carbon.extension.identity.oauth.addons/org.wso2.carbon.identity.oauth2.token.handler.clientauth.mutualtls@1.0.9
 - pkg:maven/org.wso2.carbon.extension.identity.oauth.addons/org.wso2.carbon.identity.oauth2.token.handler.clientauth.mutualtls@1.0.9?classifier=sources
+- pkg:maven/org.wso2.carbon.extension.identity.oauth.addons/org.wso2.carbon.identity.oauth2.token.handler.clientauth.mutualtls@2.0.0
+- pkg:maven/org.wso2.carbon.extension.identity.oauth.addons/org.wso2.carbon.identity.oauth2.token.handler.clientauth.mutualtls@2.0.0?classifier=sources
+- pkg:maven/org.wso2.carbon.extension.identity.oauth.addons/org.wso2.carbon.identity.oauth2.token.handler.clientauth.mutualtls@2.0.1
+- pkg:maven/org.wso2.carbon.extension.identity.oauth.addons/org.wso2.carbon.identity.oauth2.token.handler.clientauth.mutualtls@2.0.1?classifier=sources

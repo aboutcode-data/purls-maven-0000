@@ -2,3 +2,5 @@
 - pkg:maven/de.perdoctus.fx/javafx-cdi-bootstrap@1.0.2?classifier=sources
 - pkg:maven/de.perdoctus.fx/javafx-cdi-bootstrap@1.0.3
 - pkg:maven/de.perdoctus.fx/javafx-cdi-bootstrap@1.0.3?classifier=sources
+- pkg:maven/de.perdoctus.fx/javafx-cdi-bootstrap@2.0.0
+- pkg:maven/de.perdoctus.fx/javafx-cdi-bootstrap@2.0.0?classifier=sources

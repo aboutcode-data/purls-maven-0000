@@ -12,3 +12,5 @@
 - pkg:maven/fr.avianey/appratedialog@1.2.0?type=aar
 - pkg:maven/fr.avianey/appratedialog@1.3.0?classifier=sources
 - pkg:maven/fr.avianey/appratedialog@1.3.0?type=aar
+- pkg:maven/fr.avianey/appratedialog@2.0.1?classifier=sources
+- pkg:maven/fr.avianey/appratedialog@2.0.1?type=aar

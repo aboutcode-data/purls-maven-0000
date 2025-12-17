@@ -1,0 +1,4 @@
+- pkg:maven/org.webjars.npm/reactive-elements@0.10.0
+- pkg:maven/org.webjars.npm/reactive-elements@0.10.0?classifier=sources
+- pkg:maven/org.webjars.npm/reactive-elements@0.9.0
+- pkg:maven/org.webjars.npm/reactive-elements@0.9.0?classifier=sources

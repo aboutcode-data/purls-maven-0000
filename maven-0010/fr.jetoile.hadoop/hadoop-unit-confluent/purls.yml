@@ -1,2 +1,6 @@
 - pkg:maven/fr.jetoile.hadoop/hadoop-unit-confluent@2.7
 - pkg:maven/fr.jetoile.hadoop/hadoop-unit-confluent@2.7?classifier=sources
+- pkg:maven/fr.jetoile.hadoop/hadoop-unit-confluent@2.8
+- pkg:maven/fr.jetoile.hadoop/hadoop-unit-confluent@2.8?classifier=sources
+- pkg:maven/fr.jetoile.hadoop/hadoop-unit-confluent@2.9
+- pkg:maven/fr.jetoile.hadoop/hadoop-unit-confluent@2.9?classifier=sources

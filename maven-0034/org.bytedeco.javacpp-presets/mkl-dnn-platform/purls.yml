@@ -1,0 +1,2 @@
+- pkg:maven/org.bytedeco.javacpp-presets/mkl-dnn-platform@0.15-1.4.2
+- pkg:maven/org.bytedeco.javacpp-presets/mkl-dnn-platform@0.16-1.4.3

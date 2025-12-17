@@ -1,0 +1,2 @@
+- pkg:maven/one.leftshift.gaia-java-sdk/gaia-java-sdk-rain@0.1.0
+- pkg:maven/one.leftshift.gaia-java-sdk/gaia-java-sdk-rain@0.1.0?classifier=sources

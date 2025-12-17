@@ -1,0 +1,6 @@
+- pkg:maven/cn.testin.analysis/bugout@1.0.0-beta?type=aar
+- pkg:maven/cn.testin.analysis/bugout@1.0.1-beta?type=aar
+- pkg:maven/cn.testin.analysis/bugout@1.0.2-beta?type=aar
+- pkg:maven/cn.testin.analysis/bugout@1.0.3-beta?type=aar
+- pkg:maven/cn.testin.analysis/bugout@1.0.4?type=aar
+- pkg:maven/cn.testin.analysis/bugout@1.0.5?type=aar

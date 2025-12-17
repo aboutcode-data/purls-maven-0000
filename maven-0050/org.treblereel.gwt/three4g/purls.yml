@@ -1,0 +1,14 @@
+- pkg:maven/org.treblereel.gwt/three4g@0.95-beta2
+- pkg:maven/org.treblereel.gwt/three4g@0.95-beta2?classifier=sources
+- pkg:maven/org.treblereel.gwt/three4g@0.96-beta1
+- pkg:maven/org.treblereel.gwt/three4g@0.96-beta1?classifier=sources
+- pkg:maven/org.treblereel.gwt/three4g@0.96-beta2
+- pkg:maven/org.treblereel.gwt/three4g@0.96-beta2?classifier=sources
+- pkg:maven/org.treblereel.gwt/three4g@0.96-beta3
+- pkg:maven/org.treblereel.gwt/three4g@0.96-beta3?classifier=sources
+- pkg:maven/org.treblereel.gwt/three4g@0.97-beta1
+- pkg:maven/org.treblereel.gwt/three4g@0.97-beta1?classifier=sources
+- pkg:maven/org.treblereel.gwt/three4g@0.97-beta2
+- pkg:maven/org.treblereel.gwt/three4g@0.97-beta2?classifier=sources
+- pkg:maven/org.treblereel.gwt/three4g@0.98-beta1
+- pkg:maven/org.treblereel.gwt/three4g@0.98-beta1?classifier=sources

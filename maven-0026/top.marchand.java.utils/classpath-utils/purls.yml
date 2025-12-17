@@ -1,0 +1,8 @@
+- pkg:maven/top.marchand.java.utils/classpath-utils@1.00.00
+- pkg:maven/top.marchand.java.utils/classpath-utils@1.00.00?classifier=sources
+- pkg:maven/top.marchand.java.utils/classpath-utils@1.01.00
+- pkg:maven/top.marchand.java.utils/classpath-utils@1.01.00?classifier=sources
+- pkg:maven/top.marchand.java.utils/classpath-utils@1.02.00
+- pkg:maven/top.marchand.java.utils/classpath-utils@1.02.00?classifier=sources
+- pkg:maven/top.marchand.java.utils/classpath-utils@1.02.01
+- pkg:maven/top.marchand.java.utils/classpath-utils@1.02.01?classifier=sources

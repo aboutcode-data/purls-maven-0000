@@ -1,2 +1,4 @@
 - pkg:maven/com.qq.e/GDTUnionSDK_TBS@4.17.568
 - pkg:maven/com.qq.e/GDTUnionSDK_TBS@4.17.568?classifier=sources
+- pkg:maven/com.qq.e/GDTUnionSDK_TBS@4.18.569
+- pkg:maven/com.qq.e/GDTUnionSDK_TBS@4.18.569?classifier=sources

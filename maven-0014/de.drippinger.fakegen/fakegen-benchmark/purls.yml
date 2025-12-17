@@ -1,0 +1,2 @@
+- pkg:maven/de.drippinger.fakegen/fakegen-benchmark@0.2
+- pkg:maven/de.drippinger.fakegen/fakegen-benchmark@0.2?classifier=sources

@@ -1,2 +1,6 @@
 - pkg:maven/org.webjars.npm/print-this@1.12.2
 - pkg:maven/org.webjars.npm/print-this@1.12.2?classifier=sources
+- pkg:maven/org.webjars.npm/print-this@1.14.0
+- pkg:maven/org.webjars.npm/print-this@1.14.0?classifier=sources
+- pkg:maven/org.webjars.npm/print-this@1.14.1
+- pkg:maven/org.webjars.npm/print-this@1.14.1?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/io.github.frapples.javapinyin/java-pinyin@1.0-alpha-1
+- pkg:maven/io.github.frapples.javapinyin/java-pinyin@1.0-alpha-1?classifier=sources

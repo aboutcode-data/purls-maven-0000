@@ -1,2 +1,3 @@
 - pkg:maven/se.uu.it/mare@0.3.0
 - pkg:maven/se.uu.it/mare@0.3.0?classifier=sources
+- pkg:maven/se.uu.it/mare@0.4.0-beta-1?classifier=sources

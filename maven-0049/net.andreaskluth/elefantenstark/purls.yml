@@ -1,0 +1,2 @@
+- pkg:maven/net.andreaskluth/elefantenstark@0.1-RELEASE
+- pkg:maven/net.andreaskluth/elefantenstark@0.1-RELEASE?classifier=sources

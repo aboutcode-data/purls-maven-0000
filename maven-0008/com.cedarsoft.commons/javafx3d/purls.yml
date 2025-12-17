@@ -1,0 +1,2 @@
+- pkg:maven/com.cedarsoft.commons/javafx3d@8.7.0
+- pkg:maven/com.cedarsoft.commons/javafx3d@8.7.0?classifier=sources

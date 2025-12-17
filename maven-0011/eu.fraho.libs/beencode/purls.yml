@@ -1,2 +1,4 @@
 - pkg:maven/eu.fraho.libs/beencode@1.0.0
 - pkg:maven/eu.fraho.libs/beencode@1.0.0?classifier=sources
+- pkg:maven/eu.fraho.libs/beencode@2.0.0
+- pkg:maven/eu.fraho.libs/beencode@2.0.0?classifier=sources

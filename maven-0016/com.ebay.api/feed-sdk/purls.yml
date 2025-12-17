@@ -1,0 +1,6 @@
+- pkg:maven/com.ebay.api/feed-sdk@1.0.0.beta-RELEASE
+- pkg:maven/com.ebay.api/feed-sdk@1.0.0.beta-RELEASE?classifier=sources
+- pkg:maven/com.ebay.api/feed-sdk@1.0.1.beta-RELEASE
+- pkg:maven/com.ebay.api/feed-sdk@1.0.1.beta-RELEASE?classifier=sources
+- pkg:maven/com.ebay.api/feed-sdk@1.0.2.beta-RELEASE
+- pkg:maven/com.ebay.api/feed-sdk@1.0.2.beta-RELEASE?classifier=sources

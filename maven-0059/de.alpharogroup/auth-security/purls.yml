@@ -50,3 +50,5 @@
 - pkg:maven/de.alpharogroup/auth-security@5.0.0?classifier=sources
 - pkg:maven/de.alpharogroup/auth-security@5.1.0
 - pkg:maven/de.alpharogroup/auth-security@5.1.0?classifier=sources
+- pkg:maven/de.alpharogroup/auth-security@5.2
+- pkg:maven/de.alpharogroup/auth-security@5.2?classifier=sources

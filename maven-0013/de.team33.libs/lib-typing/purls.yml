@@ -1,0 +1,4 @@
+- pkg:maven/de.team33.libs/lib-typing@8.1.2
+- pkg:maven/de.team33.libs/lib-typing@8.1.2?classifier=sources
+- pkg:maven/de.team33.libs/lib-typing@8.2.0
+- pkg:maven/de.team33.libs/lib-typing@8.2.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/de.andreasgerhard/exception-logging-generator-mavenplugin@0.1
+- pkg:maven/de.andreasgerhard/exception-logging-generator-mavenplugin@0.1?classifier=sources

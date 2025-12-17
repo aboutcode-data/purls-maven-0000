@@ -1,6 +1,10 @@
+- pkg:maven/org.webjars.npm/lodash.foreach@2.4.1
+- pkg:maven/org.webjars.npm/lodash.foreach@2.4.1?classifier=sources
 - pkg:maven/org.webjars.npm/lodash.foreach@3.0.0
 - pkg:maven/org.webjars.npm/lodash.foreach@3.0.0?classifier=sources
 - pkg:maven/org.webjars.npm/lodash.foreach@4.0.0
 - pkg:maven/org.webjars.npm/lodash.foreach@4.0.0?classifier=sources
 - pkg:maven/org.webjars.npm/lodash.foreach@4.3.0
 - pkg:maven/org.webjars.npm/lodash.foreach@4.3.0?classifier=sources
+- pkg:maven/org.webjars.npm/lodash.foreach@4.5.0
+- pkg:maven/org.webjars.npm/lodash.foreach@4.5.0?classifier=sources

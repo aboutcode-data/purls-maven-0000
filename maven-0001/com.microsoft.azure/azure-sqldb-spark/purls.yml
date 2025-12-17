@@ -1,0 +1,2 @@
+- pkg:maven/com.microsoft.azure/azure-sqldb-spark@1.0.2
+- pkg:maven/com.microsoft.azure/azure-sqldb-spark@1.0.2?classifier=sources

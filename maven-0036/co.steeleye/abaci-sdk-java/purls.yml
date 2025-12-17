@@ -1,0 +1,2 @@
+- pkg:maven/co.steeleye/abaci-sdk-java@3.0.0
+- pkg:maven/co.steeleye/abaci-sdk-java@3.0.0?classifier=sources

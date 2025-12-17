@@ -1,0 +1,2 @@
+- pkg:maven/cn.cyejing/dsync-dominate@0.1.2
+- pkg:maven/cn.cyejing/dsync-dominate@0.1.2?classifier=sources

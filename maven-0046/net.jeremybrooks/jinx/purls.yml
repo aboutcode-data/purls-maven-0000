@@ -18,3 +18,7 @@
 - pkg:maven/net.jeremybrooks/jinx@0.8.2?classifier=sources
 - pkg:maven/net.jeremybrooks/jinx@1.0.0
 - pkg:maven/net.jeremybrooks/jinx@1.0.0?classifier=sources
+- pkg:maven/net.jeremybrooks/jinx@2.0.0
+- pkg:maven/net.jeremybrooks/jinx@2.0.0?classifier=sources
+- pkg:maven/net.jeremybrooks/jinx@2.0.2
+- pkg:maven/net.jeremybrooks/jinx@2.0.2?classifier=sources

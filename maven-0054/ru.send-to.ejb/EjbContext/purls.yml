@@ -9,3 +9,4 @@
 - pkg:maven/ru.send-to.ejb/EjbContext@0.3.2.0?classifier=sources
 - pkg:maven/ru.send-to.ejb/EjbContext@0.3.2.3?classifier=sources
 - pkg:maven/ru.send-to.ejb/EjbContext@0.3.2.4?classifier=sources
+- pkg:maven/ru.send-to.ejb/EjbContext@1.0.1.0?classifier=sources

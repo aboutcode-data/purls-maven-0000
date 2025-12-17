@@ -24,3 +24,5 @@
 - pkg:maven/com.github.michael-rapp/android-sidebar@2.1.8?type=aar
 - pkg:maven/com.github.michael-rapp/android-sidebar@2.1.9?classifier=sources
 - pkg:maven/com.github.michael-rapp/android-sidebar@2.1.9?type=aar
+- pkg:maven/com.github.michael-rapp/android-sidebar@3.0.0?classifier=sources
+- pkg:maven/com.github.michael-rapp/android-sidebar@3.0.0?type=aar

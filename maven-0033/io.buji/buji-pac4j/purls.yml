@@ -26,3 +26,5 @@
 - pkg:maven/io.buji/buji-pac4j@3.1.0?classifier=sources
 - pkg:maven/io.buji/buji-pac4j@3.2.0
 - pkg:maven/io.buji/buji-pac4j@3.2.0?classifier=sources
+- pkg:maven/io.buji/buji-pac4j@4.0.0
+- pkg:maven/io.buji/buji-pac4j@4.0.0?classifier=sources

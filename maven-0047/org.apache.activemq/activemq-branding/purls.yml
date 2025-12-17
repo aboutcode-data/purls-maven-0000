@@ -8,3 +8,7 @@
 - pkg:maven/org.apache.activemq/activemq-branding@2.6.0?type=war
 - pkg:maven/org.apache.activemq/activemq-branding@2.6.1?classifier=sources
 - pkg:maven/org.apache.activemq/activemq-branding@2.6.1?type=war
+- pkg:maven/org.apache.activemq/activemq-branding@2.6.2?classifier=sources
+- pkg:maven/org.apache.activemq/activemq-branding@2.6.2?type=war
+- pkg:maven/org.apache.activemq/activemq-branding@2.6.3?classifier=sources
+- pkg:maven/org.apache.activemq/activemq-branding@2.6.3?type=war

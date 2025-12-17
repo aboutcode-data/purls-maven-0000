@@ -70,3 +70,7 @@
 - pkg:maven/com.codacy/bitbucket-scala-client_2.11@5.0.8?classifier=sources
 - pkg:maven/com.codacy/bitbucket-scala-client_2.11@5.1.0
 - pkg:maven/com.codacy/bitbucket-scala-client_2.11@5.1.0?classifier=sources
+- pkg:maven/com.codacy/bitbucket-scala-client_2.11@6.0.0
+- pkg:maven/com.codacy/bitbucket-scala-client_2.11@6.0.0?classifier=sources
+- pkg:maven/com.codacy/bitbucket-scala-client_2.11@7.0.0
+- pkg:maven/com.codacy/bitbucket-scala-client_2.11@7.0.0?classifier=sources

@@ -29,3 +29,5 @@
 - pkg:maven/net.wicp.tams/common-http@3.5.3?classifier=sources
 - pkg:maven/net.wicp.tams/common-http@3.5.4
 - pkg:maven/net.wicp.tams/common-http@3.5.4?classifier=sources
+- pkg:maven/net.wicp.tams/common-http@3.5.7
+- pkg:maven/net.wicp.tams/common-http@3.5.7?classifier=sources

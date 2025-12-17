@@ -1,0 +1,2 @@
+- pkg:maven/io.wkz.kotlin/mybatis-json-typehandler@1.0
+- pkg:maven/io.wkz.kotlin/mybatis-json-typehandler@1.0?classifier=sources

@@ -16,3 +16,5 @@
 - pkg:maven/io.v/vanadium-natives-macosx@2.0?classifier=sources
 - pkg:maven/io.v/vanadium-natives-macosx@2.1.2
 - pkg:maven/io.v/vanadium-natives-macosx@2.1.2?classifier=sources
+- pkg:maven/io.v/vanadium-natives-macosx@2.2.5
+- pkg:maven/io.v/vanadium-natives-macosx@2.2.5?classifier=sources

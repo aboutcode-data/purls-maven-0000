@@ -1,0 +1,2 @@
+- pkg:maven/com.jkoolcloud.tnt4j.streams/tnt4j-streams-fs@1.4.0
+- pkg:maven/com.jkoolcloud.tnt4j.streams/tnt4j-streams-fs@1.4.0?classifier=sources

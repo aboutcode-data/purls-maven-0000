@@ -1,1 +1,2 @@
 - pkg:maven/com.axellience/vue-gwt-tests@1.0-beta-8?classifier=sources
+- pkg:maven/com.axellience/vue-gwt-tests@1.0-beta-9?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.wee0/wee0-api@1.0.0
+- pkg:maven/com.wee0/wee0-api@1.0.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.addicticks.oss.jaxb/java8datetime@1.0.2
+- pkg:maven/com.addicticks.oss.jaxb/java8datetime@1.0.2?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/io.github.daniloarcidiacono.test.ci/test-circle-ci@0.0.1-RELEASE
+- pkg:maven/io.github.daniloarcidiacono.test.ci/test-circle-ci@0.0.1-RELEASE?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.yugabyte/junit@4.12-yb-1
+- pkg:maven/com.yugabyte/junit@4.12-yb-1?classifier=sources

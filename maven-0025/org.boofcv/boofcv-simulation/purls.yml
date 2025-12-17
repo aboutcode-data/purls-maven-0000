@@ -4,3 +4,5 @@
 - pkg:maven/org.boofcv/boofcv-simulation@0.29?classifier=sources
 - pkg:maven/org.boofcv/boofcv-simulation@0.30
 - pkg:maven/org.boofcv/boofcv-simulation@0.30?classifier=sources
+- pkg:maven/org.boofcv/boofcv-simulation@0.31
+- pkg:maven/org.boofcv/boofcv-simulation@0.31?classifier=sources

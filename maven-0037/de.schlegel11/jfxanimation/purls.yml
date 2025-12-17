@@ -1,0 +1,2 @@
+- pkg:maven/de.schlegel11/jfxanimation@1.0.0
+- pkg:maven/de.schlegel11/jfxanimation@1.0.0?classifier=sources

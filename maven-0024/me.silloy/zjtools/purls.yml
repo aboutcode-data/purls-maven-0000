@@ -1,0 +1,6 @@
+- pkg:maven/me.silloy/zjtools@0.0.1
+- pkg:maven/me.silloy/zjtools@0.0.1?classifier=sources
+- pkg:maven/me.silloy/zjtools@0.0.2
+- pkg:maven/me.silloy/zjtools@0.0.2?classifier=sources
+- pkg:maven/me.silloy/zjtools@0.0.5
+- pkg:maven/me.silloy/zjtools@0.0.5?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.sumologic.plugins.logback/sumologic-logback-appender@1.0
+- pkg:maven/com.sumologic.plugins.logback/sumologic-logback-appender@1.0?classifier=sources

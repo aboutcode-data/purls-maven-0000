@@ -4,3 +4,7 @@
 - pkg:maven/org.eclipse.platform/org.eclipse.equinox.p2.artifact.repository@1.1.600?classifier=sources
 - pkg:maven/org.eclipse.platform/org.eclipse.equinox.p2.artifact.repository@1.1.650
 - pkg:maven/org.eclipse.platform/org.eclipse.equinox.p2.artifact.repository@1.1.650?classifier=sources
+- pkg:maven/org.eclipse.platform/org.eclipse.equinox.p2.artifact.repository@1.2.0
+- pkg:maven/org.eclipse.platform/org.eclipse.equinox.p2.artifact.repository@1.2.0?classifier=sources
+- pkg:maven/org.eclipse.platform/org.eclipse.equinox.p2.artifact.repository@1.2.100
+- pkg:maven/org.eclipse.platform/org.eclipse.equinox.p2.artifact.repository@1.2.100?classifier=sources

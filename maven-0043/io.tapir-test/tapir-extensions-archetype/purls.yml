@@ -1,0 +1,2 @@
+- pkg:maven/io.tapir-test/tapir-extensions-archetype@1.0.0?classifier=sources
+- pkg:maven/io.tapir-test/tapir-extensions-archetype@1.0.1?classifier=sources

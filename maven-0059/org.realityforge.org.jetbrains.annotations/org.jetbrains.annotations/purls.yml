@@ -1,0 +1,2 @@
+- pkg:maven/org.realityforge.org.jetbrains.annotations/org.jetbrains.annotations@1.0.0
+- pkg:maven/org.realityforge.org.jetbrains.annotations/org.jetbrains.annotations@1.0.0?classifier=sources

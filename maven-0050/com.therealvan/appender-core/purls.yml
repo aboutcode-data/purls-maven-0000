@@ -1,0 +1,6 @@
+- pkg:maven/com.therealvan/appender-core@0.3.0
+- pkg:maven/com.therealvan/appender-core@0.3.0?classifier=sources
+- pkg:maven/com.therealvan/appender-core@2.0
+- pkg:maven/com.therealvan/appender-core@2.0.0
+- pkg:maven/com.therealvan/appender-core@2.0.0?classifier=sources
+- pkg:maven/com.therealvan/appender-core@2.0?classifier=sources

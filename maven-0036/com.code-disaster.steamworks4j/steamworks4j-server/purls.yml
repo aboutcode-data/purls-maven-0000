@@ -1,2 +1,4 @@
 - pkg:maven/com.code-disaster.steamworks4j/steamworks4j-server@1.7.0
 - pkg:maven/com.code-disaster.steamworks4j/steamworks4j-server@1.7.0?classifier=sources
+- pkg:maven/com.code-disaster.steamworks4j/steamworks4j-server@1.8.0
+- pkg:maven/com.code-disaster.steamworks4j/steamworks4j-server@1.8.0?classifier=sources

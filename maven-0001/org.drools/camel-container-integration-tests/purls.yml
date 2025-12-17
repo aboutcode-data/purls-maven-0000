@@ -1,0 +1,2 @@
+- pkg:maven/org.drools/camel-container-integration-tests@7.14.0.Final
+- pkg:maven/org.drools/camel-container-integration-tests@7.15.0.Final

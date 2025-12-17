@@ -1,0 +1,6 @@
+- pkg:maven/org.webjars.bowergithub.mozilla/pdfjs-dist@1.10.100
+- pkg:maven/org.webjars.bowergithub.mozilla/pdfjs-dist@1.10.100?classifier=sources
+- pkg:maven/org.webjars.bowergithub.mozilla/pdfjs-dist@2.0.426
+- pkg:maven/org.webjars.bowergithub.mozilla/pdfjs-dist@2.0.426?classifier=sources
+- pkg:maven/org.webjars.bowergithub.mozilla/pdfjs-dist@2.0.550
+- pkg:maven/org.webjars.bowergithub.mozilla/pdfjs-dist@2.0.550?classifier=sources

@@ -18,6 +18,8 @@
 - pkg:maven/org.jbasics/jbasics@0.86.0?classifier=sources
 - pkg:maven/org.jbasics/jbasics@1.0.0
 - pkg:maven/org.jbasics/jbasics@1.0.0?classifier=sources
+- pkg:maven/org.jbasics/jbasics@2.0.0
+- pkg:maven/org.jbasics/jbasics@2.0.0?classifier=sources
 - pkg:maven/org.jbasics/jbasics@2.0.0p1
 - pkg:maven/org.jbasics/jbasics@2.0.0p1?classifier=sources
 - pkg:maven/org.jbasics/jbasics@2.0.0p2

@@ -1,0 +1,2 @@
+- pkg:maven/com.github.mvysny.kaributesting/mock-servlet-environment@1.0.0
+- pkg:maven/com.github.mvysny.kaributesting/mock-servlet-environment@1.0.0?classifier=sources
