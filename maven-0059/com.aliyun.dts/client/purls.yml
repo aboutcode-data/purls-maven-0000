@@ -8,3 +8,7 @@
 - pkg:maven/com.aliyun.dts/client@2.2.1.41-cloud.beta.2?classifier=sources
 - pkg:maven/com.aliyun.dts/client@2.2.1.41-cloud.beta?classifier=sources
 - pkg:maven/com.aliyun.dts/client@2.2.1.41-cloud?classifier=sources
+- pkg:maven/com.aliyun.dts/client@2.2.1.42-cloud.beta
+- pkg:maven/com.aliyun.dts/client@2.2.1.42-cloud.beta2
+- pkg:maven/com.aliyun.dts/client@2.2.1.42-cloud.beta2?classifier=sources
+- pkg:maven/com.aliyun.dts/client@2.2.1.42-cloud.beta?classifier=sources

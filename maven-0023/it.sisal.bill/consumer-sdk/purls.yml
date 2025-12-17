@@ -1,0 +1,7 @@
+- pkg:maven/it.sisal.bill/consumer-sdk@0.1.0?type=aar
+- pkg:maven/it.sisal.bill/consumer-sdk@1.0.0?type=aar
+- pkg:maven/it.sisal.bill/consumer-sdk@1.0.1?type=aar
+- pkg:maven/it.sisal.bill/consumer-sdk@1.0.2?type=aar
+- pkg:maven/it.sisal.bill/consumer-sdk@1.0.3?type=aar
+- pkg:maven/it.sisal.bill/consumer-sdk@1.0.5?type=aar
+- pkg:maven/it.sisal.bill/consumer-sdk@1.0.6?type=aar

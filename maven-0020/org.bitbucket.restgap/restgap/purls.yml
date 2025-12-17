@@ -8,3 +8,5 @@
 - pkg:maven/org.bitbucket.restgap/restgap@0.2.4?classifier=sources
 - pkg:maven/org.bitbucket.restgap/restgap@0.3.0
 - pkg:maven/org.bitbucket.restgap/restgap@0.3.0?classifier=sources
+- pkg:maven/org.bitbucket.restgap/restgap@0.3.1
+- pkg:maven/org.bitbucket.restgap/restgap@0.3.1?classifier=sources

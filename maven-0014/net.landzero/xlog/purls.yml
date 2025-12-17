@@ -11,6 +11,8 @@
 - pkg:maven/net.landzero/xlog@1.0
 - pkg:maven/net.landzero/xlog@1.0?classifier=sources
 - pkg:maven/net.landzero/xlog@1.2
+- pkg:maven/net.landzero/xlog@1.21
+- pkg:maven/net.landzero/xlog@1.21?classifier=sources
 - pkg:maven/net.landzero/xlog@1.2?classifier=sources
 - pkg:maven/net.landzero/xlog@1.4
 - pkg:maven/net.landzero/xlog@1.4?classifier=sources

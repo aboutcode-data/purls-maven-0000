@@ -46,3 +46,5 @@
 - pkg:maven/mil.nga.geopackage/geopackage@3.0.2?classifier=sources
 - pkg:maven/mil.nga.geopackage/geopackage@3.1.0
 - pkg:maven/mil.nga.geopackage/geopackage@3.1.0?classifier=sources
+- pkg:maven/mil.nga.geopackage/geopackage@3.2.0
+- pkg:maven/mil.nga.geopackage/geopackage@3.2.0?classifier=sources

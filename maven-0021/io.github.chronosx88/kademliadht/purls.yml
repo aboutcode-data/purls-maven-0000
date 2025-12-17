@@ -1,0 +1,2 @@
+- pkg:maven/io.github.chronosx88/kademliadht@1.0
+- pkg:maven/io.github.chronosx88/kademliadht@1.0?classifier=sources

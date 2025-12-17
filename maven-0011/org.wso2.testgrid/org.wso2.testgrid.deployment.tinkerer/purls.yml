@@ -36,3 +36,5 @@
 - pkg:maven/org.wso2.testgrid/org.wso2.testgrid.deployment.tinkerer@0.9.0-m44?type=war
 - pkg:maven/org.wso2.testgrid/org.wso2.testgrid.deployment.tinkerer@0.9.0-m45?classifier=sources
 - pkg:maven/org.wso2.testgrid/org.wso2.testgrid.deployment.tinkerer@0.9.0-m45?type=war
+- pkg:maven/org.wso2.testgrid/org.wso2.testgrid.deployment.tinkerer@1.0.0?classifier=sources
+- pkg:maven/org.wso2.testgrid/org.wso2.testgrid.deployment.tinkerer@1.0.0?type=war

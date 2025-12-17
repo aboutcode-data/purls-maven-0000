@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/google-gax@0.22.1
+- pkg:maven/org.webjars.npm/google-gax@0.22.1?classifier=sources

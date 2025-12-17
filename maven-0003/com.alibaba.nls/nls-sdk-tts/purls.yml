@@ -7,4 +7,10 @@
 - pkg:maven/com.alibaba.nls/nls-sdk-tts@2.0.2
 - pkg:maven/com.alibaba.nls/nls-sdk-tts@2.0.2?classifier=sources
 - pkg:maven/com.alibaba.nls/nls-sdk-tts@2.0.3
+- pkg:maven/com.alibaba.nls/nls-sdk-tts@2.0.3-beta
+- pkg:maven/com.alibaba.nls/nls-sdk-tts@2.0.3-beta?classifier=sources
 - pkg:maven/com.alibaba.nls/nls-sdk-tts@2.0.3?classifier=sources
+- pkg:maven/com.alibaba.nls/nls-sdk-tts@2.0.4-2019041210
+- pkg:maven/com.alibaba.nls/nls-sdk-tts@2.0.4-2019041210?classifier=sources
+- pkg:maven/com.alibaba.nls/nls-sdk-tts@2.0.5-20190415
+- pkg:maven/com.alibaba.nls/nls-sdk-tts@2.0.5-20190415?classifier=sources

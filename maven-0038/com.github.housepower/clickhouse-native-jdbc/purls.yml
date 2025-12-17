@@ -10,3 +10,5 @@
 - pkg:maven/com.github.housepower/clickhouse-native-jdbc@1.4-stable?classifier=sources
 - pkg:maven/com.github.housepower/clickhouse-native-jdbc@1.5-stable
 - pkg:maven/com.github.housepower/clickhouse-native-jdbc@1.5-stable?classifier=sources
+- pkg:maven/com.github.housepower/clickhouse-native-jdbc@1.6-stable
+- pkg:maven/com.github.housepower/clickhouse-native-jdbc@1.6-stable?classifier=sources

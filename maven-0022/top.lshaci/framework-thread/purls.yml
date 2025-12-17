@@ -1,0 +1,2 @@
+- pkg:maven/top.lshaci/framework-thread@1.0.0
+- pkg:maven/top.lshaci/framework-thread@1.0.0?classifier=sources

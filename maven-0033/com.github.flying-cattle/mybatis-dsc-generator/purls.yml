@@ -2,3 +2,7 @@
 - pkg:maven/com.github.flying-cattle/mybatis-dsc-generator@1.0.0.RELEASE?classifier=sources
 - pkg:maven/com.github.flying-cattle/mybatis-dsc-generator@2.0.0.RELEASE
 - pkg:maven/com.github.flying-cattle/mybatis-dsc-generator@2.0.0.RELEASE?classifier=sources
+- pkg:maven/com.github.flying-cattle/mybatis-dsc-generator@2.1.0.RELEASE
+- pkg:maven/com.github.flying-cattle/mybatis-dsc-generator@2.1.0.RELEASE?classifier=sources
+- pkg:maven/com.github.flying-cattle/mybatis-dsc-generator@3.0.0.RELEASE
+- pkg:maven/com.github.flying-cattle/mybatis-dsc-generator@3.0.0.RELEASE?classifier=sources

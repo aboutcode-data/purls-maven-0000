@@ -1,0 +1,2 @@
+- pkg:maven/org.bitstrings.maven.plugins.ext/maven-jaxb2-plugin-catalogresolver@1.0.2
+- pkg:maven/org.bitstrings.maven.plugins.ext/maven-jaxb2-plugin-catalogresolver@1.0.2?classifier=sources

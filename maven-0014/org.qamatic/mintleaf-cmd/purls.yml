@@ -30,3 +30,7 @@
 - pkg:maven/org.qamatic/mintleaf-cmd@1.8.30?classifier=sources
 - pkg:maven/org.qamatic/mintleaf-cmd@1.8.31
 - pkg:maven/org.qamatic/mintleaf-cmd@1.8.31?classifier=sources
+- pkg:maven/org.qamatic/mintleaf-cmd@1.8.39
+- pkg:maven/org.qamatic/mintleaf-cmd@1.8.39?classifier=sources
+- pkg:maven/org.qamatic/mintleaf-cmd@1.8.42
+- pkg:maven/org.qamatic/mintleaf-cmd@1.8.42?classifier=sources

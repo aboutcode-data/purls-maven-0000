@@ -16,3 +16,4 @@
 - pkg:maven/org.wso2.carbon/org.wso2.carbon.student.mgt.ui.feature@4.4.34?classifier=sources
 - pkg:maven/org.wso2.carbon/org.wso2.carbon.student.mgt.ui.feature@4.4.35?classifier=sources
 - pkg:maven/org.wso2.carbon/org.wso2.carbon.student.mgt.ui.feature@4.4.36?classifier=sources
+- pkg:maven/org.wso2.carbon/org.wso2.carbon.student.mgt.ui.feature@4.4.37?classifier=sources

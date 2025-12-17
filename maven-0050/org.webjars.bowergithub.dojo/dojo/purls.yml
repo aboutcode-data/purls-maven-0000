@@ -1,4 +1,8 @@
 - pkg:maven/org.webjars.bowergithub.dojo/dojo@1.10.4
 - pkg:maven/org.webjars.bowergithub.dojo/dojo@1.10.4?classifier=sources
+- pkg:maven/org.webjars.bowergithub.dojo/dojo@1.12.2
+- pkg:maven/org.webjars.bowergithub.dojo/dojo@1.12.2?classifier=sources
 - pkg:maven/org.webjars.bowergithub.dojo/dojo@1.13.0
 - pkg:maven/org.webjars.bowergithub.dojo/dojo@1.13.0?classifier=sources
+- pkg:maven/org.webjars.bowergithub.dojo/dojo@1.14.2
+- pkg:maven/org.webjars.bowergithub.dojo/dojo@1.14.2?classifier=sources

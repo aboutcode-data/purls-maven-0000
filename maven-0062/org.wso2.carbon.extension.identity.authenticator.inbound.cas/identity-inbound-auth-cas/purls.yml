@@ -1,1 +1,2 @@
 - pkg:maven/org.wso2.carbon.extension.identity.authenticator.inbound.cas/identity-inbound-auth-cas@2.0.2?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.extension.identity.authenticator.inbound.cas/identity-inbound-auth-cas@2.0.3?classifier=source-release&type=zip

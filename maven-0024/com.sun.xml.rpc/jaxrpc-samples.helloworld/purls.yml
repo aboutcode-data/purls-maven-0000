@@ -1,0 +1,2 @@
+- pkg:maven/com.sun.xml.rpc/jaxrpc-samples.helloworld@1.1.5
+- pkg:maven/com.sun.xml.rpc/jaxrpc-samples.helloworld@1.1.5?classifier=sources

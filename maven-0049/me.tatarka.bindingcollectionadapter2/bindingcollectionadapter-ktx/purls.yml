@@ -1,0 +1,2 @@
+- pkg:maven/me.tatarka.bindingcollectionadapter2/bindingcollectionadapter-ktx@3.0.0?classifier=sources
+- pkg:maven/me.tatarka.bindingcollectionadapter2/bindingcollectionadapter-ktx@3.0.0?type=aar

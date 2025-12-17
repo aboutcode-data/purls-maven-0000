@@ -1,0 +1,4 @@
+- pkg:maven/ink.codflow.shiro.jwtsession/shiro-web-jwtsession@0.2.1-alpha0
+- pkg:maven/ink.codflow.shiro.jwtsession/shiro-web-jwtsession@0.2.1-alpha0?classifier=sources
+- pkg:maven/ink.codflow.shiro.jwtsession/shiro-web-jwtsession@0.2.1-alpha1
+- pkg:maven/ink.codflow.shiro.jwtsession/shiro-web-jwtsession@0.2.1-alpha1?classifier=sources

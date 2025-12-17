@@ -2,6 +2,10 @@
 - pkg:maven/org.webjars.npm/cross-spawn@2.0.0?classifier=sources
 - pkg:maven/org.webjars.npm/cross-spawn@3.0.0
 - pkg:maven/org.webjars.npm/cross-spawn@3.0.0?classifier=sources
+- pkg:maven/org.webjars.npm/cross-spawn@3.0.1
+- pkg:maven/org.webjars.npm/cross-spawn@3.0.1?classifier=sources
+- pkg:maven/org.webjars.npm/cross-spawn@4.0.2
+- pkg:maven/org.webjars.npm/cross-spawn@4.0.2?classifier=sources
 - pkg:maven/org.webjars.npm/cross-spawn@5.1.0
 - pkg:maven/org.webjars.npm/cross-spawn@5.1.0?classifier=sources
 - pkg:maven/org.webjars.npm/cross-spawn@6.0.5

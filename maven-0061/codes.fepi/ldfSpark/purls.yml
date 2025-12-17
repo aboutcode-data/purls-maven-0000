@@ -1,0 +1,2 @@
+- pkg:maven/codes.fepi/ldfSpark@1.0
+- pkg:maven/codes.fepi/ldfSpark@1.0?classifier=sources

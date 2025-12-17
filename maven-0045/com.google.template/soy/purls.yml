@@ -38,5 +38,9 @@
 - pkg:maven/com.google.template/soy@2018-01-03?classifier=sources
 - pkg:maven/com.google.template/soy@2018-03-14
 - pkg:maven/com.google.template/soy@2018-03-14?classifier=sources
+- pkg:maven/com.google.template/soy@2019-03-07
+- pkg:maven/com.google.template/soy@2019-03-07?classifier=sources
+- pkg:maven/com.google.template/soy@2019-03-11
+- pkg:maven/com.google.template/soy@2019-03-11?classifier=sources
 - pkg:maven/com.google.template/soy@v20160111
 - pkg:maven/com.google.template/soy@v20160111?classifier=sources

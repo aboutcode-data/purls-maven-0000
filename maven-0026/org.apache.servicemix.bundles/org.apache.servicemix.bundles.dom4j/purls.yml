@@ -4,3 +4,7 @@
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.dom4j@1.6.1_5
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.dom4j@1.6.1_5?classifier=sources
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.dom4j@1.6_1
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.dom4j@2.1.1_1
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.dom4j@2.1.1_1?classifier=sources
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.dom4j@2.1.1_1?classifier=src&type=tar.gz
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.dom4j@2.1.1_1?classifier=src&type=zip

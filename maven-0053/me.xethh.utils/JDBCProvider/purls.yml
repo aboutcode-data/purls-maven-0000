@@ -1,0 +1,4 @@
+- pkg:maven/me.xethh.utils/JDBCProvider@1.1-RELEASE
+- pkg:maven/me.xethh.utils/JDBCProvider@1.1-RELEASE?classifier=sources
+- pkg:maven/me.xethh.utils/JDBCProvider@1.1.1-RELEASE
+- pkg:maven/me.xethh.utils/JDBCProvider@1.1.1-RELEASE?classifier=sources

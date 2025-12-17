@@ -1,2 +1,4 @@
+- pkg:maven/com.dameng/Dm7JdbcDriver16@7.6.0.115
+- pkg:maven/com.dameng/Dm7JdbcDriver16@7.6.0.115?classifier=sources
 - pkg:maven/com.dameng/Dm7JdbcDriver16@7.6.0.77
 - pkg:maven/com.dameng/Dm7JdbcDriver16@7.6.0.77?classifier=sources

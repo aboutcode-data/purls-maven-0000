@@ -8,6 +8,8 @@
 - pkg:maven/org.wso2.extension.siddhi.execution.priority/siddhi-execution-priority@4.0.13?classifier=source-release&type=zip
 - pkg:maven/org.wso2.extension.siddhi.execution.priority/siddhi-execution-priority@4.0.14
 - pkg:maven/org.wso2.extension.siddhi.execution.priority/siddhi-execution-priority@4.0.14?classifier=source-release&type=zip
+- pkg:maven/org.wso2.extension.siddhi.execution.priority/siddhi-execution-priority@4.0.15
+- pkg:maven/org.wso2.extension.siddhi.execution.priority/siddhi-execution-priority@4.0.15?classifier=source-release&type=zip
 - pkg:maven/org.wso2.extension.siddhi.execution.priority/siddhi-execution-priority@4.0.3
 - pkg:maven/org.wso2.extension.siddhi.execution.priority/siddhi-execution-priority@4.0.3?classifier=source-release&type=zip
 - pkg:maven/org.wso2.extension.siddhi.execution.priority/siddhi-execution-priority@4.0.4
@@ -22,3 +24,5 @@
 - pkg:maven/org.wso2.extension.siddhi.execution.priority/siddhi-execution-priority@4.0.8?classifier=source-release&type=zip
 - pkg:maven/org.wso2.extension.siddhi.execution.priority/siddhi-execution-priority@4.0.9
 - pkg:maven/org.wso2.extension.siddhi.execution.priority/siddhi-execution-priority@4.0.9?classifier=source-release&type=zip
+- pkg:maven/org.wso2.extension.siddhi.execution.priority/siddhi-execution-priority@4.1.0
+- pkg:maven/org.wso2.extension.siddhi.execution.priority/siddhi-execution-priority@4.1.0?classifier=source-release&type=zip

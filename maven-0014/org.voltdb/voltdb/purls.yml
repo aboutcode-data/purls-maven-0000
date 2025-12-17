@@ -1,0 +1,6 @@
+- pkg:maven/org.voltdb/voltdb@8.4
+- pkg:maven/org.voltdb/voltdb@8.4.1
+- pkg:maven/org.voltdb/voltdb@8.4.1?classifier=sources
+- pkg:maven/org.voltdb/voltdb@8.4?classifier=sources
+- pkg:maven/org.voltdb/voltdb@9.0
+- pkg:maven/org.voltdb/voltdb@9.0?classifier=sources

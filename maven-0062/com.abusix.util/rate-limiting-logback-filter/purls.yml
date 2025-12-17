@@ -1,0 +1,2 @@
+- pkg:maven/com.abusix.util/rate-limiting-logback-filter@0.1.0
+- pkg:maven/com.abusix.util/rate-limiting-logback-filter@0.1.0?classifier=sources

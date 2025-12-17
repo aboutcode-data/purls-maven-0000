@@ -1,0 +1,4 @@
+- pkg:maven/eu.toop/toop-mem-phase4@0.10.0
+- pkg:maven/eu.toop/toop-mem-phase4@0.10.0?classifier=sources
+- pkg:maven/eu.toop/toop-mem-phase4@0.10.1
+- pkg:maven/eu.toop/toop-mem-phase4@0.10.1?classifier=sources

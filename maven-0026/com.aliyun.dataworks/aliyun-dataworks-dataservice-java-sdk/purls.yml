@@ -1,0 +1,2 @@
+- pkg:maven/com.aliyun.dataworks/aliyun-dataworks-dataservice-java-sdk@0.0.1-aliyun
+- pkg:maven/com.aliyun.dataworks/aliyun-dataworks-dataservice-java-sdk@0.0.1-aliyun?classifier=sources

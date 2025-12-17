@@ -20,3 +20,5 @@
 - pkg:maven/org.pistoiaalliance.helm/helm2-webservice@3.0.1?type=war
 - pkg:maven/org.pistoiaalliance.helm/helm2-webservice@3.0.2?classifier=sources
 - pkg:maven/org.pistoiaalliance.helm/helm2-webservice@3.0.2?type=war
+- pkg:maven/org.pistoiaalliance.helm/helm2-webservice@3.0.3?classifier=sources
+- pkg:maven/org.pistoiaalliance.helm/helm2-webservice@3.0.3?type=war

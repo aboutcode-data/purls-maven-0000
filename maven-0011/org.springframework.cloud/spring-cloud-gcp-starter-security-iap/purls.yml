@@ -1,0 +1,2 @@
+- pkg:maven/org.springframework.cloud/spring-cloud-gcp-starter-security-iap@1.1.0.RELEASE
+- pkg:maven/org.springframework.cloud/spring-cloud-gcp-starter-security-iap@1.1.1.RELEASE

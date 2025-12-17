@@ -1,0 +1,2 @@
+- pkg:maven/org.neo4j/neo4j-annotation-processors@3.5.4
+- pkg:maven/org.neo4j/neo4j-annotation-processors@3.5.4?classifier=sources

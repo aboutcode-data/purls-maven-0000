@@ -1,0 +1,2 @@
+- pkg:maven/com.feingto/iot-hub-common-17@1.0.0.BETA
+- pkg:maven/com.feingto/iot-hub-common-17@1.0.0.BETA?classifier=sources

@@ -202,6 +202,8 @@
 - pkg:maven/org.apache.wicket/wicket-examples@6.29.0?type=war
 - pkg:maven/org.apache.wicket/wicket-examples@6.3.0?classifier=sources
 - pkg:maven/org.apache.wicket/wicket-examples@6.3.0?type=war
+- pkg:maven/org.apache.wicket/wicket-examples@6.30.0?classifier=sources
+- pkg:maven/org.apache.wicket/wicket-examples@6.30.0?type=war
 - pkg:maven/org.apache.wicket/wicket-examples@6.4.0?classifier=sources
 - pkg:maven/org.apache.wicket/wicket-examples@6.4.0?type=war
 - pkg:maven/org.apache.wicket/wicket-examples@6.5.0?classifier=sources
@@ -258,3 +260,9 @@
 - pkg:maven/org.apache.wicket/wicket-examples@8.1.0?type=war
 - pkg:maven/org.apache.wicket/wicket-examples@8.2.0?classifier=sources
 - pkg:maven/org.apache.wicket/wicket-examples@8.2.0?type=war
+- pkg:maven/org.apache.wicket/wicket-examples@8.3.0?classifier=sources
+- pkg:maven/org.apache.wicket/wicket-examples@8.3.0?type=war
+- pkg:maven/org.apache.wicket/wicket-examples@8.4.0?classifier=sources
+- pkg:maven/org.apache.wicket/wicket-examples@8.4.0?type=war
+- pkg:maven/org.apache.wicket/wicket-examples@9.0.0-M1?classifier=sources
+- pkg:maven/org.apache.wicket/wicket-examples@9.0.0-M1?type=war

@@ -1,0 +1,2 @@
+- pkg:maven/ru.gildor.coroutines/kotlin-coroutines-okhttp@1.0
+- pkg:maven/ru.gildor.coroutines/kotlin-coroutines-okhttp@1.0?classifier=sources

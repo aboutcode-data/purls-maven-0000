@@ -1,0 +1,8 @@
+- pkg:maven/com.github.doraig/jcef@78.0-win32
+- pkg:maven/com.github.doraig/jcef@78.0-win32?classifier=sources
+- pkg:maven/com.github.doraig/jcef@78.0-win64
+- pkg:maven/com.github.doraig/jcef@78.0-win64?classifier=sources
+- pkg:maven/com.github.doraig/jcef@78.1-win32
+- pkg:maven/com.github.doraig/jcef@78.1-win32?classifier=sources
+- pkg:maven/com.github.doraig/jcef@78.1-win64
+- pkg:maven/com.github.doraig/jcef@78.1-win64?classifier=sources

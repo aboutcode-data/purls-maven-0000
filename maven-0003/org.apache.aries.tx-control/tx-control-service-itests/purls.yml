@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.aries.tx-control/tx-control-service-itests@1.0.1
+- pkg:maven/org.apache.aries.tx-control/tx-control-service-itests@1.0.1?classifier=sources

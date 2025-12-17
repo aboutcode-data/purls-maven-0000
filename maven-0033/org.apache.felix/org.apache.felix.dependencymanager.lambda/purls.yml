@@ -2,3 +2,4 @@
 - pkg:maven/org.apache.felix/org.apache.felix.dependencymanager.lambda@1.1.0
 - pkg:maven/org.apache.felix/org.apache.felix.dependencymanager.lambda@1.1.1
 - pkg:maven/org.apache.felix/org.apache.felix.dependencymanager.lambda@1.2.0
+- pkg:maven/org.apache.felix/org.apache.felix.dependencymanager.lambda@1.2.1

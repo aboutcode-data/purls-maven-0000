@@ -16,3 +16,5 @@
 - pkg:maven/com.github.jeffreyning/micro-dao@1.2.2-RELEASE?classifier=sources
 - pkg:maven/com.github.jeffreyning/micro-dao@1.2.3-RELEASE
 - pkg:maven/com.github.jeffreyning/micro-dao@1.2.3-RELEASE?classifier=sources
+- pkg:maven/com.github.jeffreyning/micro-dao@1.2.5-RELEASE
+- pkg:maven/com.github.jeffreyning/micro-dao@1.2.5-RELEASE?classifier=sources

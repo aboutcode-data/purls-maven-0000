@@ -2,3 +2,5 @@
 - pkg:maven/com.github.fracpete/nlp-weka-package@2015.3.25?classifier=sources
 - pkg:maven/com.github.fracpete/nlp-weka-package@2015.3.30
 - pkg:maven/com.github.fracpete/nlp-weka-package@2015.3.30?classifier=sources
+- pkg:maven/com.github.fracpete/nlp-weka-package@2019.3.29
+- pkg:maven/com.github.fracpete/nlp-weka-package@2019.3.29?classifier=sources

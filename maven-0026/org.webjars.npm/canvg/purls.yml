@@ -2,3 +2,5 @@
 - pkg:maven/org.webjars.npm/canvg@1.0.0?classifier=sources
 - pkg:maven/org.webjars.npm/canvg@1.5.2
 - pkg:maven/org.webjars.npm/canvg@1.5.2?classifier=sources
+- pkg:maven/org.webjars.npm/canvg@1.5.3
+- pkg:maven/org.webjars.npm/canvg@1.5.3?classifier=sources

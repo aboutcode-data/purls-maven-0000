@@ -18,3 +18,5 @@
 - pkg:maven/de.psdev.licensesdialog/licensesdialog@1.8.3?type=aar
 - pkg:maven/de.psdev.licensesdialog/licensesdialog@1.9.0?classifier=sources
 - pkg:maven/de.psdev.licensesdialog/licensesdialog@1.9.0?type=aar
+- pkg:maven/de.psdev.licensesdialog/licensesdialog@2.0.0?classifier=sources
+- pkg:maven/de.psdev.licensesdialog/licensesdialog@2.0.0?type=aar

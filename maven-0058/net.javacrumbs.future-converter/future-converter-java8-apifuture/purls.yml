@@ -1,0 +1,2 @@
+- pkg:maven/net.javacrumbs.future-converter/future-converter-java8-apifuture@1.2.0
+- pkg:maven/net.javacrumbs.future-converter/future-converter-java8-apifuture@1.2.0?classifier=sources

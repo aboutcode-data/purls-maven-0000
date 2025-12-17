@@ -66,3 +66,7 @@
 - pkg:maven/org.jetlang/jetlang.remoting@0.6.44?classifier=sources
 - pkg:maven/org.jetlang/jetlang.remoting@0.6.45
 - pkg:maven/org.jetlang/jetlang.remoting@0.6.45?classifier=sources
+- pkg:maven/org.jetlang/jetlang.remoting@0.6.46
+- pkg:maven/org.jetlang/jetlang.remoting@0.6.46?classifier=sources
+- pkg:maven/org.jetlang/jetlang.remoting@0.6.47
+- pkg:maven/org.jetlang/jetlang.remoting@0.6.47?classifier=sources

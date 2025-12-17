@@ -8,6 +8,8 @@
 - pkg:maven/org.kurento/kurento-client-js@6.0.0?classifier=sources
 - pkg:maven/org.kurento/kurento-client-js@6.1.0
 - pkg:maven/org.kurento/kurento-client-js@6.1.0?classifier=sources
+- pkg:maven/org.kurento/kurento-client-js@6.10.0
+- pkg:maven/org.kurento/kurento-client-js@6.10.0?classifier=sources
 - pkg:maven/org.kurento/kurento-client-js@6.2.0
 - pkg:maven/org.kurento/kurento-client-js@6.2.0?classifier=sources
 - pkg:maven/org.kurento/kurento-client-js@6.4.0
@@ -18,3 +20,5 @@
 - pkg:maven/org.kurento/kurento-client-js@6.5.0?classifier=sources
 - pkg:maven/org.kurento/kurento-client-js@6.6.0
 - pkg:maven/org.kurento/kurento-client-js@6.6.0?classifier=sources
+- pkg:maven/org.kurento/kurento-client-js@6.9.0
+- pkg:maven/org.kurento/kurento-client-js@6.9.0?classifier=sources

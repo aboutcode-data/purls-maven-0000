@@ -6,3 +6,5 @@
 - pkg:maven/org.webjars.npm/ci-info@1.4.0?classifier=sources
 - pkg:maven/org.webjars.npm/ci-info@1.6.0
 - pkg:maven/org.webjars.npm/ci-info@1.6.0?classifier=sources
+- pkg:maven/org.webjars.npm/ci-info@2.0.0
+- pkg:maven/org.webjars.npm/ci-info@2.0.0?classifier=sources

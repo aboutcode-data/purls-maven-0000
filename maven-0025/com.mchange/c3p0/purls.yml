@@ -41,4 +41,8 @@
 - pkg:maven/com.mchange/c3p0@0.9.5.1?classifier=sources
 - pkg:maven/com.mchange/c3p0@0.9.5.2
 - pkg:maven/com.mchange/c3p0@0.9.5.2?classifier=sources
+- pkg:maven/com.mchange/c3p0@0.9.5.3
+- pkg:maven/com.mchange/c3p0@0.9.5.3?classifier=sources
+- pkg:maven/com.mchange/c3p0@0.9.5.4
+- pkg:maven/com.mchange/c3p0@0.9.5.4?classifier=sources
 - pkg:maven/com.mchange/c3p0@0.9.5?classifier=sources

@@ -1,0 +1,6 @@
+- pkg:maven/io.github.clrossel/paralleltasks@R01
+- pkg:maven/io.github.clrossel/paralleltasks@R01?classifier=sources
+- pkg:maven/io.github.clrossel/paralleltasks@r02
+- pkg:maven/io.github.clrossel/paralleltasks@r02?classifier=sources
+- pkg:maven/io.github.clrossel/paralleltasks@r03
+- pkg:maven/io.github.clrossel/paralleltasks@r03?classifier=sources

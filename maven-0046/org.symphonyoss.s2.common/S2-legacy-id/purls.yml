@@ -40,5 +40,15 @@
 - pkg:maven/org.symphonyoss.s2.common/S2-legacy-id@0.1.29?classifier=sources
 - pkg:maven/org.symphonyoss.s2.common/S2-legacy-id@0.1.30
 - pkg:maven/org.symphonyoss.s2.common/S2-legacy-id@0.1.30?classifier=sources
+- pkg:maven/org.symphonyoss.s2.common/S2-legacy-id@0.1.31
+- pkg:maven/org.symphonyoss.s2.common/S2-legacy-id@0.1.31?classifier=sources
+- pkg:maven/org.symphonyoss.s2.common/S2-legacy-id@0.1.32
+- pkg:maven/org.symphonyoss.s2.common/S2-legacy-id@0.1.32?classifier=sources
+- pkg:maven/org.symphonyoss.s2.common/S2-legacy-id@0.1.33
+- pkg:maven/org.symphonyoss.s2.common/S2-legacy-id@0.1.33?classifier=sources
+- pkg:maven/org.symphonyoss.s2.common/S2-legacy-id@0.1.34
+- pkg:maven/org.symphonyoss.s2.common/S2-legacy-id@0.1.34?classifier=sources
+- pkg:maven/org.symphonyoss.s2.common/S2-legacy-id@0.1.35
+- pkg:maven/org.symphonyoss.s2.common/S2-legacy-id@0.1.35?classifier=sources
 - pkg:maven/org.symphonyoss.s2.common/S2-legacy-id@0.1.9
 - pkg:maven/org.symphonyoss.s2.common/S2-legacy-id@0.1.9?classifier=sources

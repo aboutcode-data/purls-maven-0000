@@ -1,0 +1,4 @@
+- pkg:maven/io.github.resilience4j/resilience4j-feign@0.14.0
+- pkg:maven/io.github.resilience4j/resilience4j-feign@0.14.0?classifier=sources
+- pkg:maven/io.github.resilience4j/resilience4j-feign@0.14.1
+- pkg:maven/io.github.resilience4j/resilience4j-feign@0.14.1?classifier=sources

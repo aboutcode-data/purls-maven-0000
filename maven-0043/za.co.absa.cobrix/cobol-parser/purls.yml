@@ -6,6 +6,8 @@
 - pkg:maven/za.co.absa.cobrix/cobol-parser@0.2.0?classifier=sources
 - pkg:maven/za.co.absa.cobrix/cobol-parser@0.2.10
 - pkg:maven/za.co.absa.cobrix/cobol-parser@0.2.10?classifier=sources
+- pkg:maven/za.co.absa.cobrix/cobol-parser@0.2.11
+- pkg:maven/za.co.absa.cobrix/cobol-parser@0.2.11?classifier=sources
 - pkg:maven/za.co.absa.cobrix/cobol-parser@0.2.3
 - pkg:maven/za.co.absa.cobrix/cobol-parser@0.2.3?classifier=sources
 - pkg:maven/za.co.absa.cobrix/cobol-parser@0.2.5
@@ -18,3 +20,17 @@
 - pkg:maven/za.co.absa.cobrix/cobol-parser@0.2.8?classifier=sources
 - pkg:maven/za.co.absa.cobrix/cobol-parser@0.2.9
 - pkg:maven/za.co.absa.cobrix/cobol-parser@0.2.9?classifier=sources
+- pkg:maven/za.co.absa.cobrix/cobol-parser@0.3.0
+- pkg:maven/za.co.absa.cobrix/cobol-parser@0.3.0?classifier=sources
+- pkg:maven/za.co.absa.cobrix/cobol-parser@0.3.1
+- pkg:maven/za.co.absa.cobrix/cobol-parser@0.3.1?classifier=sources
+- pkg:maven/za.co.absa.cobrix/cobol-parser@0.3.2
+- pkg:maven/za.co.absa.cobrix/cobol-parser@0.3.2?classifier=sources
+- pkg:maven/za.co.absa.cobrix/cobol-parser@0.3.3
+- pkg:maven/za.co.absa.cobrix/cobol-parser@0.3.3?classifier=sources
+- pkg:maven/za.co.absa.cobrix/cobol-parser@0.4.0
+- pkg:maven/za.co.absa.cobrix/cobol-parser@0.4.0?classifier=sources
+- pkg:maven/za.co.absa.cobrix/cobol-parser@0.4.1
+- pkg:maven/za.co.absa.cobrix/cobol-parser@0.4.1?classifier=sources
+- pkg:maven/za.co.absa.cobrix/cobol-parser@0.4.2
+- pkg:maven/za.co.absa.cobrix/cobol-parser@0.4.2?classifier=sources

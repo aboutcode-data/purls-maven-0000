@@ -1,3 +1,4 @@
+- pkg:maven/org.glassfish.hk2/hk2-pbuf@2.5.0
 - pkg:maven/org.glassfish.hk2/hk2-pbuf@2.5.0-b45
 - pkg:maven/org.glassfish.hk2/hk2-pbuf@2.5.0-b45?classifier=sources
 - pkg:maven/org.glassfish.hk2/hk2-pbuf@2.5.0-b46
@@ -30,3 +31,4 @@
 - pkg:maven/org.glassfish.hk2/hk2-pbuf@2.5.0-b62?classifier=sources
 - pkg:maven/org.glassfish.hk2/hk2-pbuf@2.5.0-b63
 - pkg:maven/org.glassfish.hk2/hk2-pbuf@2.5.0-b63?classifier=sources
+- pkg:maven/org.glassfish.hk2/hk2-pbuf@2.5.0?classifier=sources

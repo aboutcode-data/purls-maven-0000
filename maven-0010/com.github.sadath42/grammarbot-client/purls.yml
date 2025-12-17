@@ -1,0 +1,2 @@
+- pkg:maven/com.github.sadath42/grammarbot-client@0.0.1
+- pkg:maven/com.github.sadath42/grammarbot-client@0.0.1?classifier=sources

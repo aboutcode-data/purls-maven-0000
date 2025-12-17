@@ -1,2 +1,4 @@
 - pkg:maven/org.make/openstack-swift-client_2.12@1.0.3
 - pkg:maven/org.make/openstack-swift-client_2.12@1.0.3?classifier=sources
+- pkg:maven/org.make/openstack-swift-client_2.12@1.0.4
+- pkg:maven/org.make/openstack-swift-client_2.12@1.0.4?classifier=sources

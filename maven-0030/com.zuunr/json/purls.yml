@@ -6,3 +6,5 @@
 - pkg:maven/com.zuunr/json@0.1.0.M3?classifier=sources
 - pkg:maven/com.zuunr/json@0.1.0.M4
 - pkg:maven/com.zuunr/json@0.1.0.M4?classifier=sources
+- pkg:maven/com.zuunr/json@0.1.0.M5-c046e5e
+- pkg:maven/com.zuunr/json@0.1.0.M5-c046e5e?classifier=sources

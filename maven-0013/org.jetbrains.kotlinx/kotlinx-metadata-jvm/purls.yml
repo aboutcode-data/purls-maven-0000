@@ -1,0 +1,2 @@
+- pkg:maven/org.jetbrains.kotlinx/kotlinx-metadata-jvm@0.0.5
+- pkg:maven/org.jetbrains.kotlinx/kotlinx-metadata-jvm@0.0.5?classifier=sources

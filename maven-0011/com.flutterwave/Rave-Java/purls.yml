@@ -1,0 +1,8 @@
+- pkg:maven/com.flutterwave/Rave-Java@1.0
+- pkg:maven/com.flutterwave/Rave-Java@1.01
+- pkg:maven/com.flutterwave/Rave-Java@1.01?classifier=sources
+- pkg:maven/com.flutterwave/Rave-Java@1.02
+- pkg:maven/com.flutterwave/Rave-Java@1.02?classifier=sources
+- pkg:maven/com.flutterwave/Rave-Java@1.03
+- pkg:maven/com.flutterwave/Rave-Java@1.03?classifier=sources
+- pkg:maven/com.flutterwave/Rave-Java@1.0?classifier=sources

@@ -8,3 +8,5 @@
 - pkg:maven/com.aliyun/aliyun-java-sdk-cs@2.8.0?classifier=sources
 - pkg:maven/com.aliyun/aliyun-java-sdk-cs@2.9.0
 - pkg:maven/com.aliyun/aliyun-java-sdk-cs@2.9.0?classifier=sources
+- pkg:maven/com.aliyun/aliyun-java-sdk-cs@2.9.1
+- pkg:maven/com.aliyun/aliyun-java-sdk-cs@2.9.1?classifier=sources

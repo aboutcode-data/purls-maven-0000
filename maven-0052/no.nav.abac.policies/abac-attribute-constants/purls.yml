@@ -1,0 +1,2 @@
+- pkg:maven/no.nav.abac.policies/abac-attribute-constants@3.3.13
+- pkg:maven/no.nav.abac.policies/abac-attribute-constants@3.3.13?classifier=sources

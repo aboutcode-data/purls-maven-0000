@@ -4,3 +4,4 @@
 - pkg:maven/org.wso2.samples.is/samples-is@2.0.0-m3?classifier=source-release&type=zip
 - pkg:maven/org.wso2.samples.is/samples-is@2.0.0?classifier=source-release&type=zip
 - pkg:maven/org.wso2.samples.is/samples-is@3.0.0-m1?classifier=source-release&type=zip
+- pkg:maven/org.wso2.samples.is/samples-is@4.0.0?classifier=source-release&type=zip

@@ -1,3 +1,4 @@
+- pkg:maven/org.opencypher/tck@1.0.0-1.0.0-M14
 - pkg:maven/org.opencypher/tck@1.0.0-M02
 - pkg:maven/org.opencypher/tck@1.0.0-M02?classifier=sources
 - pkg:maven/org.opencypher/tck@1.0.0-M03
@@ -16,3 +17,5 @@
 - pkg:maven/org.opencypher/tck@1.0.0-M10
 - pkg:maven/org.opencypher/tck@1.0.0-M11
 - pkg:maven/org.opencypher/tck@1.0.0-M12
+- pkg:maven/org.opencypher/tck@1.0.0-M13
+- pkg:maven/org.opencypher/tck@1.0.0-M14

@@ -8,3 +8,7 @@
 - pkg:maven/com.github.Andy-Shao/GearEE-Neo4j-Spring@0.0.4.RELEASE?classifier=sources
 - pkg:maven/com.github.Andy-Shao/GearEE-Neo4j-Spring@0.0.5.RELEASE
 - pkg:maven/com.github.Andy-Shao/GearEE-Neo4j-Spring@0.0.5.RELEASE?classifier=sources
+- pkg:maven/com.github.Andy-Shao/GearEE-Neo4j-Spring@0.0.6.RELEASE
+- pkg:maven/com.github.Andy-Shao/GearEE-Neo4j-Spring@0.0.6.RELEASE?classifier=sources
+- pkg:maven/com.github.Andy-Shao/GearEE-Neo4j-Spring@0.1.0.RELEASE
+- pkg:maven/com.github.Andy-Shao/GearEE-Neo4j-Spring@0.1.0.RELEASE?classifier=sources
