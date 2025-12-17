@@ -1,5 +1,7 @@
 - pkg:maven/top.marchand.xml.ext-funct/basex@1.0.0
 - pkg:maven/top.marchand.xml.ext-funct/basex@1.0.0?classifier=sources
+- pkg:maven/top.marchand.xml.ext-funct/basex@1.1.0-98
+- pkg:maven/top.marchand.xml.ext-funct/basex@1.1.0-98?classifier=sources
 - pkg:maven/top.marchand.xml.ext-funct/basex@1.1.0-RC1
 - pkg:maven/top.marchand.xml.ext-funct/basex@1.1.0-RC1?classifier=sources
 - pkg:maven/top.marchand.xml.ext-funct/basex@1.1.0-RC2

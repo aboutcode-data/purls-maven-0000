@@ -12,3 +12,6 @@
 - pkg:maven/org.whispersystems/libpastelog@1.0.6?type=aar
 - pkg:maven/org.whispersystems/libpastelog@1.0.7?classifier=sources
 - pkg:maven/org.whispersystems/libpastelog@1.0.7?type=aar
+- pkg:maven/org.whispersystems/libpastelog@1.1.0?type=aar
+- pkg:maven/org.whispersystems/libpastelog@1.1.1?type=aar
+- pkg:maven/org.whispersystems/libpastelog@1.1.2?type=aar

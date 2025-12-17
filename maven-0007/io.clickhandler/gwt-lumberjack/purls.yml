@@ -1,0 +1,2 @@
+- pkg:maven/io.clickhandler/gwt-lumberjack@1.0.0
+- pkg:maven/io.clickhandler/gwt-lumberjack@1.0.0?classifier=sources

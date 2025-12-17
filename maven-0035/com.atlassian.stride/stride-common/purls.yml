@@ -24,3 +24,5 @@
 - pkg:maven/com.atlassian.stride/stride-common@2.0.8?classifier=sources
 - pkg:maven/com.atlassian.stride/stride-common@2.0.9
 - pkg:maven/com.atlassian.stride/stride-common@2.0.9?classifier=sources
+- pkg:maven/com.atlassian.stride/stride-common@3.0.3
+- pkg:maven/com.atlassian.stride/stride-common@3.0.3?classifier=sources

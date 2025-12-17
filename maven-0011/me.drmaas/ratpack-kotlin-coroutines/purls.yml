@@ -1,0 +1,2 @@
+- pkg:maven/me.drmaas/ratpack-kotlin-coroutines@1.4.1
+- pkg:maven/me.drmaas/ratpack-kotlin-coroutines@1.4.1?classifier=sources

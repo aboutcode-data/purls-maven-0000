@@ -38,3 +38,15 @@
 - pkg:maven/nl.basjes.parse.useragent/yauaa-logparser@3.2?classifier=sources
 - pkg:maven/nl.basjes.parse.useragent/yauaa-logparser@3.3
 - pkg:maven/nl.basjes.parse.useragent/yauaa-logparser@3.3?classifier=sources
+- pkg:maven/nl.basjes.parse.useragent/yauaa-logparser@4.0
+- pkg:maven/nl.basjes.parse.useragent/yauaa-logparser@4.0?classifier=sources
+- pkg:maven/nl.basjes.parse.useragent/yauaa-logparser@4.1
+- pkg:maven/nl.basjes.parse.useragent/yauaa-logparser@4.1?classifier=sources
+- pkg:maven/nl.basjes.parse.useragent/yauaa-logparser@4.2
+- pkg:maven/nl.basjes.parse.useragent/yauaa-logparser@4.2?classifier=sources
+- pkg:maven/nl.basjes.parse.useragent/yauaa-logparser@4.3
+- pkg:maven/nl.basjes.parse.useragent/yauaa-logparser@4.3?classifier=sources
+- pkg:maven/nl.basjes.parse.useragent/yauaa-logparser@4.4
+- pkg:maven/nl.basjes.parse.useragent/yauaa-logparser@4.4?classifier=sources
+- pkg:maven/nl.basjes.parse.useragent/yauaa-logparser@4.5
+- pkg:maven/nl.basjes.parse.useragent/yauaa-logparser@4.5?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/de.dentrassi.varlink.bindings/io.systemd@0.0.1
+- pkg:maven/de.dentrassi.varlink.bindings/io.systemd@0.0.1?classifier=sources

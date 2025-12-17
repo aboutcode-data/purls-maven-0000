@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/prettier-bytes@1.0.4
+- pkg:maven/org.webjars.npm/prettier-bytes@1.0.4?classifier=sources

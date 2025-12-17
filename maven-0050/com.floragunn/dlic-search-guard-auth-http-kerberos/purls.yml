@@ -20,5 +20,7 @@
 - pkg:maven/com.floragunn/dlic-search-guard-auth-http-kerberos@5.0-3?classifier=sources
 - pkg:maven/com.floragunn/dlic-search-guard-auth-http-kerberos@5.0-4
 - pkg:maven/com.floragunn/dlic-search-guard-auth-http-kerberos@5.0-4?classifier=sources
+- pkg:maven/com.floragunn/dlic-search-guard-auth-http-kerberos@6.0-20.0
+- pkg:maven/com.floragunn/dlic-search-guard-auth-http-kerberos@6.0-20.0?classifier=sources
 - pkg:maven/com.floragunn/dlic-search-guard-auth-http-kerberos@6.0-7.beta1
 - pkg:maven/com.floragunn/dlic-search-guard-auth-http-kerberos@6.0-7.beta1?classifier=sources

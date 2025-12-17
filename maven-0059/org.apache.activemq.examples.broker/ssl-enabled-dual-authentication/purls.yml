@@ -12,6 +12,8 @@
 - pkg:maven/org.apache.activemq.examples.broker/ssl-enabled-dual-authentication@1.5.4?classifier=sources
 - pkg:maven/org.apache.activemq.examples.broker/ssl-enabled-dual-authentication@1.5.5
 - pkg:maven/org.apache.activemq.examples.broker/ssl-enabled-dual-authentication@1.5.5?classifier=sources
+- pkg:maven/org.apache.activemq.examples.broker/ssl-enabled-dual-authentication@1.5.6
+- pkg:maven/org.apache.activemq.examples.broker/ssl-enabled-dual-authentication@1.5.6?classifier=sources
 - pkg:maven/org.apache.activemq.examples.broker/ssl-enabled-dual-authentication@2.0.0
 - pkg:maven/org.apache.activemq.examples.broker/ssl-enabled-dual-authentication@2.0.0?classifier=sources
 - pkg:maven/org.apache.activemq.examples.broker/ssl-enabled-dual-authentication@2.1.0
@@ -22,3 +24,9 @@
 - pkg:maven/org.apache.activemq.examples.broker/ssl-enabled-dual-authentication@2.3.0?classifier=sources
 - pkg:maven/org.apache.activemq.examples.broker/ssl-enabled-dual-authentication@2.4.0
 - pkg:maven/org.apache.activemq.examples.broker/ssl-enabled-dual-authentication@2.4.0?classifier=sources
+- pkg:maven/org.apache.activemq.examples.broker/ssl-enabled-dual-authentication@2.5.0
+- pkg:maven/org.apache.activemq.examples.broker/ssl-enabled-dual-authentication@2.5.0?classifier=sources
+- pkg:maven/org.apache.activemq.examples.broker/ssl-enabled-dual-authentication@2.6.0
+- pkg:maven/org.apache.activemq.examples.broker/ssl-enabled-dual-authentication@2.6.0?classifier=sources
+- pkg:maven/org.apache.activemq.examples.broker/ssl-enabled-dual-authentication@2.6.1
+- pkg:maven/org.apache.activemq.examples.broker/ssl-enabled-dual-authentication@2.6.1?classifier=sources

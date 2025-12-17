@@ -1,0 +1,14 @@
+- pkg:maven/io.github.kaiso.relmongo/relmongo@1.0.0
+- pkg:maven/io.github.kaiso.relmongo/relmongo@1.0.0-RC1
+- pkg:maven/io.github.kaiso.relmongo/relmongo@1.0.0-RC1?classifier=sources
+- pkg:maven/io.github.kaiso.relmongo/relmongo@1.0.0-RC2
+- pkg:maven/io.github.kaiso.relmongo/relmongo@1.0.0-RC2?classifier=sources
+- pkg:maven/io.github.kaiso.relmongo/relmongo@1.0.0-alpha
+- pkg:maven/io.github.kaiso.relmongo/relmongo@1.0.0-alpha?classifier=sources
+- pkg:maven/io.github.kaiso.relmongo/relmongo@1.0.0-beta
+- pkg:maven/io.github.kaiso.relmongo/relmongo@1.0.0-beta?classifier=sources
+- pkg:maven/io.github.kaiso.relmongo/relmongo@1.0.0?classifier=sources
+- pkg:maven/io.github.kaiso.relmongo/relmongo@2.0.0-RC1
+- pkg:maven/io.github.kaiso.relmongo/relmongo@2.0.0-RC1?classifier=sources
+- pkg:maven/io.github.kaiso.relmongo/relmongo@2.0.0-RC2
+- pkg:maven/io.github.kaiso.relmongo/relmongo@2.0.0-RC2?classifier=sources

@@ -1,0 +1,13 @@
+- pkg:maven/org.actframework/archetype-quickstart@1.8.5.1?classifier=sources
+- pkg:maven/org.actframework/archetype-quickstart@1.8.6.0?classifier=sources
+- pkg:maven/org.actframework/archetype-quickstart@1.8.6.1?classifier=sources
+- pkg:maven/org.actframework/archetype-quickstart@1.8.7.0?classifier=sources
+- pkg:maven/org.actframework/archetype-quickstart@1.8.7.1?classifier=sources
+- pkg:maven/org.actframework/archetype-quickstart@1.8.7.2?classifier=sources
+- pkg:maven/org.actframework/archetype-quickstart@1.8.7.3?classifier=sources
+- pkg:maven/org.actframework/archetype-quickstart@1.8.8.0?classifier=sources
+- pkg:maven/org.actframework/archetype-quickstart@1.8.8.1?classifier=sources
+- pkg:maven/org.actframework/archetype-quickstart@1.8.8.2?classifier=sources
+- pkg:maven/org.actframework/archetype-quickstart@1.8.8.3?classifier=sources
+- pkg:maven/org.actframework/archetype-quickstart@1.8.8.4?classifier=sources
+- pkg:maven/org.actframework/archetype-quickstart@1.8.8.5?classifier=sources

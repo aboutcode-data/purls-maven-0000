@@ -1,0 +1,4 @@
+- pkg:maven/io.github.alexisvisco/Sparklay@1.1
+- pkg:maven/io.github.alexisvisco/Sparklay@1.11
+- pkg:maven/io.github.alexisvisco/Sparklay@1.11?classifier=sources
+- pkg:maven/io.github.alexisvisco/Sparklay@1.1?classifier=sources

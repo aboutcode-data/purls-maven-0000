@@ -3,3 +3,7 @@
 - pkg:maven/org.opengis.cite.teamengine/teamengine-resources@4.5
 - pkg:maven/org.opengis.cite.teamengine/teamengine-resources@4.7
 - pkg:maven/org.opengis.cite.teamengine/teamengine-resources@4.9
+- pkg:maven/org.opengis.cite.teamengine/teamengine-resources@5.2
+- pkg:maven/org.opengis.cite.teamengine/teamengine-resources@5.2?classifier=sources
+- pkg:maven/org.opengis.cite.teamengine/teamengine-resources@5.3
+- pkg:maven/org.opengis.cite.teamengine/teamengine-resources@5.3?classifier=sources

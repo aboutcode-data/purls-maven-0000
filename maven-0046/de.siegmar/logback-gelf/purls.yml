@@ -8,3 +8,5 @@
 - pkg:maven/de.siegmar/logback-gelf@1.0.3?classifier=sources
 - pkg:maven/de.siegmar/logback-gelf@1.0.4
 - pkg:maven/de.siegmar/logback-gelf@1.0.4?classifier=sources
+- pkg:maven/de.siegmar/logback-gelf@1.1.0
+- pkg:maven/de.siegmar/logback-gelf@1.1.0?classifier=sources

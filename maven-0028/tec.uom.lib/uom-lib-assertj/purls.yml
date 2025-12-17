@@ -1,0 +1,2 @@
+- pkg:maven/tec.uom.lib/uom-lib-assertj@1.0
+- pkg:maven/tec.uom.lib/uom-lib-assertj@1.0?classifier=sources

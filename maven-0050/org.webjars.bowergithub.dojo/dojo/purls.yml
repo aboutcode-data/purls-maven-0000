@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.bowergithub.dojo/dojo@1.13.0
+- pkg:maven/org.webjars.bowergithub.dojo/dojo@1.13.0?classifier=sources

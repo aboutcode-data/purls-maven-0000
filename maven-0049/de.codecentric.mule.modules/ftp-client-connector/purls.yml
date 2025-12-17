@@ -1,0 +1,2 @@
+- pkg:maven/de.codecentric.mule.modules/ftp-client-connector@0.0.1?classifier=sources
+- pkg:maven/de.codecentric.mule.modules/ftp-client-connector@1.0.0?classifier=sources

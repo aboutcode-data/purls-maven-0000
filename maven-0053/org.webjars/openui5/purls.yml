@@ -48,3 +48,5 @@
 - pkg:maven/org.webjars/openui5@1.48.6
 - pkg:maven/org.webjars/openui5@1.50.5
 - pkg:maven/org.webjars/openui5@1.50.6
+- pkg:maven/org.webjars/openui5@1.52.12
+- pkg:maven/org.webjars/openui5@1.52.5

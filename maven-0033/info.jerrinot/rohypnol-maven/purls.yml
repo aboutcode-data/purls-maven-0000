@@ -1,0 +1,2 @@
+- pkg:maven/info.jerrinot/rohypnol-maven@0.1
+- pkg:maven/info.jerrinot/rohypnol-maven@0.1?classifier=sources

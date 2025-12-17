@@ -9,6 +9,7 @@
 - pkg:maven/org.mobicents.servers.jainslee.core/components-test-du-test@2.8.106
 - pkg:maven/org.mobicents.servers.jainslee.core/components-test-du-test@2.8.107
 - pkg:maven/org.mobicents.servers.jainslee.core/components-test-du-test@2.8.108
+- pkg:maven/org.mobicents.servers.jainslee.core/components-test-du-test@2.8.109
 - pkg:maven/org.mobicents.servers.jainslee.core/components-test-du-test@2.8.11
 - pkg:maven/org.mobicents.servers.jainslee.core/components-test-du-test@2.8.110
 - pkg:maven/org.mobicents.servers.jainslee.core/components-test-du-test@2.8.111

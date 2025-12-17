@@ -8,3 +8,7 @@
 - pkg:maven/tl.lin/lintools-datatypes@0.9.3?classifier=sources
 - pkg:maven/tl.lin/lintools-datatypes@1.0.0
 - pkg:maven/tl.lin/lintools-datatypes@1.0.0?classifier=sources
+- pkg:maven/tl.lin/lintools-datatypes@1.1.0
+- pkg:maven/tl.lin/lintools-datatypes@1.1.0?classifier=sources
+- pkg:maven/tl.lin/lintools-datatypes@1.1.1
+- pkg:maven/tl.lin/lintools-datatypes@1.1.1?classifier=sources

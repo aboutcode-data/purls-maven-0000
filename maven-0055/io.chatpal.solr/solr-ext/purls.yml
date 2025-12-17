@@ -1,0 +1,2 @@
+- pkg:maven/io.chatpal.solr/solr-ext@0.0.1
+- pkg:maven/io.chatpal.solr/solr-ext@0.0.1?classifier=sources

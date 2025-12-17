@@ -48,9 +48,16 @@
 - pkg:maven/com.speedment/speedment-maven-plugin@3.0.18
 - pkg:maven/com.speedment/speedment-maven-plugin@3.0.19
 - pkg:maven/com.speedment/speedment-maven-plugin@3.0.2
+- pkg:maven/com.speedment/speedment-maven-plugin@3.0.20
+- pkg:maven/com.speedment/speedment-maven-plugin@3.0.21
+- pkg:maven/com.speedment/speedment-maven-plugin@3.0.22
 - pkg:maven/com.speedment/speedment-maven-plugin@3.0.3
 - pkg:maven/com.speedment/speedment-maven-plugin@3.0.5
 - pkg:maven/com.speedment/speedment-maven-plugin@3.0.6
 - pkg:maven/com.speedment/speedment-maven-plugin@3.0.7
 - pkg:maven/com.speedment/speedment-maven-plugin@3.0.8
 - pkg:maven/com.speedment/speedment-maven-plugin@3.0.9
+- pkg:maven/com.speedment/speedment-maven-plugin@3.1.0
+- pkg:maven/com.speedment/speedment-maven-plugin@3.1.1
+- pkg:maven/com.speedment/speedment-maven-plugin@3.1.2
+- pkg:maven/com.speedment/speedment-maven-plugin@3.1.3

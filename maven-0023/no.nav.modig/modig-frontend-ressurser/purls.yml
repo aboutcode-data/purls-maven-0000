@@ -1,0 +1,4 @@
+- pkg:maven/no.nav.modig/modig-frontend-ressurser@3.0.53
+- pkg:maven/no.nav.modig/modig-frontend-ressurser@3.0.53?classifier=sources
+- pkg:maven/no.nav.modig/modig-frontend-ressurser@4.0.16
+- pkg:maven/no.nav.modig/modig-frontend-ressurser@4.0.16?classifier=sources

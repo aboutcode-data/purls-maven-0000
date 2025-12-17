@@ -1,0 +1,2 @@
+- pkg:maven/com.github.transcurity/capstone@3.0.5-rc2
+- pkg:maven/com.github.transcurity/capstone@3.0.5-rc2?classifier=sources

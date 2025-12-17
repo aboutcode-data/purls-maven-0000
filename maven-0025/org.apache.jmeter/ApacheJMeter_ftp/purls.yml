@@ -10,3 +10,5 @@
 - pkg:maven/org.apache.jmeter/ApacheJMeter_ftp@3.1
 - pkg:maven/org.apache.jmeter/ApacheJMeter_ftp@3.2
 - pkg:maven/org.apache.jmeter/ApacheJMeter_ftp@3.3
+- pkg:maven/org.apache.jmeter/ApacheJMeter_ftp@4.0
+- pkg:maven/org.apache.jmeter/ApacheJMeter_ftp@4.0?classifier=sources

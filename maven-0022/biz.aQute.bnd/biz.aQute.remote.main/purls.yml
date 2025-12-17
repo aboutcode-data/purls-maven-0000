@@ -6,3 +6,5 @@
 - pkg:maven/biz.aQute.bnd/biz.aQute.remote.main@3.4.0?classifier=sources
 - pkg:maven/biz.aQute.bnd/biz.aQute.remote.main@3.5.0
 - pkg:maven/biz.aQute.bnd/biz.aQute.remote.main@3.5.0?classifier=sources
+- pkg:maven/biz.aQute.bnd/biz.aQute.remote.main@4.0.0
+- pkg:maven/biz.aQute.bnd/biz.aQute.remote.main@4.0.0?classifier=sources

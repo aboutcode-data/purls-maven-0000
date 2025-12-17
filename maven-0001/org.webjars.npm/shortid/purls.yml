@@ -1,2 +1,4 @@
 - pkg:maven/org.webjars.npm/shortid@2.2.4
 - pkg:maven/org.webjars.npm/shortid@2.2.4?classifier=sources
+- pkg:maven/org.webjars.npm/shortid@2.2.8
+- pkg:maven/org.webjars.npm/shortid@2.2.8?classifier=sources

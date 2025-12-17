@@ -7,4 +7,6 @@
 - pkg:maven/com.github.chanmratekoko/myanmar-calendar@1.0.2.RELEASE?classifier=sources
 - pkg:maven/com.github.chanmratekoko/myanmar-calendar@1.0.3.RELEASE
 - pkg:maven/com.github.chanmratekoko/myanmar-calendar@1.0.3.RELEASE?classifier=sources
+- pkg:maven/com.github.chanmratekoko/myanmar-calendar@1.0.4.RELEASE
+- pkg:maven/com.github.chanmratekoko/myanmar-calendar@1.0.4.RELEASE?classifier=sources
 - pkg:maven/com.github.chanmratekoko/myanmar-calendar@1.0?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/org.webjars.bowergithub.predixdesignsystem/px-vis-timeseries@3.4.4
+- pkg:maven/org.webjars.bowergithub.predixdesignsystem/px-vis-timeseries@3.4.4?classifier=sources
+- pkg:maven/org.webjars.bowergithub.predixdesignsystem/px-vis-timeseries@4.0.0
+- pkg:maven/org.webjars.bowergithub.predixdesignsystem/px-vis-timeseries@4.0.0?classifier=sources

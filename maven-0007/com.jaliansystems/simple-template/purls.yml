@@ -1,0 +1,2 @@
+- pkg:maven/com.jaliansystems/simple-template@1.1
+- pkg:maven/com.jaliansystems/simple-template@1.1?classifier=sources

@@ -1,0 +1,6 @@
+- pkg:maven/com.github.daggerok/kotlin-html-dsl@1.0.ALL
+- pkg:maven/com.github.daggerok/kotlin-html-dsl@1.0.ALL?classifier=sources
+- pkg:maven/com.github.daggerok/kotlin-html-dsl@1.0.DOM
+- pkg:maven/com.github.daggerok/kotlin-html-dsl@1.0.DOM?classifier=sources
+- pkg:maven/com.github.daggerok/kotlin-html-dsl@1.0.PLUS
+- pkg:maven/com.github.daggerok/kotlin-html-dsl@1.0.PLUS?classifier=sources

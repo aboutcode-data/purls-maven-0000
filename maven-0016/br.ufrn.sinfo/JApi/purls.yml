@@ -1,0 +1,2 @@
+- pkg:maven/br.ufrn.sinfo/JApi@1.0.0?classifier=sources
+- pkg:maven/br.ufrn.sinfo/JApi@1.0.0?type=aar

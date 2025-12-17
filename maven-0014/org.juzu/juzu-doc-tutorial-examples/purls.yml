@@ -168,3 +168,5 @@
 - pkg:maven/org.juzu/juzu-doc-tutorial-examples@1.2.0-M06?type=war
 - pkg:maven/org.juzu/juzu-doc-tutorial-examples@1.2.0-RC01?classifier=sources
 - pkg:maven/org.juzu/juzu-doc-tutorial-examples@1.2.0-RC01?type=war
+- pkg:maven/org.juzu/juzu-doc-tutorial-examples@1.2.0?classifier=sources
+- pkg:maven/org.juzu/juzu-doc-tutorial-examples@1.2.0?type=war

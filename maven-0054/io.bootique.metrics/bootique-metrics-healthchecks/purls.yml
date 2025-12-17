@@ -1,0 +1,2 @@
+- pkg:maven/io.bootique.metrics/bootique-metrics-healthchecks@0.25
+- pkg:maven/io.bootique.metrics/bootique-metrics-healthchecks@0.25?classifier=sources

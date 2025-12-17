@@ -1,3 +1,4 @@
 - pkg:maven/com.b3dgs.lionengine/lionengine-buildtools@8.3.5
 - pkg:maven/com.b3dgs.lionengine/lionengine-buildtools@8.3.6
 - pkg:maven/com.b3dgs.lionengine/lionengine-buildtools@8.4.0
+- pkg:maven/com.b3dgs.lionengine/lionengine-buildtools@8.4.1

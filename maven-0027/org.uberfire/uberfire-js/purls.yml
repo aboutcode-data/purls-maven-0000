@@ -164,3 +164,7 @@
 - pkg:maven/org.uberfire/uberfire-js@1.4.0.Final?classifier=sources
 - pkg:maven/org.uberfire/uberfire-js@2.2.0.Final
 - pkg:maven/org.uberfire/uberfire-js@2.2.0.Final?classifier=sources
+- pkg:maven/org.uberfire/uberfire-js@2.3.0.Final
+- pkg:maven/org.uberfire/uberfire-js@2.3.0.Final?classifier=sources
+- pkg:maven/org.uberfire/uberfire-js@2.4.0.Final
+- pkg:maven/org.uberfire/uberfire-js@2.4.0.Final?classifier=sources

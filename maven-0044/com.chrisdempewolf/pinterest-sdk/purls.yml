@@ -44,3 +44,7 @@
 - pkg:maven/com.chrisdempewolf/pinterest-sdk@4.0.4?classifier=sources
 - pkg:maven/com.chrisdempewolf/pinterest-sdk@4.1.0
 - pkg:maven/com.chrisdempewolf/pinterest-sdk@4.1.0?classifier=sources
+- pkg:maven/com.chrisdempewolf/pinterest-sdk@4.2.0
+- pkg:maven/com.chrisdempewolf/pinterest-sdk@4.2.0?classifier=sources
+- pkg:maven/com.chrisdempewolf/pinterest-sdk@4.2.1
+- pkg:maven/com.chrisdempewolf/pinterest-sdk@4.2.1?classifier=sources

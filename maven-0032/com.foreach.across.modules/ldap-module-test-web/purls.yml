@@ -1,0 +1,2 @@
+- pkg:maven/com.foreach.across.modules/ldap-module-test-web@1.0.1.RELEASE?classifier=sources
+- pkg:maven/com.foreach.across.modules/ldap-module-test-web@1.0.1.RELEASE?type=war

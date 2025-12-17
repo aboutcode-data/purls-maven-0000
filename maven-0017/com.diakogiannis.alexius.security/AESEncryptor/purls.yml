@@ -1,0 +1,2 @@
+- pkg:maven/com.diakogiannis.alexius.security/AESEncryptor@1.2.7
+- pkg:maven/com.diakogiannis.alexius.security/AESEncryptor@1.2.7?classifier=sources

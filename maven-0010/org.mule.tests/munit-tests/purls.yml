@@ -1,1 +1,2 @@
 - pkg:maven/org.mule.tests/munit-tests@4.0.0-rc
+- pkg:maven/org.mule.tests/munit-tests@4.1.1

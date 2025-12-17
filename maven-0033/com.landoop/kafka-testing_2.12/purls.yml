@@ -1,2 +1,4 @@
 - pkg:maven/com.landoop/kafka-testing_2.12@0.2
 - pkg:maven/com.landoop/kafka-testing_2.12@0.2?classifier=sources
+- pkg:maven/com.landoop/kafka-testing_2.12@2.1
+- pkg:maven/com.landoop/kafka-testing_2.12@2.1?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.devops4j.skeleton4j/skeleton4j-demo-api@1.0.0-PRE1
+- pkg:maven/com.devops4j.skeleton4j/skeleton4j-demo-api@1.0.0-PRE1?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.devonfw.cobigen/templates-oasp4js@2.4.0
+- pkg:maven/com.devonfw.cobigen/templates-oasp4js@2.4.0?classifier=sources

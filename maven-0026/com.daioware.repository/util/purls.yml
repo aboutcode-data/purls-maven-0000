@@ -1,0 +1,6 @@
+- pkg:maven/com.daioware.repository/util@1.0.0-RELEASE
+- pkg:maven/com.daioware.repository/util@1.0.0-RELEASE?classifier=sources
+- pkg:maven/com.daioware.repository/util@2.0.0-RELEASE
+- pkg:maven/com.daioware.repository/util@2.0.0-RELEASE?classifier=sources
+- pkg:maven/com.daioware.repository/util@2.0.4-RELEASE
+- pkg:maven/com.daioware.repository/util@2.0.4-RELEASE?classifier=sources

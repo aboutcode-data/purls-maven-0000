@@ -12,3 +12,5 @@
 - pkg:maven/com.robinhood.ticker/ticker@1.2.1?type=aar
 - pkg:maven/com.robinhood.ticker/ticker@1.2.2?classifier=sources
 - pkg:maven/com.robinhood.ticker/ticker@1.2.2?type=aar
+- pkg:maven/com.robinhood.ticker/ticker@2.0.0?classifier=sources
+- pkg:maven/com.robinhood.ticker/ticker@2.0.0?type=aar

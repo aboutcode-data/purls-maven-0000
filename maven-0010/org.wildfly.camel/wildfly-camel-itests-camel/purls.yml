@@ -29,3 +29,6 @@
 - pkg:maven/org.wildfly.camel/wildfly-camel-itests-camel@4.8.0
 - pkg:maven/org.wildfly.camel/wildfly-camel-itests-camel@4.9.0
 - pkg:maven/org.wildfly.camel/wildfly-camel-itests-camel@5.0.0
+- pkg:maven/org.wildfly.camel/wildfly-camel-itests-camel@5.1.0
+- pkg:maven/org.wildfly.camel/wildfly-camel-itests-camel@6.0.0
+- pkg:maven/org.wildfly.camel/wildfly-camel-itests-camel@6.1.0

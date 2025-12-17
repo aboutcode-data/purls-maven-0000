@@ -1,0 +1,10 @@
+- pkg:maven/org.wso2.testgrid/org.wso2.testgrid.deployment.tinkerer@0.9.0-m27?classifier=sources
+- pkg:maven/org.wso2.testgrid/org.wso2.testgrid.deployment.tinkerer@0.9.0-m27?type=war
+- pkg:maven/org.wso2.testgrid/org.wso2.testgrid.deployment.tinkerer@0.9.0-m28?classifier=sources
+- pkg:maven/org.wso2.testgrid/org.wso2.testgrid.deployment.tinkerer@0.9.0-m28?type=war
+- pkg:maven/org.wso2.testgrid/org.wso2.testgrid.deployment.tinkerer@0.9.0-m29?classifier=sources
+- pkg:maven/org.wso2.testgrid/org.wso2.testgrid.deployment.tinkerer@0.9.0-m29?type=war
+- pkg:maven/org.wso2.testgrid/org.wso2.testgrid.deployment.tinkerer@0.9.0-m30?classifier=sources
+- pkg:maven/org.wso2.testgrid/org.wso2.testgrid.deployment.tinkerer@0.9.0-m30?type=war
+- pkg:maven/org.wso2.testgrid/org.wso2.testgrid.deployment.tinkerer@0.9.0-m31?classifier=sources
+- pkg:maven/org.wso2.testgrid/org.wso2.testgrid.deployment.tinkerer@0.9.0-m31?type=war

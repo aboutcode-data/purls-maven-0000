@@ -1,3 +1,5 @@
 - pkg:maven/com.ibm.mq/wmq.jmsra@0.0.0.2
 - pkg:maven/com.ibm.mq/wmq.jmsra@0.0.0.2?classifier=sources
 - pkg:maven/com.ibm.mq/wmq.jmsra@0.0.0.3?classifier=sources
+- pkg:maven/com.ibm.mq/wmq.jmsra@9.0.4.0?classifier=sources
+- pkg:maven/com.ibm.mq/wmq.jmsra@9.0.5.0?classifier=sources

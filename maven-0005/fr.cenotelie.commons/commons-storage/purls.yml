@@ -1,0 +1,2 @@
+- pkg:maven/fr.cenotelie.commons/commons-storage@2.1.0
+- pkg:maven/fr.cenotelie.commons/commons-storage@2.1.0?classifier=sources

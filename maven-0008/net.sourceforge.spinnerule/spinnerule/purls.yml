@@ -40,6 +40,8 @@
 - pkg:maven/net.sourceforge.spinnerule/spinnerule@0.29?classifier=sources
 - pkg:maven/net.sourceforge.spinnerule/spinnerule@0.30
 - pkg:maven/net.sourceforge.spinnerule/spinnerule@0.30?classifier=sources
+- pkg:maven/net.sourceforge.spinnerule/spinnerule@0.31
+- pkg:maven/net.sourceforge.spinnerule/spinnerule@0.31?classifier=sources
 - pkg:maven/net.sourceforge.spinnerule/spinnerule@0.4
 - pkg:maven/net.sourceforge.spinnerule/spinnerule@0.4?classifier=sources
 - pkg:maven/net.sourceforge.spinnerule/spinnerule@0.5

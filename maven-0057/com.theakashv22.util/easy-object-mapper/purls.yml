@@ -1,0 +1,2 @@
+- pkg:maven/com.theakashv22.util/easy-object-mapper@0.1.0
+- pkg:maven/com.theakashv22.util/easy-object-mapper@0.1.0?classifier=sources

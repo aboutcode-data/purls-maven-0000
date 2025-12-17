@@ -1,1 +1,2 @@
 - pkg:maven/org.wso2.ciphertool/ciphertool-parent@1.0.0-wso2v7?classifier=source-release&type=zip
+- pkg:maven/org.wso2.ciphertool/ciphertool-parent@1.0.0-wso2v8?classifier=source-release&type=zip

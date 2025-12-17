@@ -4,3 +4,6 @@
 - pkg:maven/org.ow2.petals/petals-registryoverlay-client-cfg@1.0.1
 - pkg:maven/org.ow2.petals/petals-registryoverlay-client-cfg@1.0.1?classifier=source-release&type=zip
 - pkg:maven/org.ow2.petals/petals-registryoverlay-client-cfg@1.0.1?classifier=sources
+- pkg:maven/org.ow2.petals/petals-registryoverlay-client-cfg@1.0.2
+- pkg:maven/org.ow2.petals/petals-registryoverlay-client-cfg@1.0.2?classifier=source-release&type=zip
+- pkg:maven/org.ow2.petals/petals-registryoverlay-client-cfg@1.0.2?classifier=sources

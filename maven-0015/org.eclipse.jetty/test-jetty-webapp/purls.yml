@@ -262,6 +262,10 @@
 - pkg:maven/org.eclipse.jetty/test-jetty-webapp@9.3.21.v20170918?type=war
 - pkg:maven/org.eclipse.jetty/test-jetty-webapp@9.3.22.v20171030?classifier=sources
 - pkg:maven/org.eclipse.jetty/test-jetty-webapp@9.3.22.v20171030?type=war
+- pkg:maven/org.eclipse.jetty/test-jetty-webapp@9.3.23.v20180228?classifier=sources
+- pkg:maven/org.eclipse.jetty/test-jetty-webapp@9.3.23.v20180228?type=war
+- pkg:maven/org.eclipse.jetty/test-jetty-webapp@9.3.24.v20180605?classifier=sources
+- pkg:maven/org.eclipse.jetty/test-jetty-webapp@9.3.24.v20180605?type=war
 - pkg:maven/org.eclipse.jetty/test-jetty-webapp@9.3.8.v20160314?classifier=sources
 - pkg:maven/org.eclipse.jetty/test-jetty-webapp@9.3.8.v20160314?type=war
 - pkg:maven/org.eclipse.jetty/test-jetty-webapp@9.3.9.M0?classifier=sources
@@ -286,6 +290,11 @@
 - pkg:maven/org.eclipse.jetty/test-jetty-webapp@9.4.0.v20161208?type=war
 - pkg:maven/org.eclipse.jetty/test-jetty-webapp@9.4.1.v20170120?classifier=sources
 - pkg:maven/org.eclipse.jetty/test-jetty-webapp@9.4.1.v20170120?type=war
+- pkg:maven/org.eclipse.jetty/test-jetty-webapp@9.4.10.RC0?classifier=sources
+- pkg:maven/org.eclipse.jetty/test-jetty-webapp@9.4.10.RC0?type=war
+- pkg:maven/org.eclipse.jetty/test-jetty-webapp@9.4.10.RC1?type=war
+- pkg:maven/org.eclipse.jetty/test-jetty-webapp@9.4.10.v20180503?type=war
+- pkg:maven/org.eclipse.jetty/test-jetty-webapp@9.4.11.v20180605?type=war
 - pkg:maven/org.eclipse.jetty/test-jetty-webapp@9.4.2.v20170220?classifier=sources
 - pkg:maven/org.eclipse.jetty/test-jetty-webapp@9.4.2.v20170220?type=war
 - pkg:maven/org.eclipse.jetty/test-jetty-webapp@9.4.3.v20170317?classifier=sources
@@ -302,3 +311,5 @@
 - pkg:maven/org.eclipse.jetty/test-jetty-webapp@9.4.7.v20170914?type=war
 - pkg:maven/org.eclipse.jetty/test-jetty-webapp@9.4.8.v20171121?classifier=sources
 - pkg:maven/org.eclipse.jetty/test-jetty-webapp@9.4.8.v20171121?type=war
+- pkg:maven/org.eclipse.jetty/test-jetty-webapp@9.4.9.v20180320?classifier=sources
+- pkg:maven/org.eclipse.jetty/test-jetty-webapp@9.4.9.v20180320?type=war

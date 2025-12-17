@@ -34,3 +34,5 @@
 - pkg:maven/org.kie.workbench.forms/kie-wb-common-forms-serialization@7.4.1.Final?classifier=sources
 - pkg:maven/org.kie.workbench.forms/kie-wb-common-forms-serialization@7.5.0.Final
 - pkg:maven/org.kie.workbench.forms/kie-wb-common-forms-serialization@7.5.0.Final?classifier=sources
+- pkg:maven/org.kie.workbench.forms/kie-wb-common-forms-serialization@7.6.0.Final
+- pkg:maven/org.kie.workbench.forms/kie-wb-common-forms-serialization@7.6.0.Final?classifier=sources

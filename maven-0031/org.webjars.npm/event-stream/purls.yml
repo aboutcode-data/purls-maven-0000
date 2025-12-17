@@ -1,2 +1,6 @@
+- pkg:maven/org.webjars.npm/event-stream@3.0.20
+- pkg:maven/org.webjars.npm/event-stream@3.0.20?classifier=sources
 - pkg:maven/org.webjars.npm/event-stream@3.3.2
 - pkg:maven/org.webjars.npm/event-stream@3.3.2?classifier=sources
+- pkg:maven/org.webjars.npm/event-stream@3.3.4
+- pkg:maven/org.webjars.npm/event-stream@3.3.4?classifier=sources

@@ -72,3 +72,11 @@
 - pkg:maven/com.wdullaer/materialdatetimepicker@3.4.0?type=aar
 - pkg:maven/com.wdullaer/materialdatetimepicker@3.4.1?classifier=sources
 - pkg:maven/com.wdullaer/materialdatetimepicker@3.4.1?type=aar
+- pkg:maven/com.wdullaer/materialdatetimepicker@3.5.0?classifier=sources
+- pkg:maven/com.wdullaer/materialdatetimepicker@3.5.0?type=aar
+- pkg:maven/com.wdullaer/materialdatetimepicker@3.5.1?classifier=sources
+- pkg:maven/com.wdullaer/materialdatetimepicker@3.5.1?type=aar
+- pkg:maven/com.wdullaer/materialdatetimepicker@3.5.2?classifier=sources
+- pkg:maven/com.wdullaer/materialdatetimepicker@3.5.2?type=aar
+- pkg:maven/com.wdullaer/materialdatetimepicker@3.6.0?classifier=sources
+- pkg:maven/com.wdullaer/materialdatetimepicker@3.6.0?type=aar

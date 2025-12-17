@@ -1,0 +1,2 @@
+- pkg:maven/com.gitee.l0km/swift2thrift-maven-plugin@1.7
+- pkg:maven/com.gitee.l0km/swift2thrift-maven-plugin@1.7?classifier=sources

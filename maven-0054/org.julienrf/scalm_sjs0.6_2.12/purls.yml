@@ -1,0 +1,2 @@
+- pkg:maven/org.julienrf/scalm_sjs0.6_2.12@1.0.0-RC1
+- pkg:maven/org.julienrf/scalm_sjs0.6_2.12@1.0.0-RC1?classifier=sources

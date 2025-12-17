@@ -18,3 +18,5 @@
 - pkg:maven/com.aliyun.odps/odps-udf-local@0.27.1-public?classifier=sources
 - pkg:maven/com.aliyun.odps/odps-udf-local@0.27.2-public
 - pkg:maven/com.aliyun.odps/odps-udf-local@0.27.2-public?classifier=sources
+- pkg:maven/com.aliyun.odps/odps-udf-local@0.28.4-public
+- pkg:maven/com.aliyun.odps/odps-udf-local@0.28.4-public?classifier=sources

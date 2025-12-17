@@ -1,0 +1,4 @@
+- pkg:maven/net.bndy/spring-boot-starter-ftsi@1.0
+- pkg:maven/net.bndy/spring-boot-starter-ftsi@1.0-pre
+- pkg:maven/net.bndy/spring-boot-starter-ftsi@1.0-pre?classifier=sources
+- pkg:maven/net.bndy/spring-boot-starter-ftsi@1.0?classifier=sources

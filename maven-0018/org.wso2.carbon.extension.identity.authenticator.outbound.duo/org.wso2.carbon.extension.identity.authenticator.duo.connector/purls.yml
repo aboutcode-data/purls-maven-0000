@@ -1,2 +1,4 @@
 - pkg:maven/org.wso2.carbon.extension.identity.authenticator.outbound.duo/org.wso2.carbon.extension.identity.authenticator.duo.connector@1.0.4
 - pkg:maven/org.wso2.carbon.extension.identity.authenticator.outbound.duo/org.wso2.carbon.extension.identity.authenticator.duo.connector@1.0.4?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.extension.identity.authenticator.outbound.duo/org.wso2.carbon.extension.identity.authenticator.duo.connector@1.0.5
+- pkg:maven/org.wso2.carbon.extension.identity.authenticator.outbound.duo/org.wso2.carbon.extension.identity.authenticator.duo.connector@1.0.5?classifier=source-release&type=zip

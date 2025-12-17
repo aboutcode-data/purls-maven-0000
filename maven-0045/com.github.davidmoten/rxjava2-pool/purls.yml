@@ -1,0 +1,8 @@
+- pkg:maven/com.github.davidmoten/rxjava2-pool@0.1-RC32
+- pkg:maven/com.github.davidmoten/rxjava2-pool@0.1-RC32?classifier=sources
+- pkg:maven/com.github.davidmoten/rxjava2-pool@0.1-RC33
+- pkg:maven/com.github.davidmoten/rxjava2-pool@0.1-RC33?classifier=sources
+- pkg:maven/com.github.davidmoten/rxjava2-pool@0.1-RC34
+- pkg:maven/com.github.davidmoten/rxjava2-pool@0.1-RC34?classifier=sources
+- pkg:maven/com.github.davidmoten/rxjava2-pool@0.1-RC35
+- pkg:maven/com.github.davidmoten/rxjava2-pool@0.1-RC35?classifier=sources

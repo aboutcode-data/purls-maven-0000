@@ -1,0 +1,4 @@
+- pkg:maven/org.jnosql.diana/infinispan-driver@0.0.4
+- pkg:maven/org.jnosql.diana/infinispan-driver@0.0.4?classifier=sources
+- pkg:maven/org.jnosql.diana/infinispan-driver@0.0.5
+- pkg:maven/org.jnosql.diana/infinispan-driver@0.0.5?classifier=sources

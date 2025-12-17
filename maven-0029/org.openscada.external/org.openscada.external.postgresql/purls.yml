@@ -1,0 +1,2 @@
+- pkg:maven/org.openscada.external/org.openscada.external.postgresql@9.3.1101
+- pkg:maven/org.openscada.external/org.openscada.external.postgresql@9.3.1101?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/ch.sbs.pipeline/sbs-hyphenation-tables@1.23
+- pkg:maven/ch.sbs.pipeline/sbs-hyphenation-tables@1.23?classifier=sources

@@ -14,3 +14,7 @@
 - pkg:maven/com.meizu.flyme/push-server-sdk@1.2.4.20170815_release?classifier=sources
 - pkg:maven/com.meizu.flyme/push-server-sdk@1.2.5.20171120_release
 - pkg:maven/com.meizu.flyme/push-server-sdk@1.2.5.20171120_release?classifier=sources
+- pkg:maven/com.meizu.flyme/push-server-sdk@1.2.6.20171123_release
+- pkg:maven/com.meizu.flyme/push-server-sdk@1.2.6.20171123_release?classifier=sources
+- pkg:maven/com.meizu.flyme/push-server-sdk@1.2.7.20180307_release
+- pkg:maven/com.meizu.flyme/push-server-sdk@1.2.7.20180307_release?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/io.vlingo/vlingo-wire@0.3.4
+- pkg:maven/io.vlingo/vlingo-wire@0.3.4?classifier=sources

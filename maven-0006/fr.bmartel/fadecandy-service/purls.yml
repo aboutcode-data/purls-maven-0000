@@ -1,2 +1,8 @@
 - pkg:maven/fr.bmartel/fadecandy-service@1.4?classifier=sources
 - pkg:maven/fr.bmartel/fadecandy-service@1.4?type=aar
+- pkg:maven/fr.bmartel/fadecandy-service@1.61?classifier=sources
+- pkg:maven/fr.bmartel/fadecandy-service@1.61?type=aar
+- pkg:maven/fr.bmartel/fadecandy-service@1.62?classifier=sources
+- pkg:maven/fr.bmartel/fadecandy-service@1.62?type=aar
+- pkg:maven/fr.bmartel/fadecandy-service@1.6?classifier=sources
+- pkg:maven/fr.bmartel/fadecandy-service@1.6?type=aar

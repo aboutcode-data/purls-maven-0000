@@ -1,0 +1,2 @@
+- pkg:maven/co.enear.maven.plugins/keepachangelog-maven-plugin@1.2.2
+- pkg:maven/co.enear.maven.plugins/keepachangelog-maven-plugin@1.2.2?classifier=sources

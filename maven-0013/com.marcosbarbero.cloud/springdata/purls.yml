@@ -6,3 +6,5 @@
 - pkg:maven/com.marcosbarbero.cloud/springdata@1.3.2.RELEASE?classifier=sources
 - pkg:maven/com.marcosbarbero.cloud/springdata@1.3.4.RELEASE
 - pkg:maven/com.marcosbarbero.cloud/springdata@1.3.4.RELEASE?classifier=sources
+- pkg:maven/com.marcosbarbero.cloud/springdata@1.4.0.RELEASE
+- pkg:maven/com.marcosbarbero.cloud/springdata@1.4.0.RELEASE?classifier=sources

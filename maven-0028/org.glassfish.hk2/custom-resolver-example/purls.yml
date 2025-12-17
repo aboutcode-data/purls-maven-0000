@@ -430,3 +430,5 @@
 - pkg:maven/org.glassfish.hk2/custom-resolver-example@2.5.0-b59?classifier=sources
 - pkg:maven/org.glassfish.hk2/custom-resolver-example@2.5.0-b60
 - pkg:maven/org.glassfish.hk2/custom-resolver-example@2.5.0-b60?classifier=sources
+- pkg:maven/org.glassfish.hk2/custom-resolver-example@2.5.0-b61
+- pkg:maven/org.glassfish.hk2/custom-resolver-example@2.5.0-b61?classifier=sources

@@ -24,3 +24,5 @@
 - pkg:maven/com.flybotix/highfrequencyrobots@2017.11.20?classifier=sources
 - pkg:maven/com.flybotix/highfrequencyrobots@2017.11.25
 - pkg:maven/com.flybotix/highfrequencyrobots@2017.11.25?classifier=sources
+- pkg:maven/com.flybotix/highfrequencyrobots@2018.01.07
+- pkg:maven/com.flybotix/highfrequencyrobots@2018.01.07?classifier=sources

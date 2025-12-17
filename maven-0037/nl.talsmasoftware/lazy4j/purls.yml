@@ -1,0 +1,4 @@
+- pkg:maven/nl.talsmasoftware/lazy4j@0.1.0
+- pkg:maven/nl.talsmasoftware/lazy4j@0.1.0?classifier=sources
+- pkg:maven/nl.talsmasoftware/lazy4j@0.2.0
+- pkg:maven/nl.talsmasoftware/lazy4j@0.2.0?classifier=sources

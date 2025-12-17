@@ -1,0 +1,3 @@
+- pkg:maven/ch.epfl.scala/sbt-launch@0.13.17-sourcedeps
+- pkg:maven/ch.epfl.scala/sbt-launch@1.1.0-sourcedeps
+- pkg:maven/ch.epfl.scala/sbt-launch@1.1.0-sourcedeps?classifier=sources

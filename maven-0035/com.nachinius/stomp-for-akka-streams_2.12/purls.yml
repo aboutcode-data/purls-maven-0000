@@ -1,0 +1,2 @@
+- pkg:maven/com.nachinius/stomp-for-akka-streams_2.12@0.1.2
+- pkg:maven/com.nachinius/stomp-for-akka-streams_2.12@0.1.2?classifier=sources

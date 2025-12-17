@@ -1,0 +1,2 @@
+- pkg:maven/org.guangwenz/akka-down-resolver_2.11@1.2.4
+- pkg:maven/org.guangwenz/akka-down-resolver_2.11@1.2.4?classifier=sources

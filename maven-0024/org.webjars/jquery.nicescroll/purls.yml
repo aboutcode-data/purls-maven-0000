@@ -1,1 +1,2 @@
 - pkg:maven/org.webjars/jquery.nicescroll@3.6.8-fix
+- pkg:maven/org.webjars/jquery.nicescroll@3.7.6

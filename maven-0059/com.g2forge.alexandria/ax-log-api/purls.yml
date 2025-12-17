@@ -1,0 +1,2 @@
+- pkg:maven/com.g2forge.alexandria/ax-log-api@0.0.7
+- pkg:maven/com.g2forge.alexandria/ax-log-api@0.0.7?classifier=sources

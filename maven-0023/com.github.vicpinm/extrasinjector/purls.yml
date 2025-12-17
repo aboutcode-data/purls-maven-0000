@@ -1,0 +1,8 @@
+- pkg:maven/com.github.vicpinm/extrasinjector@1.0.0?classifier=sources
+- pkg:maven/com.github.vicpinm/extrasinjector@1.0.0?type=aar
+- pkg:maven/com.github.vicpinm/extrasinjector@1.0.10?classifier=sources
+- pkg:maven/com.github.vicpinm/extrasinjector@1.0.10?type=aar
+- pkg:maven/com.github.vicpinm/extrasinjector@1.0.8?classifier=sources
+- pkg:maven/com.github.vicpinm/extrasinjector@1.0.8?type=aar
+- pkg:maven/com.github.vicpinm/extrasinjector@1.0.9?classifier=sources
+- pkg:maven/com.github.vicpinm/extrasinjector@1.0.9?type=aar

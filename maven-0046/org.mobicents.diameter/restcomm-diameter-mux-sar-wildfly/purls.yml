@@ -22,3 +22,4 @@
 - pkg:maven/org.mobicents.diameter/restcomm-diameter-mux-sar-wildfly@1.7.0.180?classifier=sources
 - pkg:maven/org.mobicents.diameter/restcomm-diameter-mux-sar-wildfly@1.7.0.182?classifier=sources
 - pkg:maven/org.mobicents.diameter/restcomm-diameter-mux-sar-wildfly@1.7.0.201?classifier=sources
+- pkg:maven/org.mobicents.diameter/restcomm-diameter-mux-sar-wildfly@1.7.1-123?classifier=sources

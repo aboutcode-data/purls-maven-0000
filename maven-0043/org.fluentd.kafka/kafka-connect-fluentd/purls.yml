@@ -1,0 +1,1 @@
+- pkg:maven/org.fluentd.kafka/kafka-connect-fluentd@0.0.2?classifier=sources

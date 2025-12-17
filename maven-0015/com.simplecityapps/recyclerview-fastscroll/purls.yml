@@ -12,6 +12,10 @@
 - pkg:maven/com.simplecityapps/recyclerview-fastscroll@1.0.15?type=aar
 - pkg:maven/com.simplecityapps/recyclerview-fastscroll@1.0.16?classifier=sources
 - pkg:maven/com.simplecityapps/recyclerview-fastscroll@1.0.16?type=aar
+- pkg:maven/com.simplecityapps/recyclerview-fastscroll@1.0.17?classifier=sources
+- pkg:maven/com.simplecityapps/recyclerview-fastscroll@1.0.17?type=aar
+- pkg:maven/com.simplecityapps/recyclerview-fastscroll@1.0.18?classifier=sources
+- pkg:maven/com.simplecityapps/recyclerview-fastscroll@1.0.18?type=aar
 - pkg:maven/com.simplecityapps/recyclerview-fastscroll@1.0.4?classifier=sources
 - pkg:maven/com.simplecityapps/recyclerview-fastscroll@1.0.4?type=aar
 - pkg:maven/com.simplecityapps/recyclerview-fastscroll@1.0.5?classifier=sources

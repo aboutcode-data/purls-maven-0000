@@ -1,0 +1,8 @@
+- pkg:maven/com.umbraltech/rxchange@1.0.0
+- pkg:maven/com.umbraltech/rxchange@1.0.0-android
+- pkg:maven/com.umbraltech/rxchange@1.0.0-android?classifier=sources
+- pkg:maven/com.umbraltech/rxchange@1.0.0?classifier=sources
+- pkg:maven/com.umbraltech/rxchange@1.0.1-android
+- pkg:maven/com.umbraltech/rxchange@1.0.1-android?classifier=sources
+- pkg:maven/com.umbraltech/rxchange@1.0.1-jre
+- pkg:maven/com.umbraltech/rxchange@1.0.1-jre?classifier=sources

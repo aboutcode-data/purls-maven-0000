@@ -1,0 +1,2 @@
+- pkg:maven/com.github.putpixel/liquibase-unwrap-all-maven-plugin@1.4
+- pkg:maven/com.github.putpixel/liquibase-unwrap-all-maven-plugin@1.4?classifier=sources

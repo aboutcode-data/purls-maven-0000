@@ -1,2 +1,4 @@
 - pkg:maven/org.webjars.bower/wangEditor@2.1.22
 - pkg:maven/org.webjars.bower/wangEditor@2.1.22?classifier=sources
+- pkg:maven/org.webjars.bower/wangEditor@3.1.1
+- pkg:maven/org.webjars.bower/wangEditor@3.1.1?classifier=sources

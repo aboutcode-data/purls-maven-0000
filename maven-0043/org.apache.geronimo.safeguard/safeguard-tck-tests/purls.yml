@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.geronimo.safeguard/safeguard-tck-tests@1.0
+- pkg:maven/org.apache.geronimo.safeguard/safeguard-tck-tests@1.0?classifier=sources

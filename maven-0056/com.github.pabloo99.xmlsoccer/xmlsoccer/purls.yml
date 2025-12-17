@@ -10,5 +10,7 @@
 - pkg:maven/com.github.pabloo99.xmlsoccer/xmlsoccer@0.0.5?classifier=sources
 - pkg:maven/com.github.pabloo99.xmlsoccer/xmlsoccer@0.0.6
 - pkg:maven/com.github.pabloo99.xmlsoccer/xmlsoccer@0.0.6?classifier=sources
+- pkg:maven/com.github.pabloo99.xmlsoccer/xmlsoccer@0.0.7
+- pkg:maven/com.github.pabloo99.xmlsoccer/xmlsoccer@0.0.7?classifier=sources
 - pkg:maven/com.github.pabloo99.xmlsoccer/xmlsoccer@0.1
 - pkg:maven/com.github.pabloo99.xmlsoccer/xmlsoccer@0.1?classifier=sources

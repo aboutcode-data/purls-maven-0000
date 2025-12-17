@@ -28,3 +28,5 @@
 - pkg:maven/com.dahanis/foundation@1.6.0?type=aar
 - pkg:maven/com.dahanis/foundation@1.7.0?classifier=sources
 - pkg:maven/com.dahanis/foundation@1.7.0?type=aar
+- pkg:maven/com.dahanis/foundation@1.7.4?classifier=sources
+- pkg:maven/com.dahanis/foundation@1.7.4?type=aar
