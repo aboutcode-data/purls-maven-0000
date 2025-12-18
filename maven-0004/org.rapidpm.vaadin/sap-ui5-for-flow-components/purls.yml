@@ -1,0 +1,2 @@
+- pkg:maven/org.rapidpm.vaadin/sap-ui5-for-flow-components@00.01.00-SAPUI5
+- pkg:maven/org.rapidpm.vaadin/sap-ui5-for-flow-components@00.01.00-SAPUI5?classifier=sources

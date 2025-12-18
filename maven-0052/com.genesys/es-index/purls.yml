@@ -1,0 +1,2 @@
+- pkg:maven/com.genesys/es-index@9.1.002.00
+- pkg:maven/com.genesys/es-index@9.1.002.00?classifier=sources

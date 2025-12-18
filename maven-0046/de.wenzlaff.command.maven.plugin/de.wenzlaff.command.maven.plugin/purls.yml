@@ -1,0 +1,2 @@
+- pkg:maven/de.wenzlaff.command.maven.plugin/de.wenzlaff.command.maven.plugin@0.0.1
+- pkg:maven/de.wenzlaff.command.maven.plugin/de.wenzlaff.command.maven.plugin@0.0.1?classifier=sources

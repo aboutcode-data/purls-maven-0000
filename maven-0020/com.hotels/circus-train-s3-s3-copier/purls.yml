@@ -40,3 +40,7 @@
 - pkg:maven/com.hotels/circus-train-s3-s3-copier@14.1.0?classifier=sources
 - pkg:maven/com.hotels/circus-train-s3-s3-copier@15.0.0
 - pkg:maven/com.hotels/circus-train-s3-s3-copier@15.0.0?classifier=sources
+- pkg:maven/com.hotels/circus-train-s3-s3-copier@15.1.0
+- pkg:maven/com.hotels/circus-train-s3-s3-copier@15.1.0?classifier=sources
+- pkg:maven/com.hotels/circus-train-s3-s3-copier@15.1.1
+- pkg:maven/com.hotels/circus-train-s3-s3-copier@15.1.1?classifier=sources

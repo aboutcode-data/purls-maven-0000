@@ -2,4 +2,5 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-upgrader@RELEASE110?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-upgrader@RELEASE111?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-upgrader@RELEASE112?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-upgrader@RELEASE113?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-upgrader@RELEASE90?classifier=sources

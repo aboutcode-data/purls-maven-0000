@@ -1,0 +1,2 @@
+- pkg:maven/nz.co.glidden/spark-delta-scd@1.8
+- pkg:maven/nz.co.glidden/spark-delta-scd@1.8?classifier=sources

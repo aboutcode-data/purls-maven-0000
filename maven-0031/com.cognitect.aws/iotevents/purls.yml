@@ -8,3 +8,5 @@
 - pkg:maven/com.cognitect.aws/iotevents@759.2.554.0?classifier=sources
 - pkg:maven/com.cognitect.aws/iotevents@770.2.568.0
 - pkg:maven/com.cognitect.aws/iotevents@770.2.568.0?classifier=sources
+- pkg:maven/com.cognitect.aws/iotevents@788.2.608.0
+- pkg:maven/com.cognitect.aws/iotevents@788.2.608.0?classifier=sources

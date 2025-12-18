@@ -1,5 +1,11 @@
 - pkg:maven/org.wso2.maven/synapse-unit-test-maven-plugin@5.2.10
 - pkg:maven/org.wso2.maven/synapse-unit-test-maven-plugin@5.2.10?classifier=sources
+- pkg:maven/org.wso2.maven/synapse-unit-test-maven-plugin@5.2.16
+- pkg:maven/org.wso2.maven/synapse-unit-test-maven-plugin@5.2.16?classifier=sources
+- pkg:maven/org.wso2.maven/synapse-unit-test-maven-plugin@5.2.17
+- pkg:maven/org.wso2.maven/synapse-unit-test-maven-plugin@5.2.17?classifier=sources
+- pkg:maven/org.wso2.maven/synapse-unit-test-maven-plugin@5.2.18
+- pkg:maven/org.wso2.maven/synapse-unit-test-maven-plugin@5.2.18?classifier=sources
 - pkg:maven/org.wso2.maven/synapse-unit-test-maven-plugin@5.2.7
 - pkg:maven/org.wso2.maven/synapse-unit-test-maven-plugin@5.2.7?classifier=sources
 - pkg:maven/org.wso2.maven/synapse-unit-test-maven-plugin@5.2.8

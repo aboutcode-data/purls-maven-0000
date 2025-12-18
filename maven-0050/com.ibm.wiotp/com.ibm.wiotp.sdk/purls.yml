@@ -9,3 +9,5 @@
 - pkg:maven/com.ibm.wiotp/com.ibm.wiotp.sdk@0.2.3?classifier=sources
 - pkg:maven/com.ibm.wiotp/com.ibm.wiotp.sdk@0.3.0
 - pkg:maven/com.ibm.wiotp/com.ibm.wiotp.sdk@0.3.0?classifier=sources
+- pkg:maven/com.ibm.wiotp/com.ibm.wiotp.sdk@0.4.0
+- pkg:maven/com.ibm.wiotp/com.ibm.wiotp.sdk@0.4.0?classifier=sources

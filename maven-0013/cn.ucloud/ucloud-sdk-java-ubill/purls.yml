@@ -1,0 +1,2 @@
+- pkg:maven/cn.ucloud/ucloud-sdk-java-ubill@0.8.2.9-release
+- pkg:maven/cn.ucloud/ucloud-sdk-java-ubill@0.8.2.9-release?classifier=sources

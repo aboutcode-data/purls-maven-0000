@@ -102,3 +102,5 @@
 - pkg:maven/com.hazelcast/hazelcast-jca@3.7.3
 - pkg:maven/com.hazelcast/hazelcast-jca@3.7.3?classifier=sources
 - pkg:maven/com.hazelcast/hazelcast-jca@3.7?classifier=sources
+- pkg:maven/com.hazelcast/hazelcast-jca@4.0
+- pkg:maven/com.hazelcast/hazelcast-jca@4.0?classifier=sources

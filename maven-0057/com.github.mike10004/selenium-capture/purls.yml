@@ -1,0 +1,8 @@
+- pkg:maven/com.github.mike10004/selenium-capture@0.53
+- pkg:maven/com.github.mike10004/selenium-capture@0.53?classifier=sources
+- pkg:maven/com.github.mike10004/selenium-capture@0.54
+- pkg:maven/com.github.mike10004/selenium-capture@0.54?classifier=sources
+- pkg:maven/com.github.mike10004/selenium-capture@0.55
+- pkg:maven/com.github.mike10004/selenium-capture@0.55?classifier=sources
+- pkg:maven/com.github.mike10004/selenium-capture@0.56
+- pkg:maven/com.github.mike10004/selenium-capture@0.56?classifier=sources

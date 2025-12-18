@@ -15,6 +15,8 @@
 - pkg:maven/com.voximplant/voximplant-sdk@2.13.0?type=aar
 - pkg:maven/com.voximplant/voximplant-sdk@2.14.0?type=aar
 - pkg:maven/com.voximplant/voximplant-sdk@2.14.1?type=aar
+- pkg:maven/com.voximplant/voximplant-sdk@2.15.0?type=aar
+- pkg:maven/com.voximplant/voximplant-sdk@2.15.1?type=aar
 - pkg:maven/com.voximplant/voximplant-sdk@2.2.0-compat?type=aar
 - pkg:maven/com.voximplant/voximplant-sdk@2.2.0?type=aar
 - pkg:maven/com.voximplant/voximplant-sdk@2.2.1-compat?type=aar

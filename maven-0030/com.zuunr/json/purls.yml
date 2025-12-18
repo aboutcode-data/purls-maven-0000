@@ -1,6 +1,8 @@
 - pkg:maven/com.zuunr/json@0.1.0.M1
 - pkg:maven/com.zuunr/json@0.1.0.M11-a1f1a66
 - pkg:maven/com.zuunr/json@0.1.0.M11-a1f1a66?classifier=sources
+- pkg:maven/com.zuunr/json@0.1.0.M12-1cdf66e
+- pkg:maven/com.zuunr/json@0.1.0.M12-1cdf66e?classifier=sources
 - pkg:maven/com.zuunr/json@0.1.0.M12-59e24d4
 - pkg:maven/com.zuunr/json@0.1.0.M12-59e24d4?classifier=sources
 - pkg:maven/com.zuunr/json@0.1.0.M1?classifier=sources

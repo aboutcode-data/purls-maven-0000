@@ -12,3 +12,11 @@
 - pkg:maven/com.vmware.card-connectors/connectors-config@2.5?classifier=sources
 - pkg:maven/com.vmware.card-connectors/connectors-config@2.6
 - pkg:maven/com.vmware.card-connectors/connectors-config@2.6?classifier=sources
+- pkg:maven/com.vmware.card-connectors/connectors-config@2.7
+- pkg:maven/com.vmware.card-connectors/connectors-config@2.7?classifier=sources
+- pkg:maven/com.vmware.card-connectors/connectors-config@2.8
+- pkg:maven/com.vmware.card-connectors/connectors-config@2.8-RELEASE
+- pkg:maven/com.vmware.card-connectors/connectors-config@2.8-RELEASE?classifier=sources
+- pkg:maven/com.vmware.card-connectors/connectors-config@2.8.1
+- pkg:maven/com.vmware.card-connectors/connectors-config@2.8.1?classifier=sources
+- pkg:maven/com.vmware.card-connectors/connectors-config@2.8?classifier=sources

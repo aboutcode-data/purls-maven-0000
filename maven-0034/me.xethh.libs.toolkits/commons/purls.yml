@@ -1,5 +1,7 @@
 - pkg:maven/me.xethh.libs.toolkits/commons@1.5-RELEASE
 - pkg:maven/me.xethh.libs.toolkits/commons@1.5-RELEASE?classifier=sources
+- pkg:maven/me.xethh.libs.toolkits/commons@1.5-RELEASE_C
+- pkg:maven/me.xethh.libs.toolkits/commons@1.5-RELEASE_C?classifier=sources
 - pkg:maven/me.xethh.libs.toolkits/commons@1.6-RELEASE
 - pkg:maven/me.xethh.libs.toolkits/commons@1.6-RELEASE?classifier=sources
 - pkg:maven/me.xethh.libs.toolkits/commons@1.7-RELEASE
@@ -24,3 +26,7 @@
 - pkg:maven/me.xethh.libs.toolkits/commons@2.1.4?classifier=sources
 - pkg:maven/me.xethh.libs.toolkits/commons@2.1.5
 - pkg:maven/me.xethh.libs.toolkits/commons@2.1.5?classifier=sources
+- pkg:maven/me.xethh.libs.toolkits/commons@2.1.6
+- pkg:maven/me.xethh.libs.toolkits/commons@2.1.6?classifier=sources
+- pkg:maven/me.xethh.libs.toolkits/commons@2.1.7
+- pkg:maven/me.xethh.libs.toolkits/commons@2.1.7?classifier=sources

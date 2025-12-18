@@ -1,0 +1,4 @@
+- pkg:maven/software.amazon.awscdk/fms@1.25.0
+- pkg:maven/software.amazon.awscdk/fms@1.25.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/fms@1.26.0
+- pkg:maven/software.amazon.awscdk/fms@1.26.0?classifier=sources

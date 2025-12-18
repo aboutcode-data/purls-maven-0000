@@ -1,0 +1,5 @@
+- pkg:maven/io.prestosql/presto-memsql@326?classifier=sources
+- pkg:maven/io.prestosql/presto-memsql@327?classifier=sources
+- pkg:maven/io.prestosql/presto-memsql@328?classifier=sources
+- pkg:maven/io.prestosql/presto-memsql@329?classifier=sources
+- pkg:maven/io.prestosql/presto-memsql@330?classifier=sources

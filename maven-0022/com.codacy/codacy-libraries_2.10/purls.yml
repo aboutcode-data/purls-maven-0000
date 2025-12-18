@@ -60,3 +60,17 @@
 - pkg:maven/com.codacy/codacy-libraries_2.10@17.1.4?classifier=sources
 - pkg:maven/com.codacy/codacy-libraries_2.10@17.1.5
 - pkg:maven/com.codacy/codacy-libraries_2.10@17.1.5?classifier=sources
+- pkg:maven/com.codacy/codacy-libraries_2.10@17.1.6
+- pkg:maven/com.codacy/codacy-libraries_2.10@17.1.6?classifier=sources
+- pkg:maven/com.codacy/codacy-libraries_2.10@17.2.0-removes3resolver.52da244
+- pkg:maven/com.codacy/codacy-libraries_2.10@17.2.0-removes3resolver.52da244?classifier=sources
+- pkg:maven/com.codacy/codacy-libraries_2.10@17.2.0-removes3resolver.54f37a8
+- pkg:maven/com.codacy/codacy-libraries_2.10@17.2.0-removes3resolver.54f37a8?classifier=sources
+- pkg:maven/com.codacy/codacy-libraries_2.10@17.2.0-removes3resolver.b71dbf9
+- pkg:maven/com.codacy/codacy-libraries_2.10@17.2.0-removes3resolver.b71dbf9?classifier=sources
+- pkg:maven/com.codacy/codacy-libraries_2.10@18.0.0
+- pkg:maven/com.codacy/codacy-libraries_2.10@18.0.0?classifier=sources
+- pkg:maven/com.codacy/codacy-libraries_2.10@18.0.1
+- pkg:maven/com.codacy/codacy-libraries_2.10@18.0.1?classifier=sources
+- pkg:maven/com.codacy/codacy-libraries_2.10@18.0.3
+- pkg:maven/com.codacy/codacy-libraries_2.10@18.0.3?classifier=sources

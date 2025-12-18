@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.bower/jssor-slider@27.0.2
+- pkg:maven/org.webjars.bower/jssor-slider@27.0.2?classifier=sources

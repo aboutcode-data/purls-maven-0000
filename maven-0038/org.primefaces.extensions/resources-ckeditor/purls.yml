@@ -86,3 +86,5 @@
 - pkg:maven/org.primefaces.extensions/resources-ckeditor@7.0.RC1
 - pkg:maven/org.primefaces.extensions/resources-ckeditor@7.0.RC1?classifier=sources
 - pkg:maven/org.primefaces.extensions/resources-ckeditor@7.0?classifier=sources
+- pkg:maven/org.primefaces.extensions/resources-ckeditor@8.0.RC1
+- pkg:maven/org.primefaces.extensions/resources-ckeditor@8.0.RC1?classifier=sources

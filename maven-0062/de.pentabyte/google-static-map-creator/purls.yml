@@ -6,3 +6,5 @@
 - pkg:maven/de.pentabyte/google-static-map-creator@2.1.0?classifier=sources
 - pkg:maven/de.pentabyte/google-static-map-creator@2.2.0
 - pkg:maven/de.pentabyte/google-static-map-creator@2.2.0?classifier=sources
+- pkg:maven/de.pentabyte/google-static-map-creator@2.3.0
+- pkg:maven/de.pentabyte/google-static-map-creator@2.3.0?classifier=sources

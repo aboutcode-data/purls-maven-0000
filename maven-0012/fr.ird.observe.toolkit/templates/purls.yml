@@ -1,0 +1,6 @@
+- pkg:maven/fr.ird.observe.toolkit/templates@3.7.21
+- pkg:maven/fr.ird.observe.toolkit/templates@3.7.21?classifier=sources
+- pkg:maven/fr.ird.observe.toolkit/templates@4.22
+- pkg:maven/fr.ird.observe.toolkit/templates@4.22?classifier=sources
+- pkg:maven/fr.ird.observe.toolkit/templates@4.23
+- pkg:maven/fr.ird.observe.toolkit/templates@4.23?classifier=sources

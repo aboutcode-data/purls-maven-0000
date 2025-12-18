@@ -30,3 +30,9 @@
 - pkg:maven/com.nequissimus/zio-slf4j_2.12@0.3.0%2B3-3f772998
 - pkg:maven/com.nequissimus/zio-slf4j_2.12@0.3.0%2B3-3f772998?classifier=sources
 - pkg:maven/com.nequissimus/zio-slf4j_2.12@0.3.0?classifier=sources
+- pkg:maven/com.nequissimus/zio-slf4j_2.12@0.4.0
+- pkg:maven/com.nequissimus/zio-slf4j_2.12@0.4.0-RC1
+- pkg:maven/com.nequissimus/zio-slf4j_2.12@0.4.0-RC1?classifier=sources
+- pkg:maven/com.nequissimus/zio-slf4j_2.12@0.4.0?classifier=sources
+- pkg:maven/com.nequissimus/zio-slf4j_2.12@0.4.1
+- pkg:maven/com.nequissimus/zio-slf4j_2.12@0.4.1?classifier=sources

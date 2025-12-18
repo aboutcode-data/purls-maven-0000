@@ -1,0 +1,2 @@
+- pkg:maven/club.codefocus.framework/codefocus-rabbit-starter@1.0
+- pkg:maven/club.codefocus.framework/codefocus-rabbit-starter@1.0?classifier=sources

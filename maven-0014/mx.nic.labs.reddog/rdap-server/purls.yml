@@ -2,3 +2,4 @@
 - pkg:maven/mx.nic.labs.reddog/rdap-server@1.4.2?classifier=sources
 - pkg:maven/mx.nic.labs.reddog/rdap-server@1.4.3
 - pkg:maven/mx.nic.labs.reddog/rdap-server@1.4.3?classifier=sources
+- pkg:maven/mx.nic.labs.reddog/rdap-server@1.5.0?classifier=sources

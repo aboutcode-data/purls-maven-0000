@@ -71,6 +71,12 @@
 - pkg:maven/de.redsix/pdfcompare@1.1.4
 - pkg:maven/de.redsix/pdfcompare@1.1.40
 - pkg:maven/de.redsix/pdfcompare@1.1.40?classifier=sources
+- pkg:maven/de.redsix/pdfcompare@1.1.43
+- pkg:maven/de.redsix/pdfcompare@1.1.43?classifier=sources
+- pkg:maven/de.redsix/pdfcompare@1.1.44
+- pkg:maven/de.redsix/pdfcompare@1.1.44?classifier=sources
+- pkg:maven/de.redsix/pdfcompare@1.1.45
+- pkg:maven/de.redsix/pdfcompare@1.1.45?classifier=sources
 - pkg:maven/de.redsix/pdfcompare@1.1.4?classifier=sources
 - pkg:maven/de.redsix/pdfcompare@1.1.5
 - pkg:maven/de.redsix/pdfcompare@1.1.5?classifier=sources

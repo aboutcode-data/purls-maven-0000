@@ -11,3 +11,5 @@
 - pkg:maven/ws.schild/jave-all-deps@2.6.1
 - pkg:maven/ws.schild/jave-all-deps@2.7.0
 - pkg:maven/ws.schild/jave-all-deps@2.7.1
+- pkg:maven/ws.schild/jave-all-deps@2.7.2
+- pkg:maven/ws.schild/jave-all-deps@2.7.3

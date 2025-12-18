@@ -1,0 +1,8 @@
+- pkg:maven/com.memsql/memsql-spark-connector_2.11@3.0.0-beta-spark-2.3.4
+- pkg:maven/com.memsql/memsql-spark-connector_2.11@3.0.0-beta-spark-2.3.4?classifier=sources
+- pkg:maven/com.memsql/memsql-spark-connector_2.11@3.0.0-beta-spark-2.4.4
+- pkg:maven/com.memsql/memsql-spark-connector_2.11@3.0.0-beta-spark-2.4.4?classifier=sources
+- pkg:maven/com.memsql/memsql-spark-connector_2.11@3.0.0-beta2-spark-2.3.4
+- pkg:maven/com.memsql/memsql-spark-connector_2.11@3.0.0-beta2-spark-2.3.4?classifier=sources
+- pkg:maven/com.memsql/memsql-spark-connector_2.11@3.0.0-beta2-spark-2.4.4
+- pkg:maven/com.memsql/memsql-spark-connector_2.11@3.0.0-beta2-spark-2.4.4?classifier=sources

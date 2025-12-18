@@ -1,4 +1,5 @@
 - pkg:maven/org.eclipse.jetty/test-jetty-webapp@10.0.0-alpha0?type=war
+- pkg:maven/org.eclipse.jetty/test-jetty-webapp@10.0.0.alpha1?type=war
 - pkg:maven/org.eclipse.jetty/test-jetty-webapp@7.0.0.M3?classifier=sources
 - pkg:maven/org.eclipse.jetty/test-jetty-webapp@7.0.0.M3?type=war
 - pkg:maven/org.eclipse.jetty/test-jetty-webapp@7.0.0.M4?classifier=sources
@@ -326,6 +327,11 @@
 - pkg:maven/org.eclipse.jetty/test-jetty-webapp@9.4.20.v20190813?type=war
 - pkg:maven/org.eclipse.jetty/test-jetty-webapp@9.4.21.v20190926?type=war
 - pkg:maven/org.eclipse.jetty/test-jetty-webapp@9.4.22.v20191022?type=war
+- pkg:maven/org.eclipse.jetty/test-jetty-webapp@9.4.23.v20191118?type=war
+- pkg:maven/org.eclipse.jetty/test-jetty-webapp@9.4.24.v20191120?type=war
+- pkg:maven/org.eclipse.jetty/test-jetty-webapp@9.4.25.v20191220?type=war
+- pkg:maven/org.eclipse.jetty/test-jetty-webapp@9.4.26.v20200117?type=war
+- pkg:maven/org.eclipse.jetty/test-jetty-webapp@9.4.27.v20200227?type=war
 - pkg:maven/org.eclipse.jetty/test-jetty-webapp@9.4.3.v20170317?classifier=sources
 - pkg:maven/org.eclipse.jetty/test-jetty-webapp@9.4.3.v20170317?type=war
 - pkg:maven/org.eclipse.jetty/test-jetty-webapp@9.4.3.v20180619?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/cn.minsin/mutils-api-core@0.1.5.RELEASE
+- pkg:maven/cn.minsin/mutils-api-core@0.1.5.RELEASE?classifier=sources

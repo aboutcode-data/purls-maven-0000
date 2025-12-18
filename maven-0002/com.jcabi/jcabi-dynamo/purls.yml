@@ -63,6 +63,10 @@
 - pkg:maven/com.jcabi/jcabi-dynamo@0.21.6?classifier=sources
 - pkg:maven/com.jcabi/jcabi-dynamo@0.21.7
 - pkg:maven/com.jcabi/jcabi-dynamo@0.21.7?classifier=sources
+- pkg:maven/com.jcabi/jcabi-dynamo@0.21.8
+- pkg:maven/com.jcabi/jcabi-dynamo@0.21.8?classifier=sources
+- pkg:maven/com.jcabi/jcabi-dynamo@0.21.9
+- pkg:maven/com.jcabi/jcabi-dynamo@0.21.9?classifier=sources
 - pkg:maven/com.jcabi/jcabi-dynamo@0.21?classifier=sources
 - pkg:maven/com.jcabi/jcabi-dynamo@0.7.20
 - pkg:maven/com.jcabi/jcabi-dynamo@0.7.20?classifier=sources

@@ -12,3 +12,5 @@
 - pkg:maven/com.googlecode.datainstiller/datainstiller@1.0.5?classifier=sources
 - pkg:maven/com.googlecode.datainstiller/datainstiller@1.1.0
 - pkg:maven/com.googlecode.datainstiller/datainstiller@1.1.0?classifier=sources
+- pkg:maven/com.googlecode.datainstiller/datainstiller@1.1.1
+- pkg:maven/com.googlecode.datainstiller/datainstiller@1.1.1?classifier=sources

@@ -1,0 +1,6 @@
+- pkg:maven/ml.ytooo/ytooo-util@1.0.0
+- pkg:maven/ml.ytooo/ytooo-util@1.0.0?classifier=sources
+- pkg:maven/ml.ytooo/ytooo-util@2.0.0
+- pkg:maven/ml.ytooo/ytooo-util@2.0.0?classifier=sources
+- pkg:maven/ml.ytooo/ytooo-util@3.0.0
+- pkg:maven/ml.ytooo/ytooo-util@3.0.0?classifier=sources

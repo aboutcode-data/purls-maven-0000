@@ -1,0 +1,2 @@
+- pkg:maven/com.github.javicerveraingram/connect.sdk@18.0.1
+- pkg:maven/com.github.javicerveraingram/connect.sdk@18.0.1?classifier=sources

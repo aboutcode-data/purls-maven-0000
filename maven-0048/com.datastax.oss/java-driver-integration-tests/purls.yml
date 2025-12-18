@@ -9,3 +9,5 @@
 - pkg:maven/com.datastax.oss/java-driver-integration-tests@4.2.1
 - pkg:maven/com.datastax.oss/java-driver-integration-tests@4.2.2
 - pkg:maven/com.datastax.oss/java-driver-integration-tests@4.3.0
+- pkg:maven/com.datastax.oss/java-driver-integration-tests@4.3.1
+- pkg:maven/com.datastax.oss/java-driver-integration-tests@4.4.0

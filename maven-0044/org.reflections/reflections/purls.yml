@@ -1,6 +1,8 @@
 - pkg:maven/org.reflections/reflections@0.9.10
 - pkg:maven/org.reflections/reflections@0.9.10?classifier=sources
 - pkg:maven/org.reflections/reflections@0.9.11?classifier=sources
+- pkg:maven/org.reflections/reflections@0.9.12
+- pkg:maven/org.reflections/reflections@0.9.12?classifier=sources
 - pkg:maven/org.reflections/reflections@0.9.5
 - pkg:maven/org.reflections/reflections@0.9.5-RC2
 - pkg:maven/org.reflections/reflections@0.9.5-RC2?classifier=sources

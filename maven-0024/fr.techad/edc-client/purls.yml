@@ -1,2 +1,4 @@
 - pkg:maven/fr.techad/edc-client@2.2.0
 - pkg:maven/fr.techad/edc-client@2.2.0?classifier=sources
+- pkg:maven/fr.techad/edc-client@3.0.0
+- pkg:maven/fr.techad/edc-client@3.0.0?classifier=sources

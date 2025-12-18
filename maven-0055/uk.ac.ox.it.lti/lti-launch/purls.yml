@@ -6,3 +6,5 @@
 - pkg:maven/uk.ac.ox.it.lti/lti-launch@1.7.0?classifier=sources
 - pkg:maven/uk.ac.ox.it.lti/lti-launch@1.7.1
 - pkg:maven/uk.ac.ox.it.lti/lti-launch@1.7.1?classifier=sources
+- pkg:maven/uk.ac.ox.it.lti/lti-launch@1.7.2
+- pkg:maven/uk.ac.ox.it.lti/lti-launch@1.7.2?classifier=sources

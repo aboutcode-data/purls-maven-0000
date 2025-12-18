@@ -5,6 +5,10 @@
 - pkg:maven/cn.asens/count-sdk@1.2.11?classifier=sources
 - pkg:maven/cn.asens/count-sdk@1.2.12
 - pkg:maven/cn.asens/count-sdk@1.2.12?classifier=sources
+- pkg:maven/cn.asens/count-sdk@1.2.13
+- pkg:maven/cn.asens/count-sdk@1.2.13?classifier=sources
+- pkg:maven/cn.asens/count-sdk@1.2.16
+- pkg:maven/cn.asens/count-sdk@1.2.16?classifier=sources
 - pkg:maven/cn.asens/count-sdk@1.2.1?classifier=sources
 - pkg:maven/cn.asens/count-sdk@1.2.3
 - pkg:maven/cn.asens/count-sdk@1.2.3?classifier=sources

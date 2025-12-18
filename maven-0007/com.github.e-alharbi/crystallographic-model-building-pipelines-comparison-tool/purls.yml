@@ -1,0 +1,4 @@
+- pkg:maven/com.github.e-alharbi/crystallographic-model-building-pipelines-comparison-tool@1.0
+- pkg:maven/com.github.e-alharbi/crystallographic-model-building-pipelines-comparison-tool@1.0?classifier=sources
+- pkg:maven/com.github.e-alharbi/crystallographic-model-building-pipelines-comparison-tool@1.1
+- pkg:maven/com.github.e-alharbi/crystallographic-model-building-pipelines-comparison-tool@1.1?classifier=sources

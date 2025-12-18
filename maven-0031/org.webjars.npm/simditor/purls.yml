@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/simditor@2.3.28
+- pkg:maven/org.webjars.npm/simditor@2.3.28?classifier=sources

@@ -1,6 +1,10 @@
 - pkg:maven/org.webjars.npm/reftools@0.0.20
 - pkg:maven/org.webjars.npm/reftools@0.0.20?classifier=sources
+- pkg:maven/org.webjars.npm/reftools@1.0.10
+- pkg:maven/org.webjars.npm/reftools@1.0.10?classifier=sources
 - pkg:maven/org.webjars.npm/reftools@1.0.7
 - pkg:maven/org.webjars.npm/reftools@1.0.7?classifier=sources
 - pkg:maven/org.webjars.npm/reftools@1.0.8
 - pkg:maven/org.webjars.npm/reftools@1.0.8?classifier=sources
+- pkg:maven/org.webjars.npm/reftools@1.0.9
+- pkg:maven/org.webjars.npm/reftools@1.0.9?classifier=sources

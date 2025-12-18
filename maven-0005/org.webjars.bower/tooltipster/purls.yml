@@ -1,2 +1,4 @@
 - pkg:maven/org.webjars.bower/tooltipster@4.2.5
 - pkg:maven/org.webjars.bower/tooltipster@4.2.5?classifier=sources
+- pkg:maven/org.webjars.bower/tooltipster@4.2.7
+- pkg:maven/org.webjars.bower/tooltipster@4.2.7?classifier=sources

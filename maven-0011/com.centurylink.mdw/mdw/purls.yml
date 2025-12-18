@@ -68,3 +68,11 @@
 - pkg:maven/com.centurylink.mdw/mdw@6.1.26?type=war
 - pkg:maven/com.centurylink.mdw/mdw@6.1.27?classifier=sources
 - pkg:maven/com.centurylink.mdw/mdw@6.1.27?type=war
+- pkg:maven/com.centurylink.mdw/mdw@6.1.28?classifier=sources
+- pkg:maven/com.centurylink.mdw/mdw@6.1.28?type=war
+- pkg:maven/com.centurylink.mdw/mdw@6.1.29?classifier=sources
+- pkg:maven/com.centurylink.mdw/mdw@6.1.29?type=war
+- pkg:maven/com.centurylink.mdw/mdw@6.1.30?classifier=sources
+- pkg:maven/com.centurylink.mdw/mdw@6.1.30?type=war
+- pkg:maven/com.centurylink.mdw/mdw@6.1.31?classifier=sources
+- pkg:maven/com.centurylink.mdw/mdw@6.1.31?type=war

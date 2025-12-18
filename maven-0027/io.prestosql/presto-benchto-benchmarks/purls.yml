@@ -24,3 +24,8 @@
 - pkg:maven/io.prestosql/presto-benchto-benchmarks@323?classifier=sources
 - pkg:maven/io.prestosql/presto-benchto-benchmarks@324?classifier=sources
 - pkg:maven/io.prestosql/presto-benchto-benchmarks@325?classifier=sources
+- pkg:maven/io.prestosql/presto-benchto-benchmarks@326?classifier=sources
+- pkg:maven/io.prestosql/presto-benchto-benchmarks@327?classifier=sources
+- pkg:maven/io.prestosql/presto-benchto-benchmarks@328?classifier=sources
+- pkg:maven/io.prestosql/presto-benchto-benchmarks@329?classifier=sources
+- pkg:maven/io.prestosql/presto-benchto-benchmarks@330?classifier=sources

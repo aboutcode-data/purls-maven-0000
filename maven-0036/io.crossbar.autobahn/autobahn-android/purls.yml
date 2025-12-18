@@ -16,3 +16,9 @@
 - pkg:maven/io.crossbar.autobahn/autobahn-android@18.5.2?type=aar
 - pkg:maven/io.crossbar.autobahn/autobahn-android@19.3.1?classifier=sources
 - pkg:maven/io.crossbar.autobahn/autobahn-android@19.3.1?type=aar
+- pkg:maven/io.crossbar.autobahn/autobahn-android@20.1.1?classifier=sources
+- pkg:maven/io.crossbar.autobahn/autobahn-android@20.1.1?type=aar
+- pkg:maven/io.crossbar.autobahn/autobahn-android@20.1.2?classifier=sources
+- pkg:maven/io.crossbar.autobahn/autobahn-android@20.1.2?type=aar
+- pkg:maven/io.crossbar.autobahn/autobahn-android@20.2.1?classifier=sources
+- pkg:maven/io.crossbar.autobahn/autobahn-android@20.2.1?type=aar

@@ -86,6 +86,12 @@
 - pkg:maven/io.projectreactor/reactor-core@3.2.11.RELEASE?classifier=sources
 - pkg:maven/io.projectreactor/reactor-core@3.2.12.RELEASE
 - pkg:maven/io.projectreactor/reactor-core@3.2.12.RELEASE?classifier=sources
+- pkg:maven/io.projectreactor/reactor-core@3.2.13.RELEASE
+- pkg:maven/io.projectreactor/reactor-core@3.2.13.RELEASE?classifier=sources
+- pkg:maven/io.projectreactor/reactor-core@3.2.14.RELEASE
+- pkg:maven/io.projectreactor/reactor-core@3.2.14.RELEASE?classifier=sources
+- pkg:maven/io.projectreactor/reactor-core@3.2.15.RELEASE
+- pkg:maven/io.projectreactor/reactor-core@3.2.15.RELEASE?classifier=sources
 - pkg:maven/io.projectreactor/reactor-core@3.2.2.RELEASE
 - pkg:maven/io.projectreactor/reactor-core@3.2.2.RELEASE?classifier=sources
 - pkg:maven/io.projectreactor/reactor-core@3.2.3.RELEASE
@@ -104,3 +110,9 @@
 - pkg:maven/io.projectreactor/reactor-core@3.2.9.RELEASE?classifier=sources
 - pkg:maven/io.projectreactor/reactor-core@3.3.0.RELEASE
 - pkg:maven/io.projectreactor/reactor-core@3.3.0.RELEASE?classifier=sources
+- pkg:maven/io.projectreactor/reactor-core@3.3.1.RELEASE
+- pkg:maven/io.projectreactor/reactor-core@3.3.1.RELEASE?classifier=sources
+- pkg:maven/io.projectreactor/reactor-core@3.3.2.RELEASE
+- pkg:maven/io.projectreactor/reactor-core@3.3.2.RELEASE?classifier=sources
+- pkg:maven/io.projectreactor/reactor-core@3.3.3.RELEASE
+- pkg:maven/io.projectreactor/reactor-core@3.3.3.RELEASE?classifier=sources

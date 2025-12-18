@@ -2,4 +2,5 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-parsing-nb@RELEASE110?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-parsing-nb@RELEASE111?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-parsing-nb@RELEASE112?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-parsing-nb@RELEASE113?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-parsing-nb@RELEASE90?classifier=sources

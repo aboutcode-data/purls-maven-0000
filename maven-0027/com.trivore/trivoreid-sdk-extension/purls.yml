@@ -1,0 +1,2 @@
+- pkg:maven/com.trivore/trivoreid-sdk-extension@1.0.0
+- pkg:maven/com.trivore/trivoreid-sdk-extension@1.0.0?classifier=sources
