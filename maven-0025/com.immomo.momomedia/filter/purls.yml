@@ -16,7 +16,13 @@
 - pkg:maven/com.immomo.momomedia/filter@2.3.1-20210913160701?type=aar
 - pkg:maven/com.immomo.momomedia/filter@2.3.1-20211108144304?classifier=sources
 - pkg:maven/com.immomo.momomedia/filter@2.3.1-20211108144304?type=aar
+- pkg:maven/com.immomo.momomedia/filter@2.3.1-20211223124307?classifier=sources
+- pkg:maven/com.immomo.momomedia/filter@2.3.1-20211223124307?type=aar
 - pkg:maven/com.immomo.momomedia/filter@2.4.1-20210929000001?classifier=sources
 - pkg:maven/com.immomo.momomedia/filter@2.4.1-20210929000001?type=aar
 - pkg:maven/com.immomo.momomedia/filter@2.4.1-20211011000001?classifier=sources
 - pkg:maven/com.immomo.momomedia/filter@2.4.1-20211011000001?type=aar
+- pkg:maven/com.immomo.momomedia/filter@2.4.2-20211211000001?classifier=sources
+- pkg:maven/com.immomo.momomedia/filter@2.4.2-20211211000001?type=aar
+- pkg:maven/com.immomo.momomedia/filter@3.0.0-2021112901?classifier=sources
+- pkg:maven/com.immomo.momomedia/filter@3.0.0-2021112901?type=aar

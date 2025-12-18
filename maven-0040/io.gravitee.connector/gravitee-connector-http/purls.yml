@@ -1,0 +1,1 @@
+- pkg:maven/io.gravitee.connector/gravitee-connector-http@1.0.0?classifier=sources

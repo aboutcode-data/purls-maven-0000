@@ -20,3 +20,9 @@
 - pkg:maven/com.aliyun/dms_enterprise20181101@1.22.0?classifier=sources
 - pkg:maven/com.aliyun/dms_enterprise20181101@1.23.0
 - pkg:maven/com.aliyun/dms_enterprise20181101@1.23.0?classifier=sources
+- pkg:maven/com.aliyun/dms_enterprise20181101@1.24.0
+- pkg:maven/com.aliyun/dms_enterprise20181101@1.24.0?classifier=sources
+- pkg:maven/com.aliyun/dms_enterprise20181101@1.25.0
+- pkg:maven/com.aliyun/dms_enterprise20181101@1.25.0?classifier=sources
+- pkg:maven/com.aliyun/dms_enterprise20181101@1.26.0
+- pkg:maven/com.aliyun/dms_enterprise20181101@1.26.0?classifier=sources

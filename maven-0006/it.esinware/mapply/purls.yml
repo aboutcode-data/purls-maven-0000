@@ -1,0 +1,2 @@
+- pkg:maven/it.esinware/mapply@0.0.1.jdk8
+- pkg:maven/it.esinware/mapply@0.0.1.jdk8?classifier=sources

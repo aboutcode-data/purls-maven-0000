@@ -1,0 +1,2 @@
+- pkg:maven/org.fluentcodes.projects.elasticobjects/elastic-objects-test@0.8.1
+- pkg:maven/org.fluentcodes.projects.elasticobjects/elastic-objects-test@0.8.1?classifier=sources

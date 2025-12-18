@@ -1,0 +1,4 @@
+- pkg:maven/com.rbkmoney/adapter-bank-spring-boot-starter-test@0.0.3
+- pkg:maven/com.rbkmoney/adapter-bank-spring-boot-starter-test@0.0.3?classifier=sources
+- pkg:maven/com.rbkmoney/adapter-bank-spring-boot-starter-test@0.0.4
+- pkg:maven/com.rbkmoney/adapter-bank-spring-boot-starter-test@0.0.4?classifier=sources

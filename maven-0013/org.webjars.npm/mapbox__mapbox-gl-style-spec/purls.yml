@@ -4,3 +4,5 @@
 - pkg:maven/org.webjars.npm/mapbox__mapbox-gl-style-spec@13.19.0?classifier=sources
 - pkg:maven/org.webjars.npm/mapbox__mapbox-gl-style-spec@13.21.0
 - pkg:maven/org.webjars.npm/mapbox__mapbox-gl-style-spec@13.21.0?classifier=sources
+- pkg:maven/org.webjars.npm/mapbox__mapbox-gl-style-spec@13.24.0-alpha.1
+- pkg:maven/org.webjars.npm/mapbox__mapbox-gl-style-spec@13.24.0-alpha.1?classifier=sources

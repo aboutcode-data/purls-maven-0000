@@ -6,6 +6,8 @@
 - pkg:maven/com.gitlab.cdc-java.perfs/cdc-perfs-instrument-asm@0.10.2?classifier=sources
 - pkg:maven/com.gitlab.cdc-java.perfs/cdc-perfs-instrument-asm@0.10.3
 - pkg:maven/com.gitlab.cdc-java.perfs/cdc-perfs-instrument-asm@0.10.3?classifier=sources
+- pkg:maven/com.gitlab.cdc-java.perfs/cdc-perfs-instrument-asm@0.11.0
+- pkg:maven/com.gitlab.cdc-java.perfs/cdc-perfs-instrument-asm@0.11.0?classifier=sources
 - pkg:maven/com.gitlab.cdc-java.perfs/cdc-perfs-instrument-asm@0.3.0
 - pkg:maven/com.gitlab.cdc-java.perfs/cdc-perfs-instrument-asm@0.3.0?classifier=sources
 - pkg:maven/com.gitlab.cdc-java.perfs/cdc-perfs-instrument-asm@0.4.0

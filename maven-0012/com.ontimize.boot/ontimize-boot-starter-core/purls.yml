@@ -6,3 +6,4 @@
 - pkg:maven/com.ontimize.boot/ontimize-boot-starter-core@3.6.0
 - pkg:maven/com.ontimize.boot/ontimize-boot-starter-core@3.7.0
 - pkg:maven/com.ontimize.boot/ontimize-boot-starter-core@3.8.0
+- pkg:maven/com.ontimize.boot/ontimize-boot-starter-core@3.8.1

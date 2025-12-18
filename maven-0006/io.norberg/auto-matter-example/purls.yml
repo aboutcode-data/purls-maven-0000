@@ -43,6 +43,8 @@
 - pkg:maven/io.norberg/auto-matter-example@0.21.0?classifier=sources
 - pkg:maven/io.norberg/auto-matter-example@0.22.0
 - pkg:maven/io.norberg/auto-matter-example@0.22.0?classifier=sources
+- pkg:maven/io.norberg/auto-matter-example@0.23.0
+- pkg:maven/io.norberg/auto-matter-example@0.23.0?classifier=sources
 - pkg:maven/io.norberg/auto-matter-example@0.2?classifier=sources
 - pkg:maven/io.norberg/auto-matter-example@0.3
 - pkg:maven/io.norberg/auto-matter-example@0.3?classifier=sources

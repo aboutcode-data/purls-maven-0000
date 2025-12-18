@@ -1,0 +1,2 @@
+- pkg:maven/org.eclipse.platform/org.eclipse.e4.tools.emf.ui@4.7.100
+- pkg:maven/org.eclipse.platform/org.eclipse.e4.tools.emf.ui@4.7.100?classifier=sources

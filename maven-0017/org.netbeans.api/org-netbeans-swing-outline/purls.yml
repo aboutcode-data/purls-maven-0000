@@ -11,4 +11,5 @@
 - pkg:maven/org.netbeans.api/org-netbeans-swing-outline@RELEASE123?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-swing-outline@RELEASE124?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-swing-outline@RELEASE125?classifier=sources
+- pkg:maven/org.netbeans.api/org-netbeans-swing-outline@RELEASE126?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-swing-outline@RELEASE90?classifier=sources

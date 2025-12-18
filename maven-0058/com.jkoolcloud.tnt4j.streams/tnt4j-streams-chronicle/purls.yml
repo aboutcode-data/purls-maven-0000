@@ -36,3 +36,6 @@
 - pkg:maven/com.jkoolcloud.tnt4j.streams/tnt4j-streams-chronicle@1.12.2?classifier=sources
 - pkg:maven/com.jkoolcloud.tnt4j.streams/tnt4j-streams-chronicle@1.12.3
 - pkg:maven/com.jkoolcloud.tnt4j.streams/tnt4j-streams-chronicle@1.12.3?classifier=sources
+- pkg:maven/com.jkoolcloud.tnt4j.streams/tnt4j-streams-chronicle@1.13.0?classifier=sources
+- pkg:maven/com.jkoolcloud.tnt4j.streams/tnt4j-streams-chronicle@1.13.1
+- pkg:maven/com.jkoolcloud.tnt4j.streams/tnt4j-streams-chronicle@1.13.1?classifier=sources

@@ -1,3 +1,4 @@
+- pkg:maven/org.apache.jspwiki/jspwiki-tika-searchprovider@2.11.0
 - pkg:maven/org.apache.jspwiki/jspwiki-tika-searchprovider@2.11.0.M4
 - pkg:maven/org.apache.jspwiki/jspwiki-tika-searchprovider@2.11.0.M4?classifier=sources
 - pkg:maven/org.apache.jspwiki/jspwiki-tika-searchprovider@2.11.0.M5
@@ -8,3 +9,6 @@
 - pkg:maven/org.apache.jspwiki/jspwiki-tika-searchprovider@2.11.0.M7?classifier=sources
 - pkg:maven/org.apache.jspwiki/jspwiki-tika-searchprovider@2.11.0.M8
 - pkg:maven/org.apache.jspwiki/jspwiki-tika-searchprovider@2.11.0.M8?classifier=sources
+- pkg:maven/org.apache.jspwiki/jspwiki-tika-searchprovider@2.11.0?classifier=sources
+- pkg:maven/org.apache.jspwiki/jspwiki-tika-searchprovider@2.11.1
+- pkg:maven/org.apache.jspwiki/jspwiki-tika-searchprovider@2.11.1?classifier=sources

@@ -54,3 +54,5 @@
 - pkg:maven/org.talend.esb/ds-service-postgresql@7.2.1?classifier=sources
 - pkg:maven/org.talend.esb/ds-service-postgresql@7.3.1
 - pkg:maven/org.talend.esb/ds-service-postgresql@7.3.1?classifier=sources
+- pkg:maven/org.talend.esb/ds-service-postgresql@8.0.1
+- pkg:maven/org.talend.esb/ds-service-postgresql@8.0.1?classifier=sources

@@ -1,1 +1,2 @@
 - pkg:maven/me.2bab/seal@3.0.2?classifier=sources
+- pkg:maven/me.2bab/seal@3.1.0?classifier=sources

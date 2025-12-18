@@ -98,3 +98,5 @@
 - pkg:maven/com.aliyun/aliyun-java-sdk-qualitycheck@3.1.2?classifier=sources
 - pkg:maven/com.aliyun/aliyun-java-sdk-qualitycheck@3.1.3
 - pkg:maven/com.aliyun/aliyun-java-sdk-qualitycheck@3.1.3?classifier=sources
+- pkg:maven/com.aliyun/aliyun-java-sdk-qualitycheck@4.1.0
+- pkg:maven/com.aliyun/aliyun-java-sdk-qualitycheck@4.1.0?classifier=sources

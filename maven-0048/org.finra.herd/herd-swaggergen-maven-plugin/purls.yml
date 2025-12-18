@@ -84,6 +84,8 @@
 - pkg:maven/org.finra.herd/herd-swaggergen-maven-plugin@0.158.0?classifier=sources
 - pkg:maven/org.finra.herd/herd-swaggergen-maven-plugin@0.159.0
 - pkg:maven/org.finra.herd/herd-swaggergen-maven-plugin@0.159.0?classifier=sources
+- pkg:maven/org.finra.herd/herd-swaggergen-maven-plugin@0.160.0
+- pkg:maven/org.finra.herd/herd-swaggergen-maven-plugin@0.160.0?classifier=sources
 - pkg:maven/org.finra.herd/herd-swaggergen-maven-plugin@0.20.0
 - pkg:maven/org.finra.herd/herd-swaggergen-maven-plugin@0.20.0?classifier=sources
 - pkg:maven/org.finra.herd/herd-swaggergen-maven-plugin@0.21.0

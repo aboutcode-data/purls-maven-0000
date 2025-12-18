@@ -1,0 +1,2 @@
+- pkg:maven/io.axual.connect.plugins.kafka/kafka-synchronisation@0.0.1
+- pkg:maven/io.axual.connect.plugins.kafka/kafka-synchronisation@0.0.1?classifier=sources

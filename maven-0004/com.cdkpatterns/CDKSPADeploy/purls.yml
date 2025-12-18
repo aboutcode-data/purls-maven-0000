@@ -48,3 +48,7 @@
 - pkg:maven/com.cdkpatterns/CDKSPADeploy@1.96.0?classifier=sources
 - pkg:maven/com.cdkpatterns/CDKSPADeploy@1.97.0
 - pkg:maven/com.cdkpatterns/CDKSPADeploy@1.97.0?classifier=sources
+- pkg:maven/com.cdkpatterns/CDKSPADeploy@2.0.0-alpha.0
+- pkg:maven/com.cdkpatterns/CDKSPADeploy@2.0.0-alpha.0?classifier=sources
+- pkg:maven/com.cdkpatterns/CDKSPADeploy@2.0.0-alpha.1
+- pkg:maven/com.cdkpatterns/CDKSPADeploy@2.0.0-alpha.1?classifier=sources

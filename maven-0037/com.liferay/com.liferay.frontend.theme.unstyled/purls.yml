@@ -171,6 +171,9 @@
 - pkg:maven/com.liferay/com.liferay.frontend.theme.unstyled@2.2.33
 - pkg:maven/com.liferay/com.liferay.frontend.theme.unstyled@2.2.33?classifier=sources
 - pkg:maven/com.liferay/com.liferay.frontend.theme.unstyled@2.2.33?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.frontend.theme.unstyled@2.2.34
+- pkg:maven/com.liferay/com.liferay.frontend.theme.unstyled@2.2.34?classifier=sources
+- pkg:maven/com.liferay/com.liferay.frontend.theme.unstyled@2.2.34?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.frontend.theme.unstyled@2.2.3?classifier=sources
 - pkg:maven/com.liferay/com.liferay.frontend.theme.unstyled@2.2.3?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.frontend.theme.unstyled@2.2.4
@@ -489,6 +492,9 @@
 - pkg:maven/com.liferay/com.liferay.frontend.theme.unstyled@5.0.27
 - pkg:maven/com.liferay/com.liferay.frontend.theme.unstyled@5.0.27?classifier=sources
 - pkg:maven/com.liferay/com.liferay.frontend.theme.unstyled@5.0.27?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.frontend.theme.unstyled@5.0.28
+- pkg:maven/com.liferay/com.liferay.frontend.theme.unstyled@5.0.28?classifier=sources
+- pkg:maven/com.liferay/com.liferay.frontend.theme.unstyled@5.0.28?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.frontend.theme.unstyled@5.0.2?classifier=sources
 - pkg:maven/com.liferay/com.liferay.frontend.theme.unstyled@5.0.2?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.frontend.theme.unstyled@5.0.3
@@ -530,6 +536,12 @@
 - pkg:maven/com.liferay/com.liferay.frontend.theme.unstyled@6.0.14
 - pkg:maven/com.liferay/com.liferay.frontend.theme.unstyled@6.0.14?classifier=sources
 - pkg:maven/com.liferay/com.liferay.frontend.theme.unstyled@6.0.14?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.frontend.theme.unstyled@6.0.15
+- pkg:maven/com.liferay/com.liferay.frontend.theme.unstyled@6.0.15?classifier=sources
+- pkg:maven/com.liferay/com.liferay.frontend.theme.unstyled@6.0.15?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.frontend.theme.unstyled@6.0.16
+- pkg:maven/com.liferay/com.liferay.frontend.theme.unstyled@6.0.16?classifier=sources
+- pkg:maven/com.liferay/com.liferay.frontend.theme.unstyled@6.0.16?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.frontend.theme.unstyled@6.0.2
 - pkg:maven/com.liferay/com.liferay.frontend.theme.unstyled@6.0.2?classifier=sources
 - pkg:maven/com.liferay/com.liferay.frontend.theme.unstyled@6.0.2?classifier=sources-commercial

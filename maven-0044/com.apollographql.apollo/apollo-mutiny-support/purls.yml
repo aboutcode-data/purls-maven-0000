@@ -1,1 +1,2 @@
 - pkg:maven/com.apollographql.apollo/apollo-mutiny-support@2.5.10?classifier=sources
+- pkg:maven/com.apollographql.apollo/apollo-mutiny-support@2.5.11?classifier=sources

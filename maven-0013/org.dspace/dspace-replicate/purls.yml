@@ -28,3 +28,5 @@
 - pkg:maven/org.dspace/dspace-replicate@6.1?classifier=sources
 - pkg:maven/org.dspace/dspace-replicate@6.2
 - pkg:maven/org.dspace/dspace-replicate@6.2?classifier=sources
+- pkg:maven/org.dspace/dspace-replicate@7.0
+- pkg:maven/org.dspace/dspace-replicate@7.0?classifier=sources

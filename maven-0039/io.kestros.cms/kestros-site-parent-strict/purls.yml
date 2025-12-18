@@ -1,1 +1,2 @@
 - pkg:maven/io.kestros.cms/kestros-site-parent-strict@0.0.2?classifier=sources
+- pkg:maven/io.kestros.cms/kestros-site-parent-strict@0.0.4?classifier=sources

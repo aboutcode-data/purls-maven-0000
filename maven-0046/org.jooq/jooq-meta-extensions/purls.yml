@@ -106,6 +106,8 @@
 - pkg:maven/org.jooq/jooq-meta-extensions@3.15.3?classifier=sources
 - pkg:maven/org.jooq/jooq-meta-extensions@3.15.4
 - pkg:maven/org.jooq/jooq-meta-extensions@3.15.4?classifier=sources
+- pkg:maven/org.jooq/jooq-meta-extensions@3.15.5
+- pkg:maven/org.jooq/jooq-meta-extensions@3.15.5?classifier=sources
 - pkg:maven/org.jooq/jooq-meta-extensions@3.6.0
 - pkg:maven/org.jooq/jooq-meta-extensions@3.6.0?classifier=sources
 - pkg:maven/org.jooq/jooq-meta-extensions@3.6.1

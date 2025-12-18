@@ -14,3 +14,5 @@
 - pkg:maven/com.gu.identity/identity-crypto_2.13@3.249?classifier=sources
 - pkg:maven/com.gu.identity/identity-crypto_2.13@3.250
 - pkg:maven/com.gu.identity/identity-crypto_2.13@3.250?classifier=sources
+- pkg:maven/com.gu.identity/identity-crypto_2.13@3.251
+- pkg:maven/com.gu.identity/identity-crypto_2.13@3.251?classifier=sources

@@ -13,3 +13,6 @@
 - pkg:maven/org.danilopianini/khttp@0.1.0-dev2v%2Bd57fea0?classifier=sources
 - pkg:maven/org.danilopianini/khttp@0.1.0-dev2v%2Be6655ef?classifier=sources
 - pkg:maven/org.danilopianini/khttp@0.1.0-dev30%2B51fa9ae?classifier=sources
+- pkg:maven/org.danilopianini/khttp@1.1.0?classifier=sources
+- pkg:maven/org.danilopianini/khttp@1.1.1?classifier=sources
+- pkg:maven/org.danilopianini/khttp@1.1.2?classifier=sources

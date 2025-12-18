@@ -94,3 +94,4 @@
 - pkg:maven/org.apache.wicket/wicket-parent@9.4.0?classifier=source-release&type=zip
 - pkg:maven/org.apache.wicket/wicket-parent@9.5.0?classifier=source-release&type=zip
 - pkg:maven/org.apache.wicket/wicket-parent@9.6.0?classifier=source-release&type=zip
+- pkg:maven/org.apache.wicket/wicket-parent@9.7.0?classifier=source-release&type=zip

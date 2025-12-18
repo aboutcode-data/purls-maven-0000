@@ -23,3 +23,4 @@
 - pkg:maven/org.librarysimplified.audiobook/org.librarysimplified.audiobook.lcp.license_status@6.6.0?classifier=sources
 - pkg:maven/org.librarysimplified.audiobook/org.librarysimplified.audiobook.lcp.license_status@6.7.1?classifier=sources
 - pkg:maven/org.librarysimplified.audiobook/org.librarysimplified.audiobook.lcp.license_status@6.8.0?classifier=sources
+- pkg:maven/org.librarysimplified.audiobook/org.librarysimplified.audiobook.lcp.license_status@7.0.0?classifier=sources

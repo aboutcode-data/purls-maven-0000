@@ -1,0 +1,2 @@
+- pkg:maven/com.wgtwo.api.v1.grpc/events@1.4.0
+- pkg:maven/com.wgtwo.api.v1.grpc/events@1.4.0?classifier=sources

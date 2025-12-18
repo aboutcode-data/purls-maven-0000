@@ -8,3 +8,5 @@
 - pkg:maven/com.indoqa/indoqa-boot-actuator@0.14.0?classifier=sources
 - pkg:maven/com.indoqa/indoqa-boot-actuator@0.15.0
 - pkg:maven/com.indoqa/indoqa-boot-actuator@0.15.0?classifier=sources
+- pkg:maven/com.indoqa/indoqa-boot-actuator@0.16.0
+- pkg:maven/com.indoqa/indoqa-boot-actuator@0.16.0?classifier=sources

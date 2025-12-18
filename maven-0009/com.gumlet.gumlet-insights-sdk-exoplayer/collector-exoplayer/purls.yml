@@ -1,0 +1,3 @@
+- pkg:maven/com.gumlet.gumlet-insights-sdk-exoplayer/collector-exoplayer@0.0.2?classifier=sources
+- pkg:maven/com.gumlet.gumlet-insights-sdk-exoplayer/collector-exoplayer@1.0.0?classifier=sources
+- pkg:maven/com.gumlet.gumlet-insights-sdk-exoplayer/collector-exoplayer@1.0.1?classifier=sources

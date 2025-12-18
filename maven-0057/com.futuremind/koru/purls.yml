@@ -1,3 +1,4 @@
+- pkg:maven/com.futuremind/koru@0.10.0?classifier=sources
 - pkg:maven/com.futuremind/koru@0.3.7?classifier=sources
 - pkg:maven/com.futuremind/koru@0.4.0?classifier=sources
 - pkg:maven/com.futuremind/koru@0.5.0?classifier=sources

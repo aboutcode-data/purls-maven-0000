@@ -8,6 +8,8 @@
 - pkg:maven/org.mendrugo.qollider/qollider@0.0.15?classifier=sources
 - pkg:maven/org.mendrugo.qollider/qollider@0.0.16
 - pkg:maven/org.mendrugo.qollider/qollider@0.0.16?classifier=sources
+- pkg:maven/org.mendrugo.qollider/qollider@0.0.17
+- pkg:maven/org.mendrugo.qollider/qollider@0.0.17?classifier=sources
 - pkg:maven/org.mendrugo.qollider/qollider@0.0.5
 - pkg:maven/org.mendrugo.qollider/qollider@0.0.5?classifier=sources
 - pkg:maven/org.mendrugo.qollider/qollider@0.0.6

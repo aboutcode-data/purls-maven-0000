@@ -1,0 +1,2 @@
+- pkg:maven/org.openmrs.maven.plugins/openmrs-sdk-tomcat9-maven-plugin@4.3.0
+- pkg:maven/org.openmrs.maven.plugins/openmrs-sdk-tomcat9-maven-plugin@4.3.0?classifier=sources

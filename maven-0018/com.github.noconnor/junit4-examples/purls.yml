@@ -1,2 +1,5 @@
 - pkg:maven/com.github.noconnor/junit4-examples@1.17.1
 - pkg:maven/com.github.noconnor/junit4-examples@1.18.0
+- pkg:maven/com.github.noconnor/junit4-examples@1.19.0
+- pkg:maven/com.github.noconnor/junit4-examples@1.19.1
+- pkg:maven/com.github.noconnor/junit4-examples@1.20.0

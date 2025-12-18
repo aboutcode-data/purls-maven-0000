@@ -20,6 +20,12 @@
 - pkg:maven/io.kontakt.mvn/sdk@5.0.19?classifier=sources
 - pkg:maven/io.kontakt.mvn/sdk@5.0.1?type=aar
 - pkg:maven/io.kontakt.mvn/sdk@5.0.20?classifier=sources
+- pkg:maven/io.kontakt.mvn/sdk@5.0.21?classifier=sources
+- pkg:maven/io.kontakt.mvn/sdk@5.0.22?classifier=sources
+- pkg:maven/io.kontakt.mvn/sdk@5.0.23?classifier=sources
+- pkg:maven/io.kontakt.mvn/sdk@5.0.24?classifier=sources
+- pkg:maven/io.kontakt.mvn/sdk@5.0.25-pre-31?classifier=sources
+- pkg:maven/io.kontakt.mvn/sdk@5.0.25?classifier=sources
 - pkg:maven/io.kontakt.mvn/sdk@5.0.2?type=aar
 - pkg:maven/io.kontakt.mvn/sdk@5.0.3.1?type=aar
 - pkg:maven/io.kontakt.mvn/sdk@5.0.3.2?type=aar

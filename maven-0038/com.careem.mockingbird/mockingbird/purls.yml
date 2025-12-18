@@ -3,3 +3,6 @@
 - pkg:maven/com.careem.mockingbird/mockingbird@2.0.0-beta04?classifier=sources
 - pkg:maven/com.careem.mockingbird/mockingbird@2.0.0-beta05?classifier=sources
 - pkg:maven/com.careem.mockingbird/mockingbird@2.0.0-beta06?classifier=sources
+- pkg:maven/com.careem.mockingbird/mockingbird@2.0.0-beta07?classifier=sources
+- pkg:maven/com.careem.mockingbird/mockingbird@2.0.0?classifier=sources
+- pkg:maven/com.careem.mockingbird/mockingbird@2.1.0?classifier=sources

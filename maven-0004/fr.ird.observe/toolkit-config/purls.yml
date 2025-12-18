@@ -1,0 +1,4 @@
+- pkg:maven/fr.ird.observe/toolkit-config@5.0.62
+- pkg:maven/fr.ird.observe/toolkit-config@5.0.62?classifier=sources
+- pkg:maven/fr.ird.observe/toolkit-config@5.0.63
+- pkg:maven/fr.ird.observe/toolkit-config@5.0.63?classifier=sources

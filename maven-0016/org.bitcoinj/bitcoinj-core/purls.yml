@@ -65,4 +65,6 @@
 - pkg:maven/org.bitcoinj/bitcoinj-core@0.16-beta2?classifier=sources
 - pkg:maven/org.bitcoinj/bitcoinj-core@0.16-rc1
 - pkg:maven/org.bitcoinj/bitcoinj-core@0.16-rc1?classifier=sources
+- pkg:maven/org.bitcoinj/bitcoinj-core@0.16.1
+- pkg:maven/org.bitcoinj/bitcoinj-core@0.16.1?classifier=sources
 - pkg:maven/org.bitcoinj/bitcoinj-core@0.16?classifier=sources

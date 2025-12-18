@@ -1,3 +1,7 @@
+- pkg:maven/io.automatiko.quarkus/automatiko-operator-deployment@0.10.0
+- pkg:maven/io.automatiko.quarkus/automatiko-operator-deployment@0.10.0?classifier=sources
+- pkg:maven/io.automatiko.quarkus/automatiko-operator-deployment@0.11.0
+- pkg:maven/io.automatiko.quarkus/automatiko-operator-deployment@0.11.0?classifier=sources
 - pkg:maven/io.automatiko.quarkus/automatiko-operator-deployment@0.3.0
 - pkg:maven/io.automatiko.quarkus/automatiko-operator-deployment@0.3.0?classifier=sources
 - pkg:maven/io.automatiko.quarkus/automatiko-operator-deployment@0.4.0

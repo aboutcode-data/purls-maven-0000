@@ -6,3 +6,5 @@
 - pkg:maven/com.aliyun/mts20210728@1.0.2?classifier=sources
 - pkg:maven/com.aliyun/mts20210728@1.0.3
 - pkg:maven/com.aliyun/mts20210728@1.0.3?classifier=sources
+- pkg:maven/com.aliyun/mts20210728@3.3.31
+- pkg:maven/com.aliyun/mts20210728@3.3.31?classifier=sources

@@ -320,3 +320,4 @@
 - pkg:maven/com.netflix.hollow/hollow-jsonadapter@6.3.1?classifier=sources
 - pkg:maven/com.netflix.hollow/hollow-jsonadapter@6.3.2?classifier=sources
 - pkg:maven/com.netflix.hollow/hollow-jsonadapter@6.4.0?classifier=sources
+- pkg:maven/com.netflix.hollow/hollow-jsonadapter@6.4.1?classifier=sources

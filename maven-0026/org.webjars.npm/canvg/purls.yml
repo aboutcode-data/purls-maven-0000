@@ -8,3 +8,5 @@
 - pkg:maven/org.webjars.npm/canvg@2.0.0?classifier=sources
 - pkg:maven/org.webjars.npm/canvg@3.0.0-beta.3
 - pkg:maven/org.webjars.npm/canvg@3.0.0-beta.3?classifier=sources
+- pkg:maven/org.webjars.npm/canvg@3.0.7
+- pkg:maven/org.webjars.npm/canvg@3.0.7?classifier=sources
