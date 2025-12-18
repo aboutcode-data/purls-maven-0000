@@ -1,0 +1,2 @@
+- pkg:maven/com.rangotec.utils/AndroidUtils@3.0.19?classifier=sources
+- pkg:maven/com.rangotec.utils/AndroidUtils@3.0.20?classifier=sources

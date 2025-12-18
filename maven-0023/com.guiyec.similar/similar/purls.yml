@@ -1,0 +1,2 @@
+- pkg:maven/com.guiyec.similar/similar@0.6.0?classifier=sources
+- pkg:maven/com.guiyec.similar/similar@0.7.0?classifier=sources

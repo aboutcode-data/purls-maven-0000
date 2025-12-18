@@ -1,1 +1,2 @@
 - pkg:maven/com.linecorp/apng@1.10.0?classifier=sources
+- pkg:maven/com.linecorp/apng@1.11.0?classifier=sources

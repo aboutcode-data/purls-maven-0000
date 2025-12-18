@@ -1,1 +1,2 @@
+- pkg:maven/org.jetbrains.kotlinx/kotlinx-datetime-metadata@0.1.0?classifier=sources
 - pkg:maven/org.jetbrains.kotlinx/kotlinx-datetime-metadata@0.1.1?classifier=sources

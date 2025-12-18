@@ -12,3 +12,7 @@
 - pkg:maven/org.jbundle.util.jcalendarbutton/org.jbundle.util.jcalendarbutton@1.6.4?classifier=sources
 - pkg:maven/org.jbundle.util.jcalendarbutton/org.jbundle.util.jcalendarbutton@1.6.5
 - pkg:maven/org.jbundle.util.jcalendarbutton/org.jbundle.util.jcalendarbutton@1.6.5?classifier=sources
+- pkg:maven/org.jbundle.util.jcalendarbutton/org.jbundle.util.jcalendarbutton@1.6.6
+- pkg:maven/org.jbundle.util.jcalendarbutton/org.jbundle.util.jcalendarbutton@1.6.6?classifier=sources
+- pkg:maven/org.jbundle.util.jcalendarbutton/org.jbundle.util.jcalendarbutton@1.6.7
+- pkg:maven/org.jbundle.util.jcalendarbutton/org.jbundle.util.jcalendarbutton@1.6.7?classifier=sources

@@ -17,3 +17,4 @@
 - pkg:maven/org.ojbc/mondrian-rest@2.0.2?type=war
 - pkg:maven/org.ojbc/mondrian-rest@2.0.3?type=war
 - pkg:maven/org.ojbc/mondrian-rest@2.0.4?type=war
+- pkg:maven/org.ojbc/mondrian-rest@2.0.6?type=war

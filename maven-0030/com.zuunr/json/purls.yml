@@ -29,6 +29,14 @@
 - pkg:maven/com.zuunr/json@0.1.0.M22-7266b89?classifier=sources
 - pkg:maven/com.zuunr/json@0.1.0.M23-4a02b7b
 - pkg:maven/com.zuunr/json@0.1.0.M23-4a02b7b?classifier=sources
+- pkg:maven/com.zuunr/json@0.1.0.M24-f0d6f41
+- pkg:maven/com.zuunr/json@0.1.0.M24-f0d6f41?classifier=sources
+- pkg:maven/com.zuunr/json@0.1.0.M25-37a7a0d
+- pkg:maven/com.zuunr/json@0.1.0.M25-37a7a0d?classifier=sources
+- pkg:maven/com.zuunr/json@0.1.0.M26-c130293
+- pkg:maven/com.zuunr/json@0.1.0.M26-c130293?classifier=sources
+- pkg:maven/com.zuunr/json@0.1.0.M27-c86136b
+- pkg:maven/com.zuunr/json@0.1.0.M27-c86136b?classifier=sources
 - pkg:maven/com.zuunr/json@0.1.0.M2?classifier=sources
 - pkg:maven/com.zuunr/json@0.1.0.M3
 - pkg:maven/com.zuunr/json@0.1.0.M3?classifier=sources

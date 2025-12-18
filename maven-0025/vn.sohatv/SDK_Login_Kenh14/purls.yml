@@ -1,0 +1,4 @@
+- pkg:maven/vn.sohatv/SDK_Login_Kenh14@1.2.1.19-kenh14?classifier=sources
+- pkg:maven/vn.sohatv/SDK_Login_Kenh14@1.2.1.19-kenh14?type=aar
+- pkg:maven/vn.sohatv/SDK_Login_Kenh14@1.2.1.28-kenh14chat?classifier=sources
+- pkg:maven/vn.sohatv/SDK_Login_Kenh14@1.2.1.28-kenh14chat?type=aar

@@ -1,0 +1,4 @@
+- pkg:maven/com.github.bibsysdev/nva-datamodel-java@0.11.11?classifier=sources
+- pkg:maven/com.github.bibsysdev/nva-datamodel-java@0.11.12?classifier=sources
+- pkg:maven/com.github.bibsysdev/nva-datamodel-java@0.11.13?classifier=sources
+- pkg:maven/com.github.bibsysdev/nva-datamodel-java@0.11.14?classifier=sources

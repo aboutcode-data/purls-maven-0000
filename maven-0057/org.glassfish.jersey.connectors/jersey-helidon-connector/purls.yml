@@ -4,3 +4,5 @@
 - pkg:maven/org.glassfish.jersey.connectors/jersey-helidon-connector@2.32?classifier=sources
 - pkg:maven/org.glassfish.jersey.connectors/jersey-helidon-connector@2.33
 - pkg:maven/org.glassfish.jersey.connectors/jersey-helidon-connector@2.33?classifier=sources
+- pkg:maven/org.glassfish.jersey.connectors/jersey-helidon-connector@2.34
+- pkg:maven/org.glassfish.jersey.connectors/jersey-helidon-connector@2.34?classifier=sources

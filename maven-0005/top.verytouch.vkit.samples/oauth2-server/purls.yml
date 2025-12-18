@@ -1,0 +1,2 @@
+- pkg:maven/top.verytouch.vkit.samples/oauth2-server@2.2.0
+- pkg:maven/top.verytouch.vkit.samples/oauth2-server@2.2.0?classifier=sources

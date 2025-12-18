@@ -1,0 +1,2 @@
+- pkg:maven/in.hocg.squirrel/mybatis-squirrel-devtools@0.1.1
+- pkg:maven/in.hocg.squirrel/mybatis-squirrel-devtools@0.1.1?classifier=sources

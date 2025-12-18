@@ -66,3 +66,7 @@
 - pkg:maven/org.cloudfoundry.multiapps/multiapps-controller-persistence@1.121.2?classifier=sources
 - pkg:maven/org.cloudfoundry.multiapps/multiapps-controller-persistence@1.121.3
 - pkg:maven/org.cloudfoundry.multiapps/multiapps-controller-persistence@1.121.3?classifier=sources
+- pkg:maven/org.cloudfoundry.multiapps/multiapps-controller-persistence@1.122.0
+- pkg:maven/org.cloudfoundry.multiapps/multiapps-controller-persistence@1.122.0?classifier=sources
+- pkg:maven/org.cloudfoundry.multiapps/multiapps-controller-persistence@1.122.1
+- pkg:maven/org.cloudfoundry.multiapps/multiapps-controller-persistence@1.122.1?classifier=sources

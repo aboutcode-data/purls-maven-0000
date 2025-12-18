@@ -184,3 +184,5 @@
 - pkg:maven/com.lucidworks.spark/spark-solr@3.7.6?classifier=sources
 - pkg:maven/com.lucidworks.spark/spark-solr@3.8.0
 - pkg:maven/com.lucidworks.spark/spark-solr@3.8.0?classifier=sources
+- pkg:maven/com.lucidworks.spark/spark-solr@3.9.0
+- pkg:maven/com.lucidworks.spark/spark-solr@3.9.0?classifier=sources

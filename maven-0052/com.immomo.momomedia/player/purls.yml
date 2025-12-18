@@ -1,0 +1,4 @@
+- pkg:maven/com.immomo.momomedia/player@momo5.1f.liveplay.2020-1102-1614?classifier=sources
+- pkg:maven/com.immomo.momomedia/player@momo5.1f.liveplay.2020-1102-1614?type=aar
+- pkg:maven/com.immomo.momomedia/player@momo5.1f.liveplay.2021-0428-154601?classifier=sources
+- pkg:maven/com.immomo.momomedia/player@momo5.1f.liveplay.2021-0428-154601?type=aar

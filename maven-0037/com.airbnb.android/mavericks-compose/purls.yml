@@ -1,1 +1,2 @@
 - pkg:maven/com.airbnb.android/mavericks-compose@2.1.0-alpha01?classifier=sources
+- pkg:maven/com.airbnb.android/mavericks-compose@2.1.0-alpha02?classifier=sources

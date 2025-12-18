@@ -16,3 +16,9 @@
 - pkg:maven/ml.karmaconfigs/LockLogin@1.0.7.6?classifier=sources
 - pkg:maven/ml.karmaconfigs/LockLogin@1.0.9.0
 - pkg:maven/ml.karmaconfigs/LockLogin@1.0.9.0?classifier=sources
+- pkg:maven/ml.karmaconfigs/LockLogin@1.0.9.6
+- pkg:maven/ml.karmaconfigs/LockLogin@1.0.9.6?classifier=sources
+- pkg:maven/ml.karmaconfigs/LockLogin@1.0.9.7
+- pkg:maven/ml.karmaconfigs/LockLogin@1.0.9.7?classifier=sources
+- pkg:maven/ml.karmaconfigs/LockLogin@1.1.0.1
+- pkg:maven/ml.karmaconfigs/LockLogin@1.1.0.1?classifier=sources

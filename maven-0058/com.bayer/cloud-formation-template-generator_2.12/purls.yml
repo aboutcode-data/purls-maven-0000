@@ -1,0 +1,2 @@
+- pkg:maven/com.bayer/cloud-formation-template-generator_2.12@3.10.3
+- pkg:maven/com.bayer/cloud-formation-template-generator_2.12@3.10.3?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/io.smallrye/smallrye-fault-tolerance-vertx@5.1.0
+- pkg:maven/io.smallrye/smallrye-fault-tolerance-vertx@5.1.0?classifier=sources

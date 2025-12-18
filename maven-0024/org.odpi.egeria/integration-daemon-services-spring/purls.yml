@@ -8,3 +8,5 @@
 - pkg:maven/org.odpi.egeria/integration-daemon-services-spring@2.7?classifier=sources
 - pkg:maven/org.odpi.egeria/integration-daemon-services-spring@2.8
 - pkg:maven/org.odpi.egeria/integration-daemon-services-spring@2.8?classifier=sources
+- pkg:maven/org.odpi.egeria/integration-daemon-services-spring@2.9
+- pkg:maven/org.odpi.egeria/integration-daemon-services-spring@2.9?classifier=sources

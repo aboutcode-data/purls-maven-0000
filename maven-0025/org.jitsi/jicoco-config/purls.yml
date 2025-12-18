@@ -6,3 +6,7 @@
 - pkg:maven/org.jitsi/jicoco-config@1.1-75-gc95d9ec?classifier=sources
 - pkg:maven/org.jitsi/jicoco-config@1.1-76-gf0e3889
 - pkg:maven/org.jitsi/jicoco-config@1.1-76-gf0e3889?classifier=sources
+- pkg:maven/org.jitsi/jicoco-config@1.1-83-gbec4d90
+- pkg:maven/org.jitsi/jicoco-config@1.1-83-gbec4d90?classifier=sources
+- pkg:maven/org.jitsi/jicoco-config@1.1-84-g1d06d1f
+- pkg:maven/org.jitsi/jicoco-config@1.1-84-g1d06d1f?classifier=sources

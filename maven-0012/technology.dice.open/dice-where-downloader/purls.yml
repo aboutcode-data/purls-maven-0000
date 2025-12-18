@@ -1,0 +1,2 @@
+- pkg:maven/technology.dice.open/dice-where-downloader@1.2.9
+- pkg:maven/technology.dice.open/dice-where-downloader@1.2.9?classifier=sources

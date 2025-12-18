@@ -1,6 +1,11 @@
+- pkg:maven/net.consensys.quorum.tessera/tessera-app@0.0.4?classifier=sources
+- pkg:maven/net.consensys.quorum.tessera/tessera-app@0.0.5?classifier=sources
 - pkg:maven/net.consensys.quorum.tessera/tessera-app@0.11.0
 - pkg:maven/net.consensys.quorum.tessera/tessera-app@1.0.0
 - pkg:maven/net.consensys.quorum.tessera/tessera-app@20.10.0
 - pkg:maven/net.consensys.quorum.tessera/tessera-app@20.10.1
 - pkg:maven/net.consensys.quorum.tessera/tessera-app@20.10.1-RC1
 - pkg:maven/net.consensys.quorum.tessera/tessera-app@21.1.0
+- pkg:maven/net.consensys.quorum.tessera/tessera-app@21.1.1
+- pkg:maven/net.consensys.quorum.tessera/tessera-app@21.4.0?classifier=sources
+- pkg:maven/net.consensys.quorum.tessera/tessera-app@21.4.1?classifier=sources

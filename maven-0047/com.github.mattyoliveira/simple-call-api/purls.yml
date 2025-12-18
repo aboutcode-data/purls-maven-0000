@@ -7,3 +7,4 @@
 - pkg:maven/com.github.mattyoliveira/simple-call-api@1.1.1?classifier=sources
 - pkg:maven/com.github.mattyoliveira/simple-call-api@1.2.1?classifier=sources
 - pkg:maven/com.github.mattyoliveira/simple-call-api@1.2.3?classifier=sources
+- pkg:maven/com.github.mattyoliveira/simple-call-api@2.0.0?classifier=sources

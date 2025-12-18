@@ -1,0 +1,4 @@
+- pkg:maven/io.github.aa86799/image-picker@1.2.2?classifier=sources
+- pkg:maven/io.github.aa86799/image-picker@1.2.3?classifier=sources
+- pkg:maven/io.github.aa86799/image-picker@1.2.4?classifier=sources
+- pkg:maven/io.github.aa86799/image-picker@1.2.5?classifier=sources

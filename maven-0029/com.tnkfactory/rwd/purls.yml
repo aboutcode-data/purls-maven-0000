@@ -1,0 +1,6 @@
+- pkg:maven/com.tnkfactory/rwd@7.16.1?classifier=sources
+- pkg:maven/com.tnkfactory/rwd@7.16.1?type=aar
+- pkg:maven/com.tnkfactory/rwd@7.17.1?classifier=sources
+- pkg:maven/com.tnkfactory/rwd@7.17.1?type=aar
+- pkg:maven/com.tnkfactory/rwd@7.18.1?classifier=sources
+- pkg:maven/com.tnkfactory/rwd@7.18.1?type=aar

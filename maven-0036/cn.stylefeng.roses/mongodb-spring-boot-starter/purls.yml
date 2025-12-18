@@ -1,0 +1,2 @@
+- pkg:maven/cn.stylefeng.roses/mongodb-spring-boot-starter@7.0.3
+- pkg:maven/cn.stylefeng.roses/mongodb-spring-boot-starter@7.0.3?classifier=sources

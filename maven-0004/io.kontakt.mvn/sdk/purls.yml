@@ -7,3 +7,10 @@
 - pkg:maven/io.kontakt.mvn/sdk@5.0.3?type=aar
 - pkg:maven/io.kontakt.mvn/sdk@5.0.4.1?type=aar
 - pkg:maven/io.kontakt.mvn/sdk@5.0.4?type=aar
+- pkg:maven/io.kontakt.mvn/sdk@5.0.5?type=aar
+- pkg:maven/io.kontakt.mvn/sdk@5.0.6?type=aar
+- pkg:maven/io.kontakt.mvn/sdk@5.0.7?type=aar
+- pkg:maven/io.kontakt.mvn/sdk@5.0.8.2?classifier=sources
+- pkg:maven/io.kontakt.mvn/sdk@5.0.8.2?type=aar
+- pkg:maven/io.kontakt.mvn/sdk@5.0.9?classifier=sources
+- pkg:maven/io.kontakt.mvn/sdk@5.0.9?type=aar

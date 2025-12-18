@@ -18,3 +18,5 @@
 - pkg:maven/org.glassfish.main.libpam4j/libpam4j@6.0.0-RC4
 - pkg:maven/org.glassfish.main.libpam4j/libpam4j@6.0.0-RC4?classifier=sources
 - pkg:maven/org.glassfish.main.libpam4j/libpam4j@6.0.0?classifier=sources
+- pkg:maven/org.glassfish.main.libpam4j/libpam4j@6.1.0
+- pkg:maven/org.glassfish.main.libpam4j/libpam4j@6.1.0?classifier=sources

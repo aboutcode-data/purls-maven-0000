@@ -1,0 +1,2 @@
+- pkg:maven/com.alfame.esb.bpm/mule-bpm-task-queue@2.2.2
+- pkg:maven/com.alfame.esb.bpm/mule-bpm-task-queue@2.2.2?classifier=sources

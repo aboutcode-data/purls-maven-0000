@@ -1,0 +1,1 @@
+- pkg:maven/org.freeplane/gradle-freeplane-plugin@0.5?classifier=sources

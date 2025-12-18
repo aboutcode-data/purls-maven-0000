@@ -1,0 +1,2 @@
+- pkg:maven/org.reactivecommons/async-rabbit@1.0.0-beta8?classifier=sources
+- pkg:maven/org.reactivecommons/async-rabbit@1.0.0-beta9?classifier=sources

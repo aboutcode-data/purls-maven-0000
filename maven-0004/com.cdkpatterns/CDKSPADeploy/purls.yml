@@ -1,3 +1,9 @@
+- pkg:maven/com.cdkpatterns/CDKSPADeploy@1.100.0
+- pkg:maven/com.cdkpatterns/CDKSPADeploy@1.100.0?classifier=sources
+- pkg:maven/com.cdkpatterns/CDKSPADeploy@1.103.0
+- pkg:maven/com.cdkpatterns/CDKSPADeploy@1.103.0?classifier=sources
+- pkg:maven/com.cdkpatterns/CDKSPADeploy@1.103.1
+- pkg:maven/com.cdkpatterns/CDKSPADeploy@1.103.1?classifier=sources
 - pkg:maven/com.cdkpatterns/CDKSPADeploy@1.81.0
 - pkg:maven/com.cdkpatterns/CDKSPADeploy@1.81.0?classifier=sources
 - pkg:maven/com.cdkpatterns/CDKSPADeploy@1.82.0

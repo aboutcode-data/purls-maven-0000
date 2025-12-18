@@ -1,0 +1,6 @@
+- pkg:maven/com.wire/cryptobox4j@0.5.0
+- pkg:maven/com.wire/cryptobox4j@0.5.0?classifier=sources
+- pkg:maven/com.wire/cryptobox4j@0.5.1
+- pkg:maven/com.wire/cryptobox4j@0.5.1?classifier=sources
+- pkg:maven/com.wire/cryptobox4j@1.0.0
+- pkg:maven/com.wire/cryptobox4j@1.0.0?classifier=sources

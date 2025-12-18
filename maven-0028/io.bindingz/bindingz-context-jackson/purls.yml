@@ -1,0 +1,2 @@
+- pkg:maven/io.bindingz/bindingz-context-jackson@1.0.3
+- pkg:maven/io.bindingz/bindingz-context-jackson@1.0.3?classifier=sources

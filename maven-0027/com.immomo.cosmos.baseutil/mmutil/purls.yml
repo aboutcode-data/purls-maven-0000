@@ -1,0 +1,2 @@
+- pkg:maven/com.immomo.cosmos.baseutil/mmutil@1.0.3?classifier=sources
+- pkg:maven/com.immomo.cosmos.baseutil/mmutil@1.0.3?type=aar

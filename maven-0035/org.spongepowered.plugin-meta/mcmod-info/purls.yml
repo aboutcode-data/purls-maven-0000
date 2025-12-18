@@ -1,1 +1,2 @@
 - pkg:maven/org.spongepowered.plugin-meta/mcmod-info@0.6.2?classifier=sources
+- pkg:maven/org.spongepowered.plugin-meta/mcmod-info@0.7.0?classifier=sources

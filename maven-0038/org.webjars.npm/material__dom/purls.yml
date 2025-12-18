@@ -8,6 +8,8 @@
 - pkg:maven/org.webjars.npm/material__dom@1.1.0?classifier=sources
 - pkg:maven/org.webjars.npm/material__dom@10.0.0
 - pkg:maven/org.webjars.npm/material__dom@10.0.0?classifier=sources
+- pkg:maven/org.webjars.npm/material__dom@11.0.0
+- pkg:maven/org.webjars.npm/material__dom@11.0.0?classifier=sources
 - pkg:maven/org.webjars.npm/material__dom@3.1.0
 - pkg:maven/org.webjars.npm/material__dom@3.1.0?classifier=sources
 - pkg:maven/org.webjars.npm/material__dom@4.0.0

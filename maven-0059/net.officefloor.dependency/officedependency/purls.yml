@@ -22,3 +22,9 @@
 - pkg:maven/net.officefloor.dependency/officedependency@3.32.0?classifier=sources
 - pkg:maven/net.officefloor.dependency/officedependency@3.33.0
 - pkg:maven/net.officefloor.dependency/officedependency@3.33.0?classifier=sources
+- pkg:maven/net.officefloor.dependency/officedependency@3.34.0
+- pkg:maven/net.officefloor.dependency/officedependency@3.34.0?classifier=sources
+- pkg:maven/net.officefloor.dependency/officedependency@3.35.0
+- pkg:maven/net.officefloor.dependency/officedependency@3.35.0?classifier=sources
+- pkg:maven/net.officefloor.dependency/officedependency@3.36.0
+- pkg:maven/net.officefloor.dependency/officedependency@3.36.0?classifier=sources

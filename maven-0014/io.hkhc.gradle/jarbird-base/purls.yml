@@ -1,0 +1,2 @@
+- pkg:maven/io.hkhc.gradle/jarbird-base@0.5.2?classifier=sources
+- pkg:maven/io.hkhc.gradle/jarbird-base@0.5.3?classifier=sources

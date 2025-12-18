@@ -56,3 +56,7 @@
 - pkg:maven/com.hello2morrow/sonargraph-integration-access@4.1.0?classifier=sources
 - pkg:maven/com.hello2morrow/sonargraph-integration-access@5.0.0
 - pkg:maven/com.hello2morrow/sonargraph-integration-access@5.0.0?classifier=sources
+- pkg:maven/com.hello2morrow/sonargraph-integration-access@6.1.0
+- pkg:maven/com.hello2morrow/sonargraph-integration-access@6.1.0?classifier=sources
+- pkg:maven/com.hello2morrow/sonargraph-integration-access@6.1.1
+- pkg:maven/com.hello2morrow/sonargraph-integration-access@6.1.1?classifier=sources
