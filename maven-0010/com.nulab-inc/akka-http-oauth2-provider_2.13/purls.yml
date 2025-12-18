@@ -1,0 +1,2 @@
+- pkg:maven/com.nulab-inc/akka-http-oauth2-provider_2.13@1.4.0
+- pkg:maven/com.nulab-inc/akka-http-oauth2-provider_2.13@1.4.0?classifier=sources

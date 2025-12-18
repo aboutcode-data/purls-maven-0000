@@ -1,0 +1,2 @@
+- pkg:maven/com.maltaisn/recurpicker@1.6.0?classifier=sources
+- pkg:maven/com.maltaisn/recurpicker@1.6.0?type=aar

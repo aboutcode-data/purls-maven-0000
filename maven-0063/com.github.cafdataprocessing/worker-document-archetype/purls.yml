@@ -8,3 +8,4 @@
 - pkg:maven/com.github.cafdataprocessing/worker-document-archetype@3.3.0-126?classifier=sources
 - pkg:maven/com.github.cafdataprocessing/worker-document-archetype@4.0.0-200?classifier=sources
 - pkg:maven/com.github.cafdataprocessing/worker-document-archetype@4.1.0-292?classifier=sources
+- pkg:maven/com.github.cafdataprocessing/worker-document-archetype@4.2.0-461?classifier=sources

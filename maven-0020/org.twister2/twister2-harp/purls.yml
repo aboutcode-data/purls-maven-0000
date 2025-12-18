@@ -1,0 +1,2 @@
+- pkg:maven/org.twister2/twister2-harp@0.3.0
+- pkg:maven/org.twister2/twister2-harp@0.3.0?classifier=sources

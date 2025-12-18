@@ -1,4 +1,5 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-bootstrap@RELEASE100?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-bootstrap@RELEASE110?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-bootstrap@RELEASE111?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-bootstrap@RELEASE112?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-bootstrap@RELEASE90?classifier=sources

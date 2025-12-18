@@ -1,0 +1,2 @@
+- pkg:maven/org.mycore/mycore-fo@2019.06.1
+- pkg:maven/org.mycore/mycore-fo@2019.06.1?classifier=sources

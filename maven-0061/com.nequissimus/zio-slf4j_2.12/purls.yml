@@ -27,4 +27,6 @@
 - pkg:maven/com.nequissimus/zio-slf4j_2.12@0.3.0%2B1-6539f50b?classifier=sources
 - pkg:maven/com.nequissimus/zio-slf4j_2.12@0.3.0%2B2-914435a6
 - pkg:maven/com.nequissimus/zio-slf4j_2.12@0.3.0%2B2-914435a6?classifier=sources
+- pkg:maven/com.nequissimus/zio-slf4j_2.12@0.3.0%2B3-3f772998
+- pkg:maven/com.nequissimus/zio-slf4j_2.12@0.3.0%2B3-3f772998?classifier=sources
 - pkg:maven/com.nequissimus/zio-slf4j_2.12@0.3.0?classifier=sources

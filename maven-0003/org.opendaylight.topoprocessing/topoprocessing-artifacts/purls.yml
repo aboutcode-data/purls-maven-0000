@@ -1,0 +1,5 @@
+- pkg:maven/org.opendaylight.topoprocessing/topoprocessing-artifacts@0.0.1-Lithium
+- pkg:maven/org.opendaylight.topoprocessing/topoprocessing-artifacts@0.0.2-Lithium-SR1
+- pkg:maven/org.opendaylight.topoprocessing/topoprocessing-artifacts@0.0.3-Lithium-SR2
+- pkg:maven/org.opendaylight.topoprocessing/topoprocessing-artifacts@0.0.4-Lithium-SR3
+- pkg:maven/org.opendaylight.topoprocessing/topoprocessing-artifacts@0.0.5-Lithium-SR4

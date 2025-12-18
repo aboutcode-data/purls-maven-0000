@@ -1,0 +1,2 @@
+- pkg:maven/com.manorrock.piranha/piranha-runner-installed@19.11.0?classifier=sources
+- pkg:maven/com.manorrock.piranha/piranha-runner-installed@19.11.0?type=zip

@@ -50,3 +50,5 @@
 - pkg:maven/guru.qas/martini-standalone@4.1.2?classifier=sources
 - pkg:maven/guru.qas/martini-standalone@5.0
 - pkg:maven/guru.qas/martini-standalone@5.0?classifier=sources
+- pkg:maven/guru.qas/martini-standalone@6.0-JDK12
+- pkg:maven/guru.qas/martini-standalone@6.0-JDK12?classifier=sources

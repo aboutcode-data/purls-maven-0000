@@ -1,0 +1,2 @@
+- pkg:maven/com.stephenn/scalatest-play-json_2.13@0.0.2
+- pkg:maven/com.stephenn/scalatest-play-json_2.13@0.0.2?classifier=sources

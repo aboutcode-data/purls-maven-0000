@@ -22,3 +22,7 @@
 - pkg:maven/io.coodoo/coodoo-listing@1.4.8?classifier=sources
 - pkg:maven/io.coodoo/coodoo-listing@1.4.9
 - pkg:maven/io.coodoo/coodoo-listing@1.4.9?classifier=sources
+- pkg:maven/io.coodoo/coodoo-listing@1.5.0
+- pkg:maven/io.coodoo/coodoo-listing@1.5.0?classifier=sources
+- pkg:maven/io.coodoo/coodoo-listing@1.5.1
+- pkg:maven/io.coodoo/coodoo-listing@1.5.1?classifier=sources

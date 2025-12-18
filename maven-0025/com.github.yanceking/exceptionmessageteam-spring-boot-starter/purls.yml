@@ -1,0 +1,2 @@
+- pkg:maven/com.github.yanceking/exceptionmessageteam-spring-boot-starter@1.0-team
+- pkg:maven/com.github.yanceking/exceptionmessageteam-spring-boot-starter@1.0-team?classifier=sources

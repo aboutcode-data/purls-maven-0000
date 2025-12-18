@@ -6,6 +6,8 @@
 - pkg:maven/org.bitbucket.askllc.fermenter.stout/stout-cookbook-domain-webapp@2.0.0.CR15?type=war
 - pkg:maven/org.bitbucket.askllc.fermenter.stout/stout-cookbook-domain-webapp@2.0.0.CR16?type=war
 - pkg:maven/org.bitbucket.askllc.fermenter.stout/stout-cookbook-domain-webapp@2.0.0.CR17?type=war
+- pkg:maven/org.bitbucket.askllc.fermenter.stout/stout-cookbook-domain-webapp@2.0.0.CR18?type=war
+- pkg:maven/org.bitbucket.askllc.fermenter.stout/stout-cookbook-domain-webapp@2.0.0.CR19?type=war
 - pkg:maven/org.bitbucket.askllc.fermenter.stout/stout-cookbook-domain-webapp@2.0.0.CR1?type=war
 - pkg:maven/org.bitbucket.askllc.fermenter.stout/stout-cookbook-domain-webapp@2.0.0.CR2?type=war
 - pkg:maven/org.bitbucket.askllc.fermenter.stout/stout-cookbook-domain-webapp@2.0.0.CR3?type=war

@@ -48,6 +48,16 @@
 - pkg:maven/com.didiglobal.booster/booster-transform-asm@0.21.3?classifier=sources
 - pkg:maven/com.didiglobal.booster/booster-transform-asm@0.22.0
 - pkg:maven/com.didiglobal.booster/booster-transform-asm@0.22.0?classifier=sources
+- pkg:maven/com.didiglobal.booster/booster-transform-asm@0.23.0
+- pkg:maven/com.didiglobal.booster/booster-transform-asm@0.23.0?classifier=sources
+- pkg:maven/com.didiglobal.booster/booster-transform-asm@0.24.0
+- pkg:maven/com.didiglobal.booster/booster-transform-asm@0.24.0?classifier=sources
+- pkg:maven/com.didiglobal.booster/booster-transform-asm@0.25.0
+- pkg:maven/com.didiglobal.booster/booster-transform-asm@0.25.0?classifier=sources
+- pkg:maven/com.didiglobal.booster/booster-transform-asm@0.26.0
+- pkg:maven/com.didiglobal.booster/booster-transform-asm@0.26.0?classifier=sources
+- pkg:maven/com.didiglobal.booster/booster-transform-asm@0.26.1
+- pkg:maven/com.didiglobal.booster/booster-transform-asm@0.26.1?classifier=sources
 - pkg:maven/com.didiglobal.booster/booster-transform-asm@0.3.0
 - pkg:maven/com.didiglobal.booster/booster-transform-asm@0.3.0?classifier=sources
 - pkg:maven/com.didiglobal.booster/booster-transform-asm@0.3.1

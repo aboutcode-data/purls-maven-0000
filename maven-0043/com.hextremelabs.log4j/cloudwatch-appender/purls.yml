@@ -6,3 +6,5 @@
 - pkg:maven/com.hextremelabs.log4j/cloudwatch-appender@1.0.Alpha3?classifier=sources
 - pkg:maven/com.hextremelabs.log4j/cloudwatch-appender@1.0.Alpha4
 - pkg:maven/com.hextremelabs.log4j/cloudwatch-appender@1.0.Alpha4?classifier=sources
+- pkg:maven/com.hextremelabs.log4j/cloudwatch-appender@1.0.Alpha6
+- pkg:maven/com.hextremelabs.log4j/cloudwatch-appender@1.0.Alpha6?classifier=sources

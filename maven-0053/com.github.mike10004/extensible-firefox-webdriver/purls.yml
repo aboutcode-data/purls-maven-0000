@@ -10,6 +10,10 @@
 - pkg:maven/com.github.mike10004/extensible-firefox-webdriver@3.14.0x0.12?classifier=sources
 - pkg:maven/com.github.mike10004/extensible-firefox-webdriver@3.14.0x0.14
 - pkg:maven/com.github.mike10004/extensible-firefox-webdriver@3.14.0x0.14?classifier=sources
+- pkg:maven/com.github.mike10004/extensible-firefox-webdriver@3.141.59x0.15
+- pkg:maven/com.github.mike10004/extensible-firefox-webdriver@3.141.59x0.15?classifier=sources
+- pkg:maven/com.github.mike10004/extensible-firefox-webdriver@3.141.59x0.16
+- pkg:maven/com.github.mike10004/extensible-firefox-webdriver@3.141.59x0.16?classifier=sources
 - pkg:maven/com.github.mike10004/extensible-firefox-webdriver@3.7.1x0.6
 - pkg:maven/com.github.mike10004/extensible-firefox-webdriver@3.7.1x0.6?classifier=sources
 - pkg:maven/com.github.mike10004/extensible-firefox-webdriver@3.7.1x1

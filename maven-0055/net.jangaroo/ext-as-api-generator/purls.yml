@@ -132,3 +132,5 @@
 - pkg:maven/net.jangaroo/ext-as-api-generator@4.0.67?classifier=sources
 - pkg:maven/net.jangaroo/ext-as-api-generator@4.0.68
 - pkg:maven/net.jangaroo/ext-as-api-generator@4.0.68?classifier=sources
+- pkg:maven/net.jangaroo/ext-as-api-generator@4.0.69
+- pkg:maven/net.jangaroo/ext-as-api-generator@4.0.69?classifier=sources

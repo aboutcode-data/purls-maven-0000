@@ -4,3 +4,9 @@
 - pkg:maven/de.martinspielmann.wicket/wicket-pwnedpasswords-validator@1.0.2?classifier=sources
 - pkg:maven/de.martinspielmann.wicket/wicket-pwnedpasswords-validator@2.0.0
 - pkg:maven/de.martinspielmann.wicket/wicket-pwnedpasswords-validator@2.0.0?classifier=sources
+- pkg:maven/de.martinspielmann.wicket/wicket-pwnedpasswords-validator@3.0.0
+- pkg:maven/de.martinspielmann.wicket/wicket-pwnedpasswords-validator@3.0.0?classifier=sources
+- pkg:maven/de.martinspielmann.wicket/wicket-pwnedpasswords-validator@3.1.0
+- pkg:maven/de.martinspielmann.wicket/wicket-pwnedpasswords-validator@3.1.0?classifier=sources
+- pkg:maven/de.martinspielmann.wicket/wicket-pwnedpasswords-validator@4.0.0
+- pkg:maven/de.martinspielmann.wicket/wicket-pwnedpasswords-validator@4.0.0?classifier=sources

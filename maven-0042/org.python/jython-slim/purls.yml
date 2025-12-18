@@ -1,0 +1,2 @@
+- pkg:maven/org.python/jython-slim@2.7.2b2
+- pkg:maven/org.python/jython-slim@2.7.2b2?classifier=sources

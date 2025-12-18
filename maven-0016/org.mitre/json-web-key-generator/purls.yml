@@ -2,3 +2,5 @@
 - pkg:maven/org.mitre/json-web-key-generator@0.1?classifier=sources
 - pkg:maven/org.mitre/json-web-key-generator@0.2
 - pkg:maven/org.mitre/json-web-key-generator@0.2?classifier=sources
+- pkg:maven/org.mitre/json-web-key-generator@0.4
+- pkg:maven/org.mitre/json-web-key-generator@0.4?classifier=sources

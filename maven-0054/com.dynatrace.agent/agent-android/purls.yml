@@ -2,6 +2,8 @@
 - pkg:maven/com.dynatrace.agent/agent-android@7.1.10.2332?type=aar
 - pkg:maven/com.dynatrace.agent/agent-android@7.1.11.2348?type=aar
 - pkg:maven/com.dynatrace.agent/agent-android@7.1.12.2359?type=aar
+- pkg:maven/com.dynatrace.agent/agent-android@7.1.13.2213?type=aar
+- pkg:maven/com.dynatrace.agent/agent-android@7.1.14.2221?type=aar
 - pkg:maven/com.dynatrace.agent/agent-android@7.1.2.2228?type=aar
 - pkg:maven/com.dynatrace.agent/agent-android@7.1.4.2244?type=aar
 - pkg:maven/com.dynatrace.agent/agent-android@7.1.5.2263?type=aar
@@ -14,3 +16,6 @@
 - pkg:maven/com.dynatrace.agent/agent-android@7.2.2.1233?type=aar
 - pkg:maven/com.dynatrace.agent/agent-android@7.2.3.1251?type=aar
 - pkg:maven/com.dynatrace.agent/agent-android@7.2.4.1262?type=aar
+- pkg:maven/com.dynatrace.agent/agent-android@7.2.5.1214?type=aar
+- pkg:maven/com.dynatrace.agent/agent-android@7.2.6.1220?type=aar
+- pkg:maven/com.dynatrace.agent/agent-android@8.181.1.1009?type=aar

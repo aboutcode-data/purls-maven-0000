@@ -1,2 +1,4 @@
 - pkg:maven/hu.webarticum/command-history-manager@1.0
 - pkg:maven/hu.webarticum/command-history-manager@1.0?classifier=sources
+- pkg:maven/hu.webarticum/command-history-manager@1.1
+- pkg:maven/hu.webarticum/command-history-manager@1.1?classifier=sources

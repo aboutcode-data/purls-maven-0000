@@ -1,2 +1,4 @@
 - pkg:maven/com.helpshift/android-helpshift-withCampaigns-aar@7.5.0-withCampaigns?type=aar
 - pkg:maven/com.helpshift/android-helpshift-withCampaigns-aar@7.6.0-withCampaigns?type=aar
+- pkg:maven/com.helpshift/android-helpshift-withCampaigns-aar@7.6.2-withCampaigns?type=aar
+- pkg:maven/com.helpshift/android-helpshift-withCampaigns-aar@7.6.3-withCampaigns?type=aar

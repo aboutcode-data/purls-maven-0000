@@ -1,4 +1,5 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-ant-grammar@RELEASE100?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-ant-grammar@RELEASE110?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-ant-grammar@RELEASE111?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-ant-grammar@RELEASE112?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-ant-grammar@RELEASE90?classifier=sources

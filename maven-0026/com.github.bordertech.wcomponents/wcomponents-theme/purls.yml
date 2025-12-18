@@ -81,6 +81,8 @@
 - pkg:maven/com.github.bordertech.wcomponents/wcomponents-theme@1.5.13
 - pkg:maven/com.github.bordertech.wcomponents/wcomponents-theme@1.5.14
 - pkg:maven/com.github.bordertech.wcomponents/wcomponents-theme@1.5.15
+- pkg:maven/com.github.bordertech.wcomponents/wcomponents-theme@1.5.16
+- pkg:maven/com.github.bordertech.wcomponents/wcomponents-theme@1.5.17
 - pkg:maven/com.github.bordertech.wcomponents/wcomponents-theme@1.5.2
 - pkg:maven/com.github.bordertech.wcomponents/wcomponents-theme@1.5.3
 - pkg:maven/com.github.bordertech.wcomponents/wcomponents-theme@1.5.4

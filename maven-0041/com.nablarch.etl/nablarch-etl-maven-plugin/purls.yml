@@ -6,3 +6,5 @@
 - pkg:maven/com.nablarch.etl/nablarch-etl-maven-plugin@5u13?classifier=sources
 - pkg:maven/com.nablarch.etl/nablarch-etl-maven-plugin@5u14
 - pkg:maven/com.nablarch.etl/nablarch-etl-maven-plugin@5u14?classifier=sources
+- pkg:maven/com.nablarch.etl/nablarch-etl-maven-plugin@5u15
+- pkg:maven/com.nablarch.etl/nablarch-etl-maven-plugin@5u15?classifier=sources

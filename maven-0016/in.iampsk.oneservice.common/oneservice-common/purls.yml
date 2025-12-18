@@ -1,0 +1,4 @@
+- pkg:maven/in.iampsk.oneservice.common/oneservice-common@1.0.4
+- pkg:maven/in.iampsk.oneservice.common/oneservice-common@1.0.4?classifier=sources
+- pkg:maven/in.iampsk.oneservice.common/oneservice-common@1.0.5
+- pkg:maven/in.iampsk.oneservice.common/oneservice-common@1.0.5?classifier=sources

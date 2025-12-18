@@ -1,0 +1,2 @@
+- pkg:maven/io.gridgo/gridgo-bean-dsl-json@0.7.0
+- pkg:maven/io.gridgo/gridgo-bean-dsl-json@0.7.0?classifier=sources

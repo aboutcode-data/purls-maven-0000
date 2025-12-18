@@ -1,0 +1,2 @@
+- pkg:maven/com.github.mvysny.sucklessprofiler/suckless-profiler@0.5
+- pkg:maven/com.github.mvysny.sucklessprofiler/suckless-profiler@0.5?classifier=sources

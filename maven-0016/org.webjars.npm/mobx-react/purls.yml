@@ -8,3 +8,5 @@
 - pkg:maven/org.webjars.npm/mobx-react@5.4.3?classifier=sources
 - pkg:maven/org.webjars.npm/mobx-react@6.0.0-rc.4
 - pkg:maven/org.webjars.npm/mobx-react@6.0.0-rc.4?classifier=sources
+- pkg:maven/org.webjars.npm/mobx-react@6.1.4
+- pkg:maven/org.webjars.npm/mobx-react@6.1.4?classifier=sources

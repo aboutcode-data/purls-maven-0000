@@ -46,3 +46,5 @@
 - pkg:maven/org.hawaiiframework/hawaii-autoconfigure@3.0.0.M7?classifier=sources
 - pkg:maven/org.hawaiiframework/hawaii-autoconfigure@3.0.0.M8
 - pkg:maven/org.hawaiiframework/hawaii-autoconfigure@3.0.0.M8?classifier=sources
+- pkg:maven/org.hawaiiframework/hawaii-autoconfigure@3.0.0.M9
+- pkg:maven/org.hawaiiframework/hawaii-autoconfigure@3.0.0.M9?classifier=sources

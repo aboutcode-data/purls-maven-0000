@@ -1,0 +1,2 @@
+- pkg:maven/com.github.i21mscz23/kernel-auth@1.0.4
+- pkg:maven/com.github.i21mscz23/kernel-auth@1.0.4?classifier=sources

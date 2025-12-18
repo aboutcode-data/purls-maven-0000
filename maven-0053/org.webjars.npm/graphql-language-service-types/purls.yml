@@ -2,3 +2,5 @@
 - pkg:maven/org.webjars.npm/graphql-language-service-types@0.0.15?classifier=sources
 - pkg:maven/org.webjars.npm/graphql-language-service-types@0.0.20
 - pkg:maven/org.webjars.npm/graphql-language-service-types@0.0.20?classifier=sources
+- pkg:maven/org.webjars.npm/graphql-language-service-types@1.5.0
+- pkg:maven/org.webjars.npm/graphql-language-service-types@1.5.0?classifier=sources

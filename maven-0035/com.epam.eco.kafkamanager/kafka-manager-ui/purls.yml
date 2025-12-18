@@ -1,0 +1,4 @@
+- pkg:maven/com.epam.eco.kafkamanager/kafka-manager-ui@0.1.0
+- pkg:maven/com.epam.eco.kafkamanager/kafka-manager-ui@0.1.0?classifier=sources
+- pkg:maven/com.epam.eco.kafkamanager/kafka-manager-ui@1.1.0
+- pkg:maven/com.epam.eco.kafkamanager/kafka-manager-ui@1.1.0?classifier=sources

@@ -1,3 +1,5 @@
+- pkg:maven/com.manorrock.piranha/piranha@19.11.0
+- pkg:maven/com.manorrock.piranha/piranha@19.11.0?classifier=sources
 - pkg:maven/com.manorrock.piranha/piranha@4.0.0.2
 - pkg:maven/com.manorrock.piranha/piranha@4.0.0.2?classifier=sources
 - pkg:maven/com.manorrock.piranha/piranha@4.0.1.0
@@ -8,6 +10,12 @@
 - pkg:maven/com.manorrock.piranha/piranha@4.0.11.0?classifier=sources
 - pkg:maven/com.manorrock.piranha/piranha@4.0.12.0
 - pkg:maven/com.manorrock.piranha/piranha@4.0.12.0?classifier=sources
+- pkg:maven/com.manorrock.piranha/piranha@4.0.13.0
+- pkg:maven/com.manorrock.piranha/piranha@4.0.13.0?classifier=sources
+- pkg:maven/com.manorrock.piranha/piranha@4.0.14.0
+- pkg:maven/com.manorrock.piranha/piranha@4.0.14.0?classifier=sources
+- pkg:maven/com.manorrock.piranha/piranha@4.0.15.0
+- pkg:maven/com.manorrock.piranha/piranha@4.0.15.0?classifier=sources
 - pkg:maven/com.manorrock.piranha/piranha@4.0.2.0
 - pkg:maven/com.manorrock.piranha/piranha@4.0.2.0?classifier=sources
 - pkg:maven/com.manorrock.piranha/piranha@4.0.3.0

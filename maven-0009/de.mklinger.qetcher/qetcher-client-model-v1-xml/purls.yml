@@ -6,6 +6,8 @@
 - pkg:maven/de.mklinger.qetcher/qetcher-client-model-v1-xml@2.0.12?classifier=sources
 - pkg:maven/de.mklinger.qetcher/qetcher-client-model-v1-xml@2.0.13
 - pkg:maven/de.mklinger.qetcher/qetcher-client-model-v1-xml@2.0.13?classifier=sources
+- pkg:maven/de.mklinger.qetcher/qetcher-client-model-v1-xml@2.0.14
+- pkg:maven/de.mklinger.qetcher/qetcher-client-model-v1-xml@2.0.14?classifier=sources
 - pkg:maven/de.mklinger.qetcher/qetcher-client-model-v1-xml@2.0.8
 - pkg:maven/de.mklinger.qetcher/qetcher-client-model-v1-xml@2.0.8?classifier=sources
 - pkg:maven/de.mklinger.qetcher/qetcher-client-model-v1-xml@2.0.9

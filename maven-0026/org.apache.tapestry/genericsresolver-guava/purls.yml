@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.tapestry/genericsresolver-guava@5.5.0-beta-3
+- pkg:maven/org.apache.tapestry/genericsresolver-guava@5.5.0-beta-3?classifier=sources

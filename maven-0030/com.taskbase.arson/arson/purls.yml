@@ -1,0 +1,2 @@
+- pkg:maven/com.taskbase.arson/arson@1.0
+- pkg:maven/com.taskbase.arson/arson@1.0?classifier=sources

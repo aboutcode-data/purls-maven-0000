@@ -10,3 +10,5 @@
 - pkg:maven/org.webjars.bower/lazysizes@1.4.0?classifier=sources
 - pkg:maven/org.webjars.bower/lazysizes@2.0.7
 - pkg:maven/org.webjars.bower/lazysizes@2.0.7?classifier=sources
+- pkg:maven/org.webjars.bower/lazysizes@5.1.2
+- pkg:maven/org.webjars.bower/lazysizes@5.1.2?classifier=sources

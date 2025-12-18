@@ -1,4 +1,5 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-websvc-saas-codegen@RELEASE100?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-websvc-saas-codegen@RELEASE110?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-websvc-saas-codegen@RELEASE111?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-websvc-saas-codegen@RELEASE112?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-websvc-saas-codegen@RELEASE90?classifier=sources

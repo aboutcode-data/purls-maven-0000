@@ -1,5 +1,7 @@
 - pkg:maven/com.github.trickl/sort@0.1.1
 - pkg:maven/com.github.trickl/sort@0.1.1?classifier=sources
+- pkg:maven/com.github.trickl/sort@untagged-ad7a8c5d98d1a6c40621
+- pkg:maven/com.github.trickl/sort@untagged-ad7a8c5d98d1a6c40621?classifier=sources
 - pkg:maven/com.github.trickl/sort@untagged-bd300089d86355ff78e7
 - pkg:maven/com.github.trickl/sort@untagged-bd300089d86355ff78e7?classifier=sources
 - pkg:maven/com.github.trickl/sort@untagged-d4145ac6602ee0233bb6

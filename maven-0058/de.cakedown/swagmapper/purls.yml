@@ -1,0 +1,2 @@
+- pkg:maven/de.cakedown/swagmapper@1.0
+- pkg:maven/de.cakedown/swagmapper@1.0?classifier=sources

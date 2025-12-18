@@ -30,3 +30,5 @@
 - pkg:maven/ch.softappeal.yass/yass-generate@65.0.1?classifier=sources
 - pkg:maven/ch.softappeal.yass/yass-generate@65.0.2
 - pkg:maven/ch.softappeal.yass/yass-generate@65.0.2?classifier=sources
+- pkg:maven/ch.softappeal.yass/yass-generate@66.0.0
+- pkg:maven/ch.softappeal.yass/yass-generate@66.0.0?classifier=sources

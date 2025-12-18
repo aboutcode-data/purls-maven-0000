@@ -4,3 +4,5 @@
 - pkg:maven/org.rapidpm.vaadin/id-generator-for-flow@00.09.01-RPM?classifier=sources
 - pkg:maven/org.rapidpm.vaadin/id-generator-for-flow@00.09.02-RPM
 - pkg:maven/org.rapidpm.vaadin/id-generator-for-flow@00.09.02-RPM?classifier=sources
+- pkg:maven/org.rapidpm.vaadin/id-generator-for-flow@00.09.03-RPM
+- pkg:maven/org.rapidpm.vaadin/id-generator-for-flow@00.09.03-RPM?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/de.adorsys.xs2a.adapter/santander-adapter@0.0.4
+- pkg:maven/de.adorsys.xs2a.adapter/santander-adapter@0.0.4?classifier=sources
+- pkg:maven/de.adorsys.xs2a.adapter/santander-adapter@0.0.5
+- pkg:maven/de.adorsys.xs2a.adapter/santander-adapter@0.0.5?classifier=sources

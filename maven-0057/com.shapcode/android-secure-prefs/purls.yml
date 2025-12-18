@@ -1,0 +1,2 @@
+- pkg:maven/com.shapcode/android-secure-prefs@1.0.0?classifier=sources
+- pkg:maven/com.shapcode/android-secure-prefs@1.0.0?type=aar

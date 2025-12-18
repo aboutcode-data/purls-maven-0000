@@ -1,0 +1,2 @@
+- pkg:maven/cd.connect.maven/merge-yaml-plugin@1.1
+- pkg:maven/cd.connect.maven/merge-yaml-plugin@1.1?classifier=sources

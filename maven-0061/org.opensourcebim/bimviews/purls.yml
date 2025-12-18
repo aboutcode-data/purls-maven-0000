@@ -58,6 +58,12 @@
 - pkg:maven/org.opensourcebim/bimviews@0.0.162
 - pkg:maven/org.opensourcebim/bimviews@0.0.163
 - pkg:maven/org.opensourcebim/bimviews@0.0.164
+- pkg:maven/org.opensourcebim/bimviews@0.0.165
+- pkg:maven/org.opensourcebim/bimviews@0.0.166
+- pkg:maven/org.opensourcebim/bimviews@0.0.172
+- pkg:maven/org.opensourcebim/bimviews@0.0.175
+- pkg:maven/org.opensourcebim/bimviews@0.0.176
+- pkg:maven/org.opensourcebim/bimviews@0.0.177
 - pkg:maven/org.opensourcebim/bimviews@0.0.18
 - pkg:maven/org.opensourcebim/bimviews@0.0.2
 - pkg:maven/org.opensourcebim/bimviews@0.0.20
@@ -140,3 +146,5 @@
 - pkg:maven/org.opensourcebim/bimviews@0.0.97
 - pkg:maven/org.opensourcebim/bimviews@0.0.98
 - pkg:maven/org.opensourcebim/bimviews@0.0.99
+- pkg:maven/org.opensourcebim/bimviews@bimviews-0.0.169
+- pkg:maven/org.opensourcebim/bimviews@bimviews-bimviews-0.0.170

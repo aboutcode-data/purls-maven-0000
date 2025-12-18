@@ -10,6 +10,10 @@
 - pkg:maven/com.speedment.runtime/runtime-welcome@3.1.15?classifier=sources
 - pkg:maven/com.speedment.runtime/runtime-welcome@3.1.16
 - pkg:maven/com.speedment.runtime/runtime-welcome@3.1.16?classifier=sources
+- pkg:maven/com.speedment.runtime/runtime-welcome@3.1.17
+- pkg:maven/com.speedment.runtime/runtime-welcome@3.1.17?classifier=sources
+- pkg:maven/com.speedment.runtime/runtime-welcome@3.1.18
+- pkg:maven/com.speedment.runtime/runtime-welcome@3.1.18?classifier=sources
 - pkg:maven/com.speedment.runtime/runtime-welcome@3.1.5
 - pkg:maven/com.speedment.runtime/runtime-welcome@3.1.5?classifier=sources
 - pkg:maven/com.speedment.runtime/runtime-welcome@3.1.6
@@ -18,3 +22,5 @@
 - pkg:maven/com.speedment.runtime/runtime-welcome@3.1.8?classifier=sources
 - pkg:maven/com.speedment.runtime/runtime-welcome@3.1.9
 - pkg:maven/com.speedment.runtime/runtime-welcome@3.1.9?classifier=sources
+- pkg:maven/com.speedment.runtime/runtime-welcome@3.2.1
+- pkg:maven/com.speedment.runtime/runtime-welcome@3.2.1?classifier=sources

@@ -6,3 +6,5 @@
 - pkg:maven/org.webjars.npm/url-loader@0.5.9?classifier=sources
 - pkg:maven/org.webjars.npm/url-loader@0.6.2
 - pkg:maven/org.webjars.npm/url-loader@0.6.2?classifier=sources
+- pkg:maven/org.webjars.npm/url-loader@1.1.2
+- pkg:maven/org.webjars.npm/url-loader@1.1.2?classifier=sources

@@ -6,3 +6,9 @@
 - pkg:maven/com.cognitect.aws/fms@701.2.392.0?classifier=sources
 - pkg:maven/com.cognitect.aws/fms@712.2.428.0
 - pkg:maven/com.cognitect.aws/fms@712.2.428.0?classifier=sources
+- pkg:maven/com.cognitect.aws/fms@746.2.533.0
+- pkg:maven/com.cognitect.aws/fms@746.2.533.0?classifier=sources
+- pkg:maven/com.cognitect.aws/fms@757.2.547.0
+- pkg:maven/com.cognitect.aws/fms@757.2.547.0?classifier=sources
+- pkg:maven/com.cognitect.aws/fms@770.2.568.0
+- pkg:maven/com.cognitect.aws/fms@770.2.568.0?classifier=sources

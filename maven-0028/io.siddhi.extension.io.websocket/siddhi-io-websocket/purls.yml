@@ -1,0 +1,2 @@
+- pkg:maven/io.siddhi.extension.io.websocket/siddhi-io-websocket@3.0.0
+- pkg:maven/io.siddhi.extension.io.websocket/siddhi-io-websocket@3.0.0?classifier=sources

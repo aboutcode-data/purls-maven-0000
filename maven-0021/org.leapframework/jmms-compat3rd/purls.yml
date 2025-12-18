@@ -1,0 +1,2 @@
+- pkg:maven/org.leapframework/jmms-compat3rd@0.6.1
+- pkg:maven/org.leapframework/jmms-compat3rd@0.6.1?classifier=sources
