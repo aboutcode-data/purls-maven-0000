@@ -4,3 +4,5 @@
 - pkg:maven/net.sf.tweety.arg/rankings@1.15?classifier=sources
 - pkg:maven/net.sf.tweety.arg/rankings@1.16
 - pkg:maven/net.sf.tweety.arg/rankings@1.16?classifier=sources
+- pkg:maven/net.sf.tweety.arg/rankings@1.17
+- pkg:maven/net.sf.tweety.arg/rankings@1.17?classifier=sources

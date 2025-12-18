@@ -21,4 +21,12 @@
 - pkg:maven/com.liferay.commerce/speedwell-theme@1.0.30?type=war
 - pkg:maven/com.liferay.commerce/speedwell-theme@1.0.31?type=war
 - pkg:maven/com.liferay.commerce/speedwell-theme@1.0.32?type=war
+- pkg:maven/com.liferay.commerce/speedwell-theme@1.0.33?type=war
+- pkg:maven/com.liferay.commerce/speedwell-theme@1.0.34?type=war
+- pkg:maven/com.liferay.commerce/speedwell-theme@1.0.35?type=war
+- pkg:maven/com.liferay.commerce/speedwell-theme@1.0.36?type=war
+- pkg:maven/com.liferay.commerce/speedwell-theme@1.0.37?type=war
+- pkg:maven/com.liferay.commerce/speedwell-theme@1.0.38?type=war
+- pkg:maven/com.liferay.commerce/speedwell-theme@1.0.39?type=war
+- pkg:maven/com.liferay.commerce/speedwell-theme@1.0.40?type=war
 - pkg:maven/com.liferay.commerce/speedwell-theme@1.0.9?type=war

@@ -36,3 +36,7 @@
 - pkg:maven/be.yildiz-games/module-window@4.0.3?classifier=sources
 - pkg:maven/be.yildiz-games/module-window@4.1.0
 - pkg:maven/be.yildiz-games/module-window@4.1.0?classifier=sources
+- pkg:maven/be.yildiz-games/module-window@4.2.0
+- pkg:maven/be.yildiz-games/module-window@4.2.0?classifier=sources
+- pkg:maven/be.yildiz-games/module-window@4.2.1
+- pkg:maven/be.yildiz-games/module-window@4.2.1?classifier=sources

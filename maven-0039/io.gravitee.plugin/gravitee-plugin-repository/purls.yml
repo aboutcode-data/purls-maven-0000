@@ -1,2 +1,4 @@
 - pkg:maven/io.gravitee.plugin/gravitee-plugin-repository@1.12.0
 - pkg:maven/io.gravitee.plugin/gravitee-plugin-repository@1.12.0?classifier=sources
+- pkg:maven/io.gravitee.plugin/gravitee-plugin-repository@1.13.0
+- pkg:maven/io.gravitee.plugin/gravitee-plugin-repository@1.13.0?classifier=sources

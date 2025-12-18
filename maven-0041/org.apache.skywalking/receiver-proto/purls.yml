@@ -5,3 +5,6 @@
 - pkg:maven/org.apache.skywalking/receiver-proto@6.5.0
 - pkg:maven/org.apache.skywalking/receiver-proto@6.6.0
 - pkg:maven/org.apache.skywalking/receiver-proto@7.0.0
+- pkg:maven/org.apache.skywalking/receiver-proto@8.0.0
+- pkg:maven/org.apache.skywalking/receiver-proto@8.0.1
+- pkg:maven/org.apache.skywalking/receiver-proto@8.1.0

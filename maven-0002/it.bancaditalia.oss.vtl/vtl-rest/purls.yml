@@ -1,0 +1,2 @@
+- pkg:maven/it.bancaditalia.oss.vtl/vtl-rest@1.0.4?classifier=sources
+- pkg:maven/it.bancaditalia.oss.vtl/vtl-rest@1.0.4?type=war

@@ -1,0 +1,2 @@
+- pkg:maven/cloud.agileframework/agile-cache@0.1.0
+- pkg:maven/cloud.agileframework/agile-cache@0.1.0?classifier=sources

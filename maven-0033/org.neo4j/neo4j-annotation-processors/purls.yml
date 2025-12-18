@@ -16,6 +16,12 @@
 - pkg:maven/org.neo4j/neo4j-annotation-processors@3.5.17?classifier=sources
 - pkg:maven/org.neo4j/neo4j-annotation-processors@3.5.18
 - pkg:maven/org.neo4j/neo4j-annotation-processors@3.5.18?classifier=sources
+- pkg:maven/org.neo4j/neo4j-annotation-processors@3.5.19
+- pkg:maven/org.neo4j/neo4j-annotation-processors@3.5.19?classifier=sources
+- pkg:maven/org.neo4j/neo4j-annotation-processors@3.5.20
+- pkg:maven/org.neo4j/neo4j-annotation-processors@3.5.20?classifier=sources
+- pkg:maven/org.neo4j/neo4j-annotation-processors@3.5.21
+- pkg:maven/org.neo4j/neo4j-annotation-processors@3.5.21?classifier=sources
 - pkg:maven/org.neo4j/neo4j-annotation-processors@3.5.4
 - pkg:maven/org.neo4j/neo4j-annotation-processors@3.5.4?classifier=sources
 - pkg:maven/org.neo4j/neo4j-annotation-processors@3.5.5

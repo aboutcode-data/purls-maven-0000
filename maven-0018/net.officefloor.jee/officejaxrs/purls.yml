@@ -1,0 +1,4 @@
+- pkg:maven/net.officefloor.jee/officejaxrs@3.25.0
+- pkg:maven/net.officefloor.jee/officejaxrs@3.25.0?classifier=sources
+- pkg:maven/net.officefloor.jee/officejaxrs@3.26.0
+- pkg:maven/net.officefloor.jee/officejaxrs@3.26.0?classifier=sources

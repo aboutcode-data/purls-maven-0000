@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.pinot/pinot-avro-base@0.4.0
+- pkg:maven/org.apache.pinot/pinot-avro-base@0.4.0?classifier=sources

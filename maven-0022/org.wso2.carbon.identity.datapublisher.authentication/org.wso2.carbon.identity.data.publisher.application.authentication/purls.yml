@@ -20,6 +20,16 @@
 - pkg:maven/org.wso2.carbon.identity.datapublisher.authentication/org.wso2.carbon.identity.data.publisher.application.authentication@5.1.9?classifier=sources
 - pkg:maven/org.wso2.carbon.identity.datapublisher.authentication/org.wso2.carbon.identity.data.publisher.application.authentication@5.3.11
 - pkg:maven/org.wso2.carbon.identity.datapublisher.authentication/org.wso2.carbon.identity.data.publisher.application.authentication@5.3.11?classifier=sources
+- pkg:maven/org.wso2.carbon.identity.datapublisher.authentication/org.wso2.carbon.identity.data.publisher.application.authentication@5.3.12
+- pkg:maven/org.wso2.carbon.identity.datapublisher.authentication/org.wso2.carbon.identity.data.publisher.application.authentication@5.3.12?classifier=sources
+- pkg:maven/org.wso2.carbon.identity.datapublisher.authentication/org.wso2.carbon.identity.data.publisher.application.authentication@5.3.13
+- pkg:maven/org.wso2.carbon.identity.datapublisher.authentication/org.wso2.carbon.identity.data.publisher.application.authentication@5.3.13?classifier=sources
+- pkg:maven/org.wso2.carbon.identity.datapublisher.authentication/org.wso2.carbon.identity.data.publisher.application.authentication@5.3.14
+- pkg:maven/org.wso2.carbon.identity.datapublisher.authentication/org.wso2.carbon.identity.data.publisher.application.authentication@5.3.14?classifier=sources
+- pkg:maven/org.wso2.carbon.identity.datapublisher.authentication/org.wso2.carbon.identity.data.publisher.application.authentication@5.3.15
+- pkg:maven/org.wso2.carbon.identity.datapublisher.authentication/org.wso2.carbon.identity.data.publisher.application.authentication@5.3.15?classifier=sources
+- pkg:maven/org.wso2.carbon.identity.datapublisher.authentication/org.wso2.carbon.identity.data.publisher.application.authentication@5.3.16
+- pkg:maven/org.wso2.carbon.identity.datapublisher.authentication/org.wso2.carbon.identity.data.publisher.application.authentication@5.3.16?classifier=sources
 - pkg:maven/org.wso2.carbon.identity.datapublisher.authentication/org.wso2.carbon.identity.data.publisher.application.authentication@5.3.4
 - pkg:maven/org.wso2.carbon.identity.datapublisher.authentication/org.wso2.carbon.identity.data.publisher.application.authentication@5.3.4?classifier=sources
 - pkg:maven/org.wso2.carbon.identity.datapublisher.authentication/org.wso2.carbon.identity.data.publisher.application.authentication@5.3.5

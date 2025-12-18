@@ -10,3 +10,7 @@
 - pkg:maven/io.siddhi.extension.map.keyvalue/siddhi-map-keyvalue@2.0.5?classifier=sources
 - pkg:maven/io.siddhi.extension.map.keyvalue/siddhi-map-keyvalue@2.0.6
 - pkg:maven/io.siddhi.extension.map.keyvalue/siddhi-map-keyvalue@2.0.6?classifier=sources
+- pkg:maven/io.siddhi.extension.map.keyvalue/siddhi-map-keyvalue@2.0.7
+- pkg:maven/io.siddhi.extension.map.keyvalue/siddhi-map-keyvalue@2.0.7?classifier=sources
+- pkg:maven/io.siddhi.extension.map.keyvalue/siddhi-map-keyvalue@2.1.0
+- pkg:maven/io.siddhi.extension.map.keyvalue/siddhi-map-keyvalue@2.1.0?classifier=sources

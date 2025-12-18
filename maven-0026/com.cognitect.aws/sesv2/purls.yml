@@ -2,3 +2,7 @@
 - pkg:maven/com.cognitect.aws/sesv2@773.2.579.0?classifier=sources
 - pkg:maven/com.cognitect.aws/sesv2@783.2.590.0
 - pkg:maven/com.cognitect.aws/sesv2@783.2.590.0?classifier=sources
+- pkg:maven/com.cognitect.aws/sesv2@801.2.700.0
+- pkg:maven/com.cognitect.aws/sesv2@801.2.700.0?classifier=sources
+- pkg:maven/com.cognitect.aws/sesv2@807.2.729.0
+- pkg:maven/com.cognitect.aws/sesv2@807.2.729.0?classifier=sources

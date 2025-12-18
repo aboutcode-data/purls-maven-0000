@@ -14,3 +14,5 @@
 - pkg:maven/ai.foremast.metrics/foremast-spring-boot-k8s-metrics-starter@0.1.6?classifier=sources
 - pkg:maven/ai.foremast.metrics/foremast-spring-boot-k8s-metrics-starter@0.1.7
 - pkg:maven/ai.foremast.metrics/foremast-spring-boot-k8s-metrics-starter@0.1.7?classifier=sources
+- pkg:maven/ai.foremast.metrics/foremast-spring-boot-k8s-metrics-starter@0.2.0
+- pkg:maven/ai.foremast.metrics/foremast-spring-boot-k8s-metrics-starter@0.2.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.github.gaojh/flyingboot-feign-starter@1.0.0
+- pkg:maven/com.github.gaojh/flyingboot-feign-starter@1.0.0?classifier=sources

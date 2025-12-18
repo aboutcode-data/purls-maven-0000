@@ -1,0 +1,2 @@
+- pkg:maven/org.teiid.connectors/ws-cxf@15.0.0
+- pkg:maven/org.teiid.connectors/ws-cxf@15.0.0?classifier=sources

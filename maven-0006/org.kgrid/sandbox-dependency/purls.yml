@@ -1,0 +1,4 @@
+- pkg:maven/org.kgrid/sandbox-dependency@0.0.4
+- pkg:maven/org.kgrid/sandbox-dependency@0.0.4?classifier=sources
+- pkg:maven/org.kgrid/sandbox-dependency@0.2.9
+- pkg:maven/org.kgrid/sandbox-dependency@0.2.9?classifier=sources

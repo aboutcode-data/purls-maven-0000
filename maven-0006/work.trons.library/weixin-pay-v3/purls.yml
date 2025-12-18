@@ -1,0 +1,6 @@
+- pkg:maven/work.trons.library/weixin-pay-v3@1.0.0
+- pkg:maven/work.trons.library/weixin-pay-v3@1.0.0?classifier=sources
+- pkg:maven/work.trons.library/weixin-pay-v3@1.1.0
+- pkg:maven/work.trons.library/weixin-pay-v3@1.1.0?classifier=sources
+- pkg:maven/work.trons.library/weixin-pay-v3@1.2.0
+- pkg:maven/work.trons.library/weixin-pay-v3@1.2.0?classifier=sources

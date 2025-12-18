@@ -12,3 +12,7 @@
 - pkg:maven/com.cognitect.aws/shield@770.2.568.0?classifier=sources
 - pkg:maven/com.cognitect.aws/shield@791.2.619.0
 - pkg:maven/com.cognitect.aws/shield@791.2.619.0?classifier=sources
+- pkg:maven/com.cognitect.aws/shield@801.2.692.0
+- pkg:maven/com.cognitect.aws/shield@801.2.692.0?classifier=sources
+- pkg:maven/com.cognitect.aws/shield@801.2.694.0
+- pkg:maven/com.cognitect.aws/shield@801.2.694.0?classifier=sources

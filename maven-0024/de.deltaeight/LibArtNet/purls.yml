@@ -2,3 +2,6 @@
 - pkg:maven/de.deltaeight/LibArtNet@1.0-beta?classifier=sources
 - pkg:maven/de.deltaeight/LibArtNet@1.1-beta
 - pkg:maven/de.deltaeight/LibArtNet@1.1-beta?classifier=sources
+- pkg:maven/de.deltaeight/LibArtNet@1.1.1-beta
+- pkg:maven/de.deltaeight/LibArtNet@1.1.1-beta?classifier=sources
+- pkg:maven/de.deltaeight/LibArtNet@1.1.2-beta?classifier=sources

@@ -1,2 +1,4 @@
+- pkg:maven/org.webjars.bowergithub.angular-ui/bootstrap@0.12.0
+- pkg:maven/org.webjars.bowergithub.angular-ui/bootstrap@0.12.0?classifier=sources
 - pkg:maven/org.webjars.bowergithub.angular-ui/bootstrap@2.1.4
 - pkg:maven/org.webjars.bowergithub.angular-ui/bootstrap@2.1.4?classifier=sources

@@ -1042,6 +1042,14 @@
 - pkg:maven/com.google.apis/google-api-services-pagespeedonline@v5-rev20200303-1.30.9?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-pagespeedonline@v5-rev20200305-1.30.9
 - pkg:maven/com.google.apis/google-api-services-pagespeedonline@v5-rev20200305-1.30.9?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-pagespeedonline@v5-rev20200608-1.30.10
+- pkg:maven/com.google.apis/google-api-services-pagespeedonline@v5-rev20200608-1.30.10?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-pagespeedonline@v5-rev20200608-1.30.9
+- pkg:maven/com.google.apis/google-api-services-pagespeedonline@v5-rev20200608-1.30.9?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-pagespeedonline@v5-rev20200721-1.30.10
+- pkg:maven/com.google.apis/google-api-services-pagespeedonline@v5-rev20200721-1.30.10?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-pagespeedonline@v5-rev20200813-1.30.10
+- pkg:maven/com.google.apis/google-api-services-pagespeedonline@v5-rev20200813-1.30.10?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-pagespeedonline@v5-rev5-1.18.0-rc
 - pkg:maven/com.google.apis/google-api-services-pagespeedonline@v5-rev5-1.18.0-rc?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-pagespeedonline@v5-rev5-1.22.0

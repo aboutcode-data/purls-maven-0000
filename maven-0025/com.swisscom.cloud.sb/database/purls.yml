@@ -41,5 +41,7 @@
 - pkg:maven/com.swisscom.cloud.sb/database@6.18.6?classifier=sources
 - pkg:maven/com.swisscom.cloud.sb/database@6.18.7
 - pkg:maven/com.swisscom.cloud.sb/database@6.18.7?classifier=sources
+- pkg:maven/com.swisscom.cloud.sb/database@6.20.0?classifier=sources
+- pkg:maven/com.swisscom.cloud.sb/database@6.20.1?classifier=sources
 - pkg:maven/com.swisscom.cloud.sb/database@6.9.1
 - pkg:maven/com.swisscom.cloud.sb/database@6.9.1?classifier=sources

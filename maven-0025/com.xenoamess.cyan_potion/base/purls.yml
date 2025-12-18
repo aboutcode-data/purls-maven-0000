@@ -1,0 +1,2 @@
+- pkg:maven/com.xenoamess.cyan_potion/base@0.163.0
+- pkg:maven/com.xenoamess.cyan_potion/base@0.163.0?classifier=sources

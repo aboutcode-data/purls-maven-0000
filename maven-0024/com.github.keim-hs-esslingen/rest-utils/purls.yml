@@ -1,0 +1,2 @@
+- pkg:maven/com.github.keim-hs-esslingen/rest-utils@2.2.6.1
+- pkg:maven/com.github.keim-hs-esslingen/rest-utils@2.2.6.1?classifier=sources

@@ -5,3 +5,5 @@
 - pkg:maven/io.github.marioalvial/kealth-http@1.0.9.5?classifier=sources
 - pkg:maven/io.github.marioalvial/kealth-http@2.0.0?classifier=sources
 - pkg:maven/io.github.marioalvial/kealth-http@2.0.1?classifier=sources
+- pkg:maven/io.github.marioalvial/kealth-http@2.9.0?classifier=sources
+- pkg:maven/io.github.marioalvial/kealth-http@3.0.0?classifier=sources

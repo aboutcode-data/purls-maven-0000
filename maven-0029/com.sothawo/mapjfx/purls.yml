@@ -100,6 +100,8 @@
 - pkg:maven/com.sothawo/mapjfx@1.32.0?classifier=sources
 - pkg:maven/com.sothawo/mapjfx@1.32.1
 - pkg:maven/com.sothawo/mapjfx@1.32.1?classifier=sources
+- pkg:maven/com.sothawo/mapjfx@1.33.0
+- pkg:maven/com.sothawo/mapjfx@1.33.0?classifier=sources
 - pkg:maven/com.sothawo/mapjfx@1.4.0
 - pkg:maven/com.sothawo/mapjfx@1.4.0?classifier=sources
 - pkg:maven/com.sothawo/mapjfx@1.4.2
@@ -168,6 +170,8 @@
 - pkg:maven/com.sothawo/mapjfx@2.14.0?classifier=sources
 - pkg:maven/com.sothawo/mapjfx@2.14.1
 - pkg:maven/com.sothawo/mapjfx@2.14.1?classifier=sources
+- pkg:maven/com.sothawo/mapjfx@2.15.0
+- pkg:maven/com.sothawo/mapjfx@2.15.0?classifier=sources
 - pkg:maven/com.sothawo/mapjfx@2.2.0
 - pkg:maven/com.sothawo/mapjfx@2.2.0?classifier=sources
 - pkg:maven/com.sothawo/mapjfx@2.3.0

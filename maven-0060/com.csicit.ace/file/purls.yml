@@ -32,3 +32,5 @@
 - pkg:maven/com.csicit.ace/file@1.0.35?classifier=sources
 - pkg:maven/com.csicit.ace/file@1.0.36
 - pkg:maven/com.csicit.ace/file@1.0.36?classifier=sources
+- pkg:maven/com.csicit.ace/file@1.0.39
+- pkg:maven/com.csicit.ace/file@1.0.39?classifier=sources

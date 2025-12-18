@@ -4,3 +4,5 @@
 - pkg:maven/org.odpi.egeria/egeria-connector-apache-atlas-adapter@1.5?classifier=sources
 - pkg:maven/org.odpi.egeria/egeria-connector-apache-atlas-adapter@1.6
 - pkg:maven/org.odpi.egeria/egeria-connector-apache-atlas-adapter@1.6?classifier=sources
+- pkg:maven/org.odpi.egeria/egeria-connector-apache-atlas-adapter@2.1
+- pkg:maven/org.odpi.egeria/egeria-connector-apache-atlas-adapter@2.1?classifier=sources

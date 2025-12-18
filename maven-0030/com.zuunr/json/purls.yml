@@ -13,6 +13,8 @@
 - pkg:maven/com.zuunr/json@0.1.0.M15-02ada88?classifier=sources
 - pkg:maven/com.zuunr/json@0.1.0.M16-dedc291
 - pkg:maven/com.zuunr/json@0.1.0.M16-dedc291?classifier=sources
+- pkg:maven/com.zuunr/json@0.1.0.M17-0146461
+- pkg:maven/com.zuunr/json@0.1.0.M17-0146461?classifier=sources
 - pkg:maven/com.zuunr/json@0.1.0.M1?classifier=sources
 - pkg:maven/com.zuunr/json@0.1.0.M2
 - pkg:maven/com.zuunr/json@0.1.0.M2?classifier=sources

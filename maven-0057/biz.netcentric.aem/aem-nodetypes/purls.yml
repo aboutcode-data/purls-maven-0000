@@ -1,0 +1,2 @@
+- pkg:maven/biz.netcentric.aem/aem-nodetypes@6.5.5.0
+- pkg:maven/biz.netcentric.aem/aem-nodetypes@6.5.5.0?classifier=sources

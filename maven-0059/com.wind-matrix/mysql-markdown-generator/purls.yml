@@ -1,0 +1,2 @@
+- pkg:maven/com.wind-matrix/mysql-markdown-generator@5.0.0
+- pkg:maven/com.wind-matrix/mysql-markdown-generator@5.0.0?classifier=sources

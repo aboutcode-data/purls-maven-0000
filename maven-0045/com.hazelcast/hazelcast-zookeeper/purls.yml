@@ -4,3 +4,5 @@
 - pkg:maven/com.hazelcast/hazelcast-zookeeper@3.6.2?classifier=sources
 - pkg:maven/com.hazelcast/hazelcast-zookeeper@3.6.3
 - pkg:maven/com.hazelcast/hazelcast-zookeeper@3.6.3?classifier=sources
+- pkg:maven/com.hazelcast/hazelcast-zookeeper@4.0.1
+- pkg:maven/com.hazelcast/hazelcast-zookeeper@4.0.1?classifier=sources

@@ -22,6 +22,10 @@
 - pkg:maven/nl.basjes.parse.useragent/yauaa-webapp@5.16?type=war
 - pkg:maven/nl.basjes.parse.useragent/yauaa-webapp@5.17?classifier=sources
 - pkg:maven/nl.basjes.parse.useragent/yauaa-webapp@5.17?type=war
+- pkg:maven/nl.basjes.parse.useragent/yauaa-webapp@5.18?classifier=sources
+- pkg:maven/nl.basjes.parse.useragent/yauaa-webapp@5.18?type=war
+- pkg:maven/nl.basjes.parse.useragent/yauaa-webapp@5.19?classifier=sources
+- pkg:maven/nl.basjes.parse.useragent/yauaa-webapp@5.19?type=war
 - pkg:maven/nl.basjes.parse.useragent/yauaa-webapp@5.1?classifier=sources
 - pkg:maven/nl.basjes.parse.useragent/yauaa-webapp@5.1?type=war
 - pkg:maven/nl.basjes.parse.useragent/yauaa-webapp@5.2?classifier=sources

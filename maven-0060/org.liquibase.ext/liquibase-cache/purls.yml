@@ -1,4 +1,12 @@
 - pkg:maven/org.liquibase.ext/liquibase-cache@1.1
 - pkg:maven/org.liquibase.ext/liquibase-cache@1.1?classifier=sources
+- pkg:maven/org.liquibase.ext/liquibase-cache@3.10.0
+- pkg:maven/org.liquibase.ext/liquibase-cache@3.10.0?classifier=sources
+- pkg:maven/org.liquibase.ext/liquibase-cache@3.10.1
+- pkg:maven/org.liquibase.ext/liquibase-cache@3.10.1?classifier=sources
+- pkg:maven/org.liquibase.ext/liquibase-cache@3.10.2
+- pkg:maven/org.liquibase.ext/liquibase-cache@3.10.2?classifier=sources
 - pkg:maven/org.liquibase.ext/liquibase-cache@3.9.0
 - pkg:maven/org.liquibase.ext/liquibase-cache@3.9.0?classifier=sources
+- pkg:maven/org.liquibase.ext/liquibase-cache@4.0.0
+- pkg:maven/org.liquibase.ext/liquibase-cache@4.0.0?classifier=sources

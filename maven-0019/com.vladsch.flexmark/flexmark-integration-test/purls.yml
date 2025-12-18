@@ -208,9 +208,12 @@
 - pkg:maven/com.vladsch.flexmark/flexmark-integration-test@0.61.28
 - pkg:maven/com.vladsch.flexmark/flexmark-integration-test@0.61.30
 - pkg:maven/com.vladsch.flexmark/flexmark-integration-test@0.61.32
+- pkg:maven/com.vladsch.flexmark/flexmark-integration-test@0.61.34
 - pkg:maven/com.vladsch.flexmark/flexmark-integration-test@0.61.4
 - pkg:maven/com.vladsch.flexmark/flexmark-integration-test@0.61.6
 - pkg:maven/com.vladsch.flexmark/flexmark-integration-test@0.61.8
+- pkg:maven/com.vladsch.flexmark/flexmark-integration-test@0.62.0
+- pkg:maven/com.vladsch.flexmark/flexmark-integration-test@0.62.2
 - pkg:maven/com.vladsch.flexmark/flexmark-integration-test@0.7.0
 - pkg:maven/com.vladsch.flexmark/flexmark-integration-test@0.8.0
 - pkg:maven/com.vladsch.flexmark/flexmark-integration-test@0.9.0

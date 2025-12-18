@@ -50,3 +50,9 @@
 - pkg:maven/org.linuxprobe/mybatis-universal-crud@2.2.4.RELEASE?classifier=sources
 - pkg:maven/org.linuxprobe/mybatis-universal-crud@2.2.5.RELEASE
 - pkg:maven/org.linuxprobe/mybatis-universal-crud@2.2.5.RELEASE?classifier=sources
+- pkg:maven/org.linuxprobe/mybatis-universal-crud@2.2.6.RELEASE
+- pkg:maven/org.linuxprobe/mybatis-universal-crud@2.2.6.RELEASE?classifier=sources
+- pkg:maven/org.linuxprobe/mybatis-universal-crud@2.3.0.RELEASE
+- pkg:maven/org.linuxprobe/mybatis-universal-crud@2.3.0.RELEASE?classifier=sources
+- pkg:maven/org.linuxprobe/mybatis-universal-crud@2.3.1.RELEASE
+- pkg:maven/org.linuxprobe/mybatis-universal-crud@2.3.1.RELEASE?classifier=sources

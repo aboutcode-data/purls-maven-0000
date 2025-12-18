@@ -1,0 +1,2 @@
+- pkg:maven/com.github.yingzhuo/carnival-spring-boot-starter-resilience4j@1.6.18
+- pkg:maven/com.github.yingzhuo/carnival-spring-boot-starter-resilience4j@1.6.18?classifier=sources

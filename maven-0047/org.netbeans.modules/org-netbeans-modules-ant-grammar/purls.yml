@@ -3,4 +3,7 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-ant-grammar@RELEASE111?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-ant-grammar@RELEASE112?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-ant-grammar@RELEASE113?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-ant-grammar@RELEASE120-1?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-ant-grammar@RELEASE120-u1?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-ant-grammar@RELEASE120?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-ant-grammar@RELEASE90?classifier=sources

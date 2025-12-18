@@ -1,1 +1,2 @@
 - pkg:maven/cloud.piranha.appserver/pirnaha-appserver-rest@20.5.0?type=war
+- pkg:maven/cloud.piranha.appserver/pirnaha-appserver-rest@20.6.0?type=war

@@ -32,3 +32,5 @@
 - pkg:maven/com.ibm.cos/ibm-cos-java-sdk@2.5.5
 - pkg:maven/com.ibm.cos/ibm-cos-java-sdk@2.6.0
 - pkg:maven/com.ibm.cos/ibm-cos-java-sdk@2.6.1
+- pkg:maven/com.ibm.cos/ibm-cos-java-sdk@2.6.2
+- pkg:maven/com.ibm.cos/ibm-cos-java-sdk@2.7.0

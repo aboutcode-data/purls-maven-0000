@@ -10,3 +10,5 @@
 - pkg:maven/org.webjars.npm/material__feature-targeting@4.0.0?classifier=sources
 - pkg:maven/org.webjars.npm/material__feature-targeting@6.0.0
 - pkg:maven/org.webjars.npm/material__feature-targeting@6.0.0?classifier=sources
+- pkg:maven/org.webjars.npm/material__feature-targeting@7.0.0
+- pkg:maven/org.webjars.npm/material__feature-targeting@7.0.0?classifier=sources

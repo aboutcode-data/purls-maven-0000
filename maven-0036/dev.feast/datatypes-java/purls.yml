@@ -1,5 +1,7 @@
 - pkg:maven/dev.feast/datatypes-java@0.3.7
 - pkg:maven/dev.feast/datatypes-java@0.3.7?classifier=sources
+- pkg:maven/dev.feast/datatypes-java@0.3.8
+- pkg:maven/dev.feast/datatypes-java@0.3.8?classifier=sources
 - pkg:maven/dev.feast/datatypes-java@0.4.4
 - pkg:maven/dev.feast/datatypes-java@0.4.4?classifier=sources
 - pkg:maven/dev.feast/datatypes-java@0.4.5
@@ -10,3 +12,11 @@
 - pkg:maven/dev.feast/datatypes-java@0.4.7?classifier=sources
 - pkg:maven/dev.feast/datatypes-java@0.5.0
 - pkg:maven/dev.feast/datatypes-java@0.5.0?classifier=sources
+- pkg:maven/dev.feast/datatypes-java@0.5.1
+- pkg:maven/dev.feast/datatypes-java@0.5.1?classifier=sources
+- pkg:maven/dev.feast/datatypes-java@0.6.0
+- pkg:maven/dev.feast/datatypes-java@0.6.0?classifier=sources
+- pkg:maven/dev.feast/datatypes-java@0.6.1
+- pkg:maven/dev.feast/datatypes-java@0.6.1?classifier=sources
+- pkg:maven/dev.feast/datatypes-java@0.6.2
+- pkg:maven/dev.feast/datatypes-java@0.6.2?classifier=sources

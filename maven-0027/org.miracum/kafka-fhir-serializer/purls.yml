@@ -1,0 +1,1 @@
+- pkg:maven/org.miracum/kafka-fhir-serializer@1.0.0?classifier=sources

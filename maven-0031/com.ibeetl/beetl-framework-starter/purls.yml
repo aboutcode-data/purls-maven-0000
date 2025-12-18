@@ -208,6 +208,12 @@
 - pkg:maven/com.ibeetl/beetl-framework-starter@1.2.3.RELEASE?classifier=sources
 - pkg:maven/com.ibeetl/beetl-framework-starter@1.2.30.RELEASE
 - pkg:maven/com.ibeetl/beetl-framework-starter@1.2.30.RELEASE?classifier=sources
+- pkg:maven/com.ibeetl/beetl-framework-starter@1.2.31.RELEASE
+- pkg:maven/com.ibeetl/beetl-framework-starter@1.2.31.RELEASE?classifier=sources
+- pkg:maven/com.ibeetl/beetl-framework-starter@1.2.32.RELEASE
+- pkg:maven/com.ibeetl/beetl-framework-starter@1.2.32.RELEASE?classifier=sources
+- pkg:maven/com.ibeetl/beetl-framework-starter@1.2.33.RELEASE
+- pkg:maven/com.ibeetl/beetl-framework-starter@1.2.33.RELEASE?classifier=sources
 - pkg:maven/com.ibeetl/beetl-framework-starter@1.2.4.RELEASE
 - pkg:maven/com.ibeetl/beetl-framework-starter@1.2.4.RELEASE?classifier=sources
 - pkg:maven/com.ibeetl/beetl-framework-starter@1.2.5.RELEASE

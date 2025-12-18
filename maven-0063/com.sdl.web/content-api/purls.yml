@@ -18,3 +18,5 @@
 - pkg:maven/com.sdl.web/content-api@8.5.0-1107?classifier=sources
 - pkg:maven/com.sdl.web/content-api@8.5.0-1132
 - pkg:maven/com.sdl.web/content-api@8.5.0-1132?classifier=sources
+- pkg:maven/com.sdl.web/content-api@8.5.0-1151
+- pkg:maven/com.sdl.web/content-api@8.5.0-1151?classifier=sources

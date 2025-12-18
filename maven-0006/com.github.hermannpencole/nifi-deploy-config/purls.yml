@@ -73,3 +73,7 @@
 - pkg:maven/com.github.hermannpencole/nifi-deploy-config@1.5.1?classifier=sources
 - pkg:maven/com.github.hermannpencole/nifi-deploy-config@1.5.2
 - pkg:maven/com.github.hermannpencole/nifi-deploy-config@1.5.2?classifier=sources
+- pkg:maven/com.github.hermannpencole/nifi-deploy-config@1.5.4
+- pkg:maven/com.github.hermannpencole/nifi-deploy-config@1.5.4?classifier=sources
+- pkg:maven/com.github.hermannpencole/nifi-deploy-config@1.5.5
+- pkg:maven/com.github.hermannpencole/nifi-deploy-config@1.5.5?classifier=sources

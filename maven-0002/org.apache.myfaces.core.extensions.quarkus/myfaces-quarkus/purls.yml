@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.myfaces.core.extensions.quarkus/myfaces-quarkus@2.3-next-M3
+- pkg:maven/org.apache.myfaces.core.extensions.quarkus/myfaces-quarkus@2.3-next-M3?classifier=sources

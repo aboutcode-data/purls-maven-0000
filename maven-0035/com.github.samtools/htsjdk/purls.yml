@@ -104,6 +104,10 @@
 - pkg:maven/com.github.samtools/htsjdk@2.21.2?classifier=sources
 - pkg:maven/com.github.samtools/htsjdk@2.21.3
 - pkg:maven/com.github.samtools/htsjdk@2.21.3?classifier=sources
+- pkg:maven/com.github.samtools/htsjdk@2.22.0
+- pkg:maven/com.github.samtools/htsjdk@2.22.0?classifier=sources
+- pkg:maven/com.github.samtools/htsjdk@2.23.0
+- pkg:maven/com.github.samtools/htsjdk@2.23.0?classifier=sources
 - pkg:maven/com.github.samtools/htsjdk@2.3.0
 - pkg:maven/com.github.samtools/htsjdk@2.3.0?classifier=sources
 - pkg:maven/com.github.samtools/htsjdk@2.4.0

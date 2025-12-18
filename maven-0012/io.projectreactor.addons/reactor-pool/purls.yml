@@ -6,3 +6,9 @@
 - pkg:maven/io.projectreactor.addons/reactor-pool@0.1.2.RELEASE?classifier=sources
 - pkg:maven/io.projectreactor.addons/reactor-pool@0.1.3.RELEASE
 - pkg:maven/io.projectreactor.addons/reactor-pool@0.1.3.RELEASE?classifier=sources
+- pkg:maven/io.projectreactor.addons/reactor-pool@0.1.4.RELEASE
+- pkg:maven/io.projectreactor.addons/reactor-pool@0.1.4.RELEASE?classifier=sources
+- pkg:maven/io.projectreactor.addons/reactor-pool@0.1.5.RELEASE
+- pkg:maven/io.projectreactor.addons/reactor-pool@0.1.5.RELEASE?classifier=sources
+- pkg:maven/io.projectreactor.addons/reactor-pool@0.1.6.RELEASE
+- pkg:maven/io.projectreactor.addons/reactor-pool@0.1.6.RELEASE?classifier=sources

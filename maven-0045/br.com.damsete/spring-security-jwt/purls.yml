@@ -1,0 +1,2 @@
+- pkg:maven/br.com.damsete/spring-security-jwt@0.0.1
+- pkg:maven/br.com.damsete/spring-security-jwt@0.0.1?classifier=sources

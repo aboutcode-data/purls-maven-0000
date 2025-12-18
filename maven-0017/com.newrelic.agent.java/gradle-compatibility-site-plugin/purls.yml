@@ -1,0 +1,1 @@
+- pkg:maven/com.newrelic.agent.java/gradle-compatibility-site-plugin@1.1?classifier=sources

@@ -1,2 +1,6 @@
 - pkg:maven/com.microsoft.azure.cosmosdb/azure-cosmos-cassandra-spark-helper@1.0.0
 - pkg:maven/com.microsoft.azure.cosmosdb/azure-cosmos-cassandra-spark-helper@1.0.0?classifier=sources
+- pkg:maven/com.microsoft.azure.cosmosdb/azure-cosmos-cassandra-spark-helper@1.1.0
+- pkg:maven/com.microsoft.azure.cosmosdb/azure-cosmos-cassandra-spark-helper@1.1.0?classifier=sources
+- pkg:maven/com.microsoft.azure.cosmosdb/azure-cosmos-cassandra-spark-helper@1.2.0
+- pkg:maven/com.microsoft.azure.cosmosdb/azure-cosmos-cassandra-spark-helper@1.2.0?classifier=sources

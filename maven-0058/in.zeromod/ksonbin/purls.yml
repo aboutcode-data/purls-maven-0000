@@ -1,0 +1,2 @@
+- pkg:maven/in.zeromod/ksonbin@1.0-alpha?classifier=sources
+- pkg:maven/in.zeromod/ksonbin@1.0?classifier=sources

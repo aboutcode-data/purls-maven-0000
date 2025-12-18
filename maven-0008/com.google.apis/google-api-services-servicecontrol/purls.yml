@@ -504,6 +504,18 @@
 - pkg:maven/com.google.apis/google-api-services-servicecontrol@v1-rev20200410-1.30.9?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-servicecontrol@v1-rev20200511-1.30.9
 - pkg:maven/com.google.apis/google-api-services-servicecontrol@v1-rev20200511-1.30.9?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-servicecontrol@v1-rev20200601-1.30.9
+- pkg:maven/com.google.apis/google-api-services-servicecontrol@v1-rev20200601-1.30.9?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-servicecontrol@v1-rev20200619-1.30.10
+- pkg:maven/com.google.apis/google-api-services-servicecontrol@v1-rev20200619-1.30.10?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-servicecontrol@v1-rev20200619-1.30.9
+- pkg:maven/com.google.apis/google-api-services-servicecontrol@v1-rev20200619-1.30.9?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-servicecontrol@v1-rev20200715-1.30.10
+- pkg:maven/com.google.apis/google-api-services-servicecontrol@v1-rev20200715-1.30.10?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-servicecontrol@v1-rev20200808-1.30.10
+- pkg:maven/com.google.apis/google-api-services-servicecontrol@v1-rev20200808-1.30.10?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-servicecontrol@v1-rev20200814-1.30.10
+- pkg:maven/com.google.apis/google-api-services-servicecontrol@v1-rev20200814-1.30.10?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-servicecontrol@v1-rev22-1.18.0-rc
 - pkg:maven/com.google.apis/google-api-services-servicecontrol@v1-rev22-1.18.0-rc?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-servicecontrol@v1-rev22-1.20.0
@@ -1088,3 +1100,7 @@
 - pkg:maven/com.google.apis/google-api-services-servicecontrol@v1-rev99-1.24.1?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-servicecontrol@v1-rev99-1.25.0
 - pkg:maven/com.google.apis/google-api-services-servicecontrol@v1-rev99-1.25.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-servicecontrol@v2-rev20200727-1.30.10
+- pkg:maven/com.google.apis/google-api-services-servicecontrol@v2-rev20200727-1.30.10?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-servicecontrol@v2-rev20200808-1.30.10
+- pkg:maven/com.google.apis/google-api-services-servicecontrol@v2-rev20200808-1.30.10?classifier=sources

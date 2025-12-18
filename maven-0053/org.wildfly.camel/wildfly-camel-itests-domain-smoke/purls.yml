@@ -1,2 +1,3 @@
 - pkg:maven/org.wildfly.camel/wildfly-camel-itests-domain-smoke@11.0.0
 - pkg:maven/org.wildfly.camel/wildfly-camel-itests-domain-smoke@11.1.0
+- pkg:maven/org.wildfly.camel/wildfly-camel-itests-domain-smoke@12.0.0

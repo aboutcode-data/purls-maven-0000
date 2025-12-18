@@ -1,0 +1,4 @@
+- pkg:maven/net.officefloor.dependency/officedependency@3.25.0
+- pkg:maven/net.officefloor.dependency/officedependency@3.25.0?classifier=sources
+- pkg:maven/net.officefloor.dependency/officedependency@3.26.0
+- pkg:maven/net.officefloor.dependency/officedependency@3.26.0?classifier=sources

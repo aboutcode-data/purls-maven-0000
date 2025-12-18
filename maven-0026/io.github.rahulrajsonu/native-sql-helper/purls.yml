@@ -1,0 +1,2 @@
+- pkg:maven/io.github.rahulrajsonu/native-sql-helper@1.0
+- pkg:maven/io.github.rahulrajsonu/native-sql-helper@1.0?classifier=sources
