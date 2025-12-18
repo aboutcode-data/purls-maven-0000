@@ -6,6 +6,8 @@
 - pkg:maven/io.fabric8/servicecatalog-tests@4.11.1
 - pkg:maven/io.fabric8/servicecatalog-tests@4.12.0
 - pkg:maven/io.fabric8/servicecatalog-tests@4.13.0
+- pkg:maven/io.fabric8/servicecatalog-tests@4.13.1
+- pkg:maven/io.fabric8/servicecatalog-tests@4.13.2
 - pkg:maven/io.fabric8/servicecatalog-tests@4.4.2
 - pkg:maven/io.fabric8/servicecatalog-tests@4.5.0
 - pkg:maven/io.fabric8/servicecatalog-tests@4.5.1
@@ -21,4 +23,10 @@
 - pkg:maven/io.fabric8/servicecatalog-tests@4.9.0
 - pkg:maven/io.fabric8/servicecatalog-tests@4.9.1
 - pkg:maven/io.fabric8/servicecatalog-tests@4.9.2
+- pkg:maven/io.fabric8/servicecatalog-tests@5.0.0
 - pkg:maven/io.fabric8/servicecatalog-tests@5.0.0-alpha-1
+- pkg:maven/io.fabric8/servicecatalog-tests@5.0.0-alpha-2
+- pkg:maven/io.fabric8/servicecatalog-tests@5.0.0-alpha-3
+- pkg:maven/io.fabric8/servicecatalog-tests@5.0.0-beta-1
+- pkg:maven/io.fabric8/servicecatalog-tests@5.0.1
+- pkg:maven/io.fabric8/servicecatalog-tests@5.0.2

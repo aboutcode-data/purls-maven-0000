@@ -1,0 +1,4 @@
+- pkg:maven/com.aliyun/openanalytics_open20180619@1.0.0
+- pkg:maven/com.aliyun/openanalytics_open20180619@1.0.0?classifier=sources
+- pkg:maven/com.aliyun/openanalytics_open20180619@2.0.0
+- pkg:maven/com.aliyun/openanalytics_open20180619@2.0.0?classifier=sources

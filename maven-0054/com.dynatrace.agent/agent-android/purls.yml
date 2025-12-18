@@ -30,3 +30,4 @@
 - pkg:maven/com.dynatrace.agent/agent-android@8.197.1.1004?type=aar
 - pkg:maven/com.dynatrace.agent/agent-android@8.201.1.1004?type=aar
 - pkg:maven/com.dynatrace.agent/agent-android@8.203.1.1003?type=aar
+- pkg:maven/com.dynatrace.agent/agent-android@8.207.1.1004?type=aar

@@ -33,3 +33,5 @@
 - pkg:maven/org.contextmapper/context-mapper-lsp@5.9.4?classifier=sources
 - pkg:maven/org.contextmapper/context-mapper-lsp@6.0.0?classifier=sources
 - pkg:maven/org.contextmapper/context-mapper-lsp@6.1.0?classifier=sources
+- pkg:maven/org.contextmapper/context-mapper-lsp@6.2.0?classifier=sources
+- pkg:maven/org.contextmapper/context-mapper-lsp@6.3.0?classifier=sources

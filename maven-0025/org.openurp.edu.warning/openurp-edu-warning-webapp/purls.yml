@@ -1,0 +1,2 @@
+- pkg:maven/org.openurp.edu.warning/openurp-edu-warning-webapp@0.0.2?classifier=sources
+- pkg:maven/org.openurp.edu.warning/openurp-edu-warning-webapp@0.0.2?type=war

@@ -4,3 +4,9 @@
 - pkg:maven/com.cognitect.aws/outposts@793.2.626.0?classifier=sources
 - pkg:maven/com.cognitect.aws/outposts@794.2.643.0
 - pkg:maven/com.cognitect.aws/outposts@794.2.643.0?classifier=sources
+- pkg:maven/com.cognitect.aws/outposts@809.2.797.0
+- pkg:maven/com.cognitect.aws/outposts@809.2.797.0?classifier=sources
+- pkg:maven/com.cognitect.aws/outposts@810.2.801.0
+- pkg:maven/com.cognitect.aws/outposts@810.2.801.0?classifier=sources
+- pkg:maven/com.cognitect.aws/outposts@810.2.817.0
+- pkg:maven/com.cognitect.aws/outposts@810.2.817.0?classifier=sources

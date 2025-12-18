@@ -5,3 +5,4 @@
 - pkg:maven/io.axual.client/axual-client-integrationtest@0.0.7
 - pkg:maven/io.axual.client/axual-client-integrationtest@5.4.4
 - pkg:maven/io.axual.client/axual-client-integrationtest@5.5.0
+- pkg:maven/io.axual.client/axual-client-integrationtest@5.6.0

@@ -80,6 +80,8 @@
 - pkg:maven/com.google.apis/google-api-services-cloudprofiler@v2-rev20200803-1.30.10?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-cloudprofiler@v2-rev20200822-1.30.10
 - pkg:maven/com.google.apis/google-api-services-cloudprofiler@v2-rev20200822-1.30.10?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-cloudprofiler@v2-rev20200822-1.31.0
+- pkg:maven/com.google.apis/google-api-services-cloudprofiler@v2-rev20200822-1.31.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-cloudprofiler@v2-rev23-1.18.0-rc
 - pkg:maven/com.google.apis/google-api-services-cloudprofiler@v2-rev23-1.18.0-rc?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-cloudprofiler@v2-rev23-1.22.0

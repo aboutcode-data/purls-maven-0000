@@ -20,3 +20,4 @@
 - pkg:maven/net.jrouter/jrouter@1.8.2?classifier=sources
 - pkg:maven/net.jrouter/jrouter@1.8.3
 - pkg:maven/net.jrouter/jrouter@1.8.3?classifier=sources
+- pkg:maven/net.jrouter/jrouter@1.8.4?classifier=sources

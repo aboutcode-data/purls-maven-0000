@@ -151,4 +151,14 @@
 - pkg:maven/com.github.h908714124/jbock@3.4.007?classifier=sources
 - pkg:maven/com.github.h908714124/jbock@3.4.008?classifier=sources
 - pkg:maven/com.github.h908714124/jbock@3.4.009?classifier=sources
+- pkg:maven/com.github.h908714124/jbock@3.4.011?classifier=sources
+- pkg:maven/com.github.h908714124/jbock@3.4.012?classifier=sources
+- pkg:maven/com.github.h908714124/jbock@3.4.013?classifier=sources
 - pkg:maven/com.github.h908714124/jbock@3.4?classifier=sources
+- pkg:maven/com.github.h908714124/jbock@3.5.000?classifier=sources
+- pkg:maven/com.github.h908714124/jbock@3.5.001?classifier=sources
+- pkg:maven/com.github.h908714124/jbock@3.5.002?classifier=sources
+- pkg:maven/com.github.h908714124/jbock@3.5.003?classifier=sources
+- pkg:maven/com.github.h908714124/jbock@3.5.004?classifier=sources
+- pkg:maven/com.github.h908714124/jbock@3.5.005?classifier=sources
+- pkg:maven/com.github.h908714124/jbock@v3.4.010?classifier=sources

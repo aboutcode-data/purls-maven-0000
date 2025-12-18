@@ -1,0 +1,2 @@
+- pkg:maven/com.github.freshconnect/yogurtcat-server-common@0.0.4-RELEASE
+- pkg:maven/com.github.freshconnect/yogurtcat-server-common@0.0.4-RELEASE?classifier=sources

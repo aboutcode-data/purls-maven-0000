@@ -1,3 +1,6 @@
+- pkg:maven/de.quantummaid.mapmaid.integrations/mapmaid-all@0.9.100
+- pkg:maven/de.quantummaid.mapmaid.integrations/mapmaid-all@0.9.102
+- pkg:maven/de.quantummaid.mapmaid.integrations/mapmaid-all@0.9.103
 - pkg:maven/de.quantummaid.mapmaid.integrations/mapmaid-all@0.9.17
 - pkg:maven/de.quantummaid.mapmaid.integrations/mapmaid-all@0.9.18
 - pkg:maven/de.quantummaid.mapmaid.integrations/mapmaid-all@0.9.19
@@ -74,3 +77,5 @@
 - pkg:maven/de.quantummaid.mapmaid.integrations/mapmaid-all@0.9.95
 - pkg:maven/de.quantummaid.mapmaid.integrations/mapmaid-all@0.9.96
 - pkg:maven/de.quantummaid.mapmaid.integrations/mapmaid-all@0.9.97
+- pkg:maven/de.quantummaid.mapmaid.integrations/mapmaid-all@0.9.98
+- pkg:maven/de.quantummaid.mapmaid.integrations/mapmaid-all@0.9.99

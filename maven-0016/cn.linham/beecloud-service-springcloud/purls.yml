@@ -12,3 +12,9 @@
 - pkg:maven/cn.linham/beecloud-service-springcloud@4.8?classifier=sources
 - pkg:maven/cn.linham/beecloud-service-springcloud@4.9
 - pkg:maven/cn.linham/beecloud-service-springcloud@4.9?classifier=sources
+- pkg:maven/cn.linham/beecloud-service-springcloud@5.2
+- pkg:maven/cn.linham/beecloud-service-springcloud@5.2?classifier=sources
+- pkg:maven/cn.linham/beecloud-service-springcloud@5.3
+- pkg:maven/cn.linham/beecloud-service-springcloud@5.3?classifier=sources
+- pkg:maven/cn.linham/beecloud-service-springcloud@5.4
+- pkg:maven/cn.linham/beecloud-service-springcloud@5.4?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/googlemaps__google-maps-services-js@3.1.13
+- pkg:maven/org.webjars.npm/googlemaps__google-maps-services-js@3.1.13?classifier=sources

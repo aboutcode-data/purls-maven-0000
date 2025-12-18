@@ -10,3 +10,5 @@
 - pkg:maven/com.gitee.swsk33/read-and-write@5.0.0-1024?classifier=sources
 - pkg:maven/com.gitee.swsk33/read-and-write@5.1.0-halloween
 - pkg:maven/com.gitee.swsk33/read-and-write@5.1.0-halloween?classifier=sources
+- pkg:maven/com.gitee.swsk33/read-and-write@5.1.2
+- pkg:maven/com.gitee.swsk33/read-and-write@5.1.2?classifier=sources

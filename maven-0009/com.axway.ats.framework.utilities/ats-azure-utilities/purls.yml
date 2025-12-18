@@ -1,0 +1,2 @@
+- pkg:maven/com.axway.ats.framework.utilities/ats-azure-utilities@4.0.7
+- pkg:maven/com.axway.ats.framework.utilities/ats-azure-utilities@4.0.7?classifier=sources

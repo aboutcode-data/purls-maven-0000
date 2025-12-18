@@ -28,3 +28,11 @@
 - pkg:maven/org.wso2.maven/humantask-maven-plugin@5.2.29?classifier=sources
 - pkg:maven/org.wso2.maven/humantask-maven-plugin@5.2.30
 - pkg:maven/org.wso2.maven/humantask-maven-plugin@5.2.30?classifier=sources
+- pkg:maven/org.wso2.maven/humantask-maven-plugin@5.2.31
+- pkg:maven/org.wso2.maven/humantask-maven-plugin@5.2.31?classifier=sources
+- pkg:maven/org.wso2.maven/humantask-maven-plugin@5.2.32
+- pkg:maven/org.wso2.maven/humantask-maven-plugin@5.2.32?classifier=sources
+- pkg:maven/org.wso2.maven/humantask-maven-plugin@5.2.33
+- pkg:maven/org.wso2.maven/humantask-maven-plugin@5.2.33?classifier=sources
+- pkg:maven/org.wso2.maven/humantask-maven-plugin@5.2.34
+- pkg:maven/org.wso2.maven/humantask-maven-plugin@5.2.34?classifier=sources

@@ -160,6 +160,9 @@
 - pkg:maven/com.liferay/com.liferay.frontend.theme.contributor.extender@5.0.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.frontend.theme.contributor.extender@5.0.0?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.frontend.theme.contributor.extender@5.0.1
+- pkg:maven/com.liferay/com.liferay.frontend.theme.contributor.extender@5.0.10
+- pkg:maven/com.liferay/com.liferay.frontend.theme.contributor.extender@5.0.10?classifier=sources
+- pkg:maven/com.liferay/com.liferay.frontend.theme.contributor.extender@5.0.10?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.frontend.theme.contributor.extender@5.0.1?classifier=sources
 - pkg:maven/com.liferay/com.liferay.frontend.theme.contributor.extender@5.0.1?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.frontend.theme.contributor.extender@5.0.2

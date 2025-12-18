@@ -1,0 +1,2 @@
+- pkg:maven/com.alidaodao.app/alidaodao-app-cat-client@1.0.3
+- pkg:maven/com.alidaodao.app/alidaodao-app-cat-client@1.0.3?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/io.quarkus/quarkus-spring-data-rest-api@2.1.SP2
+- pkg:maven/io.quarkus/quarkus-spring-data-rest-api@2.1.SP2?classifier=sources

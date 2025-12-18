@@ -31,4 +31,6 @@
 - pkg:maven/de.tototec/mill-osgi-testsupport_2.13@0.3.0-32-86520c
 - pkg:maven/de.tototec/mill-osgi-testsupport_2.13@0.3.0-32-86520c?classifier=sources
 - pkg:maven/de.tototec/mill-osgi-testsupport_2.13@0.3.1
+- pkg:maven/de.tototec/mill-osgi-testsupport_2.13@0.3.1-1-7ea87a
+- pkg:maven/de.tototec/mill-osgi-testsupport_2.13@0.3.1-1-7ea87a?classifier=sources
 - pkg:maven/de.tototec/mill-osgi-testsupport_2.13@0.3.1?classifier=sources

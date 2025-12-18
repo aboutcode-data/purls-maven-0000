@@ -13,3 +13,8 @@
 - pkg:maven/io.servicetalk/servicetalk-http-router-predicate@0.32.0?classifier=sources
 - pkg:maven/io.servicetalk/servicetalk-http-router-predicate@0.33.0?classifier=sources
 - pkg:maven/io.servicetalk/servicetalk-http-router-predicate@0.34.0?classifier=sources
+- pkg:maven/io.servicetalk/servicetalk-http-router-predicate@0.35.0?classifier=sources
+- pkg:maven/io.servicetalk/servicetalk-http-router-predicate@0.36.0?classifier=sources
+- pkg:maven/io.servicetalk/servicetalk-http-router-predicate@0.37.0?classifier=sources
+- pkg:maven/io.servicetalk/servicetalk-http-router-predicate@0.37.1?classifier=sources
+- pkg:maven/io.servicetalk/servicetalk-http-router-predicate@0.37.2?classifier=sources

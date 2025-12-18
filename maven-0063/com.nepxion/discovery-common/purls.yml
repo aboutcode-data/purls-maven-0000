@@ -104,6 +104,10 @@
 - pkg:maven/com.nepxion/discovery-common@3.20.2?classifier=sources
 - pkg:maven/com.nepxion/discovery-common@3.20.3
 - pkg:maven/com.nepxion/discovery-common@3.20.3?classifier=sources
+- pkg:maven/com.nepxion/discovery-common@3.21.0
+- pkg:maven/com.nepxion/discovery-common@3.21.0?classifier=sources
+- pkg:maven/com.nepxion/discovery-common@3.22.0
+- pkg:maven/com.nepxion/discovery-common@3.22.0?classifier=sources
 - pkg:maven/com.nepxion/discovery-common@3.5.2
 - pkg:maven/com.nepxion/discovery-common@3.5.2?classifier=sources
 - pkg:maven/com.nepxion/discovery-common@3.5.3
@@ -594,6 +598,10 @@
 - pkg:maven/com.nepxion/discovery-common@6.3.2?classifier=sources
 - pkg:maven/com.nepxion/discovery-common@6.3.3
 - pkg:maven/com.nepxion/discovery-common@6.3.3?classifier=sources
+- pkg:maven/com.nepxion/discovery-common@6.5.0
+- pkg:maven/com.nepxion/discovery-common@6.5.0?classifier=sources
+- pkg:maven/com.nepxion/discovery-common@6.6.0
+- pkg:maven/com.nepxion/discovery-common@6.6.0?classifier=sources
 - pkg:maven/com.nepxion/discovery-common@Edgware.1.0.0
 - pkg:maven/com.nepxion/discovery-common@Edgware.1.0.0?classifier=sources
 - pkg:maven/com.nepxion/discovery-common@Finchley.1.0.0

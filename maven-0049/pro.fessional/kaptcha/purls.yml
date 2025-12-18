@@ -1,0 +1,2 @@
+- pkg:maven/pro.fessional/kaptcha@2.3.3
+- pkg:maven/pro.fessional/kaptcha@2.3.3?classifier=sources

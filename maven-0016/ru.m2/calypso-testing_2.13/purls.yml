@@ -1,0 +1,2 @@
+- pkg:maven/ru.m2/calypso-testing_2.13@0.1.0
+- pkg:maven/ru.m2/calypso-testing_2.13@0.1.0?classifier=sources

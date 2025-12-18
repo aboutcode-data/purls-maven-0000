@@ -22,3 +22,5 @@
 - pkg:maven/ml.ytooo/ytooo-util@3.6.8?classifier=sources
 - pkg:maven/ml.ytooo/ytooo-util@3.7.0
 - pkg:maven/ml.ytooo/ytooo-util@3.7.0?classifier=sources
+- pkg:maven/ml.ytooo/ytooo-util@3.9.0
+- pkg:maven/ml.ytooo/ytooo-util@3.9.0?classifier=sources

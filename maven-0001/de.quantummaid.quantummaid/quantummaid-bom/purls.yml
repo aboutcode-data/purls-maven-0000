@@ -67,5 +67,12 @@
 - pkg:maven/de.quantummaid.quantummaid/quantummaid-bom@1.0.71
 - pkg:maven/de.quantummaid.quantummaid/quantummaid-bom@1.0.73
 - pkg:maven/de.quantummaid.quantummaid/quantummaid-bom@1.0.74
+- pkg:maven/de.quantummaid.quantummaid/quantummaid-bom@1.0.75
+- pkg:maven/de.quantummaid.quantummaid/quantummaid-bom@1.0.76
+- pkg:maven/de.quantummaid.quantummaid/quantummaid-bom@1.0.77
+- pkg:maven/de.quantummaid.quantummaid/quantummaid-bom@1.0.79
 - pkg:maven/de.quantummaid.quantummaid/quantummaid-bom@1.0.8
+- pkg:maven/de.quantummaid.quantummaid/quantummaid-bom@1.0.80
+- pkg:maven/de.quantummaid.quantummaid/quantummaid-bom@1.0.81
+- pkg:maven/de.quantummaid.quantummaid/quantummaid-bom@1.0.82
 - pkg:maven/de.quantummaid.quantummaid/quantummaid-bom@1.0.9

@@ -1,2 +1,6 @@
+- pkg:maven/org.webjars.npm/material__banner@10.0.0
+- pkg:maven/org.webjars.npm/material__banner@10.0.0?classifier=sources
 - pkg:maven/org.webjars.npm/material__banner@8.0.0
 - pkg:maven/org.webjars.npm/material__banner@8.0.0?classifier=sources
+- pkg:maven/org.webjars.npm/material__banner@9.0.0
+- pkg:maven/org.webjars.npm/material__banner@9.0.0?classifier=sources

@@ -8,3 +8,11 @@
 - pkg:maven/io.prestosql/presto-test-jdbc-compatibility-old-server@345?classifier=sources
 - pkg:maven/io.prestosql/presto-test-jdbc-compatibility-old-server@346
 - pkg:maven/io.prestosql/presto-test-jdbc-compatibility-old-server@346?classifier=sources
+- pkg:maven/io.prestosql/presto-test-jdbc-compatibility-old-server@347
+- pkg:maven/io.prestosql/presto-test-jdbc-compatibility-old-server@347?classifier=sources
+- pkg:maven/io.prestosql/presto-test-jdbc-compatibility-old-server@348
+- pkg:maven/io.prestosql/presto-test-jdbc-compatibility-old-server@348?classifier=sources
+- pkg:maven/io.prestosql/presto-test-jdbc-compatibility-old-server@349
+- pkg:maven/io.prestosql/presto-test-jdbc-compatibility-old-server@349?classifier=sources
+- pkg:maven/io.prestosql/presto-test-jdbc-compatibility-old-server@350
+- pkg:maven/io.prestosql/presto-test-jdbc-compatibility-old-server@350?classifier=sources

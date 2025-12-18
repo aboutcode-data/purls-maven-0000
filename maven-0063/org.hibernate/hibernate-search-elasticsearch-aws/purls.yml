@@ -44,6 +44,8 @@
 - pkg:maven/org.hibernate/hibernate-search-elasticsearch-aws@5.11.6.Final?classifier=sources
 - pkg:maven/org.hibernate/hibernate-search-elasticsearch-aws@5.11.7.Final
 - pkg:maven/org.hibernate/hibernate-search-elasticsearch-aws@5.11.7.Final?classifier=sources
+- pkg:maven/org.hibernate/hibernate-search-elasticsearch-aws@5.11.8.Final
+- pkg:maven/org.hibernate/hibernate-search-elasticsearch-aws@5.11.8.Final?classifier=sources
 - pkg:maven/org.hibernate/hibernate-search-elasticsearch-aws@5.8.0.Beta4
 - pkg:maven/org.hibernate/hibernate-search-elasticsearch-aws@5.8.0.Beta4?classifier=sources
 - pkg:maven/org.hibernate/hibernate-search-elasticsearch-aws@5.8.0.CR1

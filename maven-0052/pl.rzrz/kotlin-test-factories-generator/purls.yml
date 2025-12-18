@@ -1,0 +1,3 @@
+- pkg:maven/pl.rzrz/kotlin-test-factories-generator@1.0.1?classifier=sources
+- pkg:maven/pl.rzrz/kotlin-test-factories-generator@1.0.2?classifier=sources
+- pkg:maven/pl.rzrz/kotlin-test-factories-generator@1.0.3?classifier=sources

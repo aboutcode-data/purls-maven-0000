@@ -42,3 +42,4 @@
 - pkg:maven/com.microsoft.azure/spring-cloud-starter-azure-eventhubs-kafka@1.2.7?classifier=sources
 - pkg:maven/com.microsoft.azure/spring-cloud-starter-azure-eventhubs-kafka@1.2.8
 - pkg:maven/com.microsoft.azure/spring-cloud-starter-azure-eventhubs-kafka@1.2.8?classifier=sources
+- pkg:maven/com.microsoft.azure/spring-cloud-starter-azure-eventhubs-kafka@2.0.0-beta.1

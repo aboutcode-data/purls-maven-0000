@@ -1,0 +1,4 @@
+- pkg:maven/com.github.xiongxcodes/haohope-tool@1.0.0-releases
+- pkg:maven/com.github.xiongxcodes/haohope-tool@1.0.0-releases?classifier=sources
+- pkg:maven/com.github.xiongxcodes/haohope-tool@1.0.1-RELEASES
+- pkg:maven/com.github.xiongxcodes/haohope-tool@1.0.1-RELEASES?classifier=sources

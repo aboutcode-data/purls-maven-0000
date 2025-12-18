@@ -120,6 +120,8 @@
 - pkg:maven/org.wicketstuff/wicketstuff-yui-calendar@8.1.0?classifier=sources
 - pkg:maven/org.wicketstuff/wicketstuff-yui-calendar@8.10.0
 - pkg:maven/org.wicketstuff/wicketstuff-yui-calendar@8.10.0?classifier=sources
+- pkg:maven/org.wicketstuff/wicketstuff-yui-calendar@8.11.0
+- pkg:maven/org.wicketstuff/wicketstuff-yui-calendar@8.11.0?classifier=sources
 - pkg:maven/org.wicketstuff/wicketstuff-yui-calendar@8.2.0
 - pkg:maven/org.wicketstuff/wicketstuff-yui-calendar@8.2.0?classifier=sources
 - pkg:maven/org.wicketstuff/wicketstuff-yui-calendar@8.3.0

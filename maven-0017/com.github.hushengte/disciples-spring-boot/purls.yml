@@ -1,0 +1,2 @@
+- pkg:maven/com.github.hushengte/disciples-spring-boot@2.3.8.RELEASE
+- pkg:maven/com.github.hushengte/disciples-spring-boot@2.3.8.RELEASE?classifier=sources

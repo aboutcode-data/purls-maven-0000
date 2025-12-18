@@ -21,3 +21,5 @@
 - pkg:maven/io.projectreactor.addons/reactor-logback@3.2.4.RELEASE?classifier=sources
 - pkg:maven/io.projectreactor.addons/reactor-logback@3.2.5.RELEASE
 - pkg:maven/io.projectreactor.addons/reactor-logback@3.2.5.RELEASE?classifier=sources
+- pkg:maven/io.projectreactor.addons/reactor-logback@3.2.6.RELEASE
+- pkg:maven/io.projectreactor.addons/reactor-logback@3.2.6.RELEASE?classifier=sources

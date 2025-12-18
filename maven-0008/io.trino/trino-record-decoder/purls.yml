@@ -1,0 +1,2 @@
+- pkg:maven/io.trino/trino-record-decoder@351
+- pkg:maven/io.trino/trino-record-decoder@351?classifier=sources

@@ -240,3 +240,7 @@
 - pkg:maven/com.github.jcustenborder.kafka.connect/connect-utils@0.4.163?classifier=sources
 - pkg:maven/com.github.jcustenborder.kafka.connect/connect-utils@0.4.164
 - pkg:maven/com.github.jcustenborder.kafka.connect/connect-utils@0.4.164?classifier=sources
+- pkg:maven/com.github.jcustenborder.kafka.connect/connect-utils@0.5.166
+- pkg:maven/com.github.jcustenborder.kafka.connect/connect-utils@0.5.166?classifier=sources
+- pkg:maven/com.github.jcustenborder.kafka.connect/connect-utils@0.6.167
+- pkg:maven/com.github.jcustenborder.kafka.connect/connect-utils@0.6.167?classifier=sources

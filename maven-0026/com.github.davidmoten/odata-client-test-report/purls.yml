@@ -33,6 +33,12 @@
 - pkg:maven/com.github.davidmoten/odata-client-test-report@0.1.40
 - pkg:maven/com.github.davidmoten/odata-client-test-report@0.1.41
 - pkg:maven/com.github.davidmoten/odata-client-test-report@0.1.42
+- pkg:maven/com.github.davidmoten/odata-client-test-report@0.1.44
+- pkg:maven/com.github.davidmoten/odata-client-test-report@0.1.45
+- pkg:maven/com.github.davidmoten/odata-client-test-report@0.1.46
+- pkg:maven/com.github.davidmoten/odata-client-test-report@0.1.47
+- pkg:maven/com.github.davidmoten/odata-client-test-report@0.1.48
+- pkg:maven/com.github.davidmoten/odata-client-test-report@0.1.49
 - pkg:maven/com.github.davidmoten/odata-client-test-report@0.1.5
 - pkg:maven/com.github.davidmoten/odata-client-test-report@0.1.6
 - pkg:maven/com.github.davidmoten/odata-client-test-report@0.1.9

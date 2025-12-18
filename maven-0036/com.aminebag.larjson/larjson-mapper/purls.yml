@@ -1,0 +1,2 @@
+- pkg:maven/com.aminebag.larjson/larjson-mapper@1.0.0
+- pkg:maven/com.aminebag.larjson/larjson-mapper@1.0.0?classifier=sources

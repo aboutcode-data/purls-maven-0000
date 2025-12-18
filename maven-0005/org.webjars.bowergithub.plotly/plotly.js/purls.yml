@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.bowergithub.plotly/plotly.js@1.57.1
+- pkg:maven/org.webjars.bowergithub.plotly/plotly.js@1.57.1?classifier=sources

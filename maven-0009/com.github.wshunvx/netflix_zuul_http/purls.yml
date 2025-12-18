@@ -1,0 +1,2 @@
+- pkg:maven/com.github.wshunvx/netflix_zuul_http@1.0.20201210
+- pkg:maven/com.github.wshunvx/netflix_zuul_http@1.0.20201210?classifier=sources

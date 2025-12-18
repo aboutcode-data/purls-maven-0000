@@ -1,0 +1,6 @@
+- pkg:maven/io.opentelemetry/opentelemetry-sdk-extension-jfr-events@0.14.0-alpha
+- pkg:maven/io.opentelemetry/opentelemetry-sdk-extension-jfr-events@0.14.0-alpha?classifier=sources
+- pkg:maven/io.opentelemetry/opentelemetry-sdk-extension-jfr-events@0.14.1-alpha
+- pkg:maven/io.opentelemetry/opentelemetry-sdk-extension-jfr-events@0.14.1-alpha?classifier=sources
+- pkg:maven/io.opentelemetry/opentelemetry-sdk-extension-jfr-events@0.15.0-alpha?classifier=sources
+- pkg:maven/io.opentelemetry/opentelemetry-sdk-extension-jfr-events@0.16.0-alpha?classifier=sources

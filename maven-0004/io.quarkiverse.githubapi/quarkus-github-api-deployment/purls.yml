@@ -1,0 +1,2 @@
+- pkg:maven/io.quarkiverse.githubapi/quarkus-github-api-deployment@0.0.3
+- pkg:maven/io.quarkiverse.githubapi/quarkus-github-api-deployment@0.0.3?classifier=sources

@@ -13,4 +13,6 @@
 - pkg:maven/io.github.airxiechao/axcboot@0.24
 - pkg:maven/io.github.airxiechao/axcboot@0.24?classifier=sources
 - pkg:maven/io.github.airxiechao/axcboot@0.3
+- pkg:maven/io.github.airxiechao/axcboot@0.31
+- pkg:maven/io.github.airxiechao/axcboot@0.31?classifier=sources
 - pkg:maven/io.github.airxiechao/axcboot@0.3?classifier=sources

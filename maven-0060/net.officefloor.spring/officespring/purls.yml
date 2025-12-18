@@ -48,8 +48,16 @@
 - pkg:maven/net.officefloor.spring/officespring@3.28.1?classifier=sources
 - pkg:maven/net.officefloor.spring/officespring@3.28.2
 - pkg:maven/net.officefloor.spring/officespring@3.28.2?classifier=sources
+- pkg:maven/net.officefloor.spring/officespring@3.29.0
+- pkg:maven/net.officefloor.spring/officespring@3.29.0?classifier=sources
 - pkg:maven/net.officefloor.spring/officespring@3.3.0
 - pkg:maven/net.officefloor.spring/officespring@3.3.0?classifier=sources
+- pkg:maven/net.officefloor.spring/officespring@3.30.0
+- pkg:maven/net.officefloor.spring/officespring@3.30.0?classifier=sources
+- pkg:maven/net.officefloor.spring/officespring@3.30.2
+- pkg:maven/net.officefloor.spring/officespring@3.30.2?classifier=sources
+- pkg:maven/net.officefloor.spring/officespring@3.31.0
+- pkg:maven/net.officefloor.spring/officespring@3.31.0?classifier=sources
 - pkg:maven/net.officefloor.spring/officespring@3.4.0
 - pkg:maven/net.officefloor.spring/officespring@3.4.0?classifier=sources
 - pkg:maven/net.officefloor.spring/officespring@3.5.0

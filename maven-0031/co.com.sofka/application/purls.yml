@@ -14,3 +14,15 @@
 - pkg:maven/co.com.sofka/application@0.7.5?classifier=sources
 - pkg:maven/co.com.sofka/application@0.7.6
 - pkg:maven/co.com.sofka/application@0.7.6?classifier=sources
+- pkg:maven/co.com.sofka/application@0.7.7
+- pkg:maven/co.com.sofka/application@0.7.7?classifier=sources
+- pkg:maven/co.com.sofka/application@0.8.0
+- pkg:maven/co.com.sofka/application@0.8.0?classifier=sources
+- pkg:maven/co.com.sofka/application@0.8.7
+- pkg:maven/co.com.sofka/application@0.8.7?classifier=sources
+- pkg:maven/co.com.sofka/application@0.9.0
+- pkg:maven/co.com.sofka/application@0.9.0?classifier=sources
+- pkg:maven/co.com.sofka/application@0.9.5
+- pkg:maven/co.com.sofka/application@0.9.5?classifier=sources
+- pkg:maven/co.com.sofka/application@1.0.0
+- pkg:maven/co.com.sofka/application@1.0.0?classifier=sources

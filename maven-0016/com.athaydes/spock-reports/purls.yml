@@ -34,3 +34,5 @@
 - pkg:maven/com.athaydes/spock-reports@1.8.0?classifier=sources
 - pkg:maven/com.athaydes/spock-reports@2.0-RC2
 - pkg:maven/com.athaydes/spock-reports@2.0-RC2?classifier=sources
+- pkg:maven/com.athaydes/spock-reports@2.0-RC3
+- pkg:maven/com.athaydes/spock-reports@2.0-RC3?classifier=sources

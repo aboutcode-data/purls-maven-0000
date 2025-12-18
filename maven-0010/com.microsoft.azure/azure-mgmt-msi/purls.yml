@@ -85,6 +85,14 @@
 - pkg:maven/com.microsoft.azure/azure-mgmt-msi@1.37.0?classifier=sources
 - pkg:maven/com.microsoft.azure/azure-mgmt-msi@1.37.1
 - pkg:maven/com.microsoft.azure/azure-mgmt-msi@1.37.1?classifier=sources
+- pkg:maven/com.microsoft.azure/azure-mgmt-msi@1.38.0
+- pkg:maven/com.microsoft.azure/azure-mgmt-msi@1.38.0?classifier=sources
+- pkg:maven/com.microsoft.azure/azure-mgmt-msi@1.38.1
+- pkg:maven/com.microsoft.azure/azure-mgmt-msi@1.38.1?classifier=sources
+- pkg:maven/com.microsoft.azure/azure-mgmt-msi@1.39.0
+- pkg:maven/com.microsoft.azure/azure-mgmt-msi@1.39.0?classifier=sources
+- pkg:maven/com.microsoft.azure/azure-mgmt-msi@1.39.1
+- pkg:maven/com.microsoft.azure/azure-mgmt-msi@1.39.1?classifier=sources
 - pkg:maven/com.microsoft.azure/azure-mgmt-msi@1.5.1
 - pkg:maven/com.microsoft.azure/azure-mgmt-msi@1.5.1?classifier=sources
 - pkg:maven/com.microsoft.azure/azure-mgmt-msi@1.6.0

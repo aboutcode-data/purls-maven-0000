@@ -11,3 +11,4 @@
 - pkg:maven/com.github.cafdataprocessing/worker-document-archetype@4.2.0-461?classifier=sources
 - pkg:maven/com.github.cafdataprocessing/worker-document-archetype@4.3.0-593?classifier=sources
 - pkg:maven/com.github.cafdataprocessing/worker-document-archetype@4.4.0-707?classifier=sources
+- pkg:maven/com.github.cafdataprocessing/worker-document-archetype@4.5.0-820?classifier=sources

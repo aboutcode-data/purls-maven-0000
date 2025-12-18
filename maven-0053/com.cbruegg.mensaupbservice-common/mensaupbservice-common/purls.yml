@@ -1,0 +1,2 @@
+- pkg:maven/com.cbruegg.mensaupbservice-common/mensaupbservice-common@1.1.2
+- pkg:maven/com.cbruegg.mensaupbservice-common/mensaupbservice-common@1.1.2?classifier=sources

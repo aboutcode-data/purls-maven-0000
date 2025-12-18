@@ -56,3 +56,4 @@
 - pkg:maven/org.atmosphere/atmosphere-rabbitmq-demo@2.5.13?type=war
 - pkg:maven/org.atmosphere/atmosphere-rabbitmq-demo@2.5.3?type=war
 - pkg:maven/org.atmosphere/atmosphere-rabbitmq-demo@2.5.4?type=war
+- pkg:maven/org.atmosphere/atmosphere-rabbitmq-demo@2.6.4?type=war

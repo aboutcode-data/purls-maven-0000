@@ -1,1 +1,2 @@
 - pkg:maven/org.openapitools.openapistylevalidator/openapi-style-validator-maven-plugin@1.4?classifier=sources
+- pkg:maven/org.openapitools.openapistylevalidator/openapi-style-validator-maven-plugin@1.5?classifier=sources

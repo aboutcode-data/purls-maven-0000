@@ -1,0 +1,4 @@
+- pkg:maven/online.chanlong/cesweb-archetype@1.0.0
+- pkg:maven/online.chanlong/cesweb-archetype@1.0.0?classifier=sources
+- pkg:maven/online.chanlong/cesweb-archetype@1.0.1
+- pkg:maven/online.chanlong/cesweb-archetype@1.0.1?classifier=sources

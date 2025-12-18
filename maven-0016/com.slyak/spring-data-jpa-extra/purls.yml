@@ -40,3 +40,5 @@
 - pkg:maven/com.slyak/spring-data-jpa-extra@2.1.21.RELEASE?classifier=sources
 - pkg:maven/com.slyak/spring-data-jpa-extra@3.0.0.RELEASE
 - pkg:maven/com.slyak/spring-data-jpa-extra@3.0.0.RELEASE?classifier=sources
+- pkg:maven/com.slyak/spring-data-jpa-extra@3.3.0.RELEASE
+- pkg:maven/com.slyak/spring-data-jpa-extra@3.3.0.RELEASE?classifier=sources

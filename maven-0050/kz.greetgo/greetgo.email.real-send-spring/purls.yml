@@ -1,0 +1,2 @@
+- pkg:maven/kz.greetgo/greetgo.email.real-send-spring@1.0.2
+- pkg:maven/kz.greetgo/greetgo.email.real-send-spring@1.0.2?classifier=sources

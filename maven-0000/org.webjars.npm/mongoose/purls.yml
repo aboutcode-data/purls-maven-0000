@@ -1,4 +1,6 @@
 - pkg:maven/org.webjars.npm/mongoose@4.2.9
 - pkg:maven/org.webjars.npm/mongoose@4.2.9?classifier=sources
+- pkg:maven/org.webjars.npm/mongoose@5.0.0-rc2
+- pkg:maven/org.webjars.npm/mongoose@5.0.0-rc2?classifier=sources
 - pkg:maven/org.webjars.npm/mongoose@5.7.12
 - pkg:maven/org.webjars.npm/mongoose@5.7.12?classifier=sources

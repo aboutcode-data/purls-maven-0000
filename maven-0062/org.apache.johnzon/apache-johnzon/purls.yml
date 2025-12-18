@@ -48,6 +48,8 @@
 - pkg:maven/org.apache.johnzon/apache-johnzon@1.1.9?classifier=src&type=zip
 - pkg:maven/org.apache.johnzon/apache-johnzon@1.2.0?classifier=src&type=tar.gz
 - pkg:maven/org.apache.johnzon/apache-johnzon@1.2.0?classifier=src&type=zip
+- pkg:maven/org.apache.johnzon/apache-johnzon@1.2.10?classifier=src&type=tar.gz
+- pkg:maven/org.apache.johnzon/apache-johnzon@1.2.10?classifier=src&type=zip
 - pkg:maven/org.apache.johnzon/apache-johnzon@1.2.1?classifier=src&type=tar.gz
 - pkg:maven/org.apache.johnzon/apache-johnzon@1.2.1?classifier=src&type=zip
 - pkg:maven/org.apache.johnzon/apache-johnzon@1.2.2?classifier=src&type=tar.gz
@@ -64,3 +66,5 @@
 - pkg:maven/org.apache.johnzon/apache-johnzon@1.2.7?classifier=src&type=zip
 - pkg:maven/org.apache.johnzon/apache-johnzon@1.2.8?classifier=src&type=tar.gz
 - pkg:maven/org.apache.johnzon/apache-johnzon@1.2.8?classifier=src&type=zip
+- pkg:maven/org.apache.johnzon/apache-johnzon@1.2.9?classifier=src&type=tar.gz
+- pkg:maven/org.apache.johnzon/apache-johnzon@1.2.9?classifier=src&type=zip

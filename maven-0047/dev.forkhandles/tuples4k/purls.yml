@@ -12,3 +12,9 @@
 - pkg:maven/dev.forkhandles/tuples4k@1.4.0.0?classifier=sources
 - pkg:maven/dev.forkhandles/tuples4k@1.5.0.0
 - pkg:maven/dev.forkhandles/tuples4k@1.5.0.0?classifier=sources
+- pkg:maven/dev.forkhandles/tuples4k@1.6.0.0
+- pkg:maven/dev.forkhandles/tuples4k@1.6.0.0?classifier=sources
+- pkg:maven/dev.forkhandles/tuples4k@1.8.0.0
+- pkg:maven/dev.forkhandles/tuples4k@1.8.0.0?classifier=sources
+- pkg:maven/dev.forkhandles/tuples4k@1.8.2.0
+- pkg:maven/dev.forkhandles/tuples4k@1.8.2.0?classifier=sources

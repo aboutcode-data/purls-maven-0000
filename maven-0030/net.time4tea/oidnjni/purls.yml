@@ -4,5 +4,7 @@
 - pkg:maven/net.time4tea/oidnjni@0.1.03?classifier=sources
 - pkg:maven/net.time4tea/oidnjni@0.1.04
 - pkg:maven/net.time4tea/oidnjni@0.1.04?classifier=sources
+- pkg:maven/net.time4tea/oidnjni@0.1.13
+- pkg:maven/net.time4tea/oidnjni@0.1.13?classifier=sources
 - pkg:maven/net.time4tea/oidnjni@0.1.6
 - pkg:maven/net.time4tea/oidnjni@0.1.6?classifier=sources

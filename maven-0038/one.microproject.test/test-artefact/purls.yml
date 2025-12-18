@@ -1,0 +1,1 @@
+- pkg:maven/one.microproject.test/test-artefact@1.0.7?classifier=sources
