@@ -1,2 +1,6 @@
 - pkg:maven/com.rangotec.utils/AndroidUtils@3.0.19?classifier=sources
 - pkg:maven/com.rangotec.utils/AndroidUtils@3.0.20?classifier=sources
+- pkg:maven/com.rangotec.utils/AndroidUtils@3.0.21?classifier=sources
+- pkg:maven/com.rangotec.utils/AndroidUtils@3.0.22?classifier=sources
+- pkg:maven/com.rangotec.utils/AndroidUtils@3.0.23?classifier=sources
+- pkg:maven/com.rangotec.utils/AndroidUtils@3.0.24?classifier=sources

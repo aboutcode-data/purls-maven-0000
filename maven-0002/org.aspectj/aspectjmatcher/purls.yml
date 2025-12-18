@@ -1,5 +1,9 @@
 - pkg:maven/org.aspectj/aspectjmatcher@1.9.6?classifier=sources
+- pkg:maven/org.aspectj/aspectjmatcher@1.9.7
 - pkg:maven/org.aspectj/aspectjmatcher@1.9.7.M2
 - pkg:maven/org.aspectj/aspectjmatcher@1.9.7.M2?classifier=sources
 - pkg:maven/org.aspectj/aspectjmatcher@1.9.7.M3
 - pkg:maven/org.aspectj/aspectjmatcher@1.9.7.M3?classifier=sources
+- pkg:maven/org.aspectj/aspectjmatcher@1.9.7?classifier=sources
+- pkg:maven/org.aspectj/aspectjmatcher@1.9.8.M1
+- pkg:maven/org.aspectj/aspectjmatcher@1.9.8.M1?classifier=sources

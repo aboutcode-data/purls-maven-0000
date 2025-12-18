@@ -6,6 +6,8 @@
 - pkg:maven/com.github.jnthnclt/os.lab.base@1.12.0?classifier=sources
 - pkg:maven/com.github.jnthnclt/os.lab.base@1.12.1
 - pkg:maven/com.github.jnthnclt/os.lab.base@1.12.1?classifier=sources
+- pkg:maven/com.github.jnthnclt/os.lab.base@1.12.2
+- pkg:maven/com.github.jnthnclt/os.lab.base@1.12.2?classifier=sources
 - pkg:maven/com.github.jnthnclt/os.lab.base@1.2
 - pkg:maven/com.github.jnthnclt/os.lab.base@1.2?classifier=sources
 - pkg:maven/com.github.jnthnclt/os.lab.base@1.3

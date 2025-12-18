@@ -1,0 +1,2 @@
+- pkg:maven/com.github.zakgof/velvet-video-natives@0.2.8.free?classifier=sources
+- pkg:maven/com.github.zakgof/velvet-video-natives@0.2.8.full?classifier=sources

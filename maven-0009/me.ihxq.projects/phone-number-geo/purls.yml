@@ -16,3 +16,5 @@
 - pkg:maven/me.ihxq.projects/phone-number-geo@1.0.6-202004?classifier=sources
 - pkg:maven/me.ihxq.projects/phone-number-geo@1.0.8-202004
 - pkg:maven/me.ihxq.projects/phone-number-geo@1.0.8-202004?classifier=sources
+- pkg:maven/me.ihxq.projects/phone-number-geo@1.0.8-202106
+- pkg:maven/me.ihxq.projects/phone-number-geo@1.0.8-202106?classifier=sources

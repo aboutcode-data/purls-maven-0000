@@ -18,3 +18,7 @@
 - pkg:maven/cn.xuyanwu/spring-file-storage@0.2.0?classifier=sources
 - pkg:maven/cn.xuyanwu/spring-file-storage@0.2.1
 - pkg:maven/cn.xuyanwu/spring-file-storage@0.2.1?classifier=sources
+- pkg:maven/cn.xuyanwu/spring-file-storage@0.3.0
+- pkg:maven/cn.xuyanwu/spring-file-storage@0.3.0?classifier=sources
+- pkg:maven/cn.xuyanwu/spring-file-storage@0.4.0
+- pkg:maven/cn.xuyanwu/spring-file-storage@0.4.0?classifier=sources

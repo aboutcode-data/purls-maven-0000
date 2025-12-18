@@ -4,3 +4,5 @@
 - pkg:maven/cd.connect.common/connect-prometheus-jersey@2.2?classifier=sources
 - pkg:maven/cd.connect.common/connect-prometheus-jersey@2.3
 - pkg:maven/cd.connect.common/connect-prometheus-jersey@2.3?classifier=sources
+- pkg:maven/cd.connect.common/connect-prometheus-jersey@3.1
+- pkg:maven/cd.connect.common/connect-prometheus-jersey@3.1?classifier=sources

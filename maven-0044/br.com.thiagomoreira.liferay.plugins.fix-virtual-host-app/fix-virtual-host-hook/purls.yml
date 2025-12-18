@@ -14,3 +14,5 @@
 - pkg:maven/br.com.thiagomoreira.liferay.plugins.fix-virtual-host-app/fix-virtual-host-hook@4.0.0?classifier=sources
 - pkg:maven/br.com.thiagomoreira.liferay.plugins.fix-virtual-host-app/fix-virtual-host-hook@4.1.0
 - pkg:maven/br.com.thiagomoreira.liferay.plugins.fix-virtual-host-app/fix-virtual-host-hook@4.1.0?classifier=sources
+- pkg:maven/br.com.thiagomoreira.liferay.plugins.fix-virtual-host-app/fix-virtual-host-hook@5.0.0
+- pkg:maven/br.com.thiagomoreira.liferay.plugins.fix-virtual-host-app/fix-virtual-host-hook@5.0.0?classifier=sources

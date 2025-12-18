@@ -1,1 +1,2 @@
+- pkg:maven/com.liferay.plugins/classic-dxp-theme@1.0.100?type=war
 - pkg:maven/com.liferay.plugins/classic-dxp-theme@1.0.99?type=war

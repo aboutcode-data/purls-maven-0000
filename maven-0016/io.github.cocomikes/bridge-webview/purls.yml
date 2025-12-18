@@ -1,0 +1,2 @@
+- pkg:maven/io.github.cocomikes/bridge-webview@1.1.5?classifier=sources
+- pkg:maven/io.github.cocomikes/bridge-webview@1.1.5?type=aar

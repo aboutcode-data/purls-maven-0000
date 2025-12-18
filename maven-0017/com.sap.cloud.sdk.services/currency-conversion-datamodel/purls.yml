@@ -36,3 +36,11 @@
 - pkg:maven/com.sap.cloud.sdk.services/currency-conversion-datamodel@3.44.1?classifier=sources
 - pkg:maven/com.sap.cloud.sdk.services/currency-conversion-datamodel@3.45.0
 - pkg:maven/com.sap.cloud.sdk.services/currency-conversion-datamodel@3.45.0?classifier=sources
+- pkg:maven/com.sap.cloud.sdk.services/currency-conversion-datamodel@3.46.0
+- pkg:maven/com.sap.cloud.sdk.services/currency-conversion-datamodel@3.46.0?classifier=sources
+- pkg:maven/com.sap.cloud.sdk.services/currency-conversion-datamodel@3.47.0
+- pkg:maven/com.sap.cloud.sdk.services/currency-conversion-datamodel@3.47.0?classifier=sources
+- pkg:maven/com.sap.cloud.sdk.services/currency-conversion-datamodel@3.48.0
+- pkg:maven/com.sap.cloud.sdk.services/currency-conversion-datamodel@3.48.0?classifier=sources
+- pkg:maven/com.sap.cloud.sdk.services/currency-conversion-datamodel@3.49.0
+- pkg:maven/com.sap.cloud.sdk.services/currency-conversion-datamodel@3.49.0?classifier=sources

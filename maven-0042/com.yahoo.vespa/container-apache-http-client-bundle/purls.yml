@@ -1,0 +1,11 @@
+- pkg:maven/com.yahoo.vespa/container-apache-http-client-bundle@7.423.37?classifier=sources
+- pkg:maven/com.yahoo.vespa/container-apache-http-client-bundle@7.424.27?classifier=sources
+- pkg:maven/com.yahoo.vespa/container-apache-http-client-bundle@7.425.42?classifier=sources
+- pkg:maven/com.yahoo.vespa/container-apache-http-client-bundle@7.426.23?classifier=sources
+- pkg:maven/com.yahoo.vespa/container-apache-http-client-bundle@7.433.11?classifier=sources
+- pkg:maven/com.yahoo.vespa/container-apache-http-client-bundle@7.434.10?classifier=sources
+- pkg:maven/com.yahoo.vespa/container-apache-http-client-bundle@7.435.15?classifier=sources
+- pkg:maven/com.yahoo.vespa/container-apache-http-client-bundle@7.436.31?classifier=sources
+- pkg:maven/com.yahoo.vespa/container-apache-http-client-bundle@7.437.7?classifier=sources
+- pkg:maven/com.yahoo.vespa/container-apache-http-client-bundle@7.438.16?classifier=sources
+- pkg:maven/com.yahoo.vespa/container-apache-http-client-bundle@7.439.3?classifier=sources

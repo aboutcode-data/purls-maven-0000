@@ -113,6 +113,12 @@
 - pkg:maven/org.apache.sling/org.apache.sling.event@4.2.18?classifier=source-release&type=zip
 - pkg:maven/org.apache.sling/org.apache.sling.event@4.2.18?classifier=sources
 - pkg:maven/org.apache.sling/org.apache.sling.event@4.2.2
+- pkg:maven/org.apache.sling/org.apache.sling.event@4.2.20
+- pkg:maven/org.apache.sling/org.apache.sling.event@4.2.20?classifier=source-release&type=zip
+- pkg:maven/org.apache.sling/org.apache.sling.event@4.2.20?classifier=sources
+- pkg:maven/org.apache.sling/org.apache.sling.event@4.2.22
+- pkg:maven/org.apache.sling/org.apache.sling.event@4.2.22?classifier=source-release&type=zip
+- pkg:maven/org.apache.sling/org.apache.sling.event@4.2.22?classifier=sources
 - pkg:maven/org.apache.sling/org.apache.sling.event@4.2.2?classifier=source-release&type=zip
 - pkg:maven/org.apache.sling/org.apache.sling.event@4.2.2?classifier=sources
 - pkg:maven/org.apache.sling/org.apache.sling.event@4.2.4

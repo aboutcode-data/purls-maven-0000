@@ -6,6 +6,7 @@
 - pkg:maven/org.apache.uima/uimaj-json@2.10.2?classifier=sources
 - pkg:maven/org.apache.uima/uimaj-json@2.10.3?classifier=sources
 - pkg:maven/org.apache.uima/uimaj-json@2.10.4?classifier=sources
+- pkg:maven/org.apache.uima/uimaj-json@2.11.0?classifier=sources
 - pkg:maven/org.apache.uima/uimaj-json@2.7.0
 - pkg:maven/org.apache.uima/uimaj-json@2.7.0?classifier=sources
 - pkg:maven/org.apache.uima/uimaj-json@2.8.0

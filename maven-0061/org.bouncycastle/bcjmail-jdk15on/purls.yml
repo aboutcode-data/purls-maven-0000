@@ -1,0 +1,1 @@
+- pkg:maven/org.bouncycastle/bcjmail-jdk15on@1.69?classifier=sources

@@ -1,0 +1,14 @@
+- pkg:maven/ch.digitalfondue.liquibaseorausertable/liquibaseorausertable@1.0
+- pkg:maven/ch.digitalfondue.liquibaseorausertable/liquibaseorausertable@1.0?classifier=sources
+- pkg:maven/ch.digitalfondue.liquibaseorausertable/liquibaseorausertable@1.2
+- pkg:maven/ch.digitalfondue.liquibaseorausertable/liquibaseorausertable@1.2?classifier=sources
+- pkg:maven/ch.digitalfondue.liquibaseorausertable/liquibaseorausertable@1.4
+- pkg:maven/ch.digitalfondue.liquibaseorausertable/liquibaseorausertable@1.4?classifier=sources
+- pkg:maven/ch.digitalfondue.liquibaseorausertable/liquibaseorausertable@1.5
+- pkg:maven/ch.digitalfondue.liquibaseorausertable/liquibaseorausertable@1.5?classifier=sources
+- pkg:maven/ch.digitalfondue.liquibaseorausertable/liquibaseorausertable@1.6
+- pkg:maven/ch.digitalfondue.liquibaseorausertable/liquibaseorausertable@1.6?classifier=sources
+- pkg:maven/ch.digitalfondue.liquibaseorausertable/liquibaseorausertable@1.7
+- pkg:maven/ch.digitalfondue.liquibaseorausertable/liquibaseorausertable@1.7?classifier=sources
+- pkg:maven/ch.digitalfondue.liquibaseorausertable/liquibaseorausertable@1.8
+- pkg:maven/ch.digitalfondue.liquibaseorausertable/liquibaseorausertable@1.8?classifier=sources

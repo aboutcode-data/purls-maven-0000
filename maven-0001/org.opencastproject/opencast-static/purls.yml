@@ -1,3 +1,7 @@
+- pkg:maven/org.opencastproject/opencast-static@10.0
+- pkg:maven/org.opencastproject/opencast-static@10.0?classifier=sources
+- pkg:maven/org.opencastproject/opencast-static@10.1
+- pkg:maven/org.opencastproject/opencast-static@10.1?classifier=sources
 - pkg:maven/org.opencastproject/opencast-static@6.6
 - pkg:maven/org.opencastproject/opencast-static@6.6?classifier=sources
 - pkg:maven/org.opencastproject/opencast-static@7.2
@@ -50,3 +54,5 @@
 - pkg:maven/org.opencastproject/opencast-static@9.4?classifier=sources
 - pkg:maven/org.opencastproject/opencast-static@9.5
 - pkg:maven/org.opencastproject/opencast-static@9.5?classifier=sources
+- pkg:maven/org.opencastproject/opencast-static@9.6
+- pkg:maven/org.opencastproject/opencast-static@9.6?classifier=sources

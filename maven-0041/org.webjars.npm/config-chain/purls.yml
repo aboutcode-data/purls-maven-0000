@@ -4,5 +4,7 @@
 - pkg:maven/org.webjars.npm/config-chain@1.1.11?classifier=sources
 - pkg:maven/org.webjars.npm/config-chain@1.1.12
 - pkg:maven/org.webjars.npm/config-chain@1.1.12?classifier=sources
+- pkg:maven/org.webjars.npm/config-chain@1.1.13
+- pkg:maven/org.webjars.npm/config-chain@1.1.13?classifier=sources
 - pkg:maven/org.webjars.npm/config-chain@1.1.9
 - pkg:maven/org.webjars.npm/config-chain@1.1.9?classifier=sources

@@ -8,3 +8,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-gradle-persistence@RELEASE121?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-gradle-persistence@RELEASE122?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-gradle-persistence@RELEASE123?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-gradle-persistence@RELEASE124?classifier=sources

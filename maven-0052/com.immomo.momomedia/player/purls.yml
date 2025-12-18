@@ -2,3 +2,11 @@
 - pkg:maven/com.immomo.momomedia/player@momo5.1f.liveplay.2020-1102-1614?type=aar
 - pkg:maven/com.immomo.momomedia/player@momo5.1f.liveplay.2021-0428-154601?classifier=sources
 - pkg:maven/com.immomo.momomedia/player@momo5.1f.liveplay.2021-0428-154601?type=aar
+- pkg:maven/com.immomo.momomedia/player@momo5.1f.liveplay.2021-0622-143401?classifier=sources
+- pkg:maven/com.immomo.momomedia/player@momo5.1f.liveplay.2021-0622-143401?type=aar
+- pkg:maven/com.immomo.momomedia/player@momo5.1f.liveplay.2021-0624-1004?classifier=sources
+- pkg:maven/com.immomo.momomedia/player@momo5.1f.liveplay.2021-0624-1004?type=aar
+- pkg:maven/com.immomo.momomedia/player@momo5.1f.liveplay.2021-0624-1008?classifier=sources
+- pkg:maven/com.immomo.momomedia/player@momo5.1f.liveplay.2021-0624-1008?type=aar
+- pkg:maven/com.immomo.momomedia/player@momo5.1f.liveplay.2021-0629-1024?classifier=sources
+- pkg:maven/com.immomo.momomedia/player@momo5.1f.liveplay.2021-0629-1024?type=aar

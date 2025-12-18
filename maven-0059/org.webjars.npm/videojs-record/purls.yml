@@ -2,3 +2,5 @@
 - pkg:maven/org.webjars.npm/videojs-record@2.4.1?classifier=sources
 - pkg:maven/org.webjars.npm/videojs-record@3.1.0
 - pkg:maven/org.webjars.npm/videojs-record@3.1.0?classifier=sources
+- pkg:maven/org.webjars.npm/videojs-record@4.5.0
+- pkg:maven/org.webjars.npm/videojs-record@4.5.0?classifier=sources

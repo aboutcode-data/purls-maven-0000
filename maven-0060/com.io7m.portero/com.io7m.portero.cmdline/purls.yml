@@ -1,0 +1,2 @@
+- pkg:maven/com.io7m.portero/com.io7m.portero.cmdline@1.0.0?classifier=sources
+- pkg:maven/com.io7m.portero/com.io7m.portero.cmdline@2.0.0?classifier=sources

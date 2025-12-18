@@ -1,5 +1,7 @@
 - pkg:maven/com.soebes.itf.jupiter.extension/itf-extension-maven@0.10.0
 - pkg:maven/com.soebes.itf.jupiter.extension/itf-extension-maven@0.10.0?classifier=sources
+- pkg:maven/com.soebes.itf.jupiter.extension/itf-extension-maven@0.11.0
+- pkg:maven/com.soebes.itf.jupiter.extension/itf-extension-maven@0.11.0?classifier=sources
 - pkg:maven/com.soebes.itf.jupiter.extension/itf-extension-maven@0.2.0
 - pkg:maven/com.soebes.itf.jupiter.extension/itf-extension-maven@0.2.0?classifier=sources
 - pkg:maven/com.soebes.itf.jupiter.extension/itf-extension-maven@0.3.0

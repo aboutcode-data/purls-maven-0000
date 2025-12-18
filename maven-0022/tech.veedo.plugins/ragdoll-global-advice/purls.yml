@@ -8,3 +8,5 @@
 - pkg:maven/tech.veedo.plugins/ragdoll-global-advice@1.0.3.RELEASE?classifier=sources
 - pkg:maven/tech.veedo.plugins/ragdoll-global-advice@1.0.4.RELEASE
 - pkg:maven/tech.veedo.plugins/ragdoll-global-advice@1.0.4.RELEASE?classifier=sources
+- pkg:maven/tech.veedo.plugins/ragdoll-global-advice@1.0.5
+- pkg:maven/tech.veedo.plugins/ragdoll-global-advice@1.0.5?classifier=sources

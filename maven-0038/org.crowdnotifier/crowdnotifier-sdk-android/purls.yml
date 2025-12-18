@@ -4,7 +4,11 @@
 - pkg:maven/org.crowdnotifier/crowdnotifier-sdk-android@3.0?classifier=sources
 - pkg:maven/org.crowdnotifier/crowdnotifier-sdk-android@4.0-dev-10?classifier=sources
 - pkg:maven/org.crowdnotifier/crowdnotifier-sdk-android@4.0-dev-13?classifier=sources
+- pkg:maven/org.crowdnotifier/crowdnotifier-sdk-android@4.0-dev-14?classifier=sources
 - pkg:maven/org.crowdnotifier/crowdnotifier-sdk-android@4.0-dev-6?classifier=sources
 - pkg:maven/org.crowdnotifier/crowdnotifier-sdk-android@4.0-dev-7?classifier=sources
 - pkg:maven/org.crowdnotifier/crowdnotifier-sdk-android@4.0-dev-8?classifier=sources
 - pkg:maven/org.crowdnotifier/crowdnotifier-sdk-android@4.0-dev-9?classifier=sources
+- pkg:maven/org.crowdnotifier/crowdnotifier-sdk-android@4.0.0-dev-17?classifier=sources
+- pkg:maven/org.crowdnotifier/crowdnotifier-sdk-android@4.0.0-dev-18?classifier=sources
+- pkg:maven/org.crowdnotifier/crowdnotifier-sdk-android@4.0.0?classifier=sources

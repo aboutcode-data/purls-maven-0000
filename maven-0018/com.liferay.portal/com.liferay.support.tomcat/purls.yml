@@ -46,3 +46,5 @@
 - pkg:maven/com.liferay.portal/com.liferay.support.tomcat@5.0.0?classifier=sources
 - pkg:maven/com.liferay.portal/com.liferay.support.tomcat@5.1.0
 - pkg:maven/com.liferay.portal/com.liferay.support.tomcat@5.1.0?classifier=sources
+- pkg:maven/com.liferay.portal/com.liferay.support.tomcat@6.0.0
+- pkg:maven/com.liferay.portal/com.liferay.support.tomcat@6.0.0?classifier=sources

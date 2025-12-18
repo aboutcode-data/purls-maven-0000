@@ -4,3 +4,5 @@
 - pkg:maven/com.ringcentral/ringcentral@1.7.2?classifier=sources
 - pkg:maven/com.ringcentral/ringcentral@1.7.3
 - pkg:maven/com.ringcentral/ringcentral@1.7.3?classifier=sources
+- pkg:maven/com.ringcentral/ringcentral@2.0.0
+- pkg:maven/com.ringcentral/ringcentral@2.0.0?classifier=sources

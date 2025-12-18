@@ -1,0 +1,4 @@
+- pkg:maven/io.github.thiyagu06/zally-gradle-plugin@0.0.1-dev?classifier=sources
+- pkg:maven/io.github.thiyagu06/zally-gradle-plugin@1.0.2-dev?classifier=sources
+- pkg:maven/io.github.thiyagu06/zally-gradle-plugin@1.0.3-dev?classifier=sources
+- pkg:maven/io.github.thiyagu06/zally-gradle-plugin@1.1?classifier=sources

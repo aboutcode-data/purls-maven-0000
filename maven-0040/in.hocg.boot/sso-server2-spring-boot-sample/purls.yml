@@ -1,0 +1,2 @@
+- pkg:maven/in.hocg.boot/sso-server2-spring-boot-sample@1.0.8
+- pkg:maven/in.hocg.boot/sso-server2-spring-boot-sample@1.0.8?classifier=sources

@@ -1,1 +1,8 @@
 - pkg:maven/tech.relaycorp/cogrpc@1.1.11?classifier=sources
+- pkg:maven/tech.relaycorp/cogrpc@1.1.12?classifier=sources
+- pkg:maven/tech.relaycorp/cogrpc@1.1.13?classifier=sources
+- pkg:maven/tech.relaycorp/cogrpc@1.1.14?classifier=sources
+- pkg:maven/tech.relaycorp/cogrpc@1.1.15?classifier=sources
+- pkg:maven/tech.relaycorp/cogrpc@1.1.16?classifier=sources
+- pkg:maven/tech.relaycorp/cogrpc@1.1.17?classifier=sources
+- pkg:maven/tech.relaycorp/cogrpc@1.1.18?classifier=sources

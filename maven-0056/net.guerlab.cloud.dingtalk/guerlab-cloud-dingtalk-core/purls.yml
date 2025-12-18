@@ -1,0 +1,2 @@
+- pkg:maven/net.guerlab.cloud.dingtalk/guerlab-cloud-dingtalk-core@21.7.2
+- pkg:maven/net.guerlab.cloud.dingtalk/guerlab-cloud-dingtalk-core@21.7.2?classifier=sources

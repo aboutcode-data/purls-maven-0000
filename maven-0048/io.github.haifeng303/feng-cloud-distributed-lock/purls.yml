@@ -1,0 +1,2 @@
+- pkg:maven/io.github.haifeng303/feng-cloud-distributed-lock@2.0.0
+- pkg:maven/io.github.haifeng303/feng-cloud-distributed-lock@2.0.0?classifier=sources

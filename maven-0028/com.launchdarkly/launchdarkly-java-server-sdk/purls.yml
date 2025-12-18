@@ -76,3 +76,13 @@
 - pkg:maven/com.launchdarkly/launchdarkly-java-server-sdk@5.3.1?classifier=sources
 - pkg:maven/com.launchdarkly/launchdarkly-java-server-sdk@5.4.0
 - pkg:maven/com.launchdarkly/launchdarkly-java-server-sdk@5.4.0?classifier=sources
+- pkg:maven/com.launchdarkly/launchdarkly-java-server-sdk@5.4.1
+- pkg:maven/com.launchdarkly/launchdarkly-java-server-sdk@5.4.1?classifier=sources
+- pkg:maven/com.launchdarkly/launchdarkly-java-server-sdk@5.5.0
+- pkg:maven/com.launchdarkly/launchdarkly-java-server-sdk@5.5.0?classifier=sources
+- pkg:maven/com.launchdarkly/launchdarkly-java-server-sdk@5.5.1
+- pkg:maven/com.launchdarkly/launchdarkly-java-server-sdk@5.5.1?classifier=sources
+- pkg:maven/com.launchdarkly/launchdarkly-java-server-sdk@5.6.0
+- pkg:maven/com.launchdarkly/launchdarkly-java-server-sdk@5.6.0?classifier=sources
+- pkg:maven/com.launchdarkly/launchdarkly-java-server-sdk@5.6.1
+- pkg:maven/com.launchdarkly/launchdarkly-java-server-sdk@5.6.1?classifier=sources

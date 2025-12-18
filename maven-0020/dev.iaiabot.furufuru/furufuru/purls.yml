@@ -1,0 +1,2 @@
+- pkg:maven/dev.iaiabot.furufuru/furufuru@0.8.0?classifier=sources
+- pkg:maven/dev.iaiabot.furufuru/furufuru@0.8.2?classifier=sources

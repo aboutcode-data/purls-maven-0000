@@ -1,2 +1,4 @@
 - pkg:maven/net.thevpc.common/thevpc-common-md-docusaurus-to-asciidoctor@1.0.1
 - pkg:maven/net.thevpc.common/thevpc-common-md-docusaurus-to-asciidoctor@1.0.1?classifier=sources
+- pkg:maven/net.thevpc.common/thevpc-common-md-docusaurus-to-asciidoctor@1.2.0
+- pkg:maven/net.thevpc.common/thevpc-common-md-docusaurus-to-asciidoctor@1.2.0?classifier=sources

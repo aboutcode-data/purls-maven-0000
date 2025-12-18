@@ -12,3 +12,5 @@
 - pkg:maven/com.infobip/infobip-typescript-generator-extension-annotation-processor@1.0.0.M7
 - pkg:maven/com.infobip/infobip-typescript-generator-extension-annotation-processor@1.0.0.M7?classifier=sources
 - pkg:maven/com.infobip/infobip-typescript-generator-extension-annotation-processor@1.0.0?classifier=sources
+- pkg:maven/com.infobip/infobip-typescript-generator-extension-annotation-processor@1.0.1
+- pkg:maven/com.infobip/infobip-typescript-generator-extension-annotation-processor@1.0.1?classifier=sources

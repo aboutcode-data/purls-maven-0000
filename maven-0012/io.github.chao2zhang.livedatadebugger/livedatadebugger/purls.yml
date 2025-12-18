@@ -1,1 +1,2 @@
 - pkg:maven/io.github.chao2zhang.livedatadebugger/livedatadebugger@0.0.3?classifier=sources
+- pkg:maven/io.github.chao2zhang.livedatadebugger/livedatadebugger@0.1.0?classifier=sources

@@ -1,2 +1,4 @@
+- pkg:maven/com.github.vhall.android.library/vhallyun-ilss@2.2.41?classifier=sources
+- pkg:maven/com.github.vhall.android.library/vhallyun-ilss@2.2.41?type=aar
 - pkg:maven/com.github.vhall.android.library/vhallyun-ilss@2.2.4?classifier=sources
 - pkg:maven/com.github.vhall.android.library/vhallyun-ilss@2.2.4?type=aar

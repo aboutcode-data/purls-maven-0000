@@ -50,3 +50,5 @@
 - pkg:maven/be.yildiz-games/module-window@5.0.3?classifier=sources
 - pkg:maven/be.yildiz-games/module-window@5.1.0
 - pkg:maven/be.yildiz-games/module-window@5.1.0?classifier=sources
+- pkg:maven/be.yildiz-games/module-window@5.1.1
+- pkg:maven/be.yildiz-games/module-window@5.1.1?classifier=sources

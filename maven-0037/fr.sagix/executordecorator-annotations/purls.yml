@@ -1,0 +1,2 @@
+- pkg:maven/fr.sagix/executordecorator-annotations@2.3
+- pkg:maven/fr.sagix/executordecorator-annotations@2.3?classifier=sources

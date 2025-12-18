@@ -5,6 +5,11 @@
 - pkg:maven/com.ttulka.flyway/flyway-ant@2.0.4?classifier=sources
 - pkg:maven/com.ttulka.flyway/flyway-ant@2.1.0?classifier=sources
 - pkg:maven/com.ttulka.flyway/flyway-ant@2.1.1?classifier=sources
+- pkg:maven/com.ttulka.flyway/flyway-ant@2.10.0?classifier=sources
+- pkg:maven/com.ttulka.flyway/flyway-ant@2.11.0?classifier=sources
+- pkg:maven/com.ttulka.flyway/flyway-ant@2.11.1?classifier=sources
+- pkg:maven/com.ttulka.flyway/flyway-ant@2.11.2?classifier=sources
+- pkg:maven/com.ttulka.flyway/flyway-ant@2.11.3?classifier=sources
 - pkg:maven/com.ttulka.flyway/flyway-ant@2.2.0?classifier=sources
 - pkg:maven/com.ttulka.flyway/flyway-ant@2.2.1?classifier=sources
 - pkg:maven/com.ttulka.flyway/flyway-ant@2.3.0?classifier=sources
@@ -26,3 +31,4 @@
 - pkg:maven/com.ttulka.flyway/flyway-ant@2.8.2?classifier=sources
 - pkg:maven/com.ttulka.flyway/flyway-ant@2.9.0?classifier=sources
 - pkg:maven/com.ttulka.flyway/flyway-ant@2.9.1?classifier=sources
+- pkg:maven/com.ttulka.flyway/flyway-ant@2.9.2?classifier=sources

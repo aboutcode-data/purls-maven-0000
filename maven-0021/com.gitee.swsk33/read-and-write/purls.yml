@@ -20,3 +20,7 @@
 - pkg:maven/com.gitee.swsk33/read-and-write@6.3.1?classifier=sources
 - pkg:maven/com.gitee.swsk33/read-and-write@6.4.1
 - pkg:maven/com.gitee.swsk33/read-and-write@6.4.1?classifier=sources
+- pkg:maven/com.gitee.swsk33/read-and-write@6.5.0
+- pkg:maven/com.gitee.swsk33/read-and-write@6.5.0?classifier=sources
+- pkg:maven/com.gitee.swsk33/read-and-write@6.5.1
+- pkg:maven/com.gitee.swsk33/read-and-write@6.5.1?classifier=sources

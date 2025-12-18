@@ -10,3 +10,5 @@
 - pkg:maven/com.aliyun/aliyun-java-sdk-iot-v5@7.23.0?classifier=sources
 - pkg:maven/com.aliyun/aliyun-java-sdk-iot-v5@7.24.0
 - pkg:maven/com.aliyun/aliyun-java-sdk-iot-v5@7.24.0?classifier=sources
+- pkg:maven/com.aliyun/aliyun-java-sdk-iot-v5@7.25.0
+- pkg:maven/com.aliyun/aliyun-java-sdk-iot-v5@7.25.0?classifier=sources

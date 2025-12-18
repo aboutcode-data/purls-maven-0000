@@ -4,3 +4,5 @@
 - pkg:maven/org.webjars.npm/read-cmd-shim@1.0.4?classifier=sources
 - pkg:maven/org.webjars.npm/read-cmd-shim@1.0.5
 - pkg:maven/org.webjars.npm/read-cmd-shim@1.0.5?classifier=sources
+- pkg:maven/org.webjars.npm/read-cmd-shim@2.0.0
+- pkg:maven/org.webjars.npm/read-cmd-shim@2.0.0?classifier=sources

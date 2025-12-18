@@ -27,3 +27,11 @@
 - pkg:maven/com.v1ok/ebean-service-impl@0.1.7.8
 - pkg:maven/com.v1ok/ebean-service-impl@0.1.7.8?classifier=sources
 - pkg:maven/com.v1ok/ebean-service-impl@0.1.7?classifier=sources
+- pkg:maven/com.v1ok/ebean-service-impl@1290.0.1.10
+- pkg:maven/com.v1ok/ebean-service-impl@1290.0.1.10?classifier=sources
+- pkg:maven/com.v1ok/ebean-service-impl@1290.0.1.11
+- pkg:maven/com.v1ok/ebean-service-impl@1290.0.1.11?classifier=sources
+- pkg:maven/com.v1ok/ebean-service-impl@1290.0.1.13
+- pkg:maven/com.v1ok/ebean-service-impl@1290.0.1.13?classifier=sources
+- pkg:maven/com.v1ok/ebean-service-impl@1290.0.1.9
+- pkg:maven/com.v1ok/ebean-service-impl@1290.0.1.9?classifier=sources

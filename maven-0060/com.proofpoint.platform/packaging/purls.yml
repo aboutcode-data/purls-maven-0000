@@ -404,3 +404,5 @@
 - pkg:maven/com.proofpoint.platform/packaging@2.49?classifier=sources
 - pkg:maven/com.proofpoint.platform/packaging@2.51
 - pkg:maven/com.proofpoint.platform/packaging@2.51?classifier=sources
+- pkg:maven/com.proofpoint.platform/packaging@2.53
+- pkg:maven/com.proofpoint.platform/packaging@2.53?classifier=sources

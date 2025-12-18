@@ -16,3 +16,11 @@
 - pkg:maven/com.hifiveai/hifive-openapi@4.1.1_1-RELEASE?classifier=sources
 - pkg:maven/com.hifiveai/hifive-openapi@4.1.1_2-RELEASE
 - pkg:maven/com.hifiveai/hifive-openapi@4.1.1_2-RELEASE?classifier=sources
+- pkg:maven/com.hifiveai/hifive-openapi@4.1.2_1-RELEASE
+- pkg:maven/com.hifiveai/hifive-openapi@4.1.2_1-RELEASE?classifier=sources
+- pkg:maven/com.hifiveai/hifive-openapi@4.1.2_1_1-RELEASE
+- pkg:maven/com.hifiveai/hifive-openapi@4.1.2_1_1-RELEASE?classifier=sources
+- pkg:maven/com.hifiveai/hifive-openapi@4.1.2_1_2-RELEASE
+- pkg:maven/com.hifiveai/hifive-openapi@4.1.2_1_2-RELEASE?classifier=sources
+- pkg:maven/com.hifiveai/hifive-openapi@4.1.2_2-RELEASE
+- pkg:maven/com.hifiveai/hifive-openapi@4.1.2_2-RELEASE?classifier=sources

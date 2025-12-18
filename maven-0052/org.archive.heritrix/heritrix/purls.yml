@@ -10,3 +10,9 @@
 - pkg:maven/org.archive.heritrix/heritrix@3.4.0-20200518?classifier=src&type=zip
 - pkg:maven/org.archive.heritrix/heritrix@3.4.0-20210527?classifier=src&type=tar.gz
 - pkg:maven/org.archive.heritrix/heritrix@3.4.0-20210527?classifier=src&type=zip
+- pkg:maven/org.archive.heritrix/heritrix@3.4.0-20210617?classifier=src&type=tar.gz
+- pkg:maven/org.archive.heritrix/heritrix@3.4.0-20210617?classifier=src&type=zip
+- pkg:maven/org.archive.heritrix/heritrix@3.4.0-20210618?classifier=src&type=tar.gz
+- pkg:maven/org.archive.heritrix/heritrix@3.4.0-20210618?classifier=src&type=zip
+- pkg:maven/org.archive.heritrix/heritrix@3.4.0-20210621?classifier=src&type=tar.gz
+- pkg:maven/org.archive.heritrix/heritrix@3.4.0-20210621?classifier=src&type=zip

@@ -1,0 +1,4 @@
+- pkg:maven/com.vmware.devops/vrealize-automation-content-generator-core@1.0
+- pkg:maven/com.vmware.devops/vrealize-automation-content-generator-core@1.0?classifier=sources
+- pkg:maven/com.vmware.devops/vrealize-automation-content-generator-core@1.1
+- pkg:maven/com.vmware.devops/vrealize-automation-content-generator-core@1.1?classifier=sources

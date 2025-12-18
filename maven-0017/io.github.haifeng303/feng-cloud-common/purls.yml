@@ -1,1 +1,5 @@
 - pkg:maven/io.github.haifeng303/feng-cloud-common@1.0.0
+- pkg:maven/io.github.haifeng303/feng-cloud-common@1.0.1
+- pkg:maven/io.github.haifeng303/feng-cloud-common@2.0.0
+- pkg:maven/io.github.haifeng303/feng-cloud-common@2.0.1
+- pkg:maven/io.github.haifeng303/feng-cloud-common@2.0.1?classifier=sources

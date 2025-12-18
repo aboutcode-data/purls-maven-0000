@@ -1,0 +1,6 @@
+- pkg:maven/com.immomo.litebuild/plugin@0.1.46
+- pkg:maven/com.immomo.litebuild/plugin@0.1.46?classifier=sources
+- pkg:maven/com.immomo.litebuild/plugin@0.1.51
+- pkg:maven/com.immomo.litebuild/plugin@0.1.51?classifier=sources
+- pkg:maven/com.immomo.litebuild/plugin@0.1.56
+- pkg:maven/com.immomo.litebuild/plugin@0.1.56?classifier=sources

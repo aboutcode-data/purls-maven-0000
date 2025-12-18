@@ -6,3 +6,7 @@
 - pkg:maven/io.primer/android@1.0.0-beta.20?classifier=sources
 - pkg:maven/io.primer/android@1.0.0-beta.21?classifier=sources
 - pkg:maven/io.primer/android@1.0.0-beta.22?classifier=sources
+- pkg:maven/io.primer/android@1.0.0-beta.23?classifier=sources
+- pkg:maven/io.primer/android@1.0.0-beta.24?classifier=sources
+- pkg:maven/io.primer/android@1.0.0-beta.26?classifier=sources
+- pkg:maven/io.primer/android@1.0.0-beta.27?classifier=sources

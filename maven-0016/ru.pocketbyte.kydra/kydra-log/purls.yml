@@ -1,1 +1,2 @@
 - pkg:maven/ru.pocketbyte.kydra/kydra-log@1.1.4?classifier=sources
+- pkg:maven/ru.pocketbyte.kydra/kydra-log@1.1.5?classifier=sources

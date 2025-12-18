@@ -1,1 +1,2 @@
 - pkg:maven/com.uber.nullaway/android-jarinfer-models-sdk30@0.9.1?classifier=sources
+- pkg:maven/com.uber.nullaway/android-jarinfer-models-sdk30@0.9.2?classifier=sources

@@ -2,3 +2,5 @@
 - pkg:maven/org.webjars.npm/ztree__ztree_v3@3.5.40?classifier=sources
 - pkg:maven/org.webjars.npm/ztree__ztree_v3@3.5.41
 - pkg:maven/org.webjars.npm/ztree__ztree_v3@3.5.41?classifier=sources
+- pkg:maven/org.webjars.npm/ztree__ztree_v3@3.5.46
+- pkg:maven/org.webjars.npm/ztree__ztree_v3@3.5.46?classifier=sources

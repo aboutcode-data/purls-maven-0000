@@ -1,1 +1,4 @@
+- pkg:maven/io.github.smartsoftasia/indoormapsdk@0.9.10?classifier=sources
+- pkg:maven/io.github.smartsoftasia/indoormapsdk@0.9.11?classifier=sources
+- pkg:maven/io.github.smartsoftasia/indoormapsdk@0.9.12?classifier=sources
 - pkg:maven/io.github.smartsoftasia/indoormapsdk@0.9.9?classifier=sources

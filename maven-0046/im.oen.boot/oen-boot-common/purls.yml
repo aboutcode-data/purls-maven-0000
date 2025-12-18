@@ -1,2 +1,4 @@
 - pkg:maven/im.oen.boot/oen-boot-common@0.0.2
 - pkg:maven/im.oen.boot/oen-boot-common@0.0.2?classifier=sources
+- pkg:maven/im.oen.boot/oen-boot-common@0.0.3-RELEASE
+- pkg:maven/im.oen.boot/oen-boot-common@0.0.3-RELEASE?classifier=sources

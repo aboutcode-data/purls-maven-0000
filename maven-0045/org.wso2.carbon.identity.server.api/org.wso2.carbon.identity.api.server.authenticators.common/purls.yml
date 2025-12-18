@@ -1,0 +1,14 @@
+- pkg:maven/org.wso2.carbon.identity.server.api/org.wso2.carbon.identity.api.server.authenticators.common@1.0.231
+- pkg:maven/org.wso2.carbon.identity.server.api/org.wso2.carbon.identity.api.server.authenticators.common@1.0.231?classifier=sources
+- pkg:maven/org.wso2.carbon.identity.server.api/org.wso2.carbon.identity.api.server.authenticators.common@1.0.232
+- pkg:maven/org.wso2.carbon.identity.server.api/org.wso2.carbon.identity.api.server.authenticators.common@1.0.232?classifier=sources
+- pkg:maven/org.wso2.carbon.identity.server.api/org.wso2.carbon.identity.api.server.authenticators.common@1.0.233
+- pkg:maven/org.wso2.carbon.identity.server.api/org.wso2.carbon.identity.api.server.authenticators.common@1.0.233?classifier=sources
+- pkg:maven/org.wso2.carbon.identity.server.api/org.wso2.carbon.identity.api.server.authenticators.common@1.0.234
+- pkg:maven/org.wso2.carbon.identity.server.api/org.wso2.carbon.identity.api.server.authenticators.common@1.0.234?classifier=sources
+- pkg:maven/org.wso2.carbon.identity.server.api/org.wso2.carbon.identity.api.server.authenticators.common@1.0.235
+- pkg:maven/org.wso2.carbon.identity.server.api/org.wso2.carbon.identity.api.server.authenticators.common@1.0.235?classifier=sources
+- pkg:maven/org.wso2.carbon.identity.server.api/org.wso2.carbon.identity.api.server.authenticators.common@1.0.236
+- pkg:maven/org.wso2.carbon.identity.server.api/org.wso2.carbon.identity.api.server.authenticators.common@1.0.236?classifier=sources
+- pkg:maven/org.wso2.carbon.identity.server.api/org.wso2.carbon.identity.api.server.authenticators.common@1.0.237
+- pkg:maven/org.wso2.carbon.identity.server.api/org.wso2.carbon.identity.api.server.authenticators.common@1.0.237?classifier=sources

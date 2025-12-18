@@ -4,3 +4,5 @@
 - pkg:maven/edu.cmu.cs.gabriel/serverlist@2.3.2?type=aar
 - pkg:maven/edu.cmu.cs.gabriel/serverlist@2.3.3?classifier=sources
 - pkg:maven/edu.cmu.cs.gabriel/serverlist@2.3.3?type=aar
+- pkg:maven/edu.cmu.cs.gabriel/serverlist@2.4.0?classifier=sources
+- pkg:maven/edu.cmu.cs.gabriel/serverlist@2.4.0?type=aar

@@ -1,0 +1,6 @@
+- pkg:maven/de.adorsys.psd2.sandbox/auth-commons@5.12
+- pkg:maven/de.adorsys.psd2.sandbox/auth-commons@5.12?classifier=sources
+- pkg:maven/de.adorsys.psd2.sandbox/auth-commons@5.13
+- pkg:maven/de.adorsys.psd2.sandbox/auth-commons@5.13?classifier=sources
+- pkg:maven/de.adorsys.psd2.sandbox/auth-commons@5.14
+- pkg:maven/de.adorsys.psd2.sandbox/auth-commons@5.14?classifier=sources

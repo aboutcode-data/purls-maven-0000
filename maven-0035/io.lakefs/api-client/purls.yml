@@ -2,3 +2,7 @@
 - pkg:maven/io.lakefs/api-client@0.40.3-RC.0
 - pkg:maven/io.lakefs/api-client@0.40.3-RC.0?classifier=sources
 - pkg:maven/io.lakefs/api-client@0.40.3?classifier=sources
+- pkg:maven/io.lakefs/api-client@0.44.0
+- pkg:maven/io.lakefs/api-client@0.44.0?classifier=sources
+- pkg:maven/io.lakefs/api-client@0.46.0
+- pkg:maven/io.lakefs/api-client@0.46.0?classifier=sources

@@ -112,3 +112,4 @@
 - pkg:maven/org.grails/grails-datastore-gorm-hibernate5@7.1.0.M2?classifier=sources
 - pkg:maven/org.grails/grails-datastore-gorm-hibernate5@7.1.0.M3
 - pkg:maven/org.grails/grails-datastore-gorm-hibernate5@7.1.0.M3?classifier=sources
+- pkg:maven/org.grails/grails-datastore-gorm-hibernate5@7.1.0.RC1?classifier=sources

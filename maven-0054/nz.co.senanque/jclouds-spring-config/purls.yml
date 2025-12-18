@@ -1,0 +1,8 @@
+- pkg:maven/nz.co.senanque/jclouds-spring-config@0.0.20-RELEASE
+- pkg:maven/nz.co.senanque/jclouds-spring-config@0.0.20-RELEASE?classifier=sources
+- pkg:maven/nz.co.senanque/jclouds-spring-config@0.0.21-RELEASE
+- pkg:maven/nz.co.senanque/jclouds-spring-config@0.0.21-RELEASE?classifier=sources
+- pkg:maven/nz.co.senanque/jclouds-spring-config@0.0.23-RELEASE
+- pkg:maven/nz.co.senanque/jclouds-spring-config@0.0.23-RELEASE?classifier=sources
+- pkg:maven/nz.co.senanque/jclouds-spring-config@1.0.0-RELEASE
+- pkg:maven/nz.co.senanque/jclouds-spring-config@1.0.0-RELEASE?classifier=sources

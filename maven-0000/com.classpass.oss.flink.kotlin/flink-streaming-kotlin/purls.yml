@@ -1,0 +1,1 @@
+- pkg:maven/com.classpass.oss.flink.kotlin/flink-streaming-kotlin@0.1.1?classifier=sources
