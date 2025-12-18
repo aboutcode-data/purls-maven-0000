@@ -8,3 +8,5 @@
 - pkg:maven/org.codelibs.fione/fione@13.7.0?classifier=sources
 - pkg:maven/org.codelibs.fione/fione@13.8.0
 - pkg:maven/org.codelibs.fione/fione@13.8.0?classifier=sources
+- pkg:maven/org.codelibs.fione/fione@13.9.0
+- pkg:maven/org.codelibs.fione/fione@13.9.0?classifier=sources

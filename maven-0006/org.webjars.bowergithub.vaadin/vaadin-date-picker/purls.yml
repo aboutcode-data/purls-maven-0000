@@ -98,5 +98,9 @@
 - pkg:maven/org.webjars.bowergithub.vaadin/vaadin-date-picker@4.3.0-beta1
 - pkg:maven/org.webjars.bowergithub.vaadin/vaadin-date-picker@4.3.0-beta1?classifier=sources
 - pkg:maven/org.webjars.bowergithub.vaadin/vaadin-date-picker@4.3.0?classifier=sources
+- pkg:maven/org.webjars.bowergithub.vaadin/vaadin-date-picker@4.4.0
 - pkg:maven/org.webjars.bowergithub.vaadin/vaadin-date-picker@4.4.0-alpha1
 - pkg:maven/org.webjars.bowergithub.vaadin/vaadin-date-picker@4.4.0-alpha1?classifier=sources
+- pkg:maven/org.webjars.bowergithub.vaadin/vaadin-date-picker@4.4.0?classifier=sources
+- pkg:maven/org.webjars.bowergithub.vaadin/vaadin-date-picker@4.4.1
+- pkg:maven/org.webjars.bowergithub.vaadin/vaadin-date-picker@4.4.1?classifier=sources

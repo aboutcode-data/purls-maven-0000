@@ -1,0 +1,12 @@
+- pkg:maven/com.gitee.swsk33/read-and-write@4.3.10
+- pkg:maven/com.gitee.swsk33/read-and-write@4.3.10?classifier=sources
+- pkg:maven/com.gitee.swsk33/read-and-write@4.5.10
+- pkg:maven/com.gitee.swsk33/read-and-write@4.5.10?classifier=sources
+- pkg:maven/com.gitee.swsk33/read-and-write@4.5.11
+- pkg:maven/com.gitee.swsk33/read-and-write@4.5.11?classifier=sources
+- pkg:maven/com.gitee.swsk33/read-and-write@4.5.12
+- pkg:maven/com.gitee.swsk33/read-and-write@4.5.12?classifier=sources
+- pkg:maven/com.gitee.swsk33/read-and-write@5.0.0-1024
+- pkg:maven/com.gitee.swsk33/read-and-write@5.0.0-1024?classifier=sources
+- pkg:maven/com.gitee.swsk33/read-and-write@5.1.0-halloween
+- pkg:maven/com.gitee.swsk33/read-and-write@5.1.0-halloween?classifier=sources

@@ -14,3 +14,5 @@
 - pkg:maven/com.cognitect.aws/xray@785.2.599.0?classifier=sources
 - pkg:maven/com.cognitect.aws/xray@795.2.646.0
 - pkg:maven/com.cognitect.aws/xray@795.2.646.0?classifier=sources
+- pkg:maven/com.cognitect.aws/xray@809.2.784.0
+- pkg:maven/com.cognitect.aws/xray@809.2.784.0?classifier=sources

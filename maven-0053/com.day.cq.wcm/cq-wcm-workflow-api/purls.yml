@@ -1,0 +1,9 @@
+- pkg:maven/com.day.cq.wcm/cq-wcm-workflow-api@5.1.10?classifier=sources
+- pkg:maven/com.day.cq.wcm/cq-wcm-workflow-api@5.1.12?classifier=sources
+- pkg:maven/com.day.cq.wcm/cq-wcm-workflow-api@5.1.16?classifier=sources
+- pkg:maven/com.day.cq.wcm/cq-wcm-workflow-api@5.1.18?classifier=sources
+- pkg:maven/com.day.cq.wcm/cq-wcm-workflow-api@5.1.20?classifier=sources
+- pkg:maven/com.day.cq.wcm/cq-wcm-workflow-api@5.1.6?classifier=sources
+- pkg:maven/com.day.cq.wcm/cq-wcm-workflow-api@5.1.8?classifier=sources
+- pkg:maven/com.day.cq.wcm/cq-wcm-workflow-api@5.3.0?classifier=sources
+- pkg:maven/com.day.cq.wcm/cq-wcm-workflow-api@5.7.2?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.wanari/web-push_2.13@1.0-alfa
+- pkg:maven/com.wanari/web-push_2.13@1.0-alfa?classifier=sources

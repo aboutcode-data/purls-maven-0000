@@ -1,3 +1,5 @@
+- pkg:maven/org.programmiersportgruppe/j-maven-tester@0.2.0
+- pkg:maven/org.programmiersportgruppe/j-maven-tester@0.2.0?classifier=sources
 - pkg:maven/org.programmiersportgruppe/j-maven-tester@1
 - pkg:maven/org.programmiersportgruppe/j-maven-tester@1?classifier=sources
 - pkg:maven/org.programmiersportgruppe/j-maven-tester@2

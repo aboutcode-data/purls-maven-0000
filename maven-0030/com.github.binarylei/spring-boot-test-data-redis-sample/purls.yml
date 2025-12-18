@@ -1,0 +1,4 @@
+- pkg:maven/com.github.binarylei/spring-boot-test-data-redis-sample@0.1.1-alpha
+- pkg:maven/com.github.binarylei/spring-boot-test-data-redis-sample@0.1.1-alpha2
+- pkg:maven/com.github.binarylei/spring-boot-test-data-redis-sample@0.1.1-alpha2?classifier=sources
+- pkg:maven/com.github.binarylei/spring-boot-test-data-redis-sample@0.1.1-alpha?classifier=sources

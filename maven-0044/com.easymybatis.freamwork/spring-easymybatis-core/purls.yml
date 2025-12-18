@@ -44,3 +44,6 @@
 - pkg:maven/com.easymybatis.freamwork/spring-easymybatis-core@0.2.3.RELEASE?classifier=sources
 - pkg:maven/com.easymybatis.freamwork/spring-easymybatis-core@0.2.4.RELEASE
 - pkg:maven/com.easymybatis.freamwork/spring-easymybatis-core@0.2.4.RELEASE?classifier=sources
+- pkg:maven/com.easymybatis.freamwork/spring-easymybatis-core@0.2.5.RELEASE?classifier=sources
+- pkg:maven/com.easymybatis.freamwork/spring-easymybatis-core@0.2.6.RELEASE
+- pkg:maven/com.easymybatis.freamwork/spring-easymybatis-core@0.2.6.RELEASE?classifier=sources

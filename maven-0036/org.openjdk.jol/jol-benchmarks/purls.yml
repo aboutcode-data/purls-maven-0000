@@ -4,3 +4,7 @@
 - pkg:maven/org.openjdk.jol/jol-benchmarks@0.11?classifier=sources
 - pkg:maven/org.openjdk.jol/jol-benchmarks@0.12
 - pkg:maven/org.openjdk.jol/jol-benchmarks@0.12?classifier=sources
+- pkg:maven/org.openjdk.jol/jol-benchmarks@0.13
+- pkg:maven/org.openjdk.jol/jol-benchmarks@0.13?classifier=sources
+- pkg:maven/org.openjdk.jol/jol-benchmarks@0.14
+- pkg:maven/org.openjdk.jol/jol-benchmarks@0.14?classifier=sources

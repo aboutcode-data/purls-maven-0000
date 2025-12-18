@@ -4,3 +4,4 @@
 - pkg:maven/org.jetbrains.kotlinx/kotlinx-metadata-jvm@0.0.6?classifier=sources
 - pkg:maven/org.jetbrains.kotlinx/kotlinx-metadata-jvm@0.1.0
 - pkg:maven/org.jetbrains.kotlinx/kotlinx-metadata-jvm@0.1.0?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx/kotlinx-metadata-jvm@0.2.0?classifier=sources

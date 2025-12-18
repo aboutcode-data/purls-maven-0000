@@ -69,6 +69,16 @@
 - pkg:maven/net.snowflake/snowflake-jdbc@3.12.1
 - pkg:maven/net.snowflake/snowflake-jdbc@3.12.10
 - pkg:maven/net.snowflake/snowflake-jdbc@3.12.10?classifier=sources
+- pkg:maven/net.snowflake/snowflake-jdbc@3.12.11
+- pkg:maven/net.snowflake/snowflake-jdbc@3.12.11?classifier=sources
+- pkg:maven/net.snowflake/snowflake-jdbc@3.12.12
+- pkg:maven/net.snowflake/snowflake-jdbc@3.12.12?classifier=sources
+- pkg:maven/net.snowflake/snowflake-jdbc@3.12.13
+- pkg:maven/net.snowflake/snowflake-jdbc@3.12.13?classifier=sources
+- pkg:maven/net.snowflake/snowflake-jdbc@3.12.14
+- pkg:maven/net.snowflake/snowflake-jdbc@3.12.14?classifier=sources
+- pkg:maven/net.snowflake/snowflake-jdbc@3.12.15
+- pkg:maven/net.snowflake/snowflake-jdbc@3.12.15?classifier=sources
 - pkg:maven/net.snowflake/snowflake-jdbc@3.12.1?classifier=sources
 - pkg:maven/net.snowflake/snowflake-jdbc@3.12.2
 - pkg:maven/net.snowflake/snowflake-jdbc@3.12.2?classifier=sources

@@ -90,3 +90,5 @@
 - pkg:maven/com.centurylink.mdw/mdw@6.1.37?type=war
 - pkg:maven/com.centurylink.mdw/mdw@6.1.38?classifier=sources
 - pkg:maven/com.centurylink.mdw/mdw@6.1.38?type=war
+- pkg:maven/com.centurylink.mdw/mdw@6.1.39?classifier=sources
+- pkg:maven/com.centurylink.mdw/mdw@6.1.39?type=war

@@ -1,1 +1,2 @@
 - pkg:maven/org.jboss.da/testsuite@0.8.2
+- pkg:maven/org.jboss.da/testsuite@2.0.4

@@ -50,3 +50,5 @@
 - pkg:maven/com.microsoft.azure/azure-data-lake-store-sdk@2.3.7?classifier=sources
 - pkg:maven/com.microsoft.azure/azure-data-lake-store-sdk@2.3.8
 - pkg:maven/com.microsoft.azure/azure-data-lake-store-sdk@2.3.8?classifier=sources
+- pkg:maven/com.microsoft.azure/azure-data-lake-store-sdk@2.3.9
+- pkg:maven/com.microsoft.azure/azure-data-lake-store-sdk@2.3.9?classifier=sources

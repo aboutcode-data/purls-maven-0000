@@ -22,3 +22,5 @@
 - pkg:maven/de.golfgl.gdxgamesvcs/gdx-gamesvcs-android-gpgs@1.0.1?type=aar
 - pkg:maven/de.golfgl.gdxgamesvcs/gdx-gamesvcs-android-gpgs@1.0.2?classifier=sources
 - pkg:maven/de.golfgl.gdxgamesvcs/gdx-gamesvcs-android-gpgs@1.0.2?type=aar
+- pkg:maven/de.golfgl.gdxgamesvcs/gdx-gamesvcs-android-gpgs@1.1.0?classifier=sources
+- pkg:maven/de.golfgl.gdxgamesvcs/gdx-gamesvcs-android-gpgs@1.1.0?type=aar

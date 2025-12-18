@@ -18,6 +18,10 @@
 - pkg:maven/com.aliyun.datahub/datahub-client-library@1.0.8-public?classifier=sources
 - pkg:maven/com.aliyun.datahub/datahub-client-library@1.1.10-public
 - pkg:maven/com.aliyun.datahub/datahub-client-library@1.1.10-public?classifier=sources
+- pkg:maven/com.aliyun.datahub/datahub-client-library@1.1.12-public
+- pkg:maven/com.aliyun.datahub/datahub-client-library@1.1.12-public?classifier=sources
+- pkg:maven/com.aliyun.datahub/datahub-client-library@1.1.13-public
+- pkg:maven/com.aliyun.datahub/datahub-client-library@1.1.13-public?classifier=sources
 - pkg:maven/com.aliyun.datahub/datahub-client-library@1.1.7-public
 - pkg:maven/com.aliyun.datahub/datahub-client-library@1.1.7-public?classifier=sources
 - pkg:maven/com.aliyun.datahub/datahub-client-library@1.1.8-public

@@ -1,2 +1,4 @@
 - pkg:maven/dk.nodes.utils/kotlin@1.0.0
 - pkg:maven/dk.nodes.utils/kotlin@1.0.0?classifier=sources
+- pkg:maven/dk.nodes.utils/kotlin@1.1.0
+- pkg:maven/dk.nodes.utils/kotlin@1.1.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/net.officefloor.server/officeserver_appengineemulator@3.28.2
+- pkg:maven/net.officefloor.server/officeserver_appengineemulator@3.28.2?classifier=sources

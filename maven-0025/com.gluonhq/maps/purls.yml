@@ -11,3 +11,5 @@
 - pkg:maven/com.gluonhq/maps@2.0.0-ea%2B2?classifier=sources
 - pkg:maven/com.gluonhq/maps@2.0.0-ea%2B3
 - pkg:maven/com.gluonhq/maps@2.0.0-ea%2B3?classifier=sources
+- pkg:maven/com.gluonhq/maps@2.0.0-ea%2B4
+- pkg:maven/com.gluonhq/maps@2.0.0-ea%2B4?classifier=sources

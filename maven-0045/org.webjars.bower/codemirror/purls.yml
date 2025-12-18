@@ -39,6 +39,8 @@
 - pkg:maven/org.webjars.bower/codemirror@5.4.0?classifier=sources
 - pkg:maven/org.webjars.bower/codemirror@5.5.0
 - pkg:maven/org.webjars.bower/codemirror@5.5.0?classifier=sources
+- pkg:maven/org.webjars.bower/codemirror@5.58.2
+- pkg:maven/org.webjars.bower/codemirror@5.58.2?classifier=sources
 - pkg:maven/org.webjars.bower/codemirror@5.6.0
 - pkg:maven/org.webjars.bower/codemirror@5.6.0?classifier=sources
 - pkg:maven/org.webjars.bower/codemirror@5.7.0

@@ -1,0 +1,2 @@
+- pkg:maven/io.github.yuegod.starter.swagger/swagger-doc-spring-boot-starter@2.9.2
+- pkg:maven/io.github.yuegod.starter.swagger/swagger-doc-spring-boot-starter@2.9.2?classifier=sources

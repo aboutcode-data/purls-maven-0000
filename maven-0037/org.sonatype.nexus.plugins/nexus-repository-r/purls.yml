@@ -29,6 +29,10 @@
 - pkg:maven/org.sonatype.nexus.plugins/nexus-repository-r@1.1.19?classifier=sources
 - pkg:maven/org.sonatype.nexus.plugins/nexus-repository-r@1.1.1?classifier=sources
 - pkg:maven/org.sonatype.nexus.plugins/nexus-repository-r@1.1.2
+- pkg:maven/org.sonatype.nexus.plugins/nexus-repository-r@1.1.20
+- pkg:maven/org.sonatype.nexus.plugins/nexus-repository-r@1.1.20?classifier=sources
+- pkg:maven/org.sonatype.nexus.plugins/nexus-repository-r@1.1.21
+- pkg:maven/org.sonatype.nexus.plugins/nexus-repository-r@1.1.21?classifier=sources
 - pkg:maven/org.sonatype.nexus.plugins/nexus-repository-r@1.1.2?classifier=sources
 - pkg:maven/org.sonatype.nexus.plugins/nexus-repository-r@1.1.3
 - pkg:maven/org.sonatype.nexus.plugins/nexus-repository-r@1.1.3?classifier=sources
@@ -44,3 +48,7 @@
 - pkg:maven/org.sonatype.nexus.plugins/nexus-repository-r@1.1.8?classifier=sources
 - pkg:maven/org.sonatype.nexus.plugins/nexus-repository-r@1.1.9
 - pkg:maven/org.sonatype.nexus.plugins/nexus-repository-r@1.1.9?classifier=sources
+- pkg:maven/org.sonatype.nexus.plugins/nexus-repository-r@3.28.0-01
+- pkg:maven/org.sonatype.nexus.plugins/nexus-repository-r@3.28.0-01?classifier=sources
+- pkg:maven/org.sonatype.nexus.plugins/nexus-repository-r@3.28.1-01
+- pkg:maven/org.sonatype.nexus.plugins/nexus-repository-r@3.28.1-01?classifier=sources

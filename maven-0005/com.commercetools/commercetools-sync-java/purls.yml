@@ -30,6 +30,16 @@
 - pkg:maven/com.commercetools/commercetools-sync-java@1.9.0?classifier=sources
 - pkg:maven/com.commercetools/commercetools-sync-java@1.9.1
 - pkg:maven/com.commercetools/commercetools-sync-java@1.9.1?classifier=sources
+- pkg:maven/com.commercetools/commercetools-sync-java@2.0.0
+- pkg:maven/com.commercetools/commercetools-sync-java@2.0.0?classifier=sources
+- pkg:maven/com.commercetools/commercetools-sync-java@2.1.0
+- pkg:maven/com.commercetools/commercetools-sync-java@2.1.0?classifier=sources
+- pkg:maven/com.commercetools/commercetools-sync-java@2.2.0
+- pkg:maven/com.commercetools/commercetools-sync-java@2.2.0?classifier=sources
+- pkg:maven/com.commercetools/commercetools-sync-java@2.2.1
+- pkg:maven/com.commercetools/commercetools-sync-java@2.2.1?classifier=sources
+- pkg:maven/com.commercetools/commercetools-sync-java@2.3.0
+- pkg:maven/com.commercetools/commercetools-sync-java@2.3.0?classifier=sources
 - pkg:maven/com.commercetools/commercetools-sync-java@v1.0.0-M10
 - pkg:maven/com.commercetools/commercetools-sync-java@v1.0.0-M10?classifier=sources
 - pkg:maven/com.commercetools/commercetools-sync-java@v1.0.0-M11

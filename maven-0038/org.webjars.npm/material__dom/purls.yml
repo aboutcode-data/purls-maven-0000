@@ -16,3 +16,5 @@
 - pkg:maven/org.webjars.npm/material__dom@6.0.0?classifier=sources
 - pkg:maven/org.webjars.npm/material__dom@7.0.0
 - pkg:maven/org.webjars.npm/material__dom@7.0.0?classifier=sources
+- pkg:maven/org.webjars.npm/material__dom@8.0.0
+- pkg:maven/org.webjars.npm/material__dom@8.0.0?classifier=sources

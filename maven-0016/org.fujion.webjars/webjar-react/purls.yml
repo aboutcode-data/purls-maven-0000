@@ -1,2 +1,3 @@
+- pkg:maven/org.fujion.webjars/webjar-react@16.13.1
 - pkg:maven/org.fujion.webjars/webjar-react@16.4.2
 - pkg:maven/org.fujion.webjars/webjar-react@16.8.3

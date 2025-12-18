@@ -6,3 +6,5 @@
 - pkg:maven/com.backbase.oss.deferredresources/deferred-resources@0.5.0?classifier=sources
 - pkg:maven/com.backbase.oss.deferredresources/deferred-resources@0.5.1?classifier=sources
 - pkg:maven/com.backbase.oss.deferredresources/deferred-resources@1.0.0?classifier=sources
+- pkg:maven/com.backbase.oss.deferredresources/deferred-resources@1.1.0?classifier=sources
+- pkg:maven/com.backbase.oss.deferredresources/deferred-resources@1.2.0?classifier=sources

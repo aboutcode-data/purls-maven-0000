@@ -1,0 +1,14 @@
+- pkg:maven/software.amazon.awssdk/servicecatalogappregistry@2.15.27
+- pkg:maven/software.amazon.awssdk/servicecatalogappregistry@2.15.27?classifier=sources
+- pkg:maven/software.amazon.awssdk/servicecatalogappregistry@2.15.28
+- pkg:maven/software.amazon.awssdk/servicecatalogappregistry@2.15.28?classifier=sources
+- pkg:maven/software.amazon.awssdk/servicecatalogappregistry@2.15.29
+- pkg:maven/software.amazon.awssdk/servicecatalogappregistry@2.15.29?classifier=sources
+- pkg:maven/software.amazon.awssdk/servicecatalogappregistry@2.15.30
+- pkg:maven/software.amazon.awssdk/servicecatalogappregistry@2.15.30?classifier=sources
+- pkg:maven/software.amazon.awssdk/servicecatalogappregistry@2.15.31
+- pkg:maven/software.amazon.awssdk/servicecatalogappregistry@2.15.31?classifier=sources
+- pkg:maven/software.amazon.awssdk/servicecatalogappregistry@2.15.32
+- pkg:maven/software.amazon.awssdk/servicecatalogappregistry@2.15.32?classifier=sources
+- pkg:maven/software.amazon.awssdk/servicecatalogappregistry@2.15.33
+- pkg:maven/software.amazon.awssdk/servicecatalogappregistry@2.15.33?classifier=sources

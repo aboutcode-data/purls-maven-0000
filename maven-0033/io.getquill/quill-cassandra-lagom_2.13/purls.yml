@@ -1,0 +1,2 @@
+- pkg:maven/io.getquill/quill-cassandra-lagom_2.13@3.6.0-RC3
+- pkg:maven/io.getquill/quill-cassandra-lagom_2.13@3.6.0-RC3?classifier=sources

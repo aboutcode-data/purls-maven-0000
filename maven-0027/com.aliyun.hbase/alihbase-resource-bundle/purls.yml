@@ -9,6 +9,7 @@
 - pkg:maven/com.aliyun.hbase/alihbase-resource-bundle@1.1.9
 - pkg:maven/com.aliyun.hbase/alihbase-resource-bundle@1.8.0
 - pkg:maven/com.aliyun.hbase/alihbase-resource-bundle@1.8.1
+- pkg:maven/com.aliyun.hbase/alihbase-resource-bundle@1.8.2
 - pkg:maven/com.aliyun.hbase/alihbase-resource-bundle@2.0.0
 - pkg:maven/com.aliyun.hbase/alihbase-resource-bundle@2.0.10
 - pkg:maven/com.aliyun.hbase/alihbase-resource-bundle@2.0.2
@@ -21,3 +22,4 @@
 - pkg:maven/com.aliyun.hbase/alihbase-resource-bundle@2.0.9
 - pkg:maven/com.aliyun.hbase/alihbase-resource-bundle@2.8.0
 - pkg:maven/com.aliyun.hbase/alihbase-resource-bundle@2.8.1
+- pkg:maven/com.aliyun.hbase/alihbase-resource-bundle@2.8.2

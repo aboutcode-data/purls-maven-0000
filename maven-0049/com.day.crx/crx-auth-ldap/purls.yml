@@ -1,0 +1,12 @@
+- pkg:maven/com.day.crx/crx-auth-ldap@2.3.0-alpha1?classifier=sources
+- pkg:maven/com.day.crx/crx-auth-ldap@2.3.0-load12?classifier=sources
+- pkg:maven/com.day.crx/crx-auth-ldap@2.3.0-load13?classifier=sources
+- pkg:maven/com.day.crx/crx-auth-ldap@2.3.15?classifier=sources
+- pkg:maven/com.day.crx/crx-auth-ldap@2.3.1?classifier=sources
+- pkg:maven/com.day.crx/crx-auth-ldap@2.3.2?classifier=sources
+- pkg:maven/com.day.crx/crx-auth-ldap@2.3.3?classifier=sources
+- pkg:maven/com.day.crx/crx-auth-ldap@2.3.4?classifier=sources
+- pkg:maven/com.day.crx/crx-auth-ldap@2.3.5?classifier=sources
+- pkg:maven/com.day.crx/crx-auth-ldap@2.3.6?classifier=sources
+- pkg:maven/com.day.crx/crx-auth-ldap@2.4.23?classifier=sources
+- pkg:maven/com.day.crx/crx-auth-ldap@2.4.30?classifier=sources

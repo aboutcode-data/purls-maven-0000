@@ -1,0 +1,2 @@
+- pkg:maven/io.taig/taigless-hashing_sjs1_2.13@0.1.11
+- pkg:maven/io.taig/taigless-hashing_sjs1_2.13@0.1.11?classifier=sources

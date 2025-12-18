@@ -17,3 +17,4 @@
 - pkg:maven/com.twelvemonkeys.imageio/imageio-pdf@3.4.3
 - pkg:maven/com.twelvemonkeys.imageio/imageio-pdf@3.5
 - pkg:maven/com.twelvemonkeys.imageio/imageio-pdf@3.6
+- pkg:maven/com.twelvemonkeys.imageio/imageio-pdf@3.6.1

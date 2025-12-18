@@ -538,3 +538,7 @@
 - pkg:maven/org.lastaflute/lastaflute@1.1.6?classifier=sources
 - pkg:maven/org.lastaflute/lastaflute@1.1.7
 - pkg:maven/org.lastaflute/lastaflute@1.1.7?classifier=sources
+- pkg:maven/org.lastaflute/lastaflute@1.1.8
+- pkg:maven/org.lastaflute/lastaflute@1.1.8-RC2
+- pkg:maven/org.lastaflute/lastaflute@1.1.8-RC2?classifier=sources
+- pkg:maven/org.lastaflute/lastaflute@1.1.8?classifier=sources

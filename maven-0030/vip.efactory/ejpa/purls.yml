@@ -28,3 +28,7 @@
 - pkg:maven/vip.efactory/ejpa@3.6.0?classifier=sources
 - pkg:maven/vip.efactory/ejpa@3.7.0
 - pkg:maven/vip.efactory/ejpa@3.7.0?classifier=sources
+- pkg:maven/vip.efactory/ejpa@4.0.0
+- pkg:maven/vip.efactory/ejpa@4.0.0?classifier=sources
+- pkg:maven/vip.efactory/ejpa@4.0.1
+- pkg:maven/vip.efactory/ejpa@4.0.1?classifier=sources

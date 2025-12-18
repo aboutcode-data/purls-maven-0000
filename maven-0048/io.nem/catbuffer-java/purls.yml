@@ -10,5 +10,7 @@
 - pkg:maven/io.nem/catbuffer-java@0.0.21?classifier=sources
 - pkg:maven/io.nem/catbuffer-java@0.0.22
 - pkg:maven/io.nem/catbuffer-java@0.0.22?classifier=sources
+- pkg:maven/io.nem/catbuffer-java@0.0.23
+- pkg:maven/io.nem/catbuffer-java@0.0.23?classifier=sources
 - pkg:maven/io.nem/catbuffer-java@2.0.2
 - pkg:maven/io.nem/catbuffer-java@2.0.2?classifier=sources

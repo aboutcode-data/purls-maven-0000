@@ -14,3 +14,15 @@
 - pkg:maven/com.quantxt.sdk/qtcurate@1.4.3?classifier=sources
 - pkg:maven/com.quantxt.sdk/qtcurate@1.4.4
 - pkg:maven/com.quantxt.sdk/qtcurate@1.4.4?classifier=sources
+- pkg:maven/com.quantxt.sdk/qtcurate@2.0.0
+- pkg:maven/com.quantxt.sdk/qtcurate@2.0.0?classifier=sources
+- pkg:maven/com.quantxt.sdk/qtcurate@2.2.0
+- pkg:maven/com.quantxt.sdk/qtcurate@2.2.0?classifier=sources
+- pkg:maven/com.quantxt.sdk/qtcurate@2.3.0
+- pkg:maven/com.quantxt.sdk/qtcurate@2.3.0?classifier=sources
+- pkg:maven/com.quantxt.sdk/qtcurate@2.5.0
+- pkg:maven/com.quantxt.sdk/qtcurate@2.5.0?classifier=sources
+- pkg:maven/com.quantxt.sdk/qtcurate@2.6.0
+- pkg:maven/com.quantxt.sdk/qtcurate@2.6.0?classifier=sources
+- pkg:maven/com.quantxt.sdk/qtcurate@2.6.1
+- pkg:maven/com.quantxt.sdk/qtcurate@2.6.1?classifier=sources

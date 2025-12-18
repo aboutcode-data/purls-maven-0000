@@ -1,0 +1,4 @@
+- pkg:maven/com.adobe.cq.sample/we.retail.core@2.0.0?classifier=sources
+- pkg:maven/com.adobe.cq.sample/we.retail.core@2.0.2?classifier=sources
+- pkg:maven/com.adobe.cq.sample/we.retail.core@2.0.4?classifier=sources
+- pkg:maven/com.adobe.cq.sample/we.retail.core@4.0.0?classifier=sources

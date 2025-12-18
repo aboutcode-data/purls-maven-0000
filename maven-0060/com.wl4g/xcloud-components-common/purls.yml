@@ -1,0 +1,2 @@
+- pkg:maven/com.wl4g/xcloud-components-common@master
+- pkg:maven/com.wl4g/xcloud-components-common@master?classifier=sources

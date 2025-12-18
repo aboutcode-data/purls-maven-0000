@@ -20,5 +20,6 @@
 - pkg:maven/org.apache.helix/helix@0.9.1?classifier=source-release&type=zip
 - pkg:maven/org.apache.helix/helix@0.9.4?classifier=source-release&type=zip
 - pkg:maven/org.apache.helix/helix@0.9.7?classifier=source-release&type=zip
+- pkg:maven/org.apache.helix/helix@0.9.8?classifier=source-release&type=zip
 - pkg:maven/org.apache.helix/helix@1.0.0?classifier=source-release&type=zip
 - pkg:maven/org.apache.helix/helix@1.0.1?classifier=source-release&type=zip

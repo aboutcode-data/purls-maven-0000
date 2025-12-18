@@ -24,3 +24,5 @@
 - pkg:maven/com.panemu/tiwulfx@2.0?classifier=sources
 - pkg:maven/com.panemu/tiwulfx@3.0
 - pkg:maven/com.panemu/tiwulfx@3.0?classifier=sources
+- pkg:maven/com.panemu/tiwulfx@3.1
+- pkg:maven/com.panemu/tiwulfx@3.1?classifier=sources

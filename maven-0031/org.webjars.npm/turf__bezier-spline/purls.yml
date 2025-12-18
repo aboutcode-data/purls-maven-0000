@@ -1,2 +1,4 @@
 - pkg:maven/org.webjars.npm/turf__bezier-spline@5.1.5
 - pkg:maven/org.webjars.npm/turf__bezier-spline@5.1.5?classifier=sources
+- pkg:maven/org.webjars.npm/turf__bezier-spline@6.2.0-alpha.2
+- pkg:maven/org.webjars.npm/turf__bezier-spline@6.2.0-alpha.2?classifier=sources

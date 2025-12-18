@@ -1,0 +1,2 @@
+- pkg:maven/org.inria.sacha.automaticRepair/astor@1
+- pkg:maven/org.inria.sacha.automaticRepair/astor@1?classifier=sources

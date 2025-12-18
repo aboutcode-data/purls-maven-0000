@@ -1,0 +1,6 @@
+- pkg:maven/org.http4k/http4k-graphql@3.276.0
+- pkg:maven/org.http4k/http4k-graphql@3.276.0?classifier=sources
+- pkg:maven/org.http4k/http4k-graphql@3.277.0
+- pkg:maven/org.http4k/http4k-graphql@3.277.0?classifier=sources
+- pkg:maven/org.http4k/http4k-graphql@3.278.0
+- pkg:maven/org.http4k/http4k-graphql@3.278.0?classifier=sources

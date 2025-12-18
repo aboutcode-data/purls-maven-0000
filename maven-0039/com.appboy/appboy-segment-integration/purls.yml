@@ -36,3 +36,6 @@
 - pkg:maven/com.appboy/appboy-segment-integration@4.0.0?type=aar
 - pkg:maven/com.appboy/appboy-segment-integration@5.0.0?classifier=sources
 - pkg:maven/com.appboy/appboy-segment-integration@5.0.0?type=aar
+- pkg:maven/com.appboy/appboy-segment-integration@6.0.0?classifier=sources
+- pkg:maven/com.appboy/appboy-segment-integration@6.0.0?type=aar
+- pkg:maven/com.appboy/appboy-segment-integration@7.0.0?classifier=sources

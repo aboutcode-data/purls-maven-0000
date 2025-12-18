@@ -6,3 +6,5 @@
 - pkg:maven/com.cognitect.aws/sesv2@801.2.700.0?classifier=sources
 - pkg:maven/com.cognitect.aws/sesv2@807.2.729.0
 - pkg:maven/com.cognitect.aws/sesv2@807.2.729.0?classifier=sources
+- pkg:maven/com.cognitect.aws/sesv2@809.2.784.0
+- pkg:maven/com.cognitect.aws/sesv2@809.2.784.0?classifier=sources

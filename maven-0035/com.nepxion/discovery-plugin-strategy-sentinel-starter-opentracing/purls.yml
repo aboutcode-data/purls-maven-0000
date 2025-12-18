@@ -56,3 +56,7 @@
 - pkg:maven/com.nepxion/discovery-plugin-strategy-sentinel-starter-opentracing@6.0.6?classifier=sources
 - pkg:maven/com.nepxion/discovery-plugin-strategy-sentinel-starter-opentracing@6.0.7
 - pkg:maven/com.nepxion/discovery-plugin-strategy-sentinel-starter-opentracing@6.0.7?classifier=sources
+- pkg:maven/com.nepxion/discovery-plugin-strategy-sentinel-starter-opentracing@6.1.0
+- pkg:maven/com.nepxion/discovery-plugin-strategy-sentinel-starter-opentracing@6.1.0?classifier=sources
+- pkg:maven/com.nepxion/discovery-plugin-strategy-sentinel-starter-opentracing@6.2.0
+- pkg:maven/com.nepxion/discovery-plugin-strategy-sentinel-starter-opentracing@6.2.0?classifier=sources

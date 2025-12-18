@@ -18,3 +18,5 @@
 - pkg:maven/org.webjars.npm/swagger2openapi@5.3.3?classifier=sources
 - pkg:maven/org.webjars.npm/swagger2openapi@5.4.0
 - pkg:maven/org.webjars.npm/swagger2openapi@5.4.0?classifier=sources
+- pkg:maven/org.webjars.npm/swagger2openapi@6.2.3
+- pkg:maven/org.webjars.npm/swagger2openapi@6.2.3?classifier=sources

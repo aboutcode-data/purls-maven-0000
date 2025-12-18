@@ -12,3 +12,5 @@
 - pkg:maven/org.webjars.npm/oas-resolver@2.2.7?classifier=sources
 - pkg:maven/org.webjars.npm/oas-resolver@2.3.2
 - pkg:maven/org.webjars.npm/oas-resolver@2.3.2?classifier=sources
+- pkg:maven/org.webjars.npm/oas-resolver@2.5.2
+- pkg:maven/org.webjars.npm/oas-resolver@2.5.2?classifier=sources

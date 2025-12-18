@@ -1,0 +1,2 @@
+- pkg:maven/com.adobe.mac/mac-core-hook@1.0.0
+- pkg:maven/com.adobe.mac/mac-core-hook@1.0.0?classifier=sources

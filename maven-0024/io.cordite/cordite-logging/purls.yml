@@ -8,3 +8,7 @@
 - pkg:maven/io.cordite/cordite-logging@0.5.1-RC01
 - pkg:maven/io.cordite/cordite-logging@0.5.1-RC01?classifier=sources
 - pkg:maven/io.cordite/cordite-logging@0.5.1?classifier=sources
+- pkg:maven/io.cordite/cordite-logging@0.5.2
+- pkg:maven/io.cordite/cordite-logging@0.5.2?classifier=sources
+- pkg:maven/io.cordite/cordite-logging@0.5.3
+- pkg:maven/io.cordite/cordite-logging@0.5.3?classifier=sources

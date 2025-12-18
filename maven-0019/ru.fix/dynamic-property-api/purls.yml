@@ -39,3 +39,4 @@
 - pkg:maven/ru.fix/dynamic-property-api@2.0.5?classifier=sources
 - pkg:maven/ru.fix/dynamic-property-api@2.0.6?classifier=sources
 - pkg:maven/ru.fix/dynamic-property-api@2.0.7?classifier=sources
+- pkg:maven/ru.fix/dynamic-property-api@2.0.8?classifier=sources

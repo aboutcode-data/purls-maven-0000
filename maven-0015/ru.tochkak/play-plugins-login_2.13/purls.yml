@@ -1,9 +1,13 @@
 - pkg:maven/ru.tochkak/play-plugins-login_2.13@27.1
 - pkg:maven/ru.tochkak/play-plugins-login_2.13@27.1?classifier=sources
+- pkg:maven/ru.tochkak/play-plugins-login_2.13@27.2
+- pkg:maven/ru.tochkak/play-plugins-login_2.13@27.2?classifier=sources
 - pkg:maven/ru.tochkak/play-plugins-login_2.13@2712.0
 - pkg:maven/ru.tochkak/play-plugins-login_2.13@2712.0?classifier=sources
 - pkg:maven/ru.tochkak/play-plugins-login_2.13@28.1
 - pkg:maven/ru.tochkak/play-plugins-login_2.13@28.1?classifier=sources
+- pkg:maven/ru.tochkak/play-plugins-login_2.13@28.2
+- pkg:maven/ru.tochkak/play-plugins-login_2.13@28.2?classifier=sources
 - pkg:maven/ru.tochkak/play-plugins-login_2.13@2812.0
 - pkg:maven/ru.tochkak/play-plugins-login_2.13@2812.0?classifier=sources
 - pkg:maven/ru.tochkak/play-plugins-login_2.13@2813.0

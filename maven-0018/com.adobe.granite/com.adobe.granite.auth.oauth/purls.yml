@@ -1,0 +1,4 @@
+- pkg:maven/com.adobe.granite/com.adobe.granite.auth.oauth@0.0.12?classifier=sources
+- pkg:maven/com.adobe.granite/com.adobe.granite.auth.oauth@0.0.20?classifier=sources
+- pkg:maven/com.adobe.granite/com.adobe.granite.auth.oauth@1.0.0-R201304291556?classifier=sources
+- pkg:maven/com.adobe.granite/com.adobe.granite.auth.oauth@1.0.0?classifier=sources

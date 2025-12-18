@@ -10,3 +10,5 @@
 - pkg:maven/org.wso2.carbon.datasources/datasources-sample@1.0.2?classifier=sources
 - pkg:maven/org.wso2.carbon.datasources/datasources-sample@1.0.3
 - pkg:maven/org.wso2.carbon.datasources/datasources-sample@1.0.3?classifier=sources
+- pkg:maven/org.wso2.carbon.datasources/datasources-sample@1.0.4
+- pkg:maven/org.wso2.carbon.datasources/datasources-sample@1.0.4?classifier=sources

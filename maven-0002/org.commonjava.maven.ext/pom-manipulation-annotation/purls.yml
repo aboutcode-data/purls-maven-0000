@@ -1,2 +1,4 @@
 - pkg:maven/org.commonjava.maven.ext/pom-manipulation-annotation@4.0
 - pkg:maven/org.commonjava.maven.ext/pom-manipulation-annotation@4.0?classifier=sources
+- pkg:maven/org.commonjava.maven.ext/pom-manipulation-annotation@4.1
+- pkg:maven/org.commonjava.maven.ext/pom-manipulation-annotation@4.1?classifier=sources

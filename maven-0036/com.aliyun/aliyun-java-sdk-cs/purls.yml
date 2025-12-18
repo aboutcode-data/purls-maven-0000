@@ -26,3 +26,5 @@
 - pkg:maven/com.aliyun/aliyun-java-sdk-cs@4.7.15?classifier=sources
 - pkg:maven/com.aliyun/aliyun-java-sdk-cs@4.8.0
 - pkg:maven/com.aliyun/aliyun-java-sdk-cs@4.8.0?classifier=sources
+- pkg:maven/com.aliyun/aliyun-java-sdk-cs@4.8.1
+- pkg:maven/com.aliyun/aliyun-java-sdk-cs@4.8.1?classifier=sources

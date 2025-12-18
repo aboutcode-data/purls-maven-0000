@@ -1,0 +1,2 @@
+- pkg:maven/edu.cmu.cs.gabriel/serverlist@2.3.0?classifier=sources
+- pkg:maven/edu.cmu.cs.gabriel/serverlist@2.3.0?type=aar

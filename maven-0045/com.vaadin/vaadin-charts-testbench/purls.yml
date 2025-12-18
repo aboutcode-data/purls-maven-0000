@@ -22,9 +22,17 @@
 - pkg:maven/com.vaadin/vaadin-charts-testbench@7.1.0?classifier=sources
 - pkg:maven/com.vaadin/vaadin-charts-testbench@7.1.1
 - pkg:maven/com.vaadin/vaadin-charts-testbench@7.1.1?classifier=sources
+- pkg:maven/com.vaadin/vaadin-charts-testbench@7.1.2
+- pkg:maven/com.vaadin/vaadin-charts-testbench@7.1.2?classifier=sources
 - pkg:maven/com.vaadin/vaadin-charts-testbench@8.0.0
 - pkg:maven/com.vaadin/vaadin-charts-testbench@8.0.0?classifier=sources
 - pkg:maven/com.vaadin/vaadin-charts-testbench@8.1.0
 - pkg:maven/com.vaadin/vaadin-charts-testbench@8.1.0?classifier=sources
 - pkg:maven/com.vaadin/vaadin-charts-testbench@8.1.1
 - pkg:maven/com.vaadin/vaadin-charts-testbench@8.1.1?classifier=sources
+- pkg:maven/com.vaadin/vaadin-charts-testbench@9.0.0
+- pkg:maven/com.vaadin/vaadin-charts-testbench@9.0.0?classifier=sources
+- pkg:maven/com.vaadin/vaadin-charts-testbench@9.0.1
+- pkg:maven/com.vaadin/vaadin-charts-testbench@9.0.1?classifier=sources
+- pkg:maven/com.vaadin/vaadin-charts-testbench@9.0.2
+- pkg:maven/com.vaadin/vaadin-charts-testbench@9.0.2?classifier=sources

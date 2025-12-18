@@ -1,0 +1,15 @@
+- pkg:maven/com.liferay/com.liferay.portal.search.similar.results.web@1.0.14
+- pkg:maven/com.liferay/com.liferay.portal.search.similar.results.web@1.0.14?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.search.similar.results.web@1.0.14?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.search.similar.results.web@1.0.15
+- pkg:maven/com.liferay/com.liferay.portal.search.similar.results.web@1.0.15?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.search.similar.results.web@1.0.15?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.search.similar.results.web@2.0.19
+- pkg:maven/com.liferay/com.liferay.portal.search.similar.results.web@2.0.19?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.search.similar.results.web@2.0.19?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.search.similar.results.web@2.0.20
+- pkg:maven/com.liferay/com.liferay.portal.search.similar.results.web@2.0.20?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.search.similar.results.web@2.0.20?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.search.similar.results.web@2.0.21
+- pkg:maven/com.liferay/com.liferay.portal.search.similar.results.web@2.0.21?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.search.similar.results.web@2.0.21?classifier=sources-commercial
