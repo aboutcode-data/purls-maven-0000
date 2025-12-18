@@ -1,6 +1,15 @@
 - pkg:maven/org.wso2.carbon.extension.identity.authenticator/org.wso2.carbon.extension.identity.authenticator.x509Certificate.endpoint@2.0.14?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.extension.identity.authenticator/org.wso2.carbon.extension.identity.authenticator.x509Certificate.endpoint@2.0.14?classifier=sources
 - pkg:maven/org.wso2.carbon.extension.identity.authenticator/org.wso2.carbon.extension.identity.authenticator.x509Certificate.endpoint@2.0.14?type=war
+- pkg:maven/org.wso2.carbon.extension.identity.authenticator/org.wso2.carbon.extension.identity.authenticator.x509Certificate.endpoint@2.0.15?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.extension.identity.authenticator/org.wso2.carbon.extension.identity.authenticator.x509Certificate.endpoint@2.0.15?classifier=sources
+- pkg:maven/org.wso2.carbon.extension.identity.authenticator/org.wso2.carbon.extension.identity.authenticator.x509Certificate.endpoint@2.0.15?type=war
+- pkg:maven/org.wso2.carbon.extension.identity.authenticator/org.wso2.carbon.extension.identity.authenticator.x509Certificate.endpoint@2.0.16?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.extension.identity.authenticator/org.wso2.carbon.extension.identity.authenticator.x509Certificate.endpoint@2.0.16?classifier=sources
+- pkg:maven/org.wso2.carbon.extension.identity.authenticator/org.wso2.carbon.extension.identity.authenticator.x509Certificate.endpoint@2.0.16?type=war
+- pkg:maven/org.wso2.carbon.extension.identity.authenticator/org.wso2.carbon.extension.identity.authenticator.x509Certificate.endpoint@2.0.17?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.extension.identity.authenticator/org.wso2.carbon.extension.identity.authenticator.x509Certificate.endpoint@2.0.17?classifier=sources
+- pkg:maven/org.wso2.carbon.extension.identity.authenticator/org.wso2.carbon.extension.identity.authenticator.x509Certificate.endpoint@2.0.17?type=war
 - pkg:maven/org.wso2.carbon.extension.identity.authenticator/org.wso2.carbon.extension.identity.authenticator.x509Certificate.endpoint@2.0.3?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.extension.identity.authenticator/org.wso2.carbon.extension.identity.authenticator.x509Certificate.endpoint@2.0.3?classifier=sources
 - pkg:maven/org.wso2.carbon.extension.identity.authenticator/org.wso2.carbon.extension.identity.authenticator.x509Certificate.endpoint@2.0.3?type=war

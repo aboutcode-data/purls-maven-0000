@@ -1,0 +1,2 @@
+- pkg:maven/net.janklab.opp/jide-oss@3.7.4
+- pkg:maven/net.janklab.opp/jide-oss@3.7.4?classifier=sources

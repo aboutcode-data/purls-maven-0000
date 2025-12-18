@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/string-replace-to-array@1.0.3
+- pkg:maven/org.webjars.npm/string-replace-to-array@1.0.3?classifier=sources

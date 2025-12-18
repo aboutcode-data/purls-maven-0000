@@ -1,0 +1,2 @@
+- pkg:maven/org.richardinnocent.polysight.core/client@0.0.1-ALPHA
+- pkg:maven/org.richardinnocent.polysight.core/client@0.0.1-ALPHA?classifier=sources

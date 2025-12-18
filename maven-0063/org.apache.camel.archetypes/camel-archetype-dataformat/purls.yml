@@ -87,6 +87,7 @@
 - pkg:maven/org.apache.camel.archetypes/camel-archetype-dataformat@2.24.2?classifier=sources
 - pkg:maven/org.apache.camel.archetypes/camel-archetype-dataformat@2.24.3?classifier=sources
 - pkg:maven/org.apache.camel.archetypes/camel-archetype-dataformat@2.25.0?classifier=sources
+- pkg:maven/org.apache.camel.archetypes/camel-archetype-dataformat@2.25.1?classifier=sources
 - pkg:maven/org.apache.camel.archetypes/camel-archetype-dataformat@2.9.0?classifier=sources
 - pkg:maven/org.apache.camel.archetypes/camel-archetype-dataformat@2.9.1?classifier=sources
 - pkg:maven/org.apache.camel.archetypes/camel-archetype-dataformat@2.9.2?classifier=sources
@@ -106,3 +107,5 @@
 - pkg:maven/org.apache.camel.archetypes/camel-archetype-dataformat@3.0.0?classifier=sources
 - pkg:maven/org.apache.camel.archetypes/camel-archetype-dataformat@3.0.1?classifier=sources
 - pkg:maven/org.apache.camel.archetypes/camel-archetype-dataformat@3.1.0?classifier=sources
+- pkg:maven/org.apache.camel.archetypes/camel-archetype-dataformat@3.2.0?classifier=sources
+- pkg:maven/org.apache.camel.archetypes/camel-archetype-dataformat@3.3.0?classifier=sources

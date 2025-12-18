@@ -14,3 +14,5 @@
 - pkg:maven/com.cognitect.aws/kinesisvideo@770.2.568.0?classifier=sources
 - pkg:maven/com.cognitect.aws/kinesisvideo@781.2.585.0
 - pkg:maven/com.cognitect.aws/kinesisvideo@781.2.585.0?classifier=sources
+- pkg:maven/com.cognitect.aws/kinesisvideo@796.2.665.0
+- pkg:maven/com.cognitect.aws/kinesisvideo@796.2.665.0?classifier=sources

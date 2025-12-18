@@ -10,6 +10,8 @@
 - pkg:maven/org.apache.jena/jena-text-es@3.13.1?classifier=sources
 - pkg:maven/org.apache.jena/jena-text-es@3.14.0
 - pkg:maven/org.apache.jena/jena-text-es@3.14.0?classifier=sources
+- pkg:maven/org.apache.jena/jena-text-es@3.15.0
+- pkg:maven/org.apache.jena/jena-text-es@3.15.0?classifier=sources
 - pkg:maven/org.apache.jena/jena-text-es@3.3.0
 - pkg:maven/org.apache.jena/jena-text-es@3.3.0?classifier=sources
 - pkg:maven/org.apache.jena/jena-text-es@3.4.0

@@ -1,0 +1,2 @@
+- pkg:maven/it.schm.magnolia/magnolia-configurable-version@1.0.0
+- pkg:maven/it.schm.magnolia/magnolia-configurable-version@1.0.0?classifier=sources

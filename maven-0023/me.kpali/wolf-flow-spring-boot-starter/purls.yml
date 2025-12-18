@@ -1,0 +1,4 @@
+- pkg:maven/me.kpali/wolf-flow-spring-boot-starter@1.0.0
+- pkg:maven/me.kpali/wolf-flow-spring-boot-starter@1.0.0?classifier=sources
+- pkg:maven/me.kpali/wolf-flow-spring-boot-starter@1.1.0
+- pkg:maven/me.kpali/wolf-flow-spring-boot-starter@1.1.0?classifier=sources

@@ -1,2 +1,4 @@
 - pkg:maven/org.apache.royale.compiler/royaleunit-ant-tasks@0.9.6
 - pkg:maven/org.apache.royale.compiler/royaleunit-ant-tasks@0.9.6?classifier=sources
+- pkg:maven/org.apache.royale.compiler/royaleunit-ant-tasks@0.9.7
+- pkg:maven/org.apache.royale.compiler/royaleunit-ant-tasks@0.9.7?classifier=sources

@@ -18,3 +18,5 @@
 - pkg:maven/org.opendaylight.mdsal.binding.model.ietf/rfc8542-ietf-dc-fabric-topology@1.0.8?classifier=sources
 - pkg:maven/org.opendaylight.mdsal.binding.model.ietf/rfc8542-ietf-dc-fabric-topology@1.0.9
 - pkg:maven/org.opendaylight.mdsal.binding.model.ietf/rfc8542-ietf-dc-fabric-topology@1.0.9?classifier=sources
+- pkg:maven/org.opendaylight.mdsal.binding.model.ietf/rfc8542-ietf-dc-fabric-topology@6.0.1
+- pkg:maven/org.opendaylight.mdsal.binding.model.ietf/rfc8542-ietf-dc-fabric-topology@6.0.1?classifier=sources

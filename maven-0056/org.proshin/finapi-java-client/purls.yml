@@ -28,3 +28,7 @@
 - pkg:maven/org.proshin/finapi-java-client@0.1.72?classifier=sources
 - pkg:maven/org.proshin/finapi-java-client@0.1.73
 - pkg:maven/org.proshin/finapi-java-client@0.1.73?classifier=sources
+- pkg:maven/org.proshin/finapi-java-client@0.1.92
+- pkg:maven/org.proshin/finapi-java-client@0.1.92?classifier=sources
+- pkg:maven/org.proshin/finapi-java-client@0.1.94
+- pkg:maven/org.proshin/finapi-java-client@0.1.94?classifier=sources

@@ -1,3 +1,5 @@
+- pkg:maven/com.malliina/util-html_sjs0.6_2.13@5.10.0
+- pkg:maven/com.malliina/util-html_sjs0.6_2.13@5.10.0?classifier=sources
 - pkg:maven/com.malliina/util-html_sjs0.6_2.13@5.2.1
 - pkg:maven/com.malliina/util-html_sjs0.6_2.13@5.2.1?classifier=sources
 - pkg:maven/com.malliina/util-html_sjs0.6_2.13@5.2.3
@@ -10,3 +12,11 @@
 - pkg:maven/com.malliina/util-html_sjs0.6_2.13@5.4.0?classifier=sources
 - pkg:maven/com.malliina/util-html_sjs0.6_2.13@5.4.1
 - pkg:maven/com.malliina/util-html_sjs0.6_2.13@5.4.1?classifier=sources
+- pkg:maven/com.malliina/util-html_sjs0.6_2.13@5.6.0
+- pkg:maven/com.malliina/util-html_sjs0.6_2.13@5.6.0?classifier=sources
+- pkg:maven/com.malliina/util-html_sjs0.6_2.13@5.7.0
+- pkg:maven/com.malliina/util-html_sjs0.6_2.13@5.7.0?classifier=sources
+- pkg:maven/com.malliina/util-html_sjs0.6_2.13@5.8.0
+- pkg:maven/com.malliina/util-html_sjs0.6_2.13@5.8.0?classifier=sources
+- pkg:maven/com.malliina/util-html_sjs0.6_2.13@5.9.0
+- pkg:maven/com.malliina/util-html_sjs0.6_2.13@5.9.0?classifier=sources

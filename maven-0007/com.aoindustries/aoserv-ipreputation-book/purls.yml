@@ -1,0 +1,2 @@
+- pkg:maven/com.aoindustries/aoserv-ipreputation-book@1.84.2
+- pkg:maven/com.aoindustries/aoserv-ipreputation-book@1.84.2?classifier=sources

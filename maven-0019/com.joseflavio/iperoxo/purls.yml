@@ -20,6 +20,8 @@
 - pkg:maven/com.joseflavio/iperoxo@1.0-A19?classifier=sources
 - pkg:maven/com.joseflavio/iperoxo@1.0-A20
 - pkg:maven/com.joseflavio/iperoxo@1.0-A20?classifier=sources
+- pkg:maven/com.joseflavio/iperoxo@1.0-A21
+- pkg:maven/com.joseflavio/iperoxo@1.0-A21?classifier=sources
 - pkg:maven/com.joseflavio/iperoxo@1.0-A6
 - pkg:maven/com.joseflavio/iperoxo@1.0-A6?classifier=sources
 - pkg:maven/com.joseflavio/iperoxo@1.0-A7

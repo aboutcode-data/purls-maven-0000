@@ -1,0 +1,11 @@
+- pkg:maven/com.github.microwww/template-ppt@0.0.2
+- pkg:maven/com.github.microwww/template-ppt@0.0.2?classifier=sources
+- pkg:maven/com.github.microwww/template-ppt@0.0.3-release
+- pkg:maven/com.github.microwww/template-ppt@0.0.3-release?classifier=sources
+- pkg:maven/com.github.microwww/template-ppt@0.0.3?classifier=sources
+- pkg:maven/com.github.microwww/template-ppt@0.0.4-release
+- pkg:maven/com.github.microwww/template-ppt@0.0.4-release?classifier=sources
+- pkg:maven/com.github.microwww/template-ppt@0.0.5-release
+- pkg:maven/com.github.microwww/template-ppt@0.0.5-release?classifier=sources
+- pkg:maven/com.github.microwww/template-ppt@0.0.6-release
+- pkg:maven/com.github.microwww/template-ppt@0.0.6-release?classifier=sources

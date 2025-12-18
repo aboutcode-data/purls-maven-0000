@@ -29,3 +29,6 @@
 - pkg:maven/io.prestosql/presto-redis@328?classifier=sources
 - pkg:maven/io.prestosql/presto-redis@329?classifier=sources
 - pkg:maven/io.prestosql/presto-redis@330?classifier=sources
+- pkg:maven/io.prestosql/presto-redis@331?classifier=sources
+- pkg:maven/io.prestosql/presto-redis@332?classifier=sources
+- pkg:maven/io.prestosql/presto-redis@333?classifier=sources

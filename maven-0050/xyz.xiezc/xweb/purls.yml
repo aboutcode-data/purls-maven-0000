@@ -1,0 +1,2 @@
+- pkg:maven/xyz.xiezc/xweb@1.0
+- pkg:maven/xyz.xiezc/xweb@1.0?classifier=sources

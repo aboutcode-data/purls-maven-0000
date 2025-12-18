@@ -20,3 +20,5 @@
 - pkg:maven/org.ekrich/sconfig_native0.3_2.11@1.1.4?classifier=sources
 - pkg:maven/org.ekrich/sconfig_native0.3_2.11@1.2.1
 - pkg:maven/org.ekrich/sconfig_native0.3_2.11@1.2.1?classifier=sources
+- pkg:maven/org.ekrich/sconfig_native0.3_2.11@1.2.2
+- pkg:maven/org.ekrich/sconfig_native0.3_2.11@1.2.2?classifier=sources

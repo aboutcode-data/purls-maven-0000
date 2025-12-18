@@ -6,3 +6,7 @@
 - pkg:maven/org.arkecosystem/client@0.1.3?classifier=sources
 - pkg:maven/org.arkecosystem/client@0.1.4
 - pkg:maven/org.arkecosystem/client@0.1.4?classifier=sources
+- pkg:maven/org.arkecosystem/client@1.2.8
+- pkg:maven/org.arkecosystem/client@1.2.8?classifier=sources
+- pkg:maven/org.arkecosystem/client@1.2.9
+- pkg:maven/org.arkecosystem/client@1.2.9?classifier=sources

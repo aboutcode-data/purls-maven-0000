@@ -1,2 +1,4 @@
 - pkg:maven/org.webjars.npm/qrcode@0.9.0
 - pkg:maven/org.webjars.npm/qrcode@0.9.0?classifier=sources
+- pkg:maven/org.webjars.npm/qrcode@1.4.4
+- pkg:maven/org.webjars.npm/qrcode@1.4.4?classifier=sources

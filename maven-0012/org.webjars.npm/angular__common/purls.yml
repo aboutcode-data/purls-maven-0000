@@ -124,3 +124,5 @@
 - pkg:maven/org.webjars.npm/angular__common@7.1.0-rc.0?classifier=sources
 - pkg:maven/org.webjars.npm/angular__common@8.1.0
 - pkg:maven/org.webjars.npm/angular__common@8.1.0?classifier=sources
+- pkg:maven/org.webjars.npm/angular__common@9.1.4
+- pkg:maven/org.webjars.npm/angular__common@9.1.4?classifier=sources

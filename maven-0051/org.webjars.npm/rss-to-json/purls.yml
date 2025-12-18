@@ -2,3 +2,5 @@
 - pkg:maven/org.webjars.npm/rss-to-json@1.0.4?classifier=sources
 - pkg:maven/org.webjars.npm/rss-to-json@1.0.5
 - pkg:maven/org.webjars.npm/rss-to-json@1.0.5?classifier=sources
+- pkg:maven/org.webjars.npm/rss-to-json@1.1.1
+- pkg:maven/org.webjars.npm/rss-to-json@1.1.1?classifier=sources

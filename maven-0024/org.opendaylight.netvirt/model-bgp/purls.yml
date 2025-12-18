@@ -48,6 +48,12 @@
 - pkg:maven/org.opendaylight.netvirt/model-bgp@2013.07.15.15.1?classifier=sources
 - pkg:maven/org.opendaylight.netvirt/model-bgp@2013.07.15.15.2
 - pkg:maven/org.opendaylight.netvirt/model-bgp@2013.07.15.15.2?classifier=sources
+- pkg:maven/org.opendaylight.netvirt/model-bgp@2013.07.15.15.3
+- pkg:maven/org.opendaylight.netvirt/model-bgp@2013.07.15.15.3?classifier=sources
+- pkg:maven/org.opendaylight.netvirt/model-bgp@2013.07.15.16.0
+- pkg:maven/org.opendaylight.netvirt/model-bgp@2013.07.15.16.0?classifier=sources
+- pkg:maven/org.opendaylight.netvirt/model-bgp@2013.07.15.16.1
+- pkg:maven/org.opendaylight.netvirt/model-bgp@2013.07.15.16.1?classifier=sources
 - pkg:maven/org.opendaylight.netvirt/model-bgp@2013.07.15.9-Boron
 - pkg:maven/org.opendaylight.netvirt/model-bgp@2013.07.15.9-Boron?classifier=sources
 - pkg:maven/org.opendaylight.netvirt/model-bgp@2013.07.15.9.1-Boron-SR1

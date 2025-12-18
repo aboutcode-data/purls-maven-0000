@@ -122,3 +122,5 @@
 - pkg:maven/com.baidu/jprotobuf-rpc-core-spring@3.5.9?classifier=sources
 - pkg:maven/com.baidu/jprotobuf-rpc-core-spring@4.1.0
 - pkg:maven/com.baidu/jprotobuf-rpc-core-spring@4.1.0?classifier=sources
+- pkg:maven/com.baidu/jprotobuf-rpc-core-spring@4.1.1
+- pkg:maven/com.baidu/jprotobuf-rpc-core-spring@4.1.1?classifier=sources

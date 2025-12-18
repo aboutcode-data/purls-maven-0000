@@ -22,3 +22,5 @@
 - pkg:maven/com.github.superscorpion/medusa@2.3.7-RELEASE?classifier=sources
 - pkg:maven/com.github.superscorpion/medusa@2.3.8-RELEASE
 - pkg:maven/com.github.superscorpion/medusa@2.3.8-RELEASE?classifier=sources
+- pkg:maven/com.github.superscorpion/medusa@3.0.0-RELEASE
+- pkg:maven/com.github.superscorpion/medusa@3.0.0-RELEASE?classifier=sources

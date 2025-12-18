@@ -1,0 +1,6 @@
+- pkg:maven/com.liferay/com.liferay.content.dashboard.web@1.0.1-o
+- pkg:maven/com.liferay/com.liferay.content.dashboard.web@1.0.1-o?classifier=sources
+- pkg:maven/com.liferay/com.liferay.content.dashboard.web@1.0.1-o?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.content.dashboard.web@1.0.o
+- pkg:maven/com.liferay/com.liferay.content.dashboard.web@1.0.o?classifier=sources
+- pkg:maven/com.liferay/com.liferay.content.dashboard.web@1.0.o?classifier=sources-commercial

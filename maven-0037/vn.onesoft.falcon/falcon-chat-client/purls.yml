@@ -1,0 +1,2 @@
+- pkg:maven/vn.onesoft.falcon/falcon-chat-client@1.0
+- pkg:maven/vn.onesoft.falcon/falcon-chat-client@1.0?classifier=sources

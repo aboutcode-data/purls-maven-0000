@@ -2,3 +2,5 @@
 - pkg:maven/org.eclipse.jetty/jetty-webapp-logging@9.0.0?classifier=sources
 - pkg:maven/org.eclipse.jetty/jetty-webapp-logging@9.4.20.v20190813
 - pkg:maven/org.eclipse.jetty/jetty-webapp-logging@9.4.20.v20190813?classifier=sources
+- pkg:maven/org.eclipse.jetty/jetty-webapp-logging@9.4.27
+- pkg:maven/org.eclipse.jetty/jetty-webapp-logging@9.4.27?classifier=sources

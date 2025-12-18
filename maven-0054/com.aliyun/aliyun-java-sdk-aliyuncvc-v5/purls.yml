@@ -1,0 +1,4 @@
+- pkg:maven/com.aliyun/aliyun-java-sdk-aliyuncvc-v5@1.0.8.1
+- pkg:maven/com.aliyun/aliyun-java-sdk-aliyuncvc-v5@1.0.8.1?classifier=sources
+- pkg:maven/com.aliyun/aliyun-java-sdk-aliyuncvc-v5@1.0.9
+- pkg:maven/com.aliyun/aliyun-java-sdk-aliyuncvc-v5@1.0.9?classifier=sources

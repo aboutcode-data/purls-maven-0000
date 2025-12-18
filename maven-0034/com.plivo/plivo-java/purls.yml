@@ -60,3 +60,11 @@
 - pkg:maven/com.plivo/plivo-java@4.4.3?classifier=sources
 - pkg:maven/com.plivo/plivo-java@4.4.4
 - pkg:maven/com.plivo/plivo-java@4.4.4?classifier=sources
+- pkg:maven/com.plivo/plivo-java@4.5.0
+- pkg:maven/com.plivo/plivo-java@4.5.0?classifier=sources
+- pkg:maven/com.plivo/plivo-java@4.6.0
+- pkg:maven/com.plivo/plivo-java@4.6.0?classifier=sources
+- pkg:maven/com.plivo/plivo-java@4.7.0
+- pkg:maven/com.plivo/plivo-java@4.7.0?classifier=sources
+- pkg:maven/com.plivo/plivo-java@4.7.1
+- pkg:maven/com.plivo/plivo-java@4.7.1?classifier=sources

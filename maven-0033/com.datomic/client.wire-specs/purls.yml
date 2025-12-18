@@ -1,3 +1,5 @@
 - pkg:maven/com.datomic/client.wire-specs@0.1.21
 - pkg:maven/com.datomic/client.wire-specs@0.1.28
 - pkg:maven/com.datomic/client.wire-specs@0.1.37
+- pkg:maven/com.datomic/client.wire-specs@0.1.40
+- pkg:maven/com.datomic/client.wire-specs@0.1.41

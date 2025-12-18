@@ -1,0 +1,8 @@
+- pkg:maven/edu.iris.dmc/stationxml-validator@1.7.0
+- pkg:maven/edu.iris.dmc/stationxml-validator@1.7.0-RC-01
+- pkg:maven/edu.iris.dmc/stationxml-validator@1.7.0-RC-01?classifier=sources
+- pkg:maven/edu.iris.dmc/stationxml-validator@1.7.0-RC-02
+- pkg:maven/edu.iris.dmc/stationxml-validator@1.7.0-RC-02?classifier=sources
+- pkg:maven/edu.iris.dmc/stationxml-validator@1.7.0-RC-03
+- pkg:maven/edu.iris.dmc/stationxml-validator@1.7.0-RC-03?classifier=sources
+- pkg:maven/edu.iris.dmc/stationxml-validator@1.7.0?classifier=sources

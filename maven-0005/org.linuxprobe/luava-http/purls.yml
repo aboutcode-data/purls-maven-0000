@@ -38,3 +38,7 @@
 - pkg:maven/org.linuxprobe/luava-http@0.0.9.RS3?classifier=sources
 - pkg:maven/org.linuxprobe/luava-http@0.0.9.RS4
 - pkg:maven/org.linuxprobe/luava-http@0.0.9.RS4?classifier=sources
+- pkg:maven/org.linuxprobe/luava-http@0.0.9.RS5
+- pkg:maven/org.linuxprobe/luava-http@0.0.9.RS5?classifier=sources
+- pkg:maven/org.linuxprobe/luava-http@0.0.9.RS6
+- pkg:maven/org.linuxprobe/luava-http@0.0.9.RS6?classifier=sources

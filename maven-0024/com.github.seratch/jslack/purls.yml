@@ -164,3 +164,4 @@
 - pkg:maven/com.github.seratch/jslack@3.3.0
 - pkg:maven/com.github.seratch/jslack@3.4.0
 - pkg:maven/com.github.seratch/jslack@3.4.1
+- pkg:maven/com.github.seratch/jslack@3.4.2

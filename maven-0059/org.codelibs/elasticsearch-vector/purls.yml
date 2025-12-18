@@ -12,3 +12,9 @@
 - pkg:maven/org.codelibs/elasticsearch-vector@7.4.3?type=zip
 - pkg:maven/org.codelibs/elasticsearch-vector@7.5.0?classifier=sources
 - pkg:maven/org.codelibs/elasticsearch-vector@7.5.0?type=zip
+- pkg:maven/org.codelibs/elasticsearch-vector@7.6.0?classifier=sources
+- pkg:maven/org.codelibs/elasticsearch-vector@7.6.0?type=zip
+- pkg:maven/org.codelibs/elasticsearch-vector@7.6.1?classifier=sources
+- pkg:maven/org.codelibs/elasticsearch-vector@7.6.1?type=zip
+- pkg:maven/org.codelibs/elasticsearch-vector@7.6.2?classifier=sources
+- pkg:maven/org.codelibs/elasticsearch-vector@7.6.2?type=zip

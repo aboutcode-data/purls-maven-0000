@@ -1,0 +1,2 @@
+- pkg:maven/com.anaptecs.jeaf/jeaf-maven-plugin-test@1.4.9
+- pkg:maven/com.anaptecs.jeaf/jeaf-maven-plugin-test@1.4.9?classifier=sources

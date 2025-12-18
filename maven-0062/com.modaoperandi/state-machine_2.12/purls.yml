@@ -1,0 +1,8 @@
+- pkg:maven/com.modaoperandi/state-machine_2.12@7375c649%2B20200304-1615
+- pkg:maven/com.modaoperandi/state-machine_2.12@7375c649%2B20200304-1615?classifier=sources
+- pkg:maven/com.modaoperandi/state-machine_2.12@7f3c0120
+- pkg:maven/com.modaoperandi/state-machine_2.12@7f3c0120?classifier=sources
+- pkg:maven/com.modaoperandi/state-machine_2.12@abe032d5
+- pkg:maven/com.modaoperandi/state-machine_2.12@abe032d5?classifier=sources
+- pkg:maven/com.modaoperandi/state-machine_2.12@d5deaa69
+- pkg:maven/com.modaoperandi/state-machine_2.12@d5deaa69?classifier=sources

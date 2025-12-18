@@ -1,0 +1,3 @@
+- pkg:maven/org.n52.sensorweb-server.sos/sos-views@5.0.0?type=war
+- pkg:maven/org.n52.sensorweb-server.sos/sos-views@5.0.1?type=war
+- pkg:maven/org.n52.sensorweb-server.sos/sos-views@5.0.2?type=war

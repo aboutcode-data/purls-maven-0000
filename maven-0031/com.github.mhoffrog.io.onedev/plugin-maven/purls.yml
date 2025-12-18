@@ -1,0 +1,2 @@
+- pkg:maven/com.github.mhoffrog.io.onedev/plugin-maven@2.0.3
+- pkg:maven/com.github.mhoffrog.io.onedev/plugin-maven@2.0.3?classifier=sources

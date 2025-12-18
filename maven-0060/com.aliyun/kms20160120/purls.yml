@@ -1,0 +1,2 @@
+- pkg:maven/com.aliyun/kms20160120@0.0.1
+- pkg:maven/com.aliyun/kms20160120@0.0.1?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.github.antonsjava/sprops@1.1
+- pkg:maven/com.github.antonsjava/sprops@1.1?classifier=sources

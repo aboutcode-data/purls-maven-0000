@@ -5,4 +5,7 @@
 - pkg:maven/de.alpharogroup/jobj-compare@3.2?classifier=sources
 - pkg:maven/de.alpharogroup/jobj-compare@3.3
 - pkg:maven/de.alpharogroup/jobj-compare@3.3?classifier=sources
+- pkg:maven/de.alpharogroup/jobj-compare@3.4?classifier=sources
+- pkg:maven/de.alpharogroup/jobj-compare@3.6.1
+- pkg:maven/de.alpharogroup/jobj-compare@3.6.1?classifier=sources
 - pkg:maven/de.alpharogroup/jobj-compare@3?classifier=sources

@@ -2,3 +2,5 @@
 - pkg:maven/org.webjars.bowergithub.primus/eventemitter3@2.0.3?classifier=sources
 - pkg:maven/org.webjars.bowergithub.primus/eventemitter3@4.0.0
 - pkg:maven/org.webjars.bowergithub.primus/eventemitter3@4.0.0?classifier=sources
+- pkg:maven/org.webjars.bowergithub.primus/eventemitter3@4.0.4
+- pkg:maven/org.webjars.bowergithub.primus/eventemitter3@4.0.4?classifier=sources

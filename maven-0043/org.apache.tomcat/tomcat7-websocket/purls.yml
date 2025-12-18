@@ -1,5 +1,9 @@
 - pkg:maven/org.apache.tomcat/tomcat7-websocket@7.0.100
 - pkg:maven/org.apache.tomcat/tomcat7-websocket@7.0.100?classifier=sources
+- pkg:maven/org.apache.tomcat/tomcat7-websocket@7.0.103
+- pkg:maven/org.apache.tomcat/tomcat7-websocket@7.0.103?classifier=sources
+- pkg:maven/org.apache.tomcat/tomcat7-websocket@7.0.104
+- pkg:maven/org.apache.tomcat/tomcat7-websocket@7.0.104?classifier=sources
 - pkg:maven/org.apache.tomcat/tomcat7-websocket@7.0.47
 - pkg:maven/org.apache.tomcat/tomcat7-websocket@7.0.47?classifier=sources
 - pkg:maven/org.apache.tomcat/tomcat7-websocket@7.0.50

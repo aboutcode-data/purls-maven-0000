@@ -1,0 +1,2 @@
+- pkg:maven/ca.nexapp/core@0.1.1
+- pkg:maven/ca.nexapp/core@0.1.1?classifier=sources

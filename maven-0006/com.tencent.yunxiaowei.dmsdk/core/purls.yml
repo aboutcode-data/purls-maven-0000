@@ -3,3 +3,5 @@
 - pkg:maven/com.tencent.yunxiaowei.dmsdk/core@2.2.0?type=aar
 - pkg:maven/com.tencent.yunxiaowei.dmsdk/core@2.2.1?type=aar
 - pkg:maven/com.tencent.yunxiaowei.dmsdk/core@2.3.0?type=aar
+- pkg:maven/com.tencent.yunxiaowei.dmsdk/core@2.4.0?type=aar
+- pkg:maven/com.tencent.yunxiaowei.dmsdk/core@3.0.0?type=aar

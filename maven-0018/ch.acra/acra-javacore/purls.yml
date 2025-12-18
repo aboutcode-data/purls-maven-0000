@@ -16,3 +16,5 @@
 - pkg:maven/ch.acra/acra-javacore@5.4.0?classifier=sources
 - pkg:maven/ch.acra/acra-javacore@5.5.0
 - pkg:maven/ch.acra/acra-javacore@5.5.0?classifier=sources
+- pkg:maven/ch.acra/acra-javacore@5.5.1
+- pkg:maven/ch.acra/acra-javacore@5.5.1?classifier=sources

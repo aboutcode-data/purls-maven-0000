@@ -1,0 +1,4 @@
+- pkg:maven/com.gitee.nowtd/nowtd-java-tools@1.0.0.8
+- pkg:maven/com.gitee.nowtd/nowtd-java-tools@1.0.9
+- pkg:maven/com.gitee.nowtd/nowtd-java-tools@1.9
+- pkg:maven/com.gitee.nowtd/nowtd-java-tools@1.9?classifier=sources

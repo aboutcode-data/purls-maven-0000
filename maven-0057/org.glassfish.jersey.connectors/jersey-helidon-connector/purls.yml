@@ -1,0 +1,2 @@
+- pkg:maven/org.glassfish.jersey.connectors/jersey-helidon-connector@2.31
+- pkg:maven/org.glassfish.jersey.connectors/jersey-helidon-connector@2.31?classifier=sources

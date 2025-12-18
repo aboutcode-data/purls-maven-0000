@@ -66,3 +66,15 @@
 - pkg:maven/com.facebook.android/facebook-marketing@5.9.0?type=aar
 - pkg:maven/com.facebook.android/facebook-marketing@6.0.0?classifier=sources
 - pkg:maven/com.facebook.android/facebook-marketing@6.0.0?type=aar
+- pkg:maven/com.facebook.android/facebook-marketing@6.2.0?classifier=sources
+- pkg:maven/com.facebook.android/facebook-marketing@6.2.0?type=aar
+- pkg:maven/com.facebook.android/facebook-marketing@6.3.0?classifier=sources
+- pkg:maven/com.facebook.android/facebook-marketing@6.3.0?type=aar
+- pkg:maven/com.facebook.android/facebook-marketing@6.4.0?classifier=sources
+- pkg:maven/com.facebook.android/facebook-marketing@6.4.0?type=aar
+- pkg:maven/com.facebook.android/facebook-marketing@6.5.0?classifier=sources
+- pkg:maven/com.facebook.android/facebook-marketing@6.5.0?type=aar
+- pkg:maven/com.facebook.android/facebook-marketing@6.5.1?classifier=sources
+- pkg:maven/com.facebook.android/facebook-marketing@6.5.1?type=aar
+- pkg:maven/com.facebook.android/facebook-marketing@7.0.0?classifier=sources
+- pkg:maven/com.facebook.android/facebook-marketing@7.0.0?type=aar

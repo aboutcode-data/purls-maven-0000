@@ -1,0 +1,6 @@
+- pkg:maven/io.github.project-openubl/xml-sender-ws@2.0.0.Final
+- pkg:maven/io.github.project-openubl/xml-sender-ws@2.0.0.Final?classifier=sources
+- pkg:maven/io.github.project-openubl/xml-sender-ws@2.1.0.Final
+- pkg:maven/io.github.project-openubl/xml-sender-ws@2.1.0.Final?classifier=sources
+- pkg:maven/io.github.project-openubl/xml-sender-ws@2.1.1.Final
+- pkg:maven/io.github.project-openubl/xml-sender-ws@2.1.1.Final?classifier=sources

@@ -6,3 +6,11 @@
 - pkg:maven/me.ihxq.projects/phone-number-geo@1.0.2-201911?classifier=sources
 - pkg:maven/me.ihxq.projects/phone-number-geo@1.0.3-201911
 - pkg:maven/me.ihxq.projects/phone-number-geo@1.0.3-201911?classifier=sources
+- pkg:maven/me.ihxq.projects/phone-number-geo@1.0.4-201911
+- pkg:maven/me.ihxq.projects/phone-number-geo@1.0.4-201911?classifier=sources
+- pkg:maven/me.ihxq.projects/phone-number-geo@1.0.5-201911
+- pkg:maven/me.ihxq.projects/phone-number-geo@1.0.5-201911?classifier=sources
+- pkg:maven/me.ihxq.projects/phone-number-geo@1.0.5-202004
+- pkg:maven/me.ihxq.projects/phone-number-geo@1.0.5-202004?classifier=sources
+- pkg:maven/me.ihxq.projects/phone-number-geo@1.0.6-202004
+- pkg:maven/me.ihxq.projects/phone-number-geo@1.0.6-202004?classifier=sources

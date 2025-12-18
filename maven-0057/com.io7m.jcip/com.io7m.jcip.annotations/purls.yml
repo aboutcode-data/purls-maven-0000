@@ -1,0 +1,2 @@
+- pkg:maven/com.io7m.jcip/com.io7m.jcip.annotations@2.0.0
+- pkg:maven/com.io7m.jcip/com.io7m.jcip.annotations@2.0.0?classifier=sources

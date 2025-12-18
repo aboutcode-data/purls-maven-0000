@@ -1,0 +1,2 @@
+- pkg:maven/com.hlag.oversigt/jira-rest-java-client-fix@0.6
+- pkg:maven/com.hlag.oversigt/jira-rest-java-client-fix@0.6?classifier=sources

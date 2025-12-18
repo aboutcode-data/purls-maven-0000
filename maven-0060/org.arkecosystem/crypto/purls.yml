@@ -10,3 +10,7 @@
 - pkg:maven/org.arkecosystem/crypto@0.1.5?classifier=sources
 - pkg:maven/org.arkecosystem/crypto@0.1.6
 - pkg:maven/org.arkecosystem/crypto@0.1.6?classifier=sources
+- pkg:maven/org.arkecosystem/crypto@1.2.8
+- pkg:maven/org.arkecosystem/crypto@1.2.8?classifier=sources
+- pkg:maven/org.arkecosystem/crypto@1.2.9
+- pkg:maven/org.arkecosystem/crypto@1.2.9?classifier=sources

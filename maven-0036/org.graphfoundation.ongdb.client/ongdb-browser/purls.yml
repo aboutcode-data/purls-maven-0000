@@ -12,3 +12,7 @@
 - pkg:maven/org.graphfoundation.ongdb.client/ongdb-browser@4.0.2?classifier=sources
 - pkg:maven/org.graphfoundation.ongdb.client/ongdb-browser@4.0.3
 - pkg:maven/org.graphfoundation.ongdb.client/ongdb-browser@4.0.3?classifier=sources
+- pkg:maven/org.graphfoundation.ongdb.client/ongdb-browser@4.0.6
+- pkg:maven/org.graphfoundation.ongdb.client/ongdb-browser@4.0.6?classifier=sources
+- pkg:maven/org.graphfoundation.ongdb.client/ongdb-browser@4.0.8
+- pkg:maven/org.graphfoundation.ongdb.client/ongdb-browser@4.0.8?classifier=sources

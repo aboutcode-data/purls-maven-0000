@@ -1,0 +1,2 @@
+- pkg:maven/com.weicoder.fork/dom4j-jdk11@2.1.1
+- pkg:maven/com.weicoder.fork/dom4j-jdk11@2.1.1?classifier=sources

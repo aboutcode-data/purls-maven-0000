@@ -1,0 +1,2 @@
+- pkg:maven/com.github.zhujiebing/push-spring-boot-starter@2.3
+- pkg:maven/com.github.zhujiebing/push-spring-boot-starter@2.3?classifier=sources

@@ -18,3 +18,4 @@
 - pkg:maven/org.apache.xmlgraphics/fop@2.3
 - pkg:maven/org.apache.xmlgraphics/fop@2.3?classifier=sources
 - pkg:maven/org.apache.xmlgraphics/fop@2.4
+- pkg:maven/org.apache.xmlgraphics/fop@2.5

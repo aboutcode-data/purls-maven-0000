@@ -2,3 +2,7 @@
 - pkg:maven/nl.42/restzilla@2.0.0?classifier=sources
 - pkg:maven/nl.42/restzilla@3.0.0
 - pkg:maven/nl.42/restzilla@3.0.0?classifier=sources
+- pkg:maven/nl.42/restzilla@3.1.0
+- pkg:maven/nl.42/restzilla@3.1.0?classifier=sources
+- pkg:maven/nl.42/restzilla@3.1.1
+- pkg:maven/nl.42/restzilla@3.1.1?classifier=sources

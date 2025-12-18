@@ -1,0 +1,16 @@
+- pkg:maven/name.nkonev.r2dbc-migrate/spring-boot-starter-r2dbc-migrate@0.0.12
+- pkg:maven/name.nkonev.r2dbc-migrate/spring-boot-starter-r2dbc-migrate@0.0.12?classifier=sources
+- pkg:maven/name.nkonev.r2dbc-migrate/spring-boot-starter-r2dbc-migrate@0.0.13
+- pkg:maven/name.nkonev.r2dbc-migrate/spring-boot-starter-r2dbc-migrate@0.0.13?classifier=sources
+- pkg:maven/name.nkonev.r2dbc-migrate/spring-boot-starter-r2dbc-migrate@0.0.14
+- pkg:maven/name.nkonev.r2dbc-migrate/spring-boot-starter-r2dbc-migrate@0.0.14?classifier=sources
+- pkg:maven/name.nkonev.r2dbc-migrate/spring-boot-starter-r2dbc-migrate@0.0.19
+- pkg:maven/name.nkonev.r2dbc-migrate/spring-boot-starter-r2dbc-migrate@0.0.19?classifier=sources
+- pkg:maven/name.nkonev.r2dbc-migrate/spring-boot-starter-r2dbc-migrate@0.0.20
+- pkg:maven/name.nkonev.r2dbc-migrate/spring-boot-starter-r2dbc-migrate@0.0.20?classifier=sources
+- pkg:maven/name.nkonev.r2dbc-migrate/spring-boot-starter-r2dbc-migrate@0.0.22
+- pkg:maven/name.nkonev.r2dbc-migrate/spring-boot-starter-r2dbc-migrate@0.0.22?classifier=sources
+- pkg:maven/name.nkonev.r2dbc-migrate/spring-boot-starter-r2dbc-migrate@0.0.23
+- pkg:maven/name.nkonev.r2dbc-migrate/spring-boot-starter-r2dbc-migrate@0.0.23?classifier=sources
+- pkg:maven/name.nkonev.r2dbc-migrate/spring-boot-starter-r2dbc-migrate@0.0.9
+- pkg:maven/name.nkonev.r2dbc-migrate/spring-boot-starter-r2dbc-migrate@0.0.9?classifier=sources

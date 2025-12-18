@@ -6,3 +6,4 @@
 - pkg:maven/com.addc/addc-web-mvc@2.8.2?type=war
 - pkg:maven/com.addc/addc-web-mvc@2.8.3?type=war
 - pkg:maven/com.addc/addc-web-mvc@2.8?type=war
+- pkg:maven/com.addc/addc-web-mvc@2.9?type=war
