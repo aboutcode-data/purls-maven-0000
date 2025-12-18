@@ -10,3 +10,9 @@
 - pkg:maven/vn.onesoft.falcon/falcon-chat-client@2.2.2?classifier=sources
 - pkg:maven/vn.onesoft.falcon/falcon-chat-client@2.4.0
 - pkg:maven/vn.onesoft.falcon/falcon-chat-client@2.4.0?classifier=sources
+- pkg:maven/vn.onesoft.falcon/falcon-chat-client@3.0.0_beta
+- pkg:maven/vn.onesoft.falcon/falcon-chat-client@3.0.0_beta?classifier=sources
+- pkg:maven/vn.onesoft.falcon/falcon-chat-client@3.3.3
+- pkg:maven/vn.onesoft.falcon/falcon-chat-client@3.3.3?classifier=sources
+- pkg:maven/vn.onesoft.falcon/falcon-chat-client@3.4.0
+- pkg:maven/vn.onesoft.falcon/falcon-chat-client@3.4.0?classifier=sources

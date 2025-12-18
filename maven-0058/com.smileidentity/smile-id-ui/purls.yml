@@ -1,2 +1,3 @@
 - pkg:maven/com.smileidentity/smile-id-ui@0.0.1?type=aar
 - pkg:maven/com.smileidentity/smile-id-ui@0.1.2?type=aar
+- pkg:maven/com.smileidentity/smile-id-ui@0.1.3?type=aar

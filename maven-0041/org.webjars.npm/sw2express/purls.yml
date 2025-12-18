@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/sw2express@0.0.10-3
+- pkg:maven/org.webjars.npm/sw2express@0.0.10-3?classifier=sources

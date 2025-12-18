@@ -1,3 +1,7 @@
+- pkg:maven/uk.co.real-logic/artio-codecs@0.100?classifier=sources
+- pkg:maven/uk.co.real-logic/artio-codecs@0.101?classifier=sources
+- pkg:maven/uk.co.real-logic/artio-codecs@0.102?classifier=sources
+- pkg:maven/uk.co.real-logic/artio-codecs@0.103?classifier=sources
 - pkg:maven/uk.co.real-logic/artio-codecs@0.19
 - pkg:maven/uk.co.real-logic/artio-codecs@0.19?classifier=sources
 - pkg:maven/uk.co.real-logic/artio-codecs@0.20
@@ -123,3 +127,4 @@
 - pkg:maven/uk.co.real-logic/artio-codecs@0.96?classifier=sources
 - pkg:maven/uk.co.real-logic/artio-codecs@0.97?classifier=sources
 - pkg:maven/uk.co.real-logic/artio-codecs@0.98?classifier=sources
+- pkg:maven/uk.co.real-logic/artio-codecs@0.99?classifier=sources

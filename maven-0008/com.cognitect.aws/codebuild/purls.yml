@@ -58,3 +58,9 @@
 - pkg:maven/com.cognitect.aws/codebuild@811.2.889.0?classifier=sources
 - pkg:maven/com.cognitect.aws/codebuild@811.2.934.0
 - pkg:maven/com.cognitect.aws/codebuild@811.2.934.0?classifier=sources
+- pkg:maven/com.cognitect.aws/codebuild@811.2.958.0
+- pkg:maven/com.cognitect.aws/codebuild@811.2.958.0?classifier=sources
+- pkg:maven/com.cognitect.aws/codebuild@813.2.972.0
+- pkg:maven/com.cognitect.aws/codebuild@813.2.972.0?classifier=sources
+- pkg:maven/com.cognitect.aws/codebuild@814.2.986.0
+- pkg:maven/com.cognitect.aws/codebuild@814.2.986.0?classifier=sources

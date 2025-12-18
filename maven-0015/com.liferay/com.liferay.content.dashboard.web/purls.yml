@@ -119,6 +119,9 @@
 - pkg:maven/com.liferay/com.liferay.content.dashboard.web@1.0.45
 - pkg:maven/com.liferay/com.liferay.content.dashboard.web@1.0.45?classifier=sources
 - pkg:maven/com.liferay/com.liferay.content.dashboard.web@1.0.45?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.content.dashboard.web@1.0.46
+- pkg:maven/com.liferay/com.liferay.content.dashboard.web@1.0.46?classifier=sources
+- pkg:maven/com.liferay/com.liferay.content.dashboard.web@1.0.46?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.content.dashboard.web@1.0.4?classifier=sources
 - pkg:maven/com.liferay/com.liferay.content.dashboard.web@1.0.4?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.content.dashboard.web@1.0.5
@@ -161,6 +164,9 @@
 - pkg:maven/com.liferay/com.liferay.content.dashboard.web@2.0.15
 - pkg:maven/com.liferay/com.liferay.content.dashboard.web@2.0.15?classifier=sources
 - pkg:maven/com.liferay/com.liferay.content.dashboard.web@2.0.15?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.content.dashboard.web@2.0.16
+- pkg:maven/com.liferay/com.liferay.content.dashboard.web@2.0.16?classifier=sources
+- pkg:maven/com.liferay/com.liferay.content.dashboard.web@2.0.16?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.content.dashboard.web@2.0.1?classifier=sources
 - pkg:maven/com.liferay/com.liferay.content.dashboard.web@2.0.1?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.content.dashboard.web@2.0.2

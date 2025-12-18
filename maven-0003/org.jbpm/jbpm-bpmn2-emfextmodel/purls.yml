@@ -274,6 +274,10 @@
 - pkg:maven/org.jbpm/jbpm-bpmn2-emfextmodel@7.56.0.Final?classifier=sources
 - pkg:maven/org.jbpm/jbpm-bpmn2-emfextmodel@7.57.0.Final
 - pkg:maven/org.jbpm/jbpm-bpmn2-emfextmodel@7.57.0.Final?classifier=sources
+- pkg:maven/org.jbpm/jbpm-bpmn2-emfextmodel@7.58.0.Final
+- pkg:maven/org.jbpm/jbpm-bpmn2-emfextmodel@7.58.0.Final?classifier=sources
+- pkg:maven/org.jbpm/jbpm-bpmn2-emfextmodel@7.59.0.Final
+- pkg:maven/org.jbpm/jbpm-bpmn2-emfextmodel@7.59.0.Final?classifier=sources
 - pkg:maven/org.jbpm/jbpm-bpmn2-emfextmodel@7.6.0.Final
 - pkg:maven/org.jbpm/jbpm-bpmn2-emfextmodel@7.6.0.Final?classifier=sources
 - pkg:maven/org.jbpm/jbpm-bpmn2-emfextmodel@7.6.0.t022

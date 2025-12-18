@@ -1,0 +1,2 @@
+- pkg:maven/io.github.ramerf/wind-web@4.0.7
+- pkg:maven/io.github.ramerf/wind-web@4.0.7?classifier=sources

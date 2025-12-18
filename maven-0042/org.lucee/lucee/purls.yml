@@ -168,3 +168,5 @@
 - pkg:maven/org.lucee/lucee@5.3.8.167-RC?classifier=sources
 - pkg:maven/org.lucee/lucee@5.3.8.189
 - pkg:maven/org.lucee/lucee@5.3.8.189?classifier=sources
+- pkg:maven/org.lucee/lucee@5.3.8.201
+- pkg:maven/org.lucee/lucee@5.3.8.201?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/com.amazonaws/aws-java-sdk-kafkaconnect@1.12.69
+- pkg:maven/com.amazonaws/aws-java-sdk-kafkaconnect@1.12.69?classifier=sources
+- pkg:maven/com.amazonaws/aws-java-sdk-kafkaconnect@1.12.70
+- pkg:maven/com.amazonaws/aws-java-sdk-kafkaconnect@1.12.70?classifier=sources

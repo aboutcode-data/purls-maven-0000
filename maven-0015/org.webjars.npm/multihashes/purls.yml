@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/multihashes@0.4.21
+- pkg:maven/org.webjars.npm/multihashes@0.4.21?classifier=sources

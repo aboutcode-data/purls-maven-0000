@@ -22,5 +22,6 @@
 - pkg:maven/org.sakaiproject.common/sakai-import-bb6-resource@20.1
 - pkg:maven/org.sakaiproject.common/sakai-import-bb6-resource@20.2
 - pkg:maven/org.sakaiproject.common/sakai-import-bb6-resource@20.3
+- pkg:maven/org.sakaiproject.common/sakai-import-bb6-resource@20.4
 - pkg:maven/org.sakaiproject.common/sakai-import-bb6-resource@21.0
 - pkg:maven/org.sakaiproject.common/sakai-import-bb6-resource@21.1

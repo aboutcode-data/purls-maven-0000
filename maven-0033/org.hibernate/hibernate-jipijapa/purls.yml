@@ -29,6 +29,7 @@
 - pkg:maven/org.hibernate/hibernate-jipijapa@5.3.20.Final
 - pkg:maven/org.hibernate/hibernate-jipijapa@5.3.20.Final?classifier=sources
 - pkg:maven/org.hibernate/hibernate-jipijapa@5.3.21.Final?classifier=sources
+- pkg:maven/org.hibernate/hibernate-jipijapa@5.3.22.Final?classifier=sources
 - pkg:maven/org.hibernate/hibernate-jipijapa@5.3.3.Final
 - pkg:maven/org.hibernate/hibernate-jipijapa@5.3.3.Final?classifier=sources
 - pkg:maven/org.hibernate/hibernate-jipijapa@5.3.4.Final

@@ -1,0 +1,6 @@
+- pkg:maven/net.mbonnin.r8/r8@3.0.65
+- pkg:maven/net.mbonnin.r8/r8@3.0.65?classifier=sources
+- pkg:maven/net.mbonnin.r8/r8@3.1.9-dev
+- pkg:maven/net.mbonnin.r8/r8@3.1.9-dev2
+- pkg:maven/net.mbonnin.r8/r8@3.1.9-dev2?classifier=sources
+- pkg:maven/net.mbonnin.r8/r8@3.1.9-dev?classifier=sources

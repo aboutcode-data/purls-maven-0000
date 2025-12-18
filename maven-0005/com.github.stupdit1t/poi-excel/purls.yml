@@ -17,4 +17,6 @@
 - pkg:maven/com.github.stupdit1t/poi-excel@1.8
 - pkg:maven/com.github.stupdit1t/poi-excel@1.8.1
 - pkg:maven/com.github.stupdit1t/poi-excel@1.8.1?classifier=sources
+- pkg:maven/com.github.stupdit1t/poi-excel@1.8.2
+- pkg:maven/com.github.stupdit1t/poi-excel@1.8.2?classifier=sources
 - pkg:maven/com.github.stupdit1t/poi-excel@1.8?classifier=sources

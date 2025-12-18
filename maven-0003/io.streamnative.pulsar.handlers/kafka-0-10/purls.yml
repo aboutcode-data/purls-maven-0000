@@ -1,0 +1,8 @@
+- pkg:maven/io.streamnative.pulsar.handlers/kafka-0-10@2.8.0.14
+- pkg:maven/io.streamnative.pulsar.handlers/kafka-0-10@2.8.0.14?classifier=sources
+- pkg:maven/io.streamnative.pulsar.handlers/kafka-0-10@2.8.0.15
+- pkg:maven/io.streamnative.pulsar.handlers/kafka-0-10@2.8.0.15?classifier=sources
+- pkg:maven/io.streamnative.pulsar.handlers/kafka-0-10@2.8.0.16
+- pkg:maven/io.streamnative.pulsar.handlers/kafka-0-10@2.8.0.16?classifier=sources
+- pkg:maven/io.streamnative.pulsar.handlers/kafka-0-10@2.8.1.0
+- pkg:maven/io.streamnative.pulsar.handlers/kafka-0-10@2.8.1.0?classifier=sources

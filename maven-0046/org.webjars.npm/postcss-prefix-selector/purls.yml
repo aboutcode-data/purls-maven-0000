@@ -1,2 +1,6 @@
+- pkg:maven/org.webjars.npm/postcss-prefix-selector@1.10.0
+- pkg:maven/org.webjars.npm/postcss-prefix-selector@1.10.0?classifier=sources
+- pkg:maven/org.webjars.npm/postcss-prefix-selector@1.13.0
+- pkg:maven/org.webjars.npm/postcss-prefix-selector@1.13.0?classifier=sources
 - pkg:maven/org.webjars.npm/postcss-prefix-selector@1.7.2
 - pkg:maven/org.webjars.npm/postcss-prefix-selector@1.7.2?classifier=sources

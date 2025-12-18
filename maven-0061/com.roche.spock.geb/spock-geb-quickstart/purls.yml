@@ -4,3 +4,5 @@
 - pkg:maven/com.roche.spock.geb/spock-geb-quickstart@0.2.0?classifier=sources
 - pkg:maven/com.roche.spock.geb/spock-geb-quickstart@0.3.0?classifier=sources
 - pkg:maven/com.roche.spock.geb/spock-geb-quickstart@0.3.1?classifier=sources
+- pkg:maven/com.roche.spock.geb/spock-geb-quickstart@0.4.0?classifier=sources
+- pkg:maven/com.roche.spock.geb/spock-geb-quickstart@0.4.1?classifier=sources

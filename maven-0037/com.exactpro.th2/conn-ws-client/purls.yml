@@ -2,3 +2,7 @@
 - pkg:maven/com.exactpro.th2/conn-ws-client@0.1.0?classifier=sources
 - pkg:maven/com.exactpro.th2/conn-ws-client@0.1.1?classifier=sources
 - pkg:maven/com.exactpro.th2/conn-ws-client@0.2.0?classifier=sources
+- pkg:maven/com.exactpro.th2/conn-ws-client@0.2.1?classifier=sources
+- pkg:maven/com.exactpro.th2/conn-ws-client@0.2.2?classifier=sources
+- pkg:maven/com.exactpro.th2/conn-ws-client@0.2.3?classifier=sources
+- pkg:maven/com.exactpro.th2/conn-ws-client@0.2.4?classifier=sources

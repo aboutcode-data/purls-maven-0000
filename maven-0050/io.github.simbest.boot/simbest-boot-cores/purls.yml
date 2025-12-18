@@ -1,0 +1,2 @@
+- pkg:maven/io.github.simbest.boot/simbest-boot-cores@0.1
+- pkg:maven/io.github.simbest.boot/simbest-boot-cores@0.1?classifier=sources

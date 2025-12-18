@@ -2,6 +2,8 @@
 - pkg:maven/org.hortonmachine/hm-apps@0.10.0?classifier=sources
 - pkg:maven/org.hortonmachine/hm-apps@0.10.1
 - pkg:maven/org.hortonmachine/hm-apps@0.10.1?classifier=sources
+- pkg:maven/org.hortonmachine/hm-apps@0.10.3
+- pkg:maven/org.hortonmachine/hm-apps@0.10.3?classifier=sources
 - pkg:maven/org.hortonmachine/hm-apps@0.9.10
 - pkg:maven/org.hortonmachine/hm-apps@0.9.10?classifier=sources
 - pkg:maven/org.hortonmachine/hm-apps@0.9.11

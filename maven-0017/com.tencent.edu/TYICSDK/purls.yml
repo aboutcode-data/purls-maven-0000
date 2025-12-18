@@ -6,3 +6,5 @@
 - pkg:maven/com.tencent.edu/TYICSDK@2.0.1.95?type=aar
 - pkg:maven/com.tencent.edu/TYICSDK@2.0.1.96?classifier=sources
 - pkg:maven/com.tencent.edu/TYICSDK@2.0.1.96?type=aar
+- pkg:maven/com.tencent.edu/TYICSDK@2.0.1.97?classifier=sources
+- pkg:maven/com.tencent.edu/TYICSDK@2.0.1.97?type=aar

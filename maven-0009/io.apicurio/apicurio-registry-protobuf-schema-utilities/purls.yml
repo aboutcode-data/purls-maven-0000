@@ -1,0 +1,2 @@
+- pkg:maven/io.apicurio/apicurio-registry-protobuf-schema-utilities@2.1.0.RC1
+- pkg:maven/io.apicurio/apicurio-registry-protobuf-schema-utilities@2.1.0.RC1?classifier=sources

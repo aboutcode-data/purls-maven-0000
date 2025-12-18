@@ -1,1 +1,2 @@
 - pkg:maven/com.ealva/compose-preference@0.7.4-0?classifier=sources
+- pkg:maven/com.ealva/compose-preference@0.8.0-0?classifier=sources

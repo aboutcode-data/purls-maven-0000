@@ -1,4 +1,12 @@
 - pkg:maven/kr.jclab.sipc/sipc-java@0.0.1-rc1
+- pkg:maven/kr.jclab.sipc/sipc-java@0.0.1-rc10
+- pkg:maven/kr.jclab.sipc/sipc-java@0.0.1-rc10?classifier=sources
+- pkg:maven/kr.jclab.sipc/sipc-java@0.0.1-rc11
+- pkg:maven/kr.jclab.sipc/sipc-java@0.0.1-rc11?classifier=sources
 - pkg:maven/kr.jclab.sipc/sipc-java@0.0.1-rc1?classifier=sources
 - pkg:maven/kr.jclab.sipc/sipc-java@0.0.1-rc3
 - pkg:maven/kr.jclab.sipc/sipc-java@0.0.1-rc3?classifier=sources
+- pkg:maven/kr.jclab.sipc/sipc-java@0.0.1-rc5
+- pkg:maven/kr.jclab.sipc/sipc-java@0.0.1-rc5?classifier=sources
+- pkg:maven/kr.jclab.sipc/sipc-java@0.0.1-rc9
+- pkg:maven/kr.jclab.sipc/sipc-java@0.0.1-rc9?classifier=sources

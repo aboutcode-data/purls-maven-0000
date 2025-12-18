@@ -10,3 +10,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-languages-ini@RELEASE122?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-languages-ini@RELEASE123?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-languages-ini@RELEASE124?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-languages-ini@RELEASE125?classifier=sources

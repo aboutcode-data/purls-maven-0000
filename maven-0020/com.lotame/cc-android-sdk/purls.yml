@@ -2,3 +2,5 @@
 - pkg:maven/com.lotame/cc-android-sdk@2.3.0.2?type=aar
 - pkg:maven/com.lotame/cc-android-sdk@2.3.0.4
 - pkg:maven/com.lotame/cc-android-sdk@2.3.0.4?classifier=sources
+- pkg:maven/com.lotame/cc-android-sdk@2.4.0.0?classifier=sources
+- pkg:maven/com.lotame/cc-android-sdk@2.4.0.1?classifier=sources

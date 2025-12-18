@@ -12,4 +12,11 @@
 - pkg:maven/com.huaweicloud/spring-cloud-starter-huawei-service-engine@1.5.8-Hoxton
 - pkg:maven/com.huaweicloud/spring-cloud-starter-huawei-service-engine@1.5.9-Hoxton
 - pkg:maven/com.huaweicloud/spring-cloud-starter-huawei-service-engine@1.6.0-Finchley
+- pkg:maven/com.huaweicloud/spring-cloud-starter-huawei-service-engine@1.6.0-Greenwich
 - pkg:maven/com.huaweicloud/spring-cloud-starter-huawei-service-engine@1.6.0-Hoxton
+- pkg:maven/com.huaweicloud/spring-cloud-starter-huawei-service-engine@1.6.1-2020.0.x
+- pkg:maven/com.huaweicloud/spring-cloud-starter-huawei-service-engine@1.6.1-Finchley
+- pkg:maven/com.huaweicloud/spring-cloud-starter-huawei-service-engine@1.6.1-Greenwich
+- pkg:maven/com.huaweicloud/spring-cloud-starter-huawei-service-engine@1.6.1-Hoxton
+- pkg:maven/com.huaweicloud/spring-cloud-starter-huawei-service-engine@1.7.0-2020.0.x
+- pkg:maven/com.huaweicloud/spring-cloud-starter-huawei-service-engine@1.7.0-Hoxton

@@ -34,3 +34,4 @@
 - pkg:maven/org.cornutum.tcases/tcases-shell@3.6.2?classifier=sources
 - pkg:maven/org.cornutum.tcases/tcases-shell@3.6.3?classifier=sources
 - pkg:maven/org.cornutum.tcases/tcases-shell@3.7.0?classifier=sources
+- pkg:maven/org.cornutum.tcases/tcases-shell@3.7.1?classifier=sources

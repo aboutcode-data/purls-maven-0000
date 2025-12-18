@@ -1,0 +1,2 @@
+- pkg:maven/com.android.volley/volley-cronet@1.2.1-rc1?classifier=sources
+- pkg:maven/com.android.volley/volley-cronet@1.2.1?classifier=sources

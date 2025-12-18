@@ -182,6 +182,10 @@
 - pkg:maven/org.kie/jbpm-process-svg@7.56.0.Final?classifier=sources
 - pkg:maven/org.kie/jbpm-process-svg@7.57.0.Final
 - pkg:maven/org.kie/jbpm-process-svg@7.57.0.Final?classifier=sources
+- pkg:maven/org.kie/jbpm-process-svg@7.58.0.Final
+- pkg:maven/org.kie/jbpm-process-svg@7.58.0.Final?classifier=sources
+- pkg:maven/org.kie/jbpm-process-svg@7.59.0.Final
+- pkg:maven/org.kie/jbpm-process-svg@7.59.0.Final?classifier=sources
 - pkg:maven/org.kie/jbpm-process-svg@7.6.0.Final
 - pkg:maven/org.kie/jbpm-process-svg@7.6.0.Final?classifier=sources
 - pkg:maven/org.kie/jbpm-process-svg@7.6.0.t022

@@ -1,1 +1,2 @@
 - pkg:maven/io.deephaven.barrage/barrage-java-root@0.1.1?classifier=source-release&type=zip
+- pkg:maven/io.deephaven.barrage/barrage-java-root@0.2.0?classifier=source-release&type=zip

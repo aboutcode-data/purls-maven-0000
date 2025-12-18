@@ -1,0 +1,4 @@
+- pkg:maven/io.github.ReleaseStandard.CodeEditor/widget-linenumber@2?classifier=sources
+- pkg:maven/io.github.ReleaseStandard.CodeEditor/widget-linenumber@3.4.0?classifier=sources
+- pkg:maven/io.github.ReleaseStandard.CodeEditor/widget-linenumber@3.5.0?classifier=sources
+- pkg:maven/io.github.ReleaseStandard.CodeEditor/widget-linenumber@3?classifier=sources

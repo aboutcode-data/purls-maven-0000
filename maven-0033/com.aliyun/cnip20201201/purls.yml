@@ -1,2 +1,6 @@
+- pkg:maven/com.aliyun/cnip20201201@1.0.0-alpha
+- pkg:maven/com.aliyun/cnip20201201@1.0.0-alpha?classifier=sources
 - pkg:maven/com.aliyun/cnip20201201@1.8.0
 - pkg:maven/com.aliyun/cnip20201201@1.8.0?classifier=sources
+- pkg:maven/com.aliyun/cnip20201201@1.8.1
+- pkg:maven/com.aliyun/cnip20201201@1.8.1?classifier=sources

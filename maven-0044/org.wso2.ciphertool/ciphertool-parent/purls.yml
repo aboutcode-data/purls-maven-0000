@@ -11,6 +11,7 @@
 - pkg:maven/org.wso2.ciphertool/ciphertool-parent@1.1.14?classifier=source-release&type=zip
 - pkg:maven/org.wso2.ciphertool/ciphertool-parent@1.1.15?classifier=source-release&type=zip
 - pkg:maven/org.wso2.ciphertool/ciphertool-parent@1.1.16?classifier=source-release&type=zip
+- pkg:maven/org.wso2.ciphertool/ciphertool-parent@1.1.17?classifier=source-release&type=zip
 - pkg:maven/org.wso2.ciphertool/ciphertool-parent@1.1.4?classifier=source-release&type=zip
 - pkg:maven/org.wso2.ciphertool/ciphertool-parent@1.1.5?classifier=source-release&type=zip
 - pkg:maven/org.wso2.ciphertool/ciphertool-parent@1.1.6?classifier=source-release&type=zip

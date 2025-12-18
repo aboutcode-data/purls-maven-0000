@@ -1,1 +1,2 @@
 - pkg:maven/org.jetbrains.dokka/jekyll-template-processing-plugin@1.5.0?classifier=sources
+- pkg:maven/org.jetbrains.dokka/jekyll-template-processing-plugin@1.5.30?classifier=sources

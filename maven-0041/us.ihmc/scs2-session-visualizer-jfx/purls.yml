@@ -1,0 +1,2 @@
+- pkg:maven/us.ihmc/scs2-session-visualizer-jfx@0.0.1?classifier=sources
+- pkg:maven/us.ihmc/scs2-session-visualizer-jfx@0.0?classifier=sources

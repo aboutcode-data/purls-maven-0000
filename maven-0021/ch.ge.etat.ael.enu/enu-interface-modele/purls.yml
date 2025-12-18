@@ -1,0 +1,6 @@
+- pkg:maven/ch.ge.etat.ael.enu/enu-interface-modele@0.19
+- pkg:maven/ch.ge.etat.ael.enu/enu-interface-modele@0.19?classifier=sources
+- pkg:maven/ch.ge.etat.ael.enu/enu-interface-modele@0.20
+- pkg:maven/ch.ge.etat.ael.enu/enu-interface-modele@0.20?classifier=sources
+- pkg:maven/ch.ge.etat.ael.enu/enu-interface-modele@0.21
+- pkg:maven/ch.ge.etat.ael.enu/enu-interface-modele@0.21?classifier=sources

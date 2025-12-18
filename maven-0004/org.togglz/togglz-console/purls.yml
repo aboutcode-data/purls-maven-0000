@@ -64,3 +64,7 @@
 - pkg:maven/org.togglz/togglz-console@2.9.7?classifier=sources
 - pkg:maven/org.togglz/togglz-console@2.9.8
 - pkg:maven/org.togglz/togglz-console@2.9.8?classifier=sources
+- pkg:maven/org.togglz/togglz-console@2.9.9
+- pkg:maven/org.togglz/togglz-console@2.9.9?classifier=sources
+- pkg:maven/org.togglz/togglz-console@3.0.0
+- pkg:maven/org.togglz/togglz-console@3.0.0?classifier=sources

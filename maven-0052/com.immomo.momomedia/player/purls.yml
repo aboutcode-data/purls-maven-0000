@@ -10,3 +10,5 @@
 - pkg:maven/com.immomo.momomedia/player@momo5.1f.liveplay.2021-0624-1008?type=aar
 - pkg:maven/com.immomo.momomedia/player@momo5.1f.liveplay.2021-0629-1024?classifier=sources
 - pkg:maven/com.immomo.momomedia/player@momo5.1f.liveplay.2021-0629-1024?type=aar
+- pkg:maven/com.immomo.momomedia/player@momo5.1f.liveplay.2021-0702-160201?classifier=sources
+- pkg:maven/com.immomo.momomedia/player@momo5.1f.liveplay.2021-0702-160201?type=aar

@@ -5,3 +5,4 @@
 - pkg:maven/com.kirekov/java-useful-utils@1.3.3?classifier=sources
 - pkg:maven/com.kirekov/java-useful-utils@1.3.4?classifier=sources
 - pkg:maven/com.kirekov/java-useful-utils@1.3?classifier=sources
+- pkg:maven/com.kirekov/java-useful-utils@2.0.0?classifier=sources

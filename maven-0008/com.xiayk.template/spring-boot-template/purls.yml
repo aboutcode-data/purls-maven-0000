@@ -1,0 +1,6 @@
+- pkg:maven/com.xiayk.template/spring-boot-template@0.0.1.A
+- pkg:maven/com.xiayk.template/spring-boot-template@0.0.1.A?classifier=sources
+- pkg:maven/com.xiayk.template/spring-boot-template@0.0.1.T
+- pkg:maven/com.xiayk.template/spring-boot-template@0.0.1.T?classifier=sources
+- pkg:maven/com.xiayk.template/spring-boot-template@0.0.2.T
+- pkg:maven/com.xiayk.template/spring-boot-template@0.0.2.T?classifier=sources

@@ -24,3 +24,5 @@
 - pkg:maven/net.officefloor.editor/net.officefloor.activity@3.36.0?classifier=sources
 - pkg:maven/net.officefloor.editor/net.officefloor.activity@3.37.0?classifier=sources
 - pkg:maven/net.officefloor.editor/net.officefloor.activity@3.38.0?classifier=sources
+- pkg:maven/net.officefloor.editor/net.officefloor.activity@3.39.0?classifier=sources
+- pkg:maven/net.officefloor.editor/net.officefloor.activity@3.40.0?classifier=sources

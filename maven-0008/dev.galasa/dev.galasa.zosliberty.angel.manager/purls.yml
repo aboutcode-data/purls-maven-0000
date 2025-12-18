@@ -1,0 +1,2 @@
+- pkg:maven/dev.galasa/dev.galasa.zosliberty.angel.manager@0.17.0?classifier=sources
+- pkg:maven/dev.galasa/dev.galasa.zosliberty.angel.manager@0.18.0?classifier=sources

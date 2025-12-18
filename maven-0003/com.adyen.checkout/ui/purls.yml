@@ -1,0 +1,2 @@
+- pkg:maven/com.adyen.checkout/ui@2.4.13?classifier=sources
+- pkg:maven/com.adyen.checkout/ui@2.4.13?type=aar
