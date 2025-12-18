@@ -6,3 +6,5 @@
 - pkg:maven/org.geckoprojects.emf/org.gecko.emf.osgi.model.info.api@3.3.7?classifier=sources
 - pkg:maven/org.geckoprojects.emf/org.gecko.emf.osgi.model.info.api@3.4.0
 - pkg:maven/org.geckoprojects.emf/org.gecko.emf.osgi.model.info.api@3.4.0?classifier=sources
+- pkg:maven/org.geckoprojects.emf/org.gecko.emf.osgi.model.info.api@4.0.0
+- pkg:maven/org.geckoprojects.emf/org.gecko.emf.osgi.model.info.api@4.0.0?classifier=sources

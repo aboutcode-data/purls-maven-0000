@@ -1,1 +1,6 @@
 - pkg:maven/com.prof18.youtubeparser/youtubeparser@1.0?classifier=sources
+- pkg:maven/com.prof18.youtubeparser/youtubeparser@1.1?classifier=sources
+- pkg:maven/com.prof18.youtubeparser/youtubeparser@2.0?classifier=sources
+- pkg:maven/com.prof18.youtubeparser/youtubeparser@2.1?classifier=sources
+- pkg:maven/com.prof18.youtubeparser/youtubeparser@2.2?classifier=sources
+- pkg:maven/com.prof18.youtubeparser/youtubeparser@3.0.1?classifier=sources

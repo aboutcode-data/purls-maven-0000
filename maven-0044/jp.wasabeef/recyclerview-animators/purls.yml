@@ -16,3 +16,4 @@
 - pkg:maven/jp.wasabeef/recyclerview-animators@1.2.1?classifier=sources
 - pkg:maven/jp.wasabeef/recyclerview-animators@1.2.2
 - pkg:maven/jp.wasabeef/recyclerview-animators@1.2.2?classifier=sources
+- pkg:maven/jp.wasabeef/recyclerview-animators@4.0.2?classifier=sources

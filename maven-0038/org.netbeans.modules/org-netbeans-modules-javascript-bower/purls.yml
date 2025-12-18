@@ -8,3 +8,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-javascript-bower@RELEASE120?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-javascript-bower@RELEASE121?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-javascript-bower@RELEASE122?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-javascript-bower@RELEASE123?classifier=sources

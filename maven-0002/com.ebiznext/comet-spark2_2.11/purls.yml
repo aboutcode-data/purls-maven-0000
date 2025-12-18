@@ -8,3 +8,13 @@
 - pkg:maven/com.ebiznext/comet-spark2_2.11@0.1.13?classifier=sources
 - pkg:maven/com.ebiznext/comet-spark2_2.11@0.1.14
 - pkg:maven/com.ebiznext/comet-spark2_2.11@0.1.14?classifier=sources
+- pkg:maven/com.ebiznext/comet-spark2_2.11@0.1.30
+- pkg:maven/com.ebiznext/comet-spark2_2.11@0.1.30?classifier=sources
+- pkg:maven/com.ebiznext/comet-spark2_2.11@0.1.32
+- pkg:maven/com.ebiznext/comet-spark2_2.11@0.1.32?classifier=sources
+- pkg:maven/com.ebiznext/comet-spark2_2.11@0.1.33
+- pkg:maven/com.ebiznext/comet-spark2_2.11@0.1.33?classifier=sources
+- pkg:maven/com.ebiznext/comet-spark2_2.11@0.1.35
+- pkg:maven/com.ebiznext/comet-spark2_2.11@0.1.35?classifier=sources
+- pkg:maven/com.ebiznext/comet-spark2_2.11@0.1.36
+- pkg:maven/com.ebiznext/comet-spark2_2.11@0.1.36?classifier=sources

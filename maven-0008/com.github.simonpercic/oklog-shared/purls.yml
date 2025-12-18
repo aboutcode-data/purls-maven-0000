@@ -1,0 +1,2 @@
+- pkg:maven/com.github.simonpercic/oklog-shared@2.3.0
+- pkg:maven/com.github.simonpercic/oklog-shared@2.3.0?classifier=sources

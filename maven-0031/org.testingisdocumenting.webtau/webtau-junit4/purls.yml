@@ -28,3 +28,9 @@
 - pkg:maven/org.testingisdocumenting.webtau/webtau-junit4@1.36.2?classifier=sources
 - pkg:maven/org.testingisdocumenting.webtau/webtau-junit4@1.37
 - pkg:maven/org.testingisdocumenting.webtau/webtau-junit4@1.37?classifier=sources
+- pkg:maven/org.testingisdocumenting.webtau/webtau-junit4@1.38
+- pkg:maven/org.testingisdocumenting.webtau/webtau-junit4@1.38?classifier=sources
+- pkg:maven/org.testingisdocumenting.webtau/webtau-junit4@1.39
+- pkg:maven/org.testingisdocumenting.webtau/webtau-junit4@1.39?classifier=sources
+- pkg:maven/org.testingisdocumenting.webtau/webtau-junit4@1.40
+- pkg:maven/org.testingisdocumenting.webtau/webtau-junit4@1.40?classifier=sources

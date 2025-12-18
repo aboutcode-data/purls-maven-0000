@@ -80,6 +80,10 @@
 - pkg:maven/com.opentext.ia/infoarchive-configuration@12.3.0?classifier=sources
 - pkg:maven/com.opentext.ia/infoarchive-configuration@12.3.1
 - pkg:maven/com.opentext.ia/infoarchive-configuration@12.3.1?classifier=sources
+- pkg:maven/com.opentext.ia/infoarchive-configuration@12.3.2
+- pkg:maven/com.opentext.ia/infoarchive-configuration@12.3.2?classifier=sources
+- pkg:maven/com.opentext.ia/infoarchive-configuration@12.4.0
+- pkg:maven/com.opentext.ia/infoarchive-configuration@12.4.0?classifier=sources
 - pkg:maven/com.opentext.ia/infoarchive-configuration@9.10.0
 - pkg:maven/com.opentext.ia/infoarchive-configuration@9.10.0?classifier=sources
 - pkg:maven/com.opentext.ia/infoarchive-configuration@9.10.1

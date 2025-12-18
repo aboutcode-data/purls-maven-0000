@@ -1,2 +1,6 @@
 - pkg:maven/tools.dynamia.modules/tools.dynamia.modules.dashboard@1.3.0.Final
 - pkg:maven/tools.dynamia.modules/tools.dynamia.modules.dashboard@1.3.0.Final?classifier=sources
+- pkg:maven/tools.dynamia.modules/tools.dynamia.modules.dashboard@1.4.0.Final
+- pkg:maven/tools.dynamia.modules/tools.dynamia.modules.dashboard@1.4.0.Final?classifier=sources
+- pkg:maven/tools.dynamia.modules/tools.dynamia.modules.dashboard@1.5.0
+- pkg:maven/tools.dynamia.modules/tools.dynamia.modules.dashboard@1.5.0?classifier=sources

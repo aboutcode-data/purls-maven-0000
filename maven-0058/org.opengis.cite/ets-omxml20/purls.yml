@@ -1,2 +1,4 @@
 - pkg:maven/org.opengis.cite/ets-omxml20@0.5
 - pkg:maven/org.opengis.cite/ets-omxml20@0.5?classifier=sources
+- pkg:maven/org.opengis.cite/ets-omxml20@1.0
+- pkg:maven/org.opengis.cite/ets-omxml20@1.0?classifier=sources

@@ -22,6 +22,10 @@
 - pkg:maven/com.aspectran/aspectran-with-freemarker@6.10.0?classifier=sources
 - pkg:maven/com.aspectran/aspectran-with-freemarker@6.11.0
 - pkg:maven/com.aspectran/aspectran-with-freemarker@6.11.0?classifier=sources
+- pkg:maven/com.aspectran/aspectran-with-freemarker@6.12.0
+- pkg:maven/com.aspectran/aspectran-with-freemarker@6.12.0?classifier=sources
+- pkg:maven/com.aspectran/aspectran-with-freemarker@6.13.0
+- pkg:maven/com.aspectran/aspectran-with-freemarker@6.13.0?classifier=sources
 - pkg:maven/com.aspectran/aspectran-with-freemarker@6.2.0
 - pkg:maven/com.aspectran/aspectran-with-freemarker@6.2.0-M1
 - pkg:maven/com.aspectran/aspectran-with-freemarker@6.2.0-M1?classifier=sources
@@ -160,3 +164,7 @@
 - pkg:maven/com.aspectran/aspectran-with-freemarker@6.9.8?classifier=sources
 - pkg:maven/com.aspectran/aspectran-with-freemarker@6.9.9
 - pkg:maven/com.aspectran/aspectran-with-freemarker@6.9.9?classifier=sources
+- pkg:maven/com.aspectran/aspectran-with-freemarker@7.0.0
+- pkg:maven/com.aspectran/aspectran-with-freemarker@7.0.0?classifier=sources
+- pkg:maven/com.aspectran/aspectran-with-freemarker@7.0.1
+- pkg:maven/com.aspectran/aspectran-with-freemarker@7.0.1?classifier=sources

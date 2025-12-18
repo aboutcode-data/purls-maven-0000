@@ -7,3 +7,4 @@
 - pkg:maven/org.netbeans.api/org-netbeans-modules-gradle-java@RELEASE120?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-modules-gradle-java@RELEASE121?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-modules-gradle-java@RELEASE122?classifier=sources
+- pkg:maven/org.netbeans.api/org-netbeans-modules-gradle-java@RELEASE123?classifier=sources

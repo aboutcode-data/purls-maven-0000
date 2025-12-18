@@ -6,3 +6,5 @@
 - pkg:maven/com.bilal-fazlani/swiftbar4s_3.0.0-M3@0.0.7-beta?classifier=sources
 - pkg:maven/com.bilal-fazlani/swiftbar4s_3.0.0-M3@0.0.8-beta
 - pkg:maven/com.bilal-fazlani/swiftbar4s_3.0.0-M3@0.0.8-beta?classifier=sources
+- pkg:maven/com.bilal-fazlani/swiftbar4s_3.0.0-M3@0.1.0-beta
+- pkg:maven/com.bilal-fazlani/swiftbar4s_3.0.0-M3@0.1.0-beta?classifier=sources

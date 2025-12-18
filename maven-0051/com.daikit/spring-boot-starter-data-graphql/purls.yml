@@ -9,6 +9,8 @@
 - pkg:maven/com.daikit/spring-boot-starter-data-graphql@1.12?classifier=sources
 - pkg:maven/com.daikit/spring-boot-starter-data-graphql@1.14
 - pkg:maven/com.daikit/spring-boot-starter-data-graphql@1.14?classifier=sources
+- pkg:maven/com.daikit/spring-boot-starter-data-graphql@1.15
+- pkg:maven/com.daikit/spring-boot-starter-data-graphql@1.15?classifier=sources
 - pkg:maven/com.daikit/spring-boot-starter-data-graphql@1.1?classifier=sources
 - pkg:maven/com.daikit/spring-boot-starter-data-graphql@1.2
 - pkg:maven/com.daikit/spring-boot-starter-data-graphql@1.2?classifier=sources

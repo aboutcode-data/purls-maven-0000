@@ -30,3 +30,7 @@
 - pkg:maven/com.github.yingzhuo/carnival-spring-boot-starter-kubernetes@1.7.18?classifier=sources
 - pkg:maven/com.github.yingzhuo/carnival-spring-boot-starter-kubernetes@1.7.19
 - pkg:maven/com.github.yingzhuo/carnival-spring-boot-starter-kubernetes@1.7.19?classifier=sources
+- pkg:maven/com.github.yingzhuo/carnival-spring-boot-starter-kubernetes@1.7.20
+- pkg:maven/com.github.yingzhuo/carnival-spring-boot-starter-kubernetes@1.7.20?classifier=sources
+- pkg:maven/com.github.yingzhuo/carnival-spring-boot-starter-kubernetes@1.7.21
+- pkg:maven/com.github.yingzhuo/carnival-spring-boot-starter-kubernetes@1.7.21?classifier=sources

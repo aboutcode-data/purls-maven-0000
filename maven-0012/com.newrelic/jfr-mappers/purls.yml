@@ -4,3 +4,4 @@
 - pkg:maven/com.newrelic/jfr-mappers@0.4.0?classifier=sources
 - pkg:maven/com.newrelic/jfr-mappers@0.5.0?classifier=sources
 - pkg:maven/com.newrelic/jfr-mappers@1.0.0?classifier=sources
+- pkg:maven/com.newrelic/jfr-mappers@1.1.0?classifier=sources

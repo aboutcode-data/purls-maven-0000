@@ -6,3 +6,5 @@
 - pkg:maven/org.wso2.maven/wso2-esb-metadata-plugin@5.2.33?classifier=sources
 - pkg:maven/org.wso2.maven/wso2-esb-metadata-plugin@5.2.34
 - pkg:maven/org.wso2.maven/wso2-esb-metadata-plugin@5.2.34?classifier=sources
+- pkg:maven/org.wso2.maven/wso2-esb-metadata-plugin@5.2.35
+- pkg:maven/org.wso2.maven/wso2-esb-metadata-plugin@5.2.35?classifier=sources

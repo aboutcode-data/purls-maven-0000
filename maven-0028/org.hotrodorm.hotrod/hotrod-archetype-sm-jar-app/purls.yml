@@ -5,3 +5,4 @@
 - pkg:maven/org.hotrodorm.hotrod/hotrod-archetype-sm-jar-app@3.3.2?classifier=sources
 - pkg:maven/org.hotrodorm.hotrod/hotrod-archetype-sm-jar-app@3.3.3?classifier=sources
 - pkg:maven/org.hotrodorm.hotrod/hotrod-archetype-sm-jar-app@3.4.0?classifier=sources
+- pkg:maven/org.hotrodorm.hotrod/hotrod-archetype-sm-jar-app@3.4.1?classifier=sources

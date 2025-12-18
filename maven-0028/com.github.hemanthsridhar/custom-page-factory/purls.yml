@@ -67,6 +67,8 @@
 - pkg:maven/com.github.hemanthsridhar/custom-page-factory@1.14.3
 - pkg:maven/com.github.hemanthsridhar/custom-page-factory@1.14.30
 - pkg:maven/com.github.hemanthsridhar/custom-page-factory@1.14.30?classifier=sources
+- pkg:maven/com.github.hemanthsridhar/custom-page-factory@1.14.31
+- pkg:maven/com.github.hemanthsridhar/custom-page-factory@1.14.31?classifier=sources
 - pkg:maven/com.github.hemanthsridhar/custom-page-factory@1.14.3?classifier=sources
 - pkg:maven/com.github.hemanthsridhar/custom-page-factory@1.14.4
 - pkg:maven/com.github.hemanthsridhar/custom-page-factory@1.14.4?classifier=sources

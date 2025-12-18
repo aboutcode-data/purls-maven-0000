@@ -1,0 +1,2 @@
+- pkg:maven/ru.ilb.filedossier/filedossier-computervision@1.8
+- pkg:maven/ru.ilb.filedossier/filedossier-computervision@1.8?classifier=sources

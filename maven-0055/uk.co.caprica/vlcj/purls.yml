@@ -88,3 +88,5 @@
 - pkg:maven/uk.co.caprica/vlcj@4.6.0?classifier=sources
 - pkg:maven/uk.co.caprica/vlcj@4.7.0
 - pkg:maven/uk.co.caprica/vlcj@4.7.0?classifier=sources
+- pkg:maven/uk.co.caprica/vlcj@4.7.1
+- pkg:maven/uk.co.caprica/vlcj@4.7.1?classifier=sources

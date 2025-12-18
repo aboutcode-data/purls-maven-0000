@@ -27,6 +27,8 @@
 - pkg:maven/com.zuunr/json@0.1.0.M21-c7667fe?classifier=sources
 - pkg:maven/com.zuunr/json@0.1.0.M22-7266b89
 - pkg:maven/com.zuunr/json@0.1.0.M22-7266b89?classifier=sources
+- pkg:maven/com.zuunr/json@0.1.0.M23-4a02b7b
+- pkg:maven/com.zuunr/json@0.1.0.M23-4a02b7b?classifier=sources
 - pkg:maven/com.zuunr/json@0.1.0.M2?classifier=sources
 - pkg:maven/com.zuunr/json@0.1.0.M3
 - pkg:maven/com.zuunr/json@0.1.0.M3?classifier=sources

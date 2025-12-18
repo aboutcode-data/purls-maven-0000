@@ -4,3 +4,5 @@
 - pkg:maven/org.webjars.npm/octokit__types@4.1.10?classifier=sources
 - pkg:maven/org.webjars.npm/octokit__types@5.5.0
 - pkg:maven/org.webjars.npm/octokit__types@5.5.0?classifier=sources
+- pkg:maven/org.webjars.npm/octokit__types@6.13.0
+- pkg:maven/org.webjars.npm/octokit__types@6.13.0?classifier=sources

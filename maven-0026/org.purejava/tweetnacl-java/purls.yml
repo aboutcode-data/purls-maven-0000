@@ -1,0 +1,2 @@
+- pkg:maven/org.purejava/tweetnacl-java@1.1.2
+- pkg:maven/org.purejava/tweetnacl-java@1.1.2?classifier=sources

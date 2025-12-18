@@ -12,6 +12,12 @@
 - pkg:maven/com.nepxion/discovery-plugin-register-center-starter-nacos@3.21.0?classifier=sources
 - pkg:maven/com.nepxion/discovery-plugin-register-center-starter-nacos@3.22.0
 - pkg:maven/com.nepxion/discovery-plugin-register-center-starter-nacos@3.22.0?classifier=sources
+- pkg:maven/com.nepxion/discovery-plugin-register-center-starter-nacos@3.23.0
+- pkg:maven/com.nepxion/discovery-plugin-register-center-starter-nacos@3.23.0?classifier=sources
+- pkg:maven/com.nepxion/discovery-plugin-register-center-starter-nacos@3.24.0
+- pkg:maven/com.nepxion/discovery-plugin-register-center-starter-nacos@3.24.0?classifier=sources
+- pkg:maven/com.nepxion/discovery-plugin-register-center-starter-nacos@3.25.0
+- pkg:maven/com.nepxion/discovery-plugin-register-center-starter-nacos@3.25.0?classifier=sources
 - pkg:maven/com.nepxion/discovery-plugin-register-center-starter-nacos@6.2.0
 - pkg:maven/com.nepxion/discovery-plugin-register-center-starter-nacos@6.2.0?classifier=sources
 - pkg:maven/com.nepxion/discovery-plugin-register-center-starter-nacos@6.3.0
@@ -26,3 +32,9 @@
 - pkg:maven/com.nepxion/discovery-plugin-register-center-starter-nacos@6.5.0?classifier=sources
 - pkg:maven/com.nepxion/discovery-plugin-register-center-starter-nacos@6.6.0
 - pkg:maven/com.nepxion/discovery-plugin-register-center-starter-nacos@6.6.0?classifier=sources
+- pkg:maven/com.nepxion/discovery-plugin-register-center-starter-nacos@6.7.0
+- pkg:maven/com.nepxion/discovery-plugin-register-center-starter-nacos@6.7.0?classifier=sources
+- pkg:maven/com.nepxion/discovery-plugin-register-center-starter-nacos@6.8.0
+- pkg:maven/com.nepxion/discovery-plugin-register-center-starter-nacos@6.8.0?classifier=sources
+- pkg:maven/com.nepxion/discovery-plugin-register-center-starter-nacos@6.9.0
+- pkg:maven/com.nepxion/discovery-plugin-register-center-starter-nacos@6.9.0?classifier=sources

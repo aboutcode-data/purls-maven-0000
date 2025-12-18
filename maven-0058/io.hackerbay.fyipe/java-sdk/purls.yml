@@ -20,3 +20,17 @@
 - pkg:maven/io.hackerbay.fyipe/java-sdk@3.0.8408?classifier=sources
 - pkg:maven/io.hackerbay.fyipe/java-sdk@3.0.8571
 - pkg:maven/io.hackerbay.fyipe/java-sdk@3.0.8571?classifier=sources
+- pkg:maven/io.hackerbay.fyipe/java-sdk@3.0.8980
+- pkg:maven/io.hackerbay.fyipe/java-sdk@3.0.8980?classifier=sources
+- pkg:maven/io.hackerbay.fyipe/java-sdk@3.0.9152
+- pkg:maven/io.hackerbay.fyipe/java-sdk@3.0.9152?classifier=sources
+- pkg:maven/io.hackerbay.fyipe/java-sdk@3.0.9623
+- pkg:maven/io.hackerbay.fyipe/java-sdk@3.0.9623?classifier=sources
+- pkg:maven/io.hackerbay.fyipe/java-sdk@3.0.9645
+- pkg:maven/io.hackerbay.fyipe/java-sdk@3.0.9645?classifier=sources
+- pkg:maven/io.hackerbay.fyipe/java-sdk@3.0.9742
+- pkg:maven/io.hackerbay.fyipe/java-sdk@3.0.9742?classifier=sources
+- pkg:maven/io.hackerbay.fyipe/java-sdk@3.0.9747
+- pkg:maven/io.hackerbay.fyipe/java-sdk@3.0.9747?classifier=sources
+- pkg:maven/io.hackerbay.fyipe/java-sdk@3.0.9785
+- pkg:maven/io.hackerbay.fyipe/java-sdk@3.0.9785?classifier=sources

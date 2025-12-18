@@ -1,0 +1,2 @@
+- pkg:maven/com.github.soranakk.oofqrreader/image-converter-android-camera@0.0.1?classifier=sources
+- pkg:maven/com.github.soranakk.oofqrreader/image-converter-android-camera@1.0.0?classifier=sources

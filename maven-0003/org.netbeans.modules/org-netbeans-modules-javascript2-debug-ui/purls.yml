@@ -8,4 +8,5 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-javascript2-debug-ui@RELEASE120?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-javascript2-debug-ui@RELEASE121?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-javascript2-debug-ui@RELEASE122?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-javascript2-debug-ui@RELEASE123?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-javascript2-debug-ui@RELEASE90?classifier=sources

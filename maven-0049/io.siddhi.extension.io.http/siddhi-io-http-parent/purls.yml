@@ -8,3 +8,5 @@
 - pkg:maven/io.siddhi.extension.io.http/siddhi-io-http-parent@2.2.2?classifier=source-release&type=zip
 - pkg:maven/io.siddhi.extension.io.http/siddhi-io-http-parent@2.2.3?classifier=source-release&type=zip
 - pkg:maven/io.siddhi.extension.io.http/siddhi-io-http-parent@2.2.4?classifier=source-release&type=zip
+- pkg:maven/io.siddhi.extension.io.http/siddhi-io-http-parent@2.3.0?classifier=source-release&type=zip
+- pkg:maven/io.siddhi.extension.io.http/siddhi-io-http-parent@2.3.1?classifier=source-release&type=zip

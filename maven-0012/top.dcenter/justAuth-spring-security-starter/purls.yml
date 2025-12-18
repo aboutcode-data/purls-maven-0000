@@ -37,6 +37,12 @@
 - pkg:maven/top.dcenter/justAuth-spring-security-starter@1.1.14?classifier=sources
 - pkg:maven/top.dcenter/justAuth-spring-security-starter@1.1.15
 - pkg:maven/top.dcenter/justAuth-spring-security-starter@1.1.15?classifier=sources
+- pkg:maven/top.dcenter/justAuth-spring-security-starter@1.1.16
+- pkg:maven/top.dcenter/justAuth-spring-security-starter@1.1.16?classifier=sources
+- pkg:maven/top.dcenter/justAuth-spring-security-starter@1.1.17
+- pkg:maven/top.dcenter/justAuth-spring-security-starter@1.1.17?classifier=sources
+- pkg:maven/top.dcenter/justAuth-spring-security-starter@1.1.18
+- pkg:maven/top.dcenter/justAuth-spring-security-starter@1.1.18?classifier=sources
 - pkg:maven/top.dcenter/justAuth-spring-security-starter@1.1.1?classifier=sources
 - pkg:maven/top.dcenter/justAuth-spring-security-starter@1.1.2
 - pkg:maven/top.dcenter/justAuth-spring-security-starter@1.1.2?classifier=sources

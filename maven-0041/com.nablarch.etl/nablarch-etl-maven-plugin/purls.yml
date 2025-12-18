@@ -12,3 +12,5 @@
 - pkg:maven/com.nablarch.etl/nablarch-etl-maven-plugin@5u16?classifier=sources
 - pkg:maven/com.nablarch.etl/nablarch-etl-maven-plugin@5u18
 - pkg:maven/com.nablarch.etl/nablarch-etl-maven-plugin@5u18?classifier=sources
+- pkg:maven/com.nablarch.etl/nablarch-etl-maven-plugin@5u19
+- pkg:maven/com.nablarch.etl/nablarch-etl-maven-plugin@5u19?classifier=sources

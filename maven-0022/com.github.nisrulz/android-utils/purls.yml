@@ -6,3 +6,5 @@
 - pkg:maven/com.github.nisrulz/android-utils@1.0.2?type=aar
 - pkg:maven/com.github.nisrulz/android-utils@1.0.4?classifier=sources
 - pkg:maven/com.github.nisrulz/android-utils@1.0.4?type=aar
+- pkg:maven/com.github.nisrulz/android-utils@1.1.0?classifier=sources
+- pkg:maven/com.github.nisrulz/android-utils@1.1.0?type=aar

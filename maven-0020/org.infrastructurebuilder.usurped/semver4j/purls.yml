@@ -1,0 +1,2 @@
+- pkg:maven/org.infrastructurebuilder.usurped/semver4j@3.2.0.3
+- pkg:maven/org.infrastructurebuilder.usurped/semver4j@3.2.0.3?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/com.momomo/momomo.com.platform.db.base.jpa.session@2.1.8
+- pkg:maven/com.momomo/momomo.com.platform.db.base.jpa.session@2.1.8?classifier=sources
+- pkg:maven/com.momomo/momomo.com.platform.db.base.jpa.session@2.1.9
+- pkg:maven/com.momomo/momomo.com.platform.db.base.jpa.session@2.1.9?classifier=sources

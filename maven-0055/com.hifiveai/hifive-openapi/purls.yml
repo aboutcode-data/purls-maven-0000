@@ -1,0 +1,16 @@
+- pkg:maven/com.hifiveai/hifive-openapi@0.0.1-RELEASE
+- pkg:maven/com.hifiveai/hifive-openapi@0.0.1-RELEASE?classifier=sources
+- pkg:maven/com.hifiveai/hifive-openapi@4.0.1-RELEASE
+- pkg:maven/com.hifiveai/hifive-openapi@4.0.1-RELEASE?classifier=sources
+- pkg:maven/com.hifiveai/hifive-openapi@4.0.1_1-RELEASE
+- pkg:maven/com.hifiveai/hifive-openapi@4.0.1_1-RELEASE?classifier=sources
+- pkg:maven/com.hifiveai/hifive-openapi@4.0.1_2-RELEASE
+- pkg:maven/com.hifiveai/hifive-openapi@4.0.1_2-RELEASE?classifier=sources
+- pkg:maven/com.hifiveai/hifive-openapi@4.0.1_3-RELEASE
+- pkg:maven/com.hifiveai/hifive-openapi@4.0.1_3-RELEASE?classifier=sources
+- pkg:maven/com.hifiveai/hifive-openapi@4.0.1_5-RELEASE
+- pkg:maven/com.hifiveai/hifive-openapi@4.0.1_5-RELEASE?classifier=sources
+- pkg:maven/com.hifiveai/hifive-openapi@4.0.1_6-RELEASE
+- pkg:maven/com.hifiveai/hifive-openapi@4.0.1_6-RELEASE?classifier=sources
+- pkg:maven/com.hifiveai/hifive-openapi@4.1.1_1-RELEASE
+- pkg:maven/com.hifiveai/hifive-openapi@4.1.1_1-RELEASE?classifier=sources

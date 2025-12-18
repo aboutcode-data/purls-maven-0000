@@ -1,1 +1,2 @@
 - pkg:maven/tr.com.tokenpay/tokenpay@0.0.2?classifier=sources
+- pkg:maven/tr.com.tokenpay/tokenpay@0.0.4?classifier=sources

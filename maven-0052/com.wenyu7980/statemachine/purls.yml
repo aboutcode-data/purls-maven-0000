@@ -16,3 +16,5 @@
 - pkg:maven/com.wenyu7980/statemachine@2.0.0?classifier=sources
 - pkg:maven/com.wenyu7980/statemachine@2.1.0
 - pkg:maven/com.wenyu7980/statemachine@2.1.0?classifier=sources
+- pkg:maven/com.wenyu7980/statemachine@3.0.0
+- pkg:maven/com.wenyu7980/statemachine@3.0.0?classifier=sources

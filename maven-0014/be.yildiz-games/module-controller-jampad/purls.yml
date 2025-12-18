@@ -14,3 +14,7 @@
 - pkg:maven/be.yildiz-games/module-controller-jampad@1.0.7?classifier=sources
 - pkg:maven/be.yildiz-games/module-controller-jampad@1.0.8
 - pkg:maven/be.yildiz-games/module-controller-jampad@1.0.8?classifier=sources
+- pkg:maven/be.yildiz-games/module-controller-jampad@1.1.0
+- pkg:maven/be.yildiz-games/module-controller-jampad@1.1.0?classifier=sources
+- pkg:maven/be.yildiz-games/module-controller-jampad@1.1.1
+- pkg:maven/be.yildiz-games/module-controller-jampad@1.1.1?classifier=sources

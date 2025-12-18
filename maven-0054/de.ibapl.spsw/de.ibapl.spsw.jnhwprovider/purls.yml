@@ -1,2 +1,4 @@
 - pkg:maven/de.ibapl.spsw/de.ibapl.spsw.jnhwprovider@2.1.0
 - pkg:maven/de.ibapl.spsw/de.ibapl.spsw.jnhwprovider@2.1.0?classifier=sources
+- pkg:maven/de.ibapl.spsw/de.ibapl.spsw.jnhwprovider@3.0.1
+- pkg:maven/de.ibapl.spsw/de.ibapl.spsw.jnhwprovider@3.0.1?classifier=sources

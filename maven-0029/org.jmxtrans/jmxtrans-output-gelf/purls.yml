@@ -10,3 +10,5 @@
 - pkg:maven/org.jmxtrans/jmxtrans-output-gelf@270?classifier=sources
 - pkg:maven/org.jmxtrans/jmxtrans-output-gelf@271
 - pkg:maven/org.jmxtrans/jmxtrans-output-gelf@271?classifier=sources
+- pkg:maven/org.jmxtrans/jmxtrans-output-gelf@272
+- pkg:maven/org.jmxtrans/jmxtrans-output-gelf@272?classifier=sources

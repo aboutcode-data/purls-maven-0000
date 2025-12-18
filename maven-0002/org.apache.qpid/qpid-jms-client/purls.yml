@@ -88,6 +88,8 @@
 - pkg:maven/org.apache.qpid/qpid-jms-client@0.55.0?classifier=sources
 - pkg:maven/org.apache.qpid/qpid-jms-client@0.56.0
 - pkg:maven/org.apache.qpid/qpid-jms-client@0.56.0?classifier=sources
+- pkg:maven/org.apache.qpid/qpid-jms-client@0.57.0
+- pkg:maven/org.apache.qpid/qpid-jms-client@0.57.0?classifier=sources
 - pkg:maven/org.apache.qpid/qpid-jms-client@0.6.0
 - pkg:maven/org.apache.qpid/qpid-jms-client@0.6.0?classifier=sources
 - pkg:maven/org.apache.qpid/qpid-jms-client@0.7.0

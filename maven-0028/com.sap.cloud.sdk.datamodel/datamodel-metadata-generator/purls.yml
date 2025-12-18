@@ -1,0 +1,2 @@
+- pkg:maven/com.sap.cloud.sdk.datamodel/datamodel-metadata-generator@3.41.0
+- pkg:maven/com.sap.cloud.sdk.datamodel/datamodel-metadata-generator@3.41.0?classifier=sources

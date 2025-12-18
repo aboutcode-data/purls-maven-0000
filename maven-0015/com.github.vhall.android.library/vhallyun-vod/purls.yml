@@ -1,0 +1,2 @@
+- pkg:maven/com.github.vhall.android.library/vhallyun-vod@2.1.2?classifier=sources
+- pkg:maven/com.github.vhall.android.library/vhallyun-vod@2.1.2?type=aar

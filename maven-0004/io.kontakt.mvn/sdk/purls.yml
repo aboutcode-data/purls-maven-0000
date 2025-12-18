@@ -1,0 +1,9 @@
+- pkg:maven/io.kontakt.mvn/sdk@5.0.0?type=aar
+- pkg:maven/io.kontakt.mvn/sdk@5.0.1?type=aar
+- pkg:maven/io.kontakt.mvn/sdk@5.0.2?type=aar
+- pkg:maven/io.kontakt.mvn/sdk@5.0.3.1?type=aar
+- pkg:maven/io.kontakt.mvn/sdk@5.0.3.2?type=aar
+- pkg:maven/io.kontakt.mvn/sdk@5.0.3.3?type=aar
+- pkg:maven/io.kontakt.mvn/sdk@5.0.3?type=aar
+- pkg:maven/io.kontakt.mvn/sdk@5.0.4.1?type=aar
+- pkg:maven/io.kontakt.mvn/sdk@5.0.4?type=aar

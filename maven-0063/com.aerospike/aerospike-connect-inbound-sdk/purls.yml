@@ -1,2 +1,4 @@
 - pkg:maven/com.aerospike/aerospike-connect-inbound-sdk@0.9.7?classifier=sources
 - pkg:maven/com.aerospike/aerospike-connect-inbound-sdk@0.9.8?classifier=sources
+- pkg:maven/com.aerospike/aerospike-connect-inbound-sdk@0.9.9?classifier=sources
+- pkg:maven/com.aerospike/aerospike-connect-inbound-sdk@1.0.0?classifier=sources

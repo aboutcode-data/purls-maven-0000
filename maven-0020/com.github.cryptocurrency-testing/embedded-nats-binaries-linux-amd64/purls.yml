@@ -1,0 +1,1 @@
+- pkg:maven/com.github.cryptocurrency-testing/embedded-nats-binaries-linux-amd64@2.1.9?classifier=sources

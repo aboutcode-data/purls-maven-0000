@@ -10,6 +10,8 @@
 - pkg:maven/io.fabric8/service-catalog-examples@4.11.0?classifier=sources
 - pkg:maven/io.fabric8/service-catalog-examples@4.11.1
 - pkg:maven/io.fabric8/service-catalog-examples@4.11.1?classifier=sources
+- pkg:maven/io.fabric8/service-catalog-examples@4.11.2
+- pkg:maven/io.fabric8/service-catalog-examples@4.11.2?classifier=sources
 - pkg:maven/io.fabric8/service-catalog-examples@4.12.0
 - pkg:maven/io.fabric8/service-catalog-examples@4.12.0?classifier=sources
 - pkg:maven/io.fabric8/service-catalog-examples@4.13.0
@@ -40,6 +42,8 @@
 - pkg:maven/io.fabric8/service-catalog-examples@4.7.0?classifier=sources
 - pkg:maven/io.fabric8/service-catalog-examples@4.7.1
 - pkg:maven/io.fabric8/service-catalog-examples@4.7.1?classifier=sources
+- pkg:maven/io.fabric8/service-catalog-examples@4.7.2
+- pkg:maven/io.fabric8/service-catalog-examples@4.7.2?classifier=sources
 - pkg:maven/io.fabric8/service-catalog-examples@4.8.0
 - pkg:maven/io.fabric8/service-catalog-examples@4.8.0?classifier=sources
 - pkg:maven/io.fabric8/service-catalog-examples@4.9.0
@@ -62,3 +66,11 @@
 - pkg:maven/io.fabric8/service-catalog-examples@5.0.1?classifier=sources
 - pkg:maven/io.fabric8/service-catalog-examples@5.0.2
 - pkg:maven/io.fabric8/service-catalog-examples@5.0.2?classifier=sources
+- pkg:maven/io.fabric8/service-catalog-examples@5.1.0
+- pkg:maven/io.fabric8/service-catalog-examples@5.1.0?classifier=sources
+- pkg:maven/io.fabric8/service-catalog-examples@5.1.1
+- pkg:maven/io.fabric8/service-catalog-examples@5.1.1?classifier=sources
+- pkg:maven/io.fabric8/service-catalog-examples@5.2.0
+- pkg:maven/io.fabric8/service-catalog-examples@5.2.0?classifier=sources
+- pkg:maven/io.fabric8/service-catalog-examples@5.2.1
+- pkg:maven/io.fabric8/service-catalog-examples@5.2.1?classifier=sources

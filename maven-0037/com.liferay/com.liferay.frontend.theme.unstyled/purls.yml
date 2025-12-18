@@ -165,6 +165,9 @@
 - pkg:maven/com.liferay/com.liferay.frontend.theme.unstyled@2.2.31
 - pkg:maven/com.liferay/com.liferay.frontend.theme.unstyled@2.2.31?classifier=sources
 - pkg:maven/com.liferay/com.liferay.frontend.theme.unstyled@2.2.31?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.frontend.theme.unstyled@2.2.32
+- pkg:maven/com.liferay/com.liferay.frontend.theme.unstyled@2.2.32?classifier=sources
+- pkg:maven/com.liferay/com.liferay.frontend.theme.unstyled@2.2.32?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.frontend.theme.unstyled@2.2.3?classifier=sources
 - pkg:maven/com.liferay/com.liferay.frontend.theme.unstyled@2.2.3?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.frontend.theme.unstyled@2.2.4
@@ -276,6 +279,12 @@
 - pkg:maven/com.liferay/com.liferay.frontend.theme.unstyled@3.0.36
 - pkg:maven/com.liferay/com.liferay.frontend.theme.unstyled@3.0.36?classifier=sources
 - pkg:maven/com.liferay/com.liferay.frontend.theme.unstyled@3.0.36?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.frontend.theme.unstyled@3.0.37
+- pkg:maven/com.liferay/com.liferay.frontend.theme.unstyled@3.0.37?classifier=sources
+- pkg:maven/com.liferay/com.liferay.frontend.theme.unstyled@3.0.37?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.frontend.theme.unstyled@3.0.38
+- pkg:maven/com.liferay/com.liferay.frontend.theme.unstyled@3.0.38?classifier=sources
+- pkg:maven/com.liferay/com.liferay.frontend.theme.unstyled@3.0.38?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.frontend.theme.unstyled@3.0.3?classifier=sources
 - pkg:maven/com.liferay/com.liferay.frontend.theme.unstyled@3.0.3?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.frontend.theme.unstyled@3.0.4
@@ -372,6 +381,12 @@
 - pkg:maven/com.liferay/com.liferay.frontend.theme.unstyled@4.0.32
 - pkg:maven/com.liferay/com.liferay.frontend.theme.unstyled@4.0.32?classifier=sources
 - pkg:maven/com.liferay/com.liferay.frontend.theme.unstyled@4.0.32?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.frontend.theme.unstyled@4.0.33
+- pkg:maven/com.liferay/com.liferay.frontend.theme.unstyled@4.0.33?classifier=sources
+- pkg:maven/com.liferay/com.liferay.frontend.theme.unstyled@4.0.33?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.frontend.theme.unstyled@4.0.34
+- pkg:maven/com.liferay/com.liferay.frontend.theme.unstyled@4.0.34?classifier=sources
+- pkg:maven/com.liferay/com.liferay.frontend.theme.unstyled@4.0.34?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.frontend.theme.unstyled@4.0.3?classifier=sources
 - pkg:maven/com.liferay/com.liferay.frontend.theme.unstyled@4.0.3?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.frontend.theme.unstyled@4.0.4
@@ -441,6 +456,9 @@
 - pkg:maven/com.liferay/com.liferay.frontend.theme.unstyled@5.0.23
 - pkg:maven/com.liferay/com.liferay.frontend.theme.unstyled@5.0.23?classifier=sources
 - pkg:maven/com.liferay/com.liferay.frontend.theme.unstyled@5.0.23?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.frontend.theme.unstyled@5.0.24
+- pkg:maven/com.liferay/com.liferay.frontend.theme.unstyled@5.0.24?classifier=sources
+- pkg:maven/com.liferay/com.liferay.frontend.theme.unstyled@5.0.24?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.frontend.theme.unstyled@5.0.2?classifier=sources
 - pkg:maven/com.liferay/com.liferay.frontend.theme.unstyled@5.0.2?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.frontend.theme.unstyled@5.0.3
@@ -464,3 +482,6 @@
 - pkg:maven/com.liferay/com.liferay.frontend.theme.unstyled@5.0.9
 - pkg:maven/com.liferay/com.liferay.frontend.theme.unstyled@5.0.9?classifier=sources
 - pkg:maven/com.liferay/com.liferay.frontend.theme.unstyled@5.0.9?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.frontend.theme.unstyled@6.0.0
+- pkg:maven/com.liferay/com.liferay.frontend.theme.unstyled@6.0.0?classifier=sources
+- pkg:maven/com.liferay/com.liferay.frontend.theme.unstyled@6.0.0?classifier=sources-commercial

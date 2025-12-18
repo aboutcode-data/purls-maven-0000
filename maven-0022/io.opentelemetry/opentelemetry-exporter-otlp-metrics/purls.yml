@@ -8,3 +8,8 @@
 - pkg:maven/io.opentelemetry/opentelemetry-exporter-otlp-metrics@0.14.1-alpha?classifier=sources
 - pkg:maven/io.opentelemetry/opentelemetry-exporter-otlp-metrics@0.15.0-alpha?classifier=sources
 - pkg:maven/io.opentelemetry/opentelemetry-exporter-otlp-metrics@0.16.0-alpha?classifier=sources
+- pkg:maven/io.opentelemetry/opentelemetry-exporter-otlp-metrics@0.17.0-alpha?classifier=sources
+- pkg:maven/io.opentelemetry/opentelemetry-exporter-otlp-metrics@0.17.1-alpha?classifier=sources
+- pkg:maven/io.opentelemetry/opentelemetry-exporter-otlp-metrics@1.0.0-alpha?classifier=sources
+- pkg:maven/io.opentelemetry/opentelemetry-exporter-otlp-metrics@1.0.1-alpha?classifier=sources
+- pkg:maven/io.opentelemetry/opentelemetry-exporter-otlp-metrics@1.1.0-alpha?classifier=sources

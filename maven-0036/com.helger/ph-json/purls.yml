@@ -130,3 +130,5 @@
 - pkg:maven/com.helger/ph-json@9.5.3?classifier=sources
 - pkg:maven/com.helger/ph-json@9.5.4
 - pkg:maven/com.helger/ph-json@9.5.4?classifier=sources
+- pkg:maven/com.helger/ph-json@9.5.5
+- pkg:maven/com.helger/ph-json@9.5.5?classifier=sources

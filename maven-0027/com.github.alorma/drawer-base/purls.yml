@@ -1,0 +1,10 @@
+- pkg:maven/com.github.alorma/drawer-base@0.0.10-DEV?classifier=sources
+- pkg:maven/com.github.alorma/drawer-base@0.2.0?classifier=sources
+- pkg:maven/com.github.alorma/drawer-base@0.3.0?classifier=sources
+- pkg:maven/com.github.alorma/drawer-base@0.4.0?classifier=sources
+- pkg:maven/com.github.alorma/drawer-base@0.5.0?classifier=sources
+- pkg:maven/com.github.alorma/drawer-base@0.6.0?classifier=sources
+- pkg:maven/com.github.alorma/drawer-base@1.0.0-alpha12?classifier=sources
+- pkg:maven/com.github.alorma/drawer-base@1.0.0-beta01.lib%2B02?classifier=sources
+- pkg:maven/com.github.alorma/drawer-base@1.0.0-beta01.lib-02?classifier=sources
+- pkg:maven/com.github.alorma/drawer-base@1.0.0-beta01?classifier=sources

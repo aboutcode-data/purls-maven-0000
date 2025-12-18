@@ -1,2 +1,6 @@
 - pkg:maven/org.dominokit/domino-slf4j-logger@1.0.0?classifier=sources
 - pkg:maven/org.dominokit/domino-slf4j-logger@1.0.1?classifier=sources
+- pkg:maven/org.dominokit/domino-slf4j-logger@1.0.2
+- pkg:maven/org.dominokit/domino-slf4j-logger@1.0.2-gwt2.8.2
+- pkg:maven/org.dominokit/domino-slf4j-logger@1.0.2-gwt2.8.2?classifier=sources
+- pkg:maven/org.dominokit/domino-slf4j-logger@1.0.2?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/io.github.cegredev/smartfiles@0.0.1
+- pkg:maven/io.github.cegredev/smartfiles@0.0.1?classifier=sources

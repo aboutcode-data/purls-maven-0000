@@ -5,3 +5,4 @@
 - pkg:maven/org.wso2.carbon.identity.workflow.impl.bps/identity-workflow-impl-bps@5.4.2?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.identity.workflow.impl.bps/identity-workflow-impl-bps@5.4.3?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.identity.workflow.impl.bps/identity-workflow-impl-bps@5.4.4?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.identity.workflow.impl.bps/identity-workflow-impl-bps@5.4.5?classifier=source-release&type=zip

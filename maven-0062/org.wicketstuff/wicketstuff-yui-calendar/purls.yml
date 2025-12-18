@@ -122,6 +122,8 @@
 - pkg:maven/org.wicketstuff/wicketstuff-yui-calendar@8.10.0?classifier=sources
 - pkg:maven/org.wicketstuff/wicketstuff-yui-calendar@8.11.0
 - pkg:maven/org.wicketstuff/wicketstuff-yui-calendar@8.11.0?classifier=sources
+- pkg:maven/org.wicketstuff/wicketstuff-yui-calendar@8.12.0
+- pkg:maven/org.wicketstuff/wicketstuff-yui-calendar@8.12.0?classifier=sources
 - pkg:maven/org.wicketstuff/wicketstuff-yui-calendar@8.2.0
 - pkg:maven/org.wicketstuff/wicketstuff-yui-calendar@8.2.0?classifier=sources
 - pkg:maven/org.wicketstuff/wicketstuff-yui-calendar@8.3.0
@@ -158,3 +160,5 @@
 - pkg:maven/org.wicketstuff/wicketstuff-yui-calendar@9.1.0?classifier=sources
 - pkg:maven/org.wicketstuff/wicketstuff-yui-calendar@9.2.0
 - pkg:maven/org.wicketstuff/wicketstuff-yui-calendar@9.2.0?classifier=sources
+- pkg:maven/org.wicketstuff/wicketstuff-yui-calendar@9.3.0
+- pkg:maven/org.wicketstuff/wicketstuff-yui-calendar@9.3.0?classifier=sources

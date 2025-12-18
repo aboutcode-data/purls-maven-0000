@@ -8,4 +8,5 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-bootstrap@RELEASE120?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-bootstrap@RELEASE121?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-bootstrap@RELEASE122?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-bootstrap@RELEASE123?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-bootstrap@RELEASE90?classifier=sources

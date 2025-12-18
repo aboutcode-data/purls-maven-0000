@@ -1,3 +1,6 @@
 - pkg:maven/com.hazelcast/hazelcast-spring-tests@4.1
 - pkg:maven/com.hazelcast/hazelcast-spring-tests@4.1-BETA-1
 - pkg:maven/com.hazelcast/hazelcast-spring-tests@4.1.1
+- pkg:maven/com.hazelcast/hazelcast-spring-tests@4.1.2
+- pkg:maven/com.hazelcast/hazelcast-spring-tests@4.2
+- pkg:maven/com.hazelcast/hazelcast-spring-tests@4.2-BETA-1

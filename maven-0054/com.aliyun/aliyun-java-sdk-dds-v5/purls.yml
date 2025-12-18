@@ -10,3 +10,5 @@
 - pkg:maven/com.aliyun/aliyun-java-sdk-dds-v5@3.4.1?classifier=sources
 - pkg:maven/com.aliyun/aliyun-java-sdk-dds-v5@3.5.0
 - pkg:maven/com.aliyun/aliyun-java-sdk-dds-v5@3.5.0?classifier=sources
+- pkg:maven/com.aliyun/aliyun-java-sdk-dds-v5@3.5.1
+- pkg:maven/com.aliyun/aliyun-java-sdk-dds-v5@3.5.1?classifier=sources

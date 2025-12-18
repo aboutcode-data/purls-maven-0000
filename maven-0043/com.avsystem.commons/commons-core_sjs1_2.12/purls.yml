@@ -26,6 +26,7 @@
 - pkg:maven/com.avsystem.commons/commons-core_sjs1_2.12@1.48.1?classifier=sources
 - pkg:maven/com.avsystem.commons/commons-core_sjs1_2.12@1.48.2
 - pkg:maven/com.avsystem.commons/commons-core_sjs1_2.12@1.48.2?classifier=sources
+- pkg:maven/com.avsystem.commons/commons-core_sjs1_2.12@2.0.0
 - pkg:maven/com.avsystem.commons/commons-core_sjs1_2.12@2.0.0-M10
 - pkg:maven/com.avsystem.commons/commons-core_sjs1_2.12@2.0.0-M10?classifier=sources
 - pkg:maven/com.avsystem.commons/commons-core_sjs1_2.12@2.0.0-M11
@@ -58,3 +59,6 @@
 - pkg:maven/com.avsystem.commons/commons-core_sjs1_2.12@2.0.0-M9?classifier=sources
 - pkg:maven/com.avsystem.commons/commons-core_sjs1_2.12@2.0.0-ghtest5
 - pkg:maven/com.avsystem.commons/commons-core_sjs1_2.12@2.0.0-ghtest5?classifier=sources
+- pkg:maven/com.avsystem.commons/commons-core_sjs1_2.12@2.0.0?classifier=sources
+- pkg:maven/com.avsystem.commons/commons-core_sjs1_2.12@2.1.0
+- pkg:maven/com.avsystem.commons/commons-core_sjs1_2.12@2.1.0?classifier=sources

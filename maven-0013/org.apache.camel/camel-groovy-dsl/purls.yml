@@ -70,3 +70,5 @@
 - pkg:maven/org.apache.camel/camel-groovy-dsl@2.25.2?classifier=sources
 - pkg:maven/org.apache.camel/camel-groovy-dsl@2.25.3
 - pkg:maven/org.apache.camel/camel-groovy-dsl@2.25.3?classifier=sources
+- pkg:maven/org.apache.camel/camel-groovy-dsl@3.9.0
+- pkg:maven/org.apache.camel/camel-groovy-dsl@3.9.0?classifier=sources

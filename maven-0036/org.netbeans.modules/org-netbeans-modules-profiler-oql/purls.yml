@@ -8,4 +8,5 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-profiler-oql@RELEASE120?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-profiler-oql@RELEASE121?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-profiler-oql@RELEASE122?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-profiler-oql@RELEASE123?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-profiler-oql@RELEASE90?classifier=sources

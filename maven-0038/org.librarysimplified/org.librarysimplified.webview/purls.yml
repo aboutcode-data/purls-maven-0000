@@ -1,1 +1,2 @@
 - pkg:maven/org.librarysimplified/org.librarysimplified.webview@6.5.0?classifier=sources
+- pkg:maven/org.librarysimplified/org.librarysimplified.webview@6.6.3?classifier=sources

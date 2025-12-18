@@ -1,0 +1,14 @@
+- pkg:maven/info.metadude.kotlin.library.engelsystem/engelsystem-base@1.0.0
+- pkg:maven/info.metadude.kotlin.library.engelsystem/engelsystem-base@1.0.0?classifier=sources
+- pkg:maven/info.metadude.kotlin.library.engelsystem/engelsystem-base@2.0.0
+- pkg:maven/info.metadude.kotlin.library.engelsystem/engelsystem-base@2.0.0?classifier=sources
+- pkg:maven/info.metadude.kotlin.library.engelsystem/engelsystem-base@3.0.0
+- pkg:maven/info.metadude.kotlin.library.engelsystem/engelsystem-base@3.0.0?classifier=sources
+- pkg:maven/info.metadude.kotlin.library.engelsystem/engelsystem-base@3.1.0
+- pkg:maven/info.metadude.kotlin.library.engelsystem/engelsystem-base@3.1.0?classifier=sources
+- pkg:maven/info.metadude.kotlin.library.engelsystem/engelsystem-base@4.0.0
+- pkg:maven/info.metadude.kotlin.library.engelsystem/engelsystem-base@4.0.0?classifier=sources
+- pkg:maven/info.metadude.kotlin.library.engelsystem/engelsystem-base@4.0.1
+- pkg:maven/info.metadude.kotlin.library.engelsystem/engelsystem-base@4.0.1?classifier=sources
+- pkg:maven/info.metadude.kotlin.library.engelsystem/engelsystem-base@5.0.0
+- pkg:maven/info.metadude.kotlin.library.engelsystem/engelsystem-base@5.0.0?classifier=sources

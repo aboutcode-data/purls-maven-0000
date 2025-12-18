@@ -1,3 +1,5 @@
+- pkg:maven/capital.scalable/spring-auto-restdocs-json-doclet-jdk9@2.0.10
+- pkg:maven/capital.scalable/spring-auto-restdocs-json-doclet-jdk9@2.0.10?classifier=sources
 - pkg:maven/capital.scalable/spring-auto-restdocs-json-doclet-jdk9@2.0.2
 - pkg:maven/capital.scalable/spring-auto-restdocs-json-doclet-jdk9@2.0.2?classifier=sources
 - pkg:maven/capital.scalable/spring-auto-restdocs-json-doclet-jdk9@2.0.3

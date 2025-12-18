@@ -168,3 +168,5 @@
 - pkg:maven/com.netflix.nebula/nebula-test@7.9.2?classifier=sources
 - pkg:maven/com.netflix.nebula/nebula-test@7.9.3?classifier=sources
 - pkg:maven/com.netflix.nebula/nebula-test@7.9.4?classifier=sources
+- pkg:maven/com.netflix.nebula/nebula-test@8.0.0?classifier=sources
+- pkg:maven/com.netflix.nebula/nebula-test@8.1.0?classifier=sources

@@ -14,3 +14,4 @@
 - pkg:maven/com.firebaseui/firebase-ui-storage@2.0.0?type=aar
 - pkg:maven/com.firebaseui/firebase-ui-storage@2.1.0?classifier=sources
 - pkg:maven/com.firebaseui/firebase-ui-storage@2.1.0?type=aar
+- pkg:maven/com.firebaseui/firebase-ui-storage@7.1.1?classifier=sources
