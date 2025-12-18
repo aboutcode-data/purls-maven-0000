@@ -1,1 +1,2 @@
 - pkg:maven/org.opensearch/script-expert-scoring@1.0.0?classifier=sources
+- pkg:maven/org.opensearch/script-expert-scoring@1.1.0?classifier=sources

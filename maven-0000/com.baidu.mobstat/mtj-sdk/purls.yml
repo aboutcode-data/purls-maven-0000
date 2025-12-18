@@ -2,3 +2,5 @@
 - pkg:maven/com.baidu.mobstat/mtj-sdk@4.0.5.7?classifier=sources
 - pkg:maven/com.baidu.mobstat/mtj-sdk@4.0.5.8?classifier=sources
 - pkg:maven/com.baidu.mobstat/mtj-sdk@4.0.5.9?classifier=sources
+- pkg:maven/com.baidu.mobstat/mtj-sdk@4.0.7.6
+- pkg:maven/com.baidu.mobstat/mtj-sdk@4.0.7.6?classifier=sources

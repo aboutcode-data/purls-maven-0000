@@ -7,7 +7,9 @@
 - pkg:maven/uk.num/json-to-modl-java-library@0.16?classifier=sources
 - pkg:maven/uk.num/json-to-modl-java-library@0.17?classifier=sources
 - pkg:maven/uk.num/json-to-modl-java-library@0.18?classifier=sources
+- pkg:maven/uk.num/json-to-modl-java-library@0.19?classifier=sources
 - pkg:maven/uk.num/json-to-modl-java-library@0.2
+- pkg:maven/uk.num/json-to-modl-java-library@0.20?classifier=sources
 - pkg:maven/uk.num/json-to-modl-java-library@0.2?classifier=sources
 - pkg:maven/uk.num/json-to-modl-java-library@0.3
 - pkg:maven/uk.num/json-to-modl-java-library@0.3?classifier=sources

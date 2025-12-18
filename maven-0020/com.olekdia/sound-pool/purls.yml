@@ -2,3 +2,5 @@
 - pkg:maven/com.olekdia/sound-pool@3.5.3?type=aar
 - pkg:maven/com.olekdia/sound-pool@3.5.4?classifier=sources
 - pkg:maven/com.olekdia/sound-pool@3.5.4?type=aar
+- pkg:maven/com.olekdia/sound-pool@3.7.0?classifier=sources
+- pkg:maven/com.olekdia/sound-pool@3.7.1?classifier=sources

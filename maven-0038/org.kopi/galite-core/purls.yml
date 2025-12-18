@@ -1,0 +1,2 @@
+- pkg:maven/org.kopi/galite-core@1.0.0-alpha?classifier=sources
+- pkg:maven/org.kopi/galite-core@1.0.0-beta?classifier=sources

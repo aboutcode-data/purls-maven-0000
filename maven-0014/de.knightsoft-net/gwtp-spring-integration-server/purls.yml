@@ -124,3 +124,7 @@
 - pkg:maven/de.knightsoft-net/gwtp-spring-integration-server@1.7.8?classifier=sources
 - pkg:maven/de.knightsoft-net/gwtp-spring-integration-server@1.7.9
 - pkg:maven/de.knightsoft-net/gwtp-spring-integration-server@1.7.9?classifier=sources
+- pkg:maven/de.knightsoft-net/gwtp-spring-integration-server@1.8.0
+- pkg:maven/de.knightsoft-net/gwtp-spring-integration-server@1.8.0?classifier=sources
+- pkg:maven/de.knightsoft-net/gwtp-spring-integration-server@1.8.1
+- pkg:maven/de.knightsoft-net/gwtp-spring-integration-server@1.8.1?classifier=sources

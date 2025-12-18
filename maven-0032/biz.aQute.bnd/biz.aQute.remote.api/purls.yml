@@ -30,3 +30,5 @@
 - pkg:maven/biz.aQute.bnd/biz.aQute.remote.api@5.2.0?classifier=sources
 - pkg:maven/biz.aQute.bnd/biz.aQute.remote.api@5.3.0
 - pkg:maven/biz.aQute.bnd/biz.aQute.remote.api@5.3.0?classifier=sources
+- pkg:maven/biz.aQute.bnd/biz.aQute.remote.api@6.0.0
+- pkg:maven/biz.aQute.bnd/biz.aQute.remote.api@6.0.0?classifier=sources

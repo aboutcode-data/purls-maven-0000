@@ -6,3 +6,4 @@
 - pkg:maven/uk.gov.justice.service.hmpps/hmpps-sqs-spring-boot-autoconfigure@1.0.0?classifier=sources
 - pkg:maven/uk.gov.justice.service.hmpps/hmpps-sqs-spring-boot-autoconfigure@1.0.1?classifier=sources
 - pkg:maven/uk.gov.justice.service.hmpps/hmpps-sqs-spring-boot-autoconfigure@1.0.2?classifier=sources
+- pkg:maven/uk.gov.justice.service.hmpps/hmpps-sqs-spring-boot-autoconfigure@1.0.3?classifier=sources

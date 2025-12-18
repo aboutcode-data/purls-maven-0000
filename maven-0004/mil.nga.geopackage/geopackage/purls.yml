@@ -60,3 +60,7 @@
 - pkg:maven/mil.nga.geopackage/geopackage@5.0.0?classifier=sources
 - pkg:maven/mil.nga.geopackage/geopackage@6.0.0
 - pkg:maven/mil.nga.geopackage/geopackage@6.0.0?classifier=sources
+- pkg:maven/mil.nga.geopackage/geopackage@6.1.0
+- pkg:maven/mil.nga.geopackage/geopackage@6.1.0?classifier=sources
+- pkg:maven/mil.nga.geopackage/geopackage@6.1.1
+- pkg:maven/mil.nga.geopackage/geopackage@6.1.1?classifier=sources

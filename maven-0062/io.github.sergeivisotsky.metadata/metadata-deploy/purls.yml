@@ -1,4 +1,5 @@
 - pkg:maven/io.github.sergeivisotsky.metadata/metadata-deploy@0.0.1
+- pkg:maven/io.github.sergeivisotsky.metadata/metadata-deploy@0.0.10
 - pkg:maven/io.github.sergeivisotsky.metadata/metadata-deploy@0.0.2
 - pkg:maven/io.github.sergeivisotsky.metadata/metadata-deploy@0.0.3
 - pkg:maven/io.github.sergeivisotsky.metadata/metadata-deploy@0.0.4
@@ -7,3 +8,8 @@
 - pkg:maven/io.github.sergeivisotsky.metadata/metadata-deploy@0.0.7
 - pkg:maven/io.github.sergeivisotsky.metadata/metadata-deploy@0.0.8
 - pkg:maven/io.github.sergeivisotsky.metadata/metadata-deploy@0.0.9
+- pkg:maven/io.github.sergeivisotsky.metadata/metadata-deploy@0.1.0
+- pkg:maven/io.github.sergeivisotsky.metadata/metadata-deploy@1.0.0
+- pkg:maven/io.github.sergeivisotsky.metadata/metadata-deploy@1.1.0
+- pkg:maven/io.github.sergeivisotsky.metadata/metadata-deploy@1.1.1
+- pkg:maven/io.github.sergeivisotsky.metadata/metadata-deploy@1.1.2

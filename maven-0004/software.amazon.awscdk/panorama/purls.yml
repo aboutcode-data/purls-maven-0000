@@ -1,0 +1,4 @@
+- pkg:maven/software.amazon.awscdk/panorama@1.131.0
+- pkg:maven/software.amazon.awscdk/panorama@1.131.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/panorama@1.132.0
+- pkg:maven/software.amazon.awscdk/panorama@1.132.0?classifier=sources

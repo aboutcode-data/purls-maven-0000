@@ -1,0 +1,2 @@
+- pkg:maven/io.github.mavenreposs/shopify-sdk@3.2.1
+- pkg:maven/io.github.mavenreposs/shopify-sdk@3.2.1?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/net.obvj/confectory-datamapper-jackson2-json@0.3.0
+- pkg:maven/net.obvj/confectory-datamapper-jackson2-json@0.3.0?classifier=sources
+- pkg:maven/net.obvj/confectory-datamapper-jackson2-json@0.3.1
+- pkg:maven/net.obvj/confectory-datamapper-jackson2-json@0.3.1?classifier=sources

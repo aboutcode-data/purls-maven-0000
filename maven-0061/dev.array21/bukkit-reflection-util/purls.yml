@@ -1,1 +1,2 @@
 - pkg:maven/dev.array21/bukkit-reflection-util@1.0?classifier=sources
+- pkg:maven/dev.array21/bukkit-reflection-util@1.1.0?classifier=sources

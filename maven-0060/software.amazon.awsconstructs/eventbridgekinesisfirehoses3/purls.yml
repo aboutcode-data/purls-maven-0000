@@ -16,3 +16,13 @@
 - pkg:maven/software.amazon.awsconstructs/eventbridgekinesisfirehoses3@1.122.0?classifier=sources
 - pkg:maven/software.amazon.awsconstructs/eventbridgekinesisfirehoses3@1.123.0
 - pkg:maven/software.amazon.awsconstructs/eventbridgekinesisfirehoses3@1.123.0?classifier=sources
+- pkg:maven/software.amazon.awsconstructs/eventbridgekinesisfirehoses3@1.124.0
+- pkg:maven/software.amazon.awsconstructs/eventbridgekinesisfirehoses3@1.124.0?classifier=sources
+- pkg:maven/software.amazon.awsconstructs/eventbridgekinesisfirehoses3@1.125.0
+- pkg:maven/software.amazon.awsconstructs/eventbridgekinesisfirehoses3@1.125.0?classifier=sources
+- pkg:maven/software.amazon.awsconstructs/eventbridgekinesisfirehoses3@1.126.0
+- pkg:maven/software.amazon.awsconstructs/eventbridgekinesisfirehoses3@1.126.0?classifier=sources
+- pkg:maven/software.amazon.awsconstructs/eventbridgekinesisfirehoses3@2.0.0-rc.1
+- pkg:maven/software.amazon.awsconstructs/eventbridgekinesisfirehoses3@2.0.0-rc.1?classifier=sources
+- pkg:maven/software.amazon.awsconstructs/eventbridgekinesisfirehoses3@2.0.0-rc.2
+- pkg:maven/software.amazon.awsconstructs/eventbridgekinesisfirehoses3@2.0.0-rc.2?classifier=sources

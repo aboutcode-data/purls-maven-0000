@@ -13,3 +13,12 @@
 - pkg:maven/io.primer/android@1.0.0-beta.28?classifier=sources
 - pkg:maven/io.primer/android@1.0.0-beta.29?classifier=sources
 - pkg:maven/io.primer/android@1.0.0-beta.30?classifier=sources
+- pkg:maven/io.primer/android@1.0.0-beta.31?classifier=sources
+- pkg:maven/io.primer/android@1.0.0-beta.32?classifier=sources
+- pkg:maven/io.primer/android@1.0.0-beta.33?classifier=sources
+- pkg:maven/io.primer/android@1.0.0-test.1?classifier=sources
+- pkg:maven/io.primer/android@1.0.0?classifier=sources
+- pkg:maven/io.primer/android@1.0.1?classifier=sources
+- pkg:maven/io.primer/android@1.1.0?classifier=sources
+- pkg:maven/io.primer/android@1.1.1?classifier=sources
+- pkg:maven/io.primer/android@1.1.2?classifier=sources

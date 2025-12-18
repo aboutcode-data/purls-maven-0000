@@ -1,0 +1,2 @@
+- pkg:maven/net.somta/somta-spring-boot-starter-container@0.0.1
+- pkg:maven/net.somta/somta-spring-boot-starter-container@0.0.1?classifier=sources

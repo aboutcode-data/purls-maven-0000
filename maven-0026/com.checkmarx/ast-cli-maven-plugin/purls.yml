@@ -1,0 +1,2 @@
+- pkg:maven/com.checkmarx/ast-cli-maven-plugin@0.0.1
+- pkg:maven/com.checkmarx/ast-cli-maven-plugin@0.0.1?classifier=sources

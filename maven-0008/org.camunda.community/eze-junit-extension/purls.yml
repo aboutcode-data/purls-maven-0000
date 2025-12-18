@@ -4,3 +4,7 @@
 - pkg:maven/org.camunda.community/eze-junit-extension@0.2.0?classifier=sources
 - pkg:maven/org.camunda.community/eze-junit-extension@0.3.0
 - pkg:maven/org.camunda.community/eze-junit-extension@0.3.0?classifier=sources
+- pkg:maven/org.camunda.community/eze-junit-extension@0.4.0
+- pkg:maven/org.camunda.community/eze-junit-extension@0.4.0?classifier=sources
+- pkg:maven/org.camunda.community/eze-junit-extension@0.5.0
+- pkg:maven/org.camunda.community/eze-junit-extension@0.5.0?classifier=sources

@@ -1,1 +1,2 @@
+- pkg:maven/com.xtdb/xtdb-http-client@1.19.0
 - pkg:maven/com.xtdb/xtdb-http-client@1.19.0-beta1

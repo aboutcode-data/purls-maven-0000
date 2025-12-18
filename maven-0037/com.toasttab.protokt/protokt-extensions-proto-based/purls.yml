@@ -16,3 +16,5 @@
 - pkg:maven/com.toasttab.protokt/protokt-extensions-proto-based@0.6.2?classifier=sources
 - pkg:maven/com.toasttab.protokt/protokt-extensions-proto-based@0.6.3?classifier=sources
 - pkg:maven/com.toasttab.protokt/protokt-extensions-proto-based@0.6.4?classifier=sources
+- pkg:maven/com.toasttab.protokt/protokt-extensions-proto-based@0.6.5?classifier=sources
+- pkg:maven/com.toasttab.protokt/protokt-extensions-proto-based@0.6.6?classifier=sources

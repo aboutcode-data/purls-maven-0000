@@ -2,3 +2,5 @@
 - pkg:maven/com.maltaisn/recurpicker@1.6.0?type=aar
 - pkg:maven/com.maltaisn/recurpicker@2.1.4?classifier=sources
 - pkg:maven/com.maltaisn/recurpicker@2.1.4?type=aar
+- pkg:maven/com.maltaisn/recurpicker@2.1.5?classifier=sources
+- pkg:maven/com.maltaisn/recurpicker@2.1.6?classifier=sources

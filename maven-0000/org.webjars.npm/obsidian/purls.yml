@@ -1,0 +1,4 @@
+- pkg:maven/org.webjars.npm/obsidian@0.12.0
+- pkg:maven/org.webjars.npm/obsidian@0.12.0?classifier=sources
+- pkg:maven/org.webjars.npm/obsidian@0.12.16
+- pkg:maven/org.webjars.npm/obsidian@0.12.16?classifier=sources

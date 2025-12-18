@@ -20,3 +20,9 @@
 - pkg:maven/ee.nx-01.tonclient/ton-client-kotlin@0.0.37?classifier=sources
 - pkg:maven/ee.nx-01.tonclient/ton-client-kotlin@0.0.38
 - pkg:maven/ee.nx-01.tonclient/ton-client-kotlin@0.0.38?classifier=sources
+- pkg:maven/ee.nx-01.tonclient/ton-client-kotlin@0.0.39
+- pkg:maven/ee.nx-01.tonclient/ton-client-kotlin@0.0.39?classifier=sources
+- pkg:maven/ee.nx-01.tonclient/ton-client-kotlin@0.0.40
+- pkg:maven/ee.nx-01.tonclient/ton-client-kotlin@0.0.40?classifier=sources
+- pkg:maven/ee.nx-01.tonclient/ton-client-kotlin@0.0.41
+- pkg:maven/ee.nx-01.tonclient/ton-client-kotlin@0.0.41?classifier=sources

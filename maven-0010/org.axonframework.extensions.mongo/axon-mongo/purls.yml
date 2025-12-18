@@ -14,3 +14,5 @@
 - pkg:maven/org.axonframework.extensions.mongo/axon-mongo@4.3?classifier=sources
 - pkg:maven/org.axonframework.extensions.mongo/axon-mongo@4.4
 - pkg:maven/org.axonframework.extensions.mongo/axon-mongo@4.4?classifier=sources
+- pkg:maven/org.axonframework.extensions.mongo/axon-mongo@4.5
+- pkg:maven/org.axonframework.extensions.mongo/axon-mongo@4.5?classifier=sources

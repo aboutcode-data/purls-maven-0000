@@ -1,0 +1,4 @@
+- pkg:maven/com.growingio.android/oaid@3.3.0?classifier=sources
+- pkg:maven/com.growingio.android/oaid@3.3.0?type=aar
+- pkg:maven/com.growingio.android/oaid@3.3.1?classifier=sources
+- pkg:maven/com.growingio.android/oaid@3.3.1?type=aar

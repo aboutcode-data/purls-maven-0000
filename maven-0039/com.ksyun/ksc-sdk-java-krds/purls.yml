@@ -26,6 +26,10 @@
 - pkg:maven/com.ksyun/ksc-sdk-java-krds@0.3.22?classifier=sources
 - pkg:maven/com.ksyun/ksc-sdk-java-krds@0.3.23
 - pkg:maven/com.ksyun/ksc-sdk-java-krds@0.3.23?classifier=sources
+- pkg:maven/com.ksyun/ksc-sdk-java-krds@0.3.24
+- pkg:maven/com.ksyun/ksc-sdk-java-krds@0.3.24?classifier=sources
+- pkg:maven/com.ksyun/ksc-sdk-java-krds@0.3.25
+- pkg:maven/com.ksyun/ksc-sdk-java-krds@0.3.25?classifier=sources
 - pkg:maven/com.ksyun/ksc-sdk-java-krds@0.3.6
 - pkg:maven/com.ksyun/ksc-sdk-java-krds@0.3.6?classifier=sources
 - pkg:maven/com.ksyun/ksc-sdk-java-krds@0.3.7

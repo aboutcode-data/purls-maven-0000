@@ -40,6 +40,8 @@
 - pkg:maven/com.squareup.wire/wire-test-utils@3.6.1?classifier=sources
 - pkg:maven/com.squareup.wire/wire-test-utils@3.7.0
 - pkg:maven/com.squareup.wire/wire-test-utils@3.7.0?classifier=sources
+- pkg:maven/com.squareup.wire/wire-test-utils@3.7.1
+- pkg:maven/com.squareup.wire/wire-test-utils@3.7.1?classifier=sources
 - pkg:maven/com.squareup.wire/wire-test-utils@4.0.0-alpha.1
 - pkg:maven/com.squareup.wire/wire-test-utils@4.0.0-alpha.1?classifier=sources
 - pkg:maven/com.squareup.wire/wire-test-utils@4.0.0-alpha.2

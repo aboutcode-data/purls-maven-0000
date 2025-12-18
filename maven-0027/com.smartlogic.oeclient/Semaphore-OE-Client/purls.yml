@@ -1,3 +1,5 @@
+- pkg:maven/com.smartlogic.oeclient/Semaphore-OE-Client@5.2.0
+- pkg:maven/com.smartlogic.oeclient/Semaphore-OE-Client@5.2.0?classifier=sources
 - pkg:maven/com.smartlogic.oeclient/Semaphore-OE-Client@Semaphore-4.1.0
 - pkg:maven/com.smartlogic.oeclient/Semaphore-OE-Client@Semaphore-4.1.0?classifier=sources
 - pkg:maven/com.smartlogic.oeclient/Semaphore-OE-Client@Semaphore-4.1.1

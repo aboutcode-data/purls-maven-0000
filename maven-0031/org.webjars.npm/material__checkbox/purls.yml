@@ -108,6 +108,8 @@
 - pkg:maven/org.webjars.npm/material__checkbox@11.0.0?classifier=sources
 - pkg:maven/org.webjars.npm/material__checkbox@12.0.0
 - pkg:maven/org.webjars.npm/material__checkbox@12.0.0?classifier=sources
+- pkg:maven/org.webjars.npm/material__checkbox@13.0.0
+- pkg:maven/org.webjars.npm/material__checkbox@13.0.0?classifier=sources
 - pkg:maven/org.webjars.npm/material__checkbox@2.0.0
 - pkg:maven/org.webjars.npm/material__checkbox@2.0.0?classifier=sources
 - pkg:maven/org.webjars.npm/material__checkbox@2.1.0

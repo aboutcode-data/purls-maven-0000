@@ -58,3 +58,11 @@
 - pkg:maven/org.bitcoinj/bitcoinj-core@0.15.9
 - pkg:maven/org.bitcoinj/bitcoinj-core@0.15.9?classifier=sources
 - pkg:maven/org.bitcoinj/bitcoinj-core@0.15?classifier=sources
+- pkg:maven/org.bitcoinj/bitcoinj-core@0.16
+- pkg:maven/org.bitcoinj/bitcoinj-core@0.16-beta1
+- pkg:maven/org.bitcoinj/bitcoinj-core@0.16-beta1?classifier=sources
+- pkg:maven/org.bitcoinj/bitcoinj-core@0.16-beta2
+- pkg:maven/org.bitcoinj/bitcoinj-core@0.16-beta2?classifier=sources
+- pkg:maven/org.bitcoinj/bitcoinj-core@0.16-rc1
+- pkg:maven/org.bitcoinj/bitcoinj-core@0.16-rc1?classifier=sources
+- pkg:maven/org.bitcoinj/bitcoinj-core@0.16?classifier=sources

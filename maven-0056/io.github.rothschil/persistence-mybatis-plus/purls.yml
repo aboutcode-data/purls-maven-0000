@@ -1,0 +1,2 @@
+- pkg:maven/io.github.rothschil/persistence-mybatis-plus@1.1.10.RELEASE?classifier=sources
+- pkg:maven/io.github.rothschil/persistence-mybatis-plus@1.1.9.RELEASE?classifier=sources

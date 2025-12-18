@@ -1,2 +1,4 @@
+- pkg:maven/cloud.piranha.extension/piranha-extension-server@21.10.0
+- pkg:maven/cloud.piranha.extension/piranha-extension-server@21.10.0?classifier=sources
 - pkg:maven/cloud.piranha.extension/piranha-extension-server@21.9.0
 - pkg:maven/cloud.piranha.extension/piranha-extension-server@21.9.0?classifier=sources

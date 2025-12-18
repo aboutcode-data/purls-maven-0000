@@ -6,3 +6,5 @@
 - pkg:maven/com.manorrock.parrot/parrot@21.5.0?classifier=sources
 - pkg:maven/com.manorrock.parrot/parrot@21.8.0
 - pkg:maven/com.manorrock.parrot/parrot@21.8.0?classifier=sources
+- pkg:maven/com.manorrock.parrot/parrot@21.9.0
+- pkg:maven/com.manorrock.parrot/parrot@21.9.0?classifier=sources

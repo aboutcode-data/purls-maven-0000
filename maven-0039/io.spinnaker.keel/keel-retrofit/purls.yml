@@ -20,3 +20,8 @@
 - pkg:maven/io.spinnaker.keel/keel-retrofit@0.199.1?classifier=sources
 - pkg:maven/io.spinnaker.keel/keel-retrofit@0.200.0?classifier=sources
 - pkg:maven/io.spinnaker.keel/keel-retrofit@0.201.0?classifier=sources
+- pkg:maven/io.spinnaker.keel/keel-retrofit@0.202.0?classifier=sources
+- pkg:maven/io.spinnaker.keel/keel-retrofit@0.203.0?classifier=sources
+- pkg:maven/io.spinnaker.keel/keel-retrofit@0.204.0?classifier=sources
+- pkg:maven/io.spinnaker.keel/keel-retrofit@0.205.0?classifier=sources
+- pkg:maven/io.spinnaker.keel/keel-retrofit@0.206.0?classifier=sources

@@ -6,3 +6,4 @@
 - pkg:maven/com.moengage/rich-notification@2.2.00?classifier=sources
 - pkg:maven/com.moengage/rich-notification@2.2.01?classifier=sources
 - pkg:maven/com.moengage/rich-notification@2.3.00?classifier=sources
+- pkg:maven/com.moengage/rich-notification@2.4.0?classifier=sources

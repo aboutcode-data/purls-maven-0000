@@ -1,0 +1,2 @@
+- pkg:maven/com.zhouzifei/simpleFS@1.0.1.RELEASES
+- pkg:maven/com.zhouzifei/simpleFS@1.0.1.RELEASES?classifier=sources

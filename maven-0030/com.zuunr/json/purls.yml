@@ -45,6 +45,8 @@
 - pkg:maven/com.zuunr/json@0.1.0.M3
 - pkg:maven/com.zuunr/json@0.1.0.M30-8a84b7d
 - pkg:maven/com.zuunr/json@0.1.0.M30-8a84b7d?classifier=sources
+- pkg:maven/com.zuunr/json@0.1.0.M31-ae14ceb
+- pkg:maven/com.zuunr/json@0.1.0.M31-ae14ceb?classifier=sources
 - pkg:maven/com.zuunr/json@0.1.0.M3?classifier=sources
 - pkg:maven/com.zuunr/json@0.1.0.M4
 - pkg:maven/com.zuunr/json@0.1.0.M4?classifier=sources

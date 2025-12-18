@@ -1,2 +1,3 @@
 - pkg:maven/com.foilen/foilen-infra-resource-example-failing@0.6.0
 - pkg:maven/com.foilen/foilen-infra-resource-example-failing@0.6.0?classifier=sources
+- pkg:maven/com.foilen/foilen-infra-resource-example-failing@0.7.0?classifier=sources

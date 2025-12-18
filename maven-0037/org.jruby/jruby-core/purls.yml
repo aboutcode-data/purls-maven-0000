@@ -178,6 +178,8 @@
 - pkg:maven/org.jruby/jruby-core@9.2.19.0?classifier=sources
 - pkg:maven/org.jruby/jruby-core@9.2.2.0
 - pkg:maven/org.jruby/jruby-core@9.2.2.0?classifier=sources
+- pkg:maven/org.jruby/jruby-core@9.2.20.0
+- pkg:maven/org.jruby/jruby-core@9.2.20.0?classifier=sources
 - pkg:maven/org.jruby/jruby-core@9.2.3.0
 - pkg:maven/org.jruby/jruby-core@9.2.3.0?classifier=sources
 - pkg:maven/org.jruby/jruby-core@9.2.4.0
@@ -194,3 +196,7 @@
 - pkg:maven/org.jruby/jruby-core@9.2.8.0?classifier=sources
 - pkg:maven/org.jruby/jruby-core@9.2.9.0
 - pkg:maven/org.jruby/jruby-core@9.2.9.0?classifier=sources
+- pkg:maven/org.jruby/jruby-core@9.3.0.0
+- pkg:maven/org.jruby/jruby-core@9.3.0.0?classifier=sources
+- pkg:maven/org.jruby/jruby-core@9.3.1.0
+- pkg:maven/org.jruby/jruby-core@9.3.1.0?classifier=sources

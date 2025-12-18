@@ -70,3 +70,5 @@
 - pkg:maven/com.amazon.alexa/ask-sdk-freemarker@2.39.0?classifier=sources
 - pkg:maven/com.amazon.alexa/ask-sdk-freemarker@2.40.0
 - pkg:maven/com.amazon.alexa/ask-sdk-freemarker@2.40.0?classifier=sources
+- pkg:maven/com.amazon.alexa/ask-sdk-freemarker@2.41.0
+- pkg:maven/com.amazon.alexa/ask-sdk-freemarker@2.41.0?classifier=sources

@@ -38,3 +38,5 @@
 - pkg:maven/org.realityforge.sting/sting-processor@0.19?classifier=sources
 - pkg:maven/org.realityforge.sting/sting-processor@0.20
 - pkg:maven/org.realityforge.sting/sting-processor@0.20?classifier=sources
+- pkg:maven/org.realityforge.sting/sting-processor@0.21
+- pkg:maven/org.realityforge.sting/sting-processor@0.21?classifier=sources
