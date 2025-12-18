@@ -1,0 +1,4 @@
+- pkg:maven/com.github.mengshijian/wechat-common@2.8.28
+- pkg:maven/com.github.mengshijian/wechat-common@2.8.28?classifier=sources
+- pkg:maven/com.github.mengshijian/wechat-common@2.8.29
+- pkg:maven/com.github.mengshijian/wechat-common@2.8.29?classifier=sources

@@ -1,3 +1,4 @@
+- pkg:maven/org.protelis/protelis.parser.tests@10.0.0?classifier=sources
 - pkg:maven/org.protelis/protelis.parser.tests@4.0.0?classifier=sources
 - pkg:maven/org.protelis/protelis.parser.tests@5.0.0?classifier=sources
 - pkg:maven/org.protelis/protelis.parser.tests@6.0.0?classifier=sources
@@ -13,3 +14,8 @@
 - pkg:maven/org.protelis/protelis.parser.tests@8.1.0?classifier=sources
 - pkg:maven/org.protelis/protelis.parser.tests@8.2.0.java7legacy?classifier=sources
 - pkg:maven/org.protelis/protelis.parser.tests@8.2.0?classifier=sources
+- pkg:maven/org.protelis/protelis.parser.tests@9.0.0?classifier=sources
+- pkg:maven/org.protelis/protelis.parser.tests@9.1.0?classifier=sources
+- pkg:maven/org.protelis/protelis.parser.tests@9.1.2?classifier=sources
+- pkg:maven/org.protelis/protelis.parser.tests@9.2.0?classifier=sources
+- pkg:maven/org.protelis/protelis.parser.tests@9.2.1?classifier=sources

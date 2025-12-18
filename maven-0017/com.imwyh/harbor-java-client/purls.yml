@@ -1,0 +1,2 @@
+- pkg:maven/com.imwyh/harbor-java-client@0.0.1
+- pkg:maven/com.imwyh/harbor-java-client@0.0.1?classifier=sources

@@ -1,1 +1,2 @@
 - pkg:maven/io.jenkins.archetypes/scripted-pipeline@1.4?classifier=sources
+- pkg:maven/io.jenkins.archetypes/scripted-pipeline@1.5?classifier=sources

@@ -6,3 +6,7 @@
 - pkg:maven/com.cognitect.aws/codedeploy@697.2.391.0?classifier=sources
 - pkg:maven/com.cognitect.aws/codedeploy@712.2.415.0
 - pkg:maven/com.cognitect.aws/codedeploy@712.2.415.0?classifier=sources
+- pkg:maven/com.cognitect.aws/codedeploy@719.2.463.0
+- pkg:maven/com.cognitect.aws/codedeploy@719.2.463.0?classifier=sources
+- pkg:maven/com.cognitect.aws/codedeploy@736.2.495.0
+- pkg:maven/com.cognitect.aws/codedeploy@736.2.495.0?classifier=sources

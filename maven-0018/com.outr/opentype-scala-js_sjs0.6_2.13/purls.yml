@@ -1,0 +1,2 @@
+- pkg:maven/com.outr/opentype-scala-js_sjs0.6_2.13@0.7.3_1
+- pkg:maven/com.outr/opentype-scala-js_sjs0.6_2.13@0.7.3_1?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/de.averbis.textanalysis/neural-typesystem@3.22.0
+- pkg:maven/de.averbis.textanalysis/neural-typesystem@3.22.0?classifier=sources

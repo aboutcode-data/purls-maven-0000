@@ -1,2 +1,4 @@
 - pkg:maven/com.github.faroukbengharssallah/rss-parser-lib@0
 - pkg:maven/com.github.faroukbengharssallah/rss-parser-lib@0?classifier=sources
+- pkg:maven/com.github.faroukbengharssallah/rss-parser-lib@1
+- pkg:maven/com.github.faroukbengharssallah/rss-parser-lib@1?classifier=sources

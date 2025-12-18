@@ -6,3 +6,7 @@
 - pkg:maven/com.envisioniot/enos-subscribe@1.0?classifier=sources
 - pkg:maven/com.envisioniot/enos-subscribe@2.0.0
 - pkg:maven/com.envisioniot/enos-subscribe@2.0.0?classifier=sources
+- pkg:maven/com.envisioniot/enos-subscribe@2.1.0
+- pkg:maven/com.envisioniot/enos-subscribe@2.1.0?classifier=sources
+- pkg:maven/com.envisioniot/enos-subscribe@2.2.0
+- pkg:maven/com.envisioniot/enos-subscribe@2.2.0?classifier=sources

@@ -50,6 +50,8 @@
 - pkg:maven/org.vibur/vibur-object-pool@22.1?classifier=sources
 - pkg:maven/org.vibur/vibur-object-pool@22.2
 - pkg:maven/org.vibur/vibur-object-pool@22.2?classifier=sources
+- pkg:maven/org.vibur/vibur-object-pool@23.0
+- pkg:maven/org.vibur/vibur-object-pool@23.0?classifier=sources
 - pkg:maven/org.vibur/vibur-object-pool@3.0
 - pkg:maven/org.vibur/vibur-object-pool@3.0?classifier=sources
 - pkg:maven/org.vibur/vibur-object-pool@4.0

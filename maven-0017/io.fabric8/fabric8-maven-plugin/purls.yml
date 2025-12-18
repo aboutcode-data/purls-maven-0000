@@ -904,3 +904,7 @@
 - pkg:maven/io.fabric8/fabric8-maven-plugin@4.0.0-M2
 - pkg:maven/io.fabric8/fabric8-maven-plugin@4.0.0-M2?classifier=sources
 - pkg:maven/io.fabric8/fabric8-maven-plugin@4.0.0?classifier=sources
+- pkg:maven/io.fabric8/fabric8-maven-plugin@4.1.0
+- pkg:maven/io.fabric8/fabric8-maven-plugin@4.1.0?classifier=sources
+- pkg:maven/io.fabric8/fabric8-maven-plugin@4.2.0
+- pkg:maven/io.fabric8/fabric8-maven-plugin@4.2.0?classifier=sources

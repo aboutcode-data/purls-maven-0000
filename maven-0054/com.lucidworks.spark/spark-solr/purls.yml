@@ -131,6 +131,10 @@
 - pkg:maven/com.lucidworks.spark/spark-solr@3.5.15?classifier=sources
 - pkg:maven/com.lucidworks.spark/spark-solr@3.5.16
 - pkg:maven/com.lucidworks.spark/spark-solr@3.5.16?classifier=sources
+- pkg:maven/com.lucidworks.spark/spark-solr@3.5.17
+- pkg:maven/com.lucidworks.spark/spark-solr@3.5.17?classifier=sources
+- pkg:maven/com.lucidworks.spark/spark-solr@3.5.18
+- pkg:maven/com.lucidworks.spark/spark-solr@3.5.18?classifier=sources
 - pkg:maven/com.lucidworks.spark/spark-solr@3.5.1?classifier=sources
 - pkg:maven/com.lucidworks.spark/spark-solr@3.5.2
 - pkg:maven/com.lucidworks.spark/spark-solr@3.5.2?classifier=sources
@@ -160,3 +164,7 @@
 - pkg:maven/com.lucidworks.spark/spark-solr@3.6.2?classifier=sources
 - pkg:maven/com.lucidworks.spark/spark-solr@3.6.3
 - pkg:maven/com.lucidworks.spark/spark-solr@3.6.3?classifier=sources
+- pkg:maven/com.lucidworks.spark/spark-solr@3.6.4
+- pkg:maven/com.lucidworks.spark/spark-solr@3.6.4?classifier=sources
+- pkg:maven/com.lucidworks.spark/spark-solr@3.6.5
+- pkg:maven/com.lucidworks.spark/spark-solr@3.6.5?classifier=sources

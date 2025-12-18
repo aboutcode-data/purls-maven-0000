@@ -70,3 +70,5 @@
 - pkg:maven/org.apache.tomcat/tomcat7-websocket@7.0.93?classifier=sources
 - pkg:maven/org.apache.tomcat/tomcat7-websocket@7.0.94
 - pkg:maven/org.apache.tomcat/tomcat7-websocket@7.0.94?classifier=sources
+- pkg:maven/org.apache.tomcat/tomcat7-websocket@7.0.96
+- pkg:maven/org.apache.tomcat/tomcat7-websocket@7.0.96?classifier=sources

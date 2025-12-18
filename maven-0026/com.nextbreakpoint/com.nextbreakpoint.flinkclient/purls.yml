@@ -1,2 +1,6 @@
 - pkg:maven/com.nextbreakpoint/com.nextbreakpoint.flinkclient@1.0.0-alpha
 - pkg:maven/com.nextbreakpoint/com.nextbreakpoint.flinkclient@1.0.0-alpha?classifier=sources
+- pkg:maven/com.nextbreakpoint/com.nextbreakpoint.flinkclient@1.0.1
+- pkg:maven/com.nextbreakpoint/com.nextbreakpoint.flinkclient@1.0.1-alpha
+- pkg:maven/com.nextbreakpoint/com.nextbreakpoint.flinkclient@1.0.1-alpha?classifier=sources
+- pkg:maven/com.nextbreakpoint/com.nextbreakpoint.flinkclient@1.0.1?classifier=sources

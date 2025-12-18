@@ -34,3 +34,5 @@
 - pkg:maven/com.carrotgarden.maven/scalor-maven-plugin_2.12@1.4.1.20180403213227?classifier=sources
 - pkg:maven/com.carrotgarden.maven/scalor-maven-plugin_2.12@1.4.2.20180508161326
 - pkg:maven/com.carrotgarden.maven/scalor-maven-plugin_2.12@1.4.2.20180508161326?classifier=sources
+- pkg:maven/com.carrotgarden.maven/scalor-maven-plugin_2.12@1.5.0.20190502185130
+- pkg:maven/com.carrotgarden.maven/scalor-maven-plugin_2.12@1.5.0.20190502185130?classifier=sources

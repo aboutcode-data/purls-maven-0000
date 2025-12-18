@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/belter@1.0.99
+- pkg:maven/org.webjars.npm/belter@1.0.99?classifier=sources

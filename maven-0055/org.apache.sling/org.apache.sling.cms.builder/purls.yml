@@ -1,4 +1,5 @@
 - pkg:maven/org.apache.sling/org.apache.sling.cms.builder@0.10.0?classifier=sources
 - pkg:maven/org.apache.sling/org.apache.sling.cms.builder@0.11.0?classifier=sources
 - pkg:maven/org.apache.sling/org.apache.sling.cms.builder@0.11.2?classifier=sources
+- pkg:maven/org.apache.sling/org.apache.sling.cms.builder@0.12.0?classifier=sources
 - pkg:maven/org.apache.sling/org.apache.sling.cms.builder@0.9.0?classifier=sources

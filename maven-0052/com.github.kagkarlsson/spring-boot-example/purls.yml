@@ -1,0 +1,2 @@
+- pkg:maven/com.github.kagkarlsson/spring-boot-example@6.0
+- pkg:maven/com.github.kagkarlsson/spring-boot-example@6.0?classifier=sources

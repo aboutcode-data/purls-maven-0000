@@ -1,0 +1,2 @@
+- pkg:maven/com.wix/wix-webdriver-manager@1.2.0
+- pkg:maven/com.wix/wix-webdriver-manager@1.2.0?classifier=sources

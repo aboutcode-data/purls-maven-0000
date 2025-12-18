@@ -2,3 +2,5 @@
 - pkg:maven/org.webjars.npm/slickgrid@2.3.3?classifier=sources
 - pkg:maven/org.webjars.npm/slickgrid@2.4.6
 - pkg:maven/org.webjars.npm/slickgrid@2.4.6?classifier=sources
+- pkg:maven/org.webjars.npm/slickgrid@2.4.9
+- pkg:maven/org.webjars.npm/slickgrid@2.4.9?classifier=sources

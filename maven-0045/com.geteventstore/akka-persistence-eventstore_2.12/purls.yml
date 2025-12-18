@@ -18,3 +18,5 @@
 - pkg:maven/com.geteventstore/akka-persistence-eventstore_2.12@5.0.4?classifier=sources
 - pkg:maven/com.geteventstore/akka-persistence-eventstore_2.12@6.0.0
 - pkg:maven/com.geteventstore/akka-persistence-eventstore_2.12@6.0.0?classifier=sources
+- pkg:maven/com.geteventstore/akka-persistence-eventstore_2.12@7.0.0
+- pkg:maven/com.geteventstore/akka-persistence-eventstore_2.12@7.0.0?classifier=sources

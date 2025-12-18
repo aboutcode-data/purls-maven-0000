@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/jss-plugin-global@10.0.0-alpha.17
+- pkg:maven/org.webjars.npm/jss-plugin-global@10.0.0-alpha.17?classifier=sources

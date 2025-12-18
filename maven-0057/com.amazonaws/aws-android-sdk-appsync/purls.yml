@@ -1,3 +1,5 @@
+- pkg:maven/com.amazonaws/aws-android-sdk-appsync@2.10.0?classifier=sources
+- pkg:maven/com.amazonaws/aws-android-sdk-appsync@2.10.0?type=aar
 - pkg:maven/com.amazonaws/aws-android-sdk-appsync@2.6.15?classifier=sources
 - pkg:maven/com.amazonaws/aws-android-sdk-appsync@2.6.15?type=aar
 - pkg:maven/com.amazonaws/aws-android-sdk-appsync@2.6.16?classifier=sources
@@ -28,6 +30,8 @@
 - pkg:maven/com.amazonaws/aws-android-sdk-appsync@2.6.28?type=aar
 - pkg:maven/com.amazonaws/aws-android-sdk-appsync@2.7.0?classifier=sources
 - pkg:maven/com.amazonaws/aws-android-sdk-appsync@2.7.0?type=aar
+- pkg:maven/com.amazonaws/aws-android-sdk-appsync@2.7.10?classifier=sources
+- pkg:maven/com.amazonaws/aws-android-sdk-appsync@2.7.10?type=aar
 - pkg:maven/com.amazonaws/aws-android-sdk-appsync@2.7.1?classifier=sources
 - pkg:maven/com.amazonaws/aws-android-sdk-appsync@2.7.1?type=aar
 - pkg:maven/com.amazonaws/aws-android-sdk-appsync@2.7.2?classifier=sources
@@ -46,3 +50,13 @@
 - pkg:maven/com.amazonaws/aws-android-sdk-appsync@2.7.8?type=aar
 - pkg:maven/com.amazonaws/aws-android-sdk-appsync@2.7.9?classifier=sources
 - pkg:maven/com.amazonaws/aws-android-sdk-appsync@2.7.9?type=aar
+- pkg:maven/com.amazonaws/aws-android-sdk-appsync@2.8.0?classifier=sources
+- pkg:maven/com.amazonaws/aws-android-sdk-appsync@2.8.0?type=aar
+- pkg:maven/com.amazonaws/aws-android-sdk-appsync@2.8.1?classifier=sources
+- pkg:maven/com.amazonaws/aws-android-sdk-appsync@2.8.1?type=aar
+- pkg:maven/com.amazonaws/aws-android-sdk-appsync@2.8.2?classifier=sources
+- pkg:maven/com.amazonaws/aws-android-sdk-appsync@2.8.2?type=aar
+- pkg:maven/com.amazonaws/aws-android-sdk-appsync@2.8.3?classifier=sources
+- pkg:maven/com.amazonaws/aws-android-sdk-appsync@2.8.3?type=aar
+- pkg:maven/com.amazonaws/aws-android-sdk-appsync@2.9.0?classifier=sources
+- pkg:maven/com.amazonaws/aws-android-sdk-appsync@2.9.0?type=aar

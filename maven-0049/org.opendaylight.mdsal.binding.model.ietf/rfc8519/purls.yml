@@ -1,3 +1,8 @@
+- pkg:maven/org.opendaylight.mdsal.binding.model.ietf/rfc8519@1.0.10
 - pkg:maven/org.opendaylight.mdsal.binding.model.ietf/rfc8519@1.0.7
 - pkg:maven/org.opendaylight.mdsal.binding.model.ietf/rfc8519@1.0.8
+- pkg:maven/org.opendaylight.mdsal.binding.model.ietf/rfc8519@1.0.9
 - pkg:maven/org.opendaylight.mdsal.binding.model.ietf/rfc8519@2.0.0
+- pkg:maven/org.opendaylight.mdsal.binding.model.ietf/rfc8519@2.0.1
+- pkg:maven/org.opendaylight.mdsal.binding.model.ietf/rfc8519@2.0.2
+- pkg:maven/org.opendaylight.mdsal.binding.model.ietf/rfc8519@2.0.3

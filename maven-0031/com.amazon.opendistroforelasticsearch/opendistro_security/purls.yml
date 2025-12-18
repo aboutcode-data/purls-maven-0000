@@ -1,3 +1,9 @@
+- pkg:maven/com.amazon.opendistroforelasticsearch/opendistro_security@0.10.0.0?classifier=sources
 - pkg:maven/com.amazon.opendistroforelasticsearch/opendistro_security@0.7.0.1
 - pkg:maven/com.amazon.opendistroforelasticsearch/opendistro_security@0.7.0.1?classifier=sources
 - pkg:maven/com.amazon.opendistroforelasticsearch/opendistro_security@0.8.0.0?classifier=sources
+- pkg:maven/com.amazon.opendistroforelasticsearch/opendistro_security@0.9.0.0?classifier=sources
+- pkg:maven/com.amazon.opendistroforelasticsearch/opendistro_security@1.0.0.0?classifier=sources
+- pkg:maven/com.amazon.opendistroforelasticsearch/opendistro_security@1.0.0.1?classifier=sources
+- pkg:maven/com.amazon.opendistroforelasticsearch/opendistro_security@1.0.0.2?classifier=sources
+- pkg:maven/com.amazon.opendistroforelasticsearch/opendistro_security@1.1.0.0?classifier=sources

@@ -4,3 +4,5 @@
 - pkg:maven/com.cognitect.aws/shield@697.2.391.0?classifier=sources
 - pkg:maven/com.cognitect.aws/shield@704.2.397.0
 - pkg:maven/com.cognitect.aws/shield@704.2.397.0?classifier=sources
+- pkg:maven/com.cognitect.aws/shield@737.2.497.0
+- pkg:maven/com.cognitect.aws/shield@737.2.497.0?classifier=sources

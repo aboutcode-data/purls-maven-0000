@@ -32,3 +32,4 @@
 - pkg:maven/org.wso2.extension.siddhi.io.wso2event/siddhi-io-wso2event@4.0.9?classifier=sources
 - pkg:maven/org.wso2.extension.siddhi.io.wso2event/siddhi-io-wso2event@4.1.0
 - pkg:maven/org.wso2.extension.siddhi.io.wso2event/siddhi-io-wso2event@4.1.0?classifier=sources
+- pkg:maven/org.wso2.extension.siddhi.io.wso2event/siddhi-io-wso2event@4.1.1

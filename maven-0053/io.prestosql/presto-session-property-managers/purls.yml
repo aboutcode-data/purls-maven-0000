@@ -7,3 +7,12 @@
 - pkg:maven/io.prestosql/presto-session-property-managers@306?classifier=sources
 - pkg:maven/io.prestosql/presto-session-property-managers@307?classifier=sources
 - pkg:maven/io.prestosql/presto-session-property-managers@308?classifier=sources
+- pkg:maven/io.prestosql/presto-session-property-managers@309?classifier=sources
+- pkg:maven/io.prestosql/presto-session-property-managers@310?classifier=sources
+- pkg:maven/io.prestosql/presto-session-property-managers@311?classifier=sources
+- pkg:maven/io.prestosql/presto-session-property-managers@312?classifier=sources
+- pkg:maven/io.prestosql/presto-session-property-managers@313?classifier=sources
+- pkg:maven/io.prestosql/presto-session-property-managers@314?classifier=sources
+- pkg:maven/io.prestosql/presto-session-property-managers@315?classifier=sources
+- pkg:maven/io.prestosql/presto-session-property-managers@316?classifier=sources
+- pkg:maven/io.prestosql/presto-session-property-managers@317?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.datomic/query-support@0.8.16
+- pkg:maven/com.datomic/query-support@0.8.17

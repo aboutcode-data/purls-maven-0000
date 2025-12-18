@@ -1,4 +1,6 @@
 - pkg:maven/org.fluentlenium/fluentlenium-coverage-report@3.8.1
+- pkg:maven/org.fluentlenium/fluentlenium-coverage-report@3.9.0
 - pkg:maven/org.fluentlenium/fluentlenium-coverage-report@4.1.0
 - pkg:maven/org.fluentlenium/fluentlenium-coverage-report@4.1.1
 - pkg:maven/org.fluentlenium/fluentlenium-coverage-report@4.2.2
+- pkg:maven/org.fluentlenium/fluentlenium-coverage-report@4.3.0

@@ -1,0 +1,2 @@
+- pkg:maven/com.github.ericpeng1027/ResponseFormat@0.1
+- pkg:maven/com.github.ericpeng1027/ResponseFormat@0.1?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.wso2.maven/vscode-car-plugin@5.2.3
+- pkg:maven/org.wso2.maven/vscode-car-plugin@5.2.3?classifier=sources

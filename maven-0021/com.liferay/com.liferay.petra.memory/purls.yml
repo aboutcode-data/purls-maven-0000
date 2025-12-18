@@ -17,6 +17,9 @@
 - pkg:maven/com.liferay/com.liferay.petra.memory@1.0.6
 - pkg:maven/com.liferay/com.liferay.petra.memory@1.0.6?classifier=sources
 - pkg:maven/com.liferay/com.liferay.petra.memory@1.0.6?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.petra.memory@1.0.7
+- pkg:maven/com.liferay/com.liferay.petra.memory@1.0.7?classifier=sources
+- pkg:maven/com.liferay/com.liferay.petra.memory@1.0.7?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.petra.memory@2.0.0
 - pkg:maven/com.liferay/com.liferay.petra.memory@2.0.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.petra.memory@2.0.0?classifier=sources-commercial
@@ -26,3 +29,6 @@
 - pkg:maven/com.liferay/com.liferay.petra.memory@2.0.2
 - pkg:maven/com.liferay/com.liferay.petra.memory@2.0.2?classifier=sources
 - pkg:maven/com.liferay/com.liferay.petra.memory@2.0.2?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.petra.memory@3.0.0
+- pkg:maven/com.liferay/com.liferay.petra.memory@3.0.0?classifier=sources
+- pkg:maven/com.liferay/com.liferay.petra.memory@3.0.0?classifier=sources-commercial

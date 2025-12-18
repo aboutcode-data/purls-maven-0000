@@ -8,3 +8,5 @@
 - pkg:maven/com.github.celldynamics.quimp/QuimP_@19.01.01?classifier=sources
 - pkg:maven/com.github.celldynamics.quimp/QuimP_@19.03.01
 - pkg:maven/com.github.celldynamics.quimp/QuimP_@19.03.01?classifier=sources
+- pkg:maven/com.github.celldynamics.quimp/QuimP_@19.04.02
+- pkg:maven/com.github.celldynamics.quimp/QuimP_@19.04.02?classifier=sources

@@ -6,6 +6,8 @@
 - pkg:maven/org.gridkit.jvmtool/sjk-stacktrace@0.11?classifier=sources
 - pkg:maven/org.gridkit.jvmtool/sjk-stacktrace@0.12
 - pkg:maven/org.gridkit.jvmtool/sjk-stacktrace@0.12?classifier=sources
+- pkg:maven/org.gridkit.jvmtool/sjk-stacktrace@0.13
+- pkg:maven/org.gridkit.jvmtool/sjk-stacktrace@0.13?classifier=sources
 - pkg:maven/org.gridkit.jvmtool/sjk-stacktrace@0.3.4
 - pkg:maven/org.gridkit.jvmtool/sjk-stacktrace@0.3.4?classifier=sources
 - pkg:maven/org.gridkit.jvmtool/sjk-stacktrace@0.3.5

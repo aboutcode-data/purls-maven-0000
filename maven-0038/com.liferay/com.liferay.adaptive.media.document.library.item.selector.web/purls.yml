@@ -31,3 +31,6 @@
 - pkg:maven/com.liferay/com.liferay.adaptive.media.document.library.item.selector.web@2.0.3
 - pkg:maven/com.liferay/com.liferay.adaptive.media.document.library.item.selector.web@2.0.3?classifier=sources
 - pkg:maven/com.liferay/com.liferay.adaptive.media.document.library.item.selector.web@2.0.3?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.adaptive.media.document.library.item.selector.web@3.0.0
+- pkg:maven/com.liferay/com.liferay.adaptive.media.document.library.item.selector.web@3.0.0?classifier=sources
+- pkg:maven/com.liferay/com.liferay.adaptive.media.document.library.item.selector.web@3.0.0?classifier=sources-commercial

@@ -46,6 +46,8 @@
 - pkg:maven/org.webjars.npm/babel-core@6.25.0?classifier=sources
 - pkg:maven/org.webjars.npm/babel-core@6.26.0
 - pkg:maven/org.webjars.npm/babel-core@6.26.0?classifier=sources
+- pkg:maven/org.webjars.npm/babel-core@6.26.3
+- pkg:maven/org.webjars.npm/babel-core@6.26.3?classifier=sources
 - pkg:maven/org.webjars.npm/babel-core@6.4.5
 - pkg:maven/org.webjars.npm/babel-core@6.4.5?classifier=sources
 - pkg:maven/org.webjars.npm/babel-core@6.5.1
@@ -56,3 +58,5 @@
 - pkg:maven/org.webjars.npm/babel-core@6.9.0?classifier=sources
 - pkg:maven/org.webjars.npm/babel-core@6.9.1
 - pkg:maven/org.webjars.npm/babel-core@6.9.1?classifier=sources
+- pkg:maven/org.webjars.npm/babel-core@7.0.0-beta.3
+- pkg:maven/org.webjars.npm/babel-core@7.0.0-beta.3?classifier=sources

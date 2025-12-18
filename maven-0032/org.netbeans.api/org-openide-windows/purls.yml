@@ -1,0 +1,4 @@
+- pkg:maven/org.netbeans.api/org-openide-windows@RELEASE100?classifier=sources
+- pkg:maven/org.netbeans.api/org-openide-windows@RELEASE110?classifier=sources
+- pkg:maven/org.netbeans.api/org-openide-windows@RELEASE111?classifier=sources
+- pkg:maven/org.netbeans.api/org-openide-windows@RELEASE90?classifier=sources

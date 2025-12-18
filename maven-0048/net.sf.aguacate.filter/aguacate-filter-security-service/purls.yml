@@ -1,0 +1,2 @@
+- pkg:maven/net.sf.aguacate.filter/aguacate-filter-security-service@0.1.2
+- pkg:maven/net.sf.aguacate.filter/aguacate-filter-security-service@0.1.2?classifier=sources

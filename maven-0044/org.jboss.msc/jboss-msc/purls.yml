@@ -118,3 +118,12 @@
 - pkg:maven/org.jboss.msc/jboss-msc@1.4.5.Final
 - pkg:maven/org.jboss.msc/jboss-msc@1.4.5.Final?classifier=source-release&type=zip
 - pkg:maven/org.jboss.msc/jboss-msc@1.4.5.Final?classifier=sources
+- pkg:maven/org.jboss.msc/jboss-msc@1.4.6.Final
+- pkg:maven/org.jboss.msc/jboss-msc@1.4.6.Final?classifier=source-release&type=zip
+- pkg:maven/org.jboss.msc/jboss-msc@1.4.6.Final?classifier=sources
+- pkg:maven/org.jboss.msc/jboss-msc@1.4.7.Final
+- pkg:maven/org.jboss.msc/jboss-msc@1.4.7.Final?classifier=source-release&type=zip
+- pkg:maven/org.jboss.msc/jboss-msc@1.4.7.Final?classifier=sources
+- pkg:maven/org.jboss.msc/jboss-msc@1.4.8.Final
+- pkg:maven/org.jboss.msc/jboss-msc@1.4.8.Final?classifier=source-release&type=zip
+- pkg:maven/org.jboss.msc/jboss-msc@1.4.8.Final?classifier=sources

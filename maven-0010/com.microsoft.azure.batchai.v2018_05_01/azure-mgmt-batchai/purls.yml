@@ -1,0 +1,2 @@
+- pkg:maven/com.microsoft.azure.batchai.v2018_05_01/azure-mgmt-batchai@1.0.0-beta-2
+- pkg:maven/com.microsoft.azure.batchai.v2018_05_01/azure-mgmt-batchai@1.0.0-beta-2?classifier=sources

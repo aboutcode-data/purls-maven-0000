@@ -4,3 +4,5 @@
 - pkg:maven/org.eclipse.platform/org.eclipse.ui.examples.views.properties.tabbed.article@3.2.1?classifier=sources
 - pkg:maven/org.eclipse.platform/org.eclipse.ui.examples.views.properties.tabbed.article@3.2.200
 - pkg:maven/org.eclipse.platform/org.eclipse.ui.examples.views.properties.tabbed.article@3.2.200?classifier=sources
+- pkg:maven/org.eclipse.platform/org.eclipse.ui.examples.views.properties.tabbed.article@3.2.300
+- pkg:maven/org.eclipse.platform/org.eclipse.ui.examples.views.properties.tabbed.article@3.2.300?classifier=sources

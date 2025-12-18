@@ -1,6 +1,7 @@
 - pkg:maven/com.github.manosbatsis.scrudbeans/scrudbeans-spring-boot-starter@0.10
 - pkg:maven/com.github.manosbatsis.scrudbeans/scrudbeans-spring-boot-starter@0.11
 - pkg:maven/com.github.manosbatsis.scrudbeans/scrudbeans-spring-boot-starter@0.12
+- pkg:maven/com.github.manosbatsis.scrudbeans/scrudbeans-spring-boot-starter@0.13
 - pkg:maven/com.github.manosbatsis.scrudbeans/scrudbeans-spring-boot-starter@0.2
 - pkg:maven/com.github.manosbatsis.scrudbeans/scrudbeans-spring-boot-starter@0.3
 - pkg:maven/com.github.manosbatsis.scrudbeans/scrudbeans-spring-boot-starter@0.4

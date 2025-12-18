@@ -1,4 +1,6 @@
 - pkg:maven/org.wildfly.camel/wildfly-camel-itests-camel@10.0.0
+- pkg:maven/org.wildfly.camel/wildfly-camel-itests-camel@10.1.0
+- pkg:maven/org.wildfly.camel/wildfly-camel-itests-camel@10.2.0
 - pkg:maven/org.wildfly.camel/wildfly-camel-itests-camel@2.3.0
 - pkg:maven/org.wildfly.camel/wildfly-camel-itests-camel@2.3.0.redhat-621084
 - pkg:maven/org.wildfly.camel/wildfly-camel-itests-camel@2.3.0.redhat-621090
@@ -10,6 +12,7 @@
 - pkg:maven/org.wildfly.camel/wildfly-camel-itests-camel@2.3.0.redhat-621186
 - pkg:maven/org.wildfly.camel/wildfly-camel-itests-camel@2.3.0.redhat-621211
 - pkg:maven/org.wildfly.camel/wildfly-camel-itests-camel@2.3.0.redhat-621216
+- pkg:maven/org.wildfly.camel/wildfly-camel-itests-camel@2.3.0.redhat-621222
 - pkg:maven/org.wildfly.camel/wildfly-camel-itests-camel@3.0.0
 - pkg:maven/org.wildfly.camel/wildfly-camel-itests-camel@3.0.0.redhat-1
 - pkg:maven/org.wildfly.camel/wildfly-camel-itests-camel@3.0.1.redhat-1

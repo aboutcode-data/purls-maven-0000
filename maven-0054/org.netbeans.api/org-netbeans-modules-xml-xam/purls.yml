@@ -1,0 +1,4 @@
+- pkg:maven/org.netbeans.api/org-netbeans-modules-xml-xam@RELEASE100?classifier=sources
+- pkg:maven/org.netbeans.api/org-netbeans-modules-xml-xam@RELEASE110?classifier=sources
+- pkg:maven/org.netbeans.api/org-netbeans-modules-xml-xam@RELEASE111?classifier=sources
+- pkg:maven/org.netbeans.api/org-netbeans-modules-xml-xam@RELEASE90?classifier=sources

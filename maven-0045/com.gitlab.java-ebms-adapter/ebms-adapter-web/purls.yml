@@ -1,0 +1,2 @@
+- pkg:maven/com.gitlab.java-ebms-adapter/ebms-adapter-web@2.15.2-mic?classifier=sources
+- pkg:maven/com.gitlab.java-ebms-adapter/ebms-adapter-web@2.15.2-mic?type=war

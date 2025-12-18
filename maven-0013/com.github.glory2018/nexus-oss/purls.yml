@@ -1,0 +1,2 @@
+- pkg:maven/com.github.glory2018/nexus-oss@1
+- pkg:maven/com.github.glory2018/nexus-oss@1?classifier=sources

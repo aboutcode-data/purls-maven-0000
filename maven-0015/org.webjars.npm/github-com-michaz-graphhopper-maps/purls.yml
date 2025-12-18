@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/github-com-michaz-graphhopper-maps@0.0.1
+- pkg:maven/org.webjars.npm/github-com-michaz-graphhopper-maps@0.0.1?classifier=sources

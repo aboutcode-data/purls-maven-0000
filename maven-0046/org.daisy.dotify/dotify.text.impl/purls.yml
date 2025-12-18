@@ -6,3 +6,5 @@
 - pkg:maven/org.daisy.dotify/dotify.text.impl@3.0.0?classifier=sources
 - pkg:maven/org.daisy.dotify/dotify.text.impl@4.0.0
 - pkg:maven/org.daisy.dotify/dotify.text.impl@4.0.0?classifier=sources
+- pkg:maven/org.daisy.dotify/dotify.text.impl@5.0.0
+- pkg:maven/org.daisy.dotify/dotify.text.impl@5.0.0?classifier=sources

@@ -2,3 +2,5 @@
 - pkg:maven/org.webjars.npm/leveldown@1.4.4?classifier=sources
 - pkg:maven/org.webjars.npm/leveldown@1.8.0
 - pkg:maven/org.webjars.npm/leveldown@1.8.0?classifier=sources
+- pkg:maven/org.webjars.npm/leveldown@3.0.0
+- pkg:maven/org.webjars.npm/leveldown@3.0.0?classifier=sources

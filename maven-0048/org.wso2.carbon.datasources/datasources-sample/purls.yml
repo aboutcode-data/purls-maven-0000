@@ -1,4 +1,12 @@
+- pkg:maven/org.wso2.carbon.datasources/datasources-sample@1.0.0
+- pkg:maven/org.wso2.carbon.datasources/datasources-sample@1.0.0-alpha
+- pkg:maven/org.wso2.carbon.datasources/datasources-sample@1.0.0-alpha?classifier=sources
+- pkg:maven/org.wso2.carbon.datasources/datasources-sample@1.0.0-m1
+- pkg:maven/org.wso2.carbon.datasources/datasources-sample@1.0.0-m1?classifier=sources
+- pkg:maven/org.wso2.carbon.datasources/datasources-sample@1.0.0?classifier=sources
 - pkg:maven/org.wso2.carbon.datasources/datasources-sample@1.0.1
 - pkg:maven/org.wso2.carbon.datasources/datasources-sample@1.0.1?classifier=sources
 - pkg:maven/org.wso2.carbon.datasources/datasources-sample@1.0.2
 - pkg:maven/org.wso2.carbon.datasources/datasources-sample@1.0.2?classifier=sources
+- pkg:maven/org.wso2.carbon.datasources/datasources-sample@1.0.3
+- pkg:maven/org.wso2.carbon.datasources/datasources-sample@1.0.3?classifier=sources

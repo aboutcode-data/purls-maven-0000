@@ -1,0 +1,2 @@
+- pkg:maven/com.ksyun/ksc-sdk-java-krds@0.3.6
+- pkg:maven/com.ksyun/ksc-sdk-java-krds@0.3.6?classifier=sources

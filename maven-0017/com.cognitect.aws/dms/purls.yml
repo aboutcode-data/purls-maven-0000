@@ -4,3 +4,5 @@
 - pkg:maven/com.cognitect.aws/dms@697.2.391.0?classifier=sources
 - pkg:maven/com.cognitect.aws/dms@712.2.423.0
 - pkg:maven/com.cognitect.aws/dms@712.2.423.0?classifier=sources
+- pkg:maven/com.cognitect.aws/dms@736.2.494.0
+- pkg:maven/com.cognitect.aws/dms@736.2.494.0?classifier=sources

@@ -1,0 +1,12 @@
+- pkg:maven/de.mklinger.qetcher/qetcher-client-model-v1-xml@2.0.10
+- pkg:maven/de.mklinger.qetcher/qetcher-client-model-v1-xml@2.0.10?classifier=sources
+- pkg:maven/de.mklinger.qetcher/qetcher-client-model-v1-xml@2.0.11
+- pkg:maven/de.mklinger.qetcher/qetcher-client-model-v1-xml@2.0.11?classifier=sources
+- pkg:maven/de.mklinger.qetcher/qetcher-client-model-v1-xml@2.0.12
+- pkg:maven/de.mklinger.qetcher/qetcher-client-model-v1-xml@2.0.12?classifier=sources
+- pkg:maven/de.mklinger.qetcher/qetcher-client-model-v1-xml@2.0.13
+- pkg:maven/de.mklinger.qetcher/qetcher-client-model-v1-xml@2.0.13?classifier=sources
+- pkg:maven/de.mklinger.qetcher/qetcher-client-model-v1-xml@2.0.8
+- pkg:maven/de.mklinger.qetcher/qetcher-client-model-v1-xml@2.0.8?classifier=sources
+- pkg:maven/de.mklinger.qetcher/qetcher-client-model-v1-xml@2.0.9
+- pkg:maven/de.mklinger.qetcher/qetcher-client-model-v1-xml@2.0.9?classifier=sources

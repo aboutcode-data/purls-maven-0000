@@ -1,0 +1,12 @@
+- pkg:maven/com.lihaoyi/cask_2.13@0.2.1
+- pkg:maven/com.lihaoyi/cask_2.13@0.2.1-3-20ff26
+- pkg:maven/com.lihaoyi/cask_2.13@0.2.1-3-20ff26?classifier=sources
+- pkg:maven/com.lihaoyi/cask_2.13@0.2.1-4-e74491
+- pkg:maven/com.lihaoyi/cask_2.13@0.2.1-4-e74491?classifier=sources
+- pkg:maven/com.lihaoyi/cask_2.13@0.2.1-5-20d3e6
+- pkg:maven/com.lihaoyi/cask_2.13@0.2.1-5-20d3e6?classifier=sources
+- pkg:maven/com.lihaoyi/cask_2.13@0.2.1-5-a8dcd6
+- pkg:maven/com.lihaoyi/cask_2.13@0.2.1-5-a8dcd6?classifier=sources
+- pkg:maven/com.lihaoyi/cask_2.13@0.2.1-5-d4547e
+- pkg:maven/com.lihaoyi/cask_2.13@0.2.1-5-d4547e?classifier=sources
+- pkg:maven/com.lihaoyi/cask_2.13@0.2.1?classifier=sources

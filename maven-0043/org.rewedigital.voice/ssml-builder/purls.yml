@@ -1,0 +1,2 @@
+- pkg:maven/org.rewedigital.voice/ssml-builder@1.0.2
+- pkg:maven/org.rewedigital.voice/ssml-builder@1.0.2?classifier=sources

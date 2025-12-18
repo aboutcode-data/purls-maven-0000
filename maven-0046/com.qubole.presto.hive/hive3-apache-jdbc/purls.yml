@@ -1,0 +1,2 @@
+- pkg:maven/com.qubole.presto.hive/hive3-apache-jdbc@3.0.0-qubole
+- pkg:maven/com.qubole.presto.hive/hive3-apache-jdbc@3.0.0-qubole?classifier=sources

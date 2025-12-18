@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/mdi-svg@2.2.43
+- pkg:maven/org.webjars.npm/mdi-svg@2.2.43?classifier=sources

@@ -2,3 +2,7 @@
 - pkg:maven/zone.dragon.dropwizard/dropwizard-async@1.0.12-d039f6?classifier=sources
 - pkg:maven/zone.dragon.dropwizard/dropwizard-async@1.1.1-260dd0
 - pkg:maven/zone.dragon.dropwizard/dropwizard-async@1.1.1-260dd0?classifier=sources
+- pkg:maven/zone.dragon.dropwizard/dropwizard-async@1.2.3-93259a
+- pkg:maven/zone.dragon.dropwizard/dropwizard-async@1.2.3-93259a?classifier=sources
+- pkg:maven/zone.dragon.dropwizard/dropwizard-async@1.2.9-2552d7
+- pkg:maven/zone.dragon.dropwizard/dropwizard-async@1.2.9-2552d7?classifier=sources

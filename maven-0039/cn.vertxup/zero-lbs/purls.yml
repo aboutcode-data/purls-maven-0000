@@ -1,0 +1,2 @@
+- pkg:maven/cn.vertxup/zero-lbs@0.5
+- pkg:maven/cn.vertxup/zero-lbs@0.5?classifier=sources

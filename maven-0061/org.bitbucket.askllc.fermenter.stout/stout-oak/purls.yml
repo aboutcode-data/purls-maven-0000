@@ -1,0 +1,4 @@
+- pkg:maven/org.bitbucket.askllc.fermenter.stout/stout-oak@2.0.0.CR16
+- pkg:maven/org.bitbucket.askllc.fermenter.stout/stout-oak@2.0.0.CR16?classifier=sources
+- pkg:maven/org.bitbucket.askllc.fermenter.stout/stout-oak@2.0.0.CR17
+- pkg:maven/org.bitbucket.askllc.fermenter.stout/stout-oak@2.0.0.CR17?classifier=sources

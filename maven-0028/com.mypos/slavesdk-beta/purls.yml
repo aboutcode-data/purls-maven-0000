@@ -1,0 +1,2 @@
+- pkg:maven/com.mypos/slavesdk-beta@2.0.0?classifier=sources
+- pkg:maven/com.mypos/slavesdk-beta@2.0.0?type=aar

@@ -8,3 +8,5 @@
 - pkg:maven/com.ineunet/knife-utils@2.7.3?classifier=sources
 - pkg:maven/com.ineunet/knife-utils@2.7.4
 - pkg:maven/com.ineunet/knife-utils@2.7.4?classifier=sources
+- pkg:maven/com.ineunet/knife-utils@2.7.6
+- pkg:maven/com.ineunet/knife-utils@2.7.6?classifier=sources

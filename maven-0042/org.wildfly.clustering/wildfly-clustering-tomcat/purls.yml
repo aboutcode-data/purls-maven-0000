@@ -7,3 +7,4 @@
 - pkg:maven/org.wildfly.clustering/wildfly-clustering-tomcat@4.0.0.Final?classifier=source-release&type=zip
 - pkg:maven/org.wildfly.clustering/wildfly-clustering-tomcat@5.0.0.Final?classifier=source-release&type=zip
 - pkg:maven/org.wildfly.clustering/wildfly-clustering-tomcat@6.0.0.Final?classifier=source-release&type=zip
+- pkg:maven/org.wildfly.clustering/wildfly-clustering-tomcat@7.0.0.Final?classifier=source-release&type=zip

@@ -1,0 +1,3 @@
+- pkg:maven/org.netbeans.external/saxon9B@RELEASE100
+- pkg:maven/org.netbeans.external/saxon9B@RELEASE110
+- pkg:maven/org.netbeans.external/saxon9B@RELEASE90

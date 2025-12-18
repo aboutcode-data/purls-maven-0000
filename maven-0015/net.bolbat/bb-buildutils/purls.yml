@@ -4,3 +4,5 @@
 - pkg:maven/net.bolbat/bb-buildutils@3?classifier=sources
 - pkg:maven/net.bolbat/bb-buildutils@4
 - pkg:maven/net.bolbat/bb-buildutils@4?classifier=sources
+- pkg:maven/net.bolbat/bb-buildutils@5
+- pkg:maven/net.bolbat/bb-buildutils@5?classifier=sources

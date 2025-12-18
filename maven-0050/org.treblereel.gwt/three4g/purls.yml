@@ -2,6 +2,8 @@
 - pkg:maven/org.treblereel.gwt/three4g@0.100?classifier=sources
 - pkg:maven/org.treblereel.gwt/three4g@0.101
 - pkg:maven/org.treblereel.gwt/three4g@0.101?classifier=sources
+- pkg:maven/org.treblereel.gwt/three4g@0.102
+- pkg:maven/org.treblereel.gwt/three4g@0.102?classifier=sources
 - pkg:maven/org.treblereel.gwt/three4g@0.95-beta2
 - pkg:maven/org.treblereel.gwt/three4g@0.95-beta2?classifier=sources
 - pkg:maven/org.treblereel.gwt/three4g@0.96-beta1

@@ -1,0 +1,2 @@
+- pkg:maven/com.uifuture.maven.plugins/maven-auto-generate-test-plugin@1.0.0
+- pkg:maven/com.uifuture.maven.plugins/maven-auto-generate-test-plugin@1.0.0?classifier=sources

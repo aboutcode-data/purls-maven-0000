@@ -1,0 +1,4 @@
+- pkg:maven/com.github.virtualcry/com.sap.conn.jco.sapjco@3.0.14
+- pkg:maven/com.github.virtualcry/com.sap.conn.jco.sapjco@3.0.14-fix
+- pkg:maven/com.github.virtualcry/com.sap.conn.jco.sapjco@3.0.14-fix?classifier=sources
+- pkg:maven/com.github.virtualcry/com.sap.conn.jco.sapjco@3.0.14?classifier=sources

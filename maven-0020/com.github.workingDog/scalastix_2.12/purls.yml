@@ -16,3 +16,5 @@
 - pkg:maven/com.github.workingDog/scalastix_2.12@0.8?classifier=sources
 - pkg:maven/com.github.workingDog/scalastix_2.12@0.9
 - pkg:maven/com.github.workingDog/scalastix_2.12@0.9?classifier=sources
+- pkg:maven/com.github.workingDog/scalastix_2.12@1.0
+- pkg:maven/com.github.workingDog/scalastix_2.12@1.0?classifier=sources

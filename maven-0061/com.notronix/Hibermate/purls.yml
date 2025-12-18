@@ -8,3 +8,5 @@
 - pkg:maven/com.notronix/Hibermate@1.0.004?classifier=sources
 - pkg:maven/com.notronix/Hibermate@1.0.005
 - pkg:maven/com.notronix/Hibermate@1.0.005?classifier=sources
+- pkg:maven/com.notronix/Hibermate@1.0.006
+- pkg:maven/com.notronix/Hibermate@1.0.006?classifier=sources

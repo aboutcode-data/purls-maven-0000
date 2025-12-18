@@ -2,3 +2,5 @@
 - pkg:maven/com.fonepay/payment@0.2?classifier=sources
 - pkg:maven/com.fonepay/payment@0.3
 - pkg:maven/com.fonepay/payment@0.3?classifier=sources
+- pkg:maven/com.fonepay/payment@0.9
+- pkg:maven/com.fonepay/payment@0.9?classifier=sources

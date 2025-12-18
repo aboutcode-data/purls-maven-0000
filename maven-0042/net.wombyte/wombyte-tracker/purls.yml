@@ -1,0 +1,4 @@
+- pkg:maven/net.wombyte/wombyte-tracker@1.0.3
+- pkg:maven/net.wombyte/wombyte-tracker@1.0.3?classifier=sources
+- pkg:maven/net.wombyte/wombyte-tracker@1.0.4-RC1
+- pkg:maven/net.wombyte/wombyte-tracker@1.0.4-RC1?classifier=sources

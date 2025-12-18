@@ -15,3 +15,6 @@
 - pkg:maven/com.liferay/javax.servlet.jsp@2.3.3-b02.LIFERAY-PATCHED-8
 - pkg:maven/com.liferay/javax.servlet.jsp@2.3.3-b02.LIFERAY-PATCHED-8?classifier=sources
 - pkg:maven/com.liferay/javax.servlet.jsp@2.3.3-b02.LIFERAY-PATCHED-8?classifier=sources-commercial
+- pkg:maven/com.liferay/javax.servlet.jsp@2.3.3-b02.LIFERAY-PATCHED-9
+- pkg:maven/com.liferay/javax.servlet.jsp@2.3.3-b02.LIFERAY-PATCHED-9?classifier=sources
+- pkg:maven/com.liferay/javax.servlet.jsp@2.3.3-b02.LIFERAY-PATCHED-9?classifier=sources-commercial

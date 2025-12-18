@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/material-ui__styles@4.1.2
+- pkg:maven/org.webjars.npm/material-ui__styles@4.1.2?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/net.sf.tweety.arg/rankings@1.14
+- pkg:maven/net.sf.tweety.arg/rankings@1.14?classifier=sources

@@ -1,2 +1,4 @@
 - pkg:maven/com.microsoft.azure.msi_auth_token_provider/azure-authentication-msi-token-provider@1.0.0-Beta-1
 - pkg:maven/com.microsoft.azure.msi_auth_token_provider/azure-authentication-msi-token-provider@1.0.0-Beta-1?classifier=sources
+- pkg:maven/com.microsoft.azure.msi_auth_token_provider/azure-authentication-msi-token-provider@1.0.0-Beta-2
+- pkg:maven/com.microsoft.azure.msi_auth_token_provider/azure-authentication-msi-token-provider@1.0.0-Beta-2?classifier=sources

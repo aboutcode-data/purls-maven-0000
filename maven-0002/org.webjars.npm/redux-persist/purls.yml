@@ -1,2 +1,4 @@
 - pkg:maven/org.webjars.npm/redux-persist@4.10.1
 - pkg:maven/org.webjars.npm/redux-persist@4.10.1?classifier=sources
+- pkg:maven/org.webjars.npm/redux-persist@5.10.0
+- pkg:maven/org.webjars.npm/redux-persist@5.10.0?classifier=sources
