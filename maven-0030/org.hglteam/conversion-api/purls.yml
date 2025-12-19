@@ -6,3 +6,5 @@
 - pkg:maven/org.hglteam/conversion-api@2.0.2?classifier=sources
 - pkg:maven/org.hglteam/conversion-api@2.0.3
 - pkg:maven/org.hglteam/conversion-api@2.0.3?classifier=sources
+- pkg:maven/org.hglteam/conversion-api@3.0.3
+- pkg:maven/org.hglteam/conversion-api@3.0.3?classifier=sources

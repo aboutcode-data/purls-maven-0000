@@ -6,3 +6,4 @@
 - pkg:maven/com.wealthfront/magellan-test@2.1.7?classifier=sources
 - pkg:maven/com.wealthfront/magellan-test@2.1.8-beta?classifier=sources
 - pkg:maven/com.wealthfront/magellan-test@2.1.9-beta?classifier=sources
+- pkg:maven/com.wealthfront/magellan-test@2.2.1-beta?classifier=sources

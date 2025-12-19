@@ -2,3 +2,4 @@
 - pkg:maven/io.opentelemetry.instrumentation/opentelemetry-log4j-context-data-2.17-autoconfigure@1.15.0-alpha?classifier=sources
 - pkg:maven/io.opentelemetry.instrumentation/opentelemetry-log4j-context-data-2.17-autoconfigure@1.16.0-alpha?classifier=sources
 - pkg:maven/io.opentelemetry.instrumentation/opentelemetry-log4j-context-data-2.17-autoconfigure@1.17.0-alpha?classifier=sources
+- pkg:maven/io.opentelemetry.instrumentation/opentelemetry-log4j-context-data-2.17-autoconfigure@1.18.0-alpha?classifier=sources

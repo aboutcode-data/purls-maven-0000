@@ -8,6 +8,8 @@
 - pkg:maven/software.amazon.opentelemetry/aws-opentelemetry-agent@1.14.0?classifier=sources
 - pkg:maven/software.amazon.opentelemetry/aws-opentelemetry-agent@1.15.0?classifier=sources
 - pkg:maven/software.amazon.opentelemetry/aws-opentelemetry-agent@1.16.0?classifier=sources
+- pkg:maven/software.amazon.opentelemetry/aws-opentelemetry-agent@1.17.0?classifier=sources
+- pkg:maven/software.amazon.opentelemetry/aws-opentelemetry-agent@1.18.0?classifier=sources
 - pkg:maven/software.amazon.opentelemetry/aws-opentelemetry-agent@1.2.0?classifier=sources
 - pkg:maven/software.amazon.opentelemetry/aws-opentelemetry-agent@1.4.0?classifier=sources
 - pkg:maven/software.amazon.opentelemetry/aws-opentelemetry-agent@1.4.1?classifier=sources

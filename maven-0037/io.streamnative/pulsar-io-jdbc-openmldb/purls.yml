@@ -48,3 +48,7 @@
 - pkg:maven/io.streamnative/pulsar-io-jdbc-openmldb@2.11.0-rc-202205072206?classifier=sources
 - pkg:maven/io.streamnative/pulsar-io-jdbc-openmldb@2.11.0-rc-202205082205
 - pkg:maven/io.streamnative/pulsar-io-jdbc-openmldb@2.11.0-rc-202205082205?classifier=sources
+- pkg:maven/io.streamnative/pulsar-io-jdbc-openmldb@2.11.0.0-rc2
+- pkg:maven/io.streamnative/pulsar-io-jdbc-openmldb@2.11.0.0-rc2?classifier=sources
+- pkg:maven/io.streamnative/pulsar-io-jdbc-openmldb@2.11.0.0-rc3
+- pkg:maven/io.streamnative/pulsar-io-jdbc-openmldb@2.11.0.0-rc3?classifier=sources

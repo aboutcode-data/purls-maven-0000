@@ -3,3 +3,5 @@
 - pkg:maven/io.github.vvb2060.ndk/curl@7.83.0-h3?classifier=sources
 - pkg:maven/io.github.vvb2060.ndk/curl@7.83.0?classifier=sources
 - pkg:maven/io.github.vvb2060.ndk/curl@7.84.0?classifier=sources
+- pkg:maven/io.github.vvb2060.ndk/curl@7.85.0?classifier=sources
+- pkg:maven/io.github.vvb2060.ndk/curl@7.85.1?classifier=sources

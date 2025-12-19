@@ -112,3 +112,4 @@
 - pkg:maven/com.yandex.android/mobmetricalib@4.2.0?classifier=sources
 - pkg:maven/com.yandex.android/mobmetricalib@5.0.0?classifier=sources
 - pkg:maven/com.yandex.android/mobmetricalib@5.0.1?classifier=sources
+- pkg:maven/com.yandex.android/mobmetricalib@5.2.0?classifier=sources

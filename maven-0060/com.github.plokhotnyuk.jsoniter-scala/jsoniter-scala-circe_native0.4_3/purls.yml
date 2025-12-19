@@ -1,0 +1,2 @@
+- pkg:maven/com.github.plokhotnyuk.jsoniter-scala/jsoniter-scala-circe_native0.4_3@2.17.4
+- pkg:maven/com.github.plokhotnyuk.jsoniter-scala/jsoniter-scala-circe_native0.4_3@2.17.4?classifier=sources

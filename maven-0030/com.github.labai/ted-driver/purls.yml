@@ -8,3 +8,5 @@
 - pkg:maven/com.github.labai/ted-driver@0.3.4?classifier=sources
 - pkg:maven/com.github.labai/ted-driver@0.3.7
 - pkg:maven/com.github.labai/ted-driver@0.3.7?classifier=sources
+- pkg:maven/com.github.labai/ted-driver@0.3.8
+- pkg:maven/com.github.labai/ted-driver@0.3.8?classifier=sources

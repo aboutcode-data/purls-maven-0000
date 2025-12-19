@@ -1,4 +1,7 @@
 - pkg:maven/io.github.hslightdb/lightdb-jdbc@22.2.1-221011?classifier=sources
+- pkg:maven/io.github.hslightdb/lightdb-jdbc@22.3.1-221201?classifier=sources
+- pkg:maven/io.github.hslightdb/lightdb-jdbc@22.3.2?classifier=sources
+- pkg:maven/io.github.hslightdb/lightdb-jdbc@22.3.3?classifier=sources
 - pkg:maven/io.github.hslightdb/lightdb-jdbc@42.2.24?classifier=sources
 - pkg:maven/io.github.hslightdb/lightdb-jdbc@42.2.25?classifier=sources
 - pkg:maven/io.github.hslightdb/lightdb-jdbc@42.2.26?classifier=sources

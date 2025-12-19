@@ -1,3 +1,7 @@
+- pkg:maven/de.quinscape/spring-jsview@0.10
+- pkg:maven/de.quinscape/spring-jsview@0.10?classifier=sources
+- pkg:maven/de.quinscape/spring-jsview@0.11
+- pkg:maven/de.quinscape/spring-jsview@0.11?classifier=sources
 - pkg:maven/de.quinscape/spring-jsview@0.2
 - pkg:maven/de.quinscape/spring-jsview@0.2?classifier=sources
 - pkg:maven/de.quinscape/spring-jsview@0.3

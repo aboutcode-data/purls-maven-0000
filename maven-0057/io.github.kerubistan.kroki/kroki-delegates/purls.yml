@@ -21,6 +21,8 @@
 - pkg:maven/io.github.kerubistan.kroki/kroki-delegates@1.21?classifier=sources
 - pkg:maven/io.github.kerubistan.kroki/kroki-delegates@1.22
 - pkg:maven/io.github.kerubistan.kroki/kroki-delegates@1.22?classifier=sources
+- pkg:maven/io.github.kerubistan.kroki/kroki-delegates@1.23
+- pkg:maven/io.github.kerubistan.kroki/kroki-delegates@1.23?classifier=sources
 - pkg:maven/io.github.kerubistan.kroki/kroki-delegates@1.2?classifier=sources
 - pkg:maven/io.github.kerubistan.kroki/kroki-delegates@1.3
 - pkg:maven/io.github.kerubistan.kroki/kroki-delegates@1.3?classifier=sources

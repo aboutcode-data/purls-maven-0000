@@ -37,3 +37,5 @@
 - pkg:maven/com.snowplowanalytics/snowplow-android-tracker@3.1.1?classifier=sources
 - pkg:maven/com.snowplowanalytics/snowplow-android-tracker@3.1.2?classifier=sources
 - pkg:maven/com.snowplowanalytics/snowplow-android-tracker@3.2.0?classifier=sources
+- pkg:maven/com.snowplowanalytics/snowplow-android-tracker@3.2.1?classifier=sources
+- pkg:maven/com.snowplowanalytics/snowplow-android-tracker@4.0.0?classifier=sources

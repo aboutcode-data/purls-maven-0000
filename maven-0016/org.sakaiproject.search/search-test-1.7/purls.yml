@@ -68,3 +68,5 @@
 - pkg:maven/org.sakaiproject.search/search-test-1.7@21.2?classifier=sources
 - pkg:maven/org.sakaiproject.search/search-test-1.7@21.3
 - pkg:maven/org.sakaiproject.search/search-test-1.7@21.3?classifier=sources
+- pkg:maven/org.sakaiproject.search/search-test-1.7@21.4
+- pkg:maven/org.sakaiproject.search/search-test-1.7@21.4?classifier=sources

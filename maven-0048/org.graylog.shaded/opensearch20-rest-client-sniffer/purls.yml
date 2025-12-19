@@ -1,0 +1,4 @@
+- pkg:maven/org.graylog.shaded/opensearch20-rest-client-sniffer@2.0.1-0
+- pkg:maven/org.graylog.shaded/opensearch20-rest-client-sniffer@2.0.1-0?classifier=sources
+- pkg:maven/org.graylog.shaded/opensearch20-rest-client-sniffer@2.0.1-1
+- pkg:maven/org.graylog.shaded/opensearch20-rest-client-sniffer@2.0.1-1?classifier=sources

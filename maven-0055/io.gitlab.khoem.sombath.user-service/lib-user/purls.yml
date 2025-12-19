@@ -1,0 +1,4 @@
+- pkg:maven/io.gitlab.khoem.sombath.user-service/lib-user@1.0.0-RELEASE
+- pkg:maven/io.gitlab.khoem.sombath.user-service/lib-user@1.0.0-RELEASE?classifier=sources
+- pkg:maven/io.gitlab.khoem.sombath.user-service/lib-user@1.0.1-RELEASE
+- pkg:maven/io.gitlab.khoem.sombath.user-service/lib-user@1.0.1-RELEASE?classifier=sources

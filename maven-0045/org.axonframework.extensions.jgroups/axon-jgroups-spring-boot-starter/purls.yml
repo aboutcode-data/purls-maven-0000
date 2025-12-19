@@ -5,3 +5,4 @@
 - pkg:maven/org.axonframework.extensions.jgroups/axon-jgroups-spring-boot-starter@4.4
 - pkg:maven/org.axonframework.extensions.jgroups/axon-jgroups-spring-boot-starter@4.5
 - pkg:maven/org.axonframework.extensions.jgroups/axon-jgroups-spring-boot-starter@4.5.1
+- pkg:maven/org.axonframework.extensions.jgroups/axon-jgroups-spring-boot-starter@4.6.0

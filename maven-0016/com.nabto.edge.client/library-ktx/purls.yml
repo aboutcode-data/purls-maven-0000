@@ -1,0 +1,2 @@
+- pkg:maven/com.nabto.edge.client/library-ktx@2.2.0?classifier=sources
+- pkg:maven/com.nabto.edge.client/library-ktx@2.3.0?classifier=sources

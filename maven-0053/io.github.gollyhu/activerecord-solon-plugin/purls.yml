@@ -1,0 +1,4 @@
+- pkg:maven/io.github.gollyhu/activerecord-solon-plugin@1.0.0-M0
+- pkg:maven/io.github.gollyhu/activerecord-solon-plugin@1.0.0-M0?classifier=sources
+- pkg:maven/io.github.gollyhu/activerecord-solon-plugin@1.0.0-M1
+- pkg:maven/io.github.gollyhu/activerecord-solon-plugin@1.0.0-M1?classifier=sources

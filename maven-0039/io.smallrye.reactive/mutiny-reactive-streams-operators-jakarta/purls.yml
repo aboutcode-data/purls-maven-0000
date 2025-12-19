@@ -1,0 +1,2 @@
+- pkg:maven/io.smallrye.reactive/mutiny-reactive-streams-operators-jakarta@2.0.0-milestone2
+- pkg:maven/io.smallrye.reactive/mutiny-reactive-streams-operators-jakarta@2.0.0-milestone2?classifier=sources

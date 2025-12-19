@@ -1,0 +1,2 @@
+- pkg:maven/org.querqy/opensearch-querqy@1.0.os2.3.0?classifier=sources
+- pkg:maven/org.querqy/opensearch-querqy@2.3.0.0?classifier=sources

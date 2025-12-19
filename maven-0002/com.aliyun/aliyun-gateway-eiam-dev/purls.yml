@@ -1,2 +1,4 @@
 - pkg:maven/com.aliyun/aliyun-gateway-eiam-dev@0.1.5-beta
 - pkg:maven/com.aliyun/aliyun-gateway-eiam-dev@0.1.5-beta?classifier=sources
+- pkg:maven/com.aliyun/aliyun-gateway-eiam-dev@0.1.6-beta
+- pkg:maven/com.aliyun/aliyun-gateway-eiam-dev@0.1.6-beta?classifier=sources

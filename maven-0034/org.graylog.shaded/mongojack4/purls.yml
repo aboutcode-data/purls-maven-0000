@@ -1,0 +1,2 @@
+- pkg:maven/org.graylog.shaded/mongojack4@4.7.0-0
+- pkg:maven/org.graylog.shaded/mongojack4@4.7.0-0?classifier=sources

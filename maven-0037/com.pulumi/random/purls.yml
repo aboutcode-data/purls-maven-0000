@@ -3,5 +3,7 @@
 - pkg:maven/com.pulumi/random@4.7.0-alpha.1657304919%2B1d411918?classifier=sources
 - pkg:maven/com.pulumi/random@4.7.0-alpha.1657724819%2B25d10298?classifier=sources
 - pkg:maven/com.pulumi/random@4.8.1?classifier=sources
+- pkg:maven/com.pulumi/random@4.8.2?classifier=sources
 - pkg:maven/com.pulumi/random@4.9.0-alpha.1659029910%2Be3dd1924?classifier=sources
+- pkg:maven/com.pulumi/random@4.9.0-alpha.1660861615%2Bd57bdee1?classifier=sources
 - pkg:maven/com.pulumi/random@v4.9.0-alpha.1657285197%2Bfafee1eb?classifier=sources

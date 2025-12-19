@@ -75,6 +75,9 @@
 - pkg:maven/com.yoti.mobile.android.common.ui/ui-widgets@1.32.0?type=aar
 - pkg:maven/com.yoti.mobile.android.common.ui/ui-widgets@1.32.1?type=aar
 - pkg:maven/com.yoti.mobile.android.common.ui/ui-widgets@1.32.2?type=aar
+- pkg:maven/com.yoti.mobile.android.common.ui/ui-widgets@1.32.3?type=aar
+- pkg:maven/com.yoti.mobile.android.common.ui/ui-widgets@1.32.4?type=aar
+- pkg:maven/com.yoti.mobile.android.common.ui/ui-widgets@1.33.0?type=aar
 - pkg:maven/com.yoti.mobile.android.common.ui/ui-widgets@1.5.2?type=aar
 - pkg:maven/com.yoti.mobile.android.common.ui/ui-widgets@1.6.0?type=aar
 - pkg:maven/com.yoti.mobile.android.common.ui/ui-widgets@1.6.1?type=aar

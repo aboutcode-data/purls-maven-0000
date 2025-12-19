@@ -1,2 +1,4 @@
 - pkg:maven/io.cdap.cdap/cdap-ldap-role@0.16.0
 - pkg:maven/io.cdap.cdap/cdap-ldap-role@0.16.0?classifier=sources
+- pkg:maven/io.cdap.cdap/cdap-ldap-role@0.16.1
+- pkg:maven/io.cdap.cdap/cdap-ldap-role@0.16.1?classifier=sources

@@ -88,3 +88,7 @@
 - pkg:maven/nl.basjes.parse.useragent/yauaa-webapp@7.3.0?type=war
 - pkg:maven/nl.basjes.parse.useragent/yauaa-webapp@7.4.0?classifier=sources
 - pkg:maven/nl.basjes.parse.useragent/yauaa-webapp@7.4.0?type=war
+- pkg:maven/nl.basjes.parse.useragent/yauaa-webapp@7.5.0?classifier=sources
+- pkg:maven/nl.basjes.parse.useragent/yauaa-webapp@7.5.0?type=war
+- pkg:maven/nl.basjes.parse.useragent/yauaa-webapp@7.6.0?classifier=sources
+- pkg:maven/nl.basjes.parse.useragent/yauaa-webapp@7.6.0?type=war

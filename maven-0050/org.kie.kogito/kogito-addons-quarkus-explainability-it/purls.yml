@@ -6,3 +6,7 @@
 - pkg:maven/org.kie.kogito/kogito-addons-quarkus-explainability-it@1.25.0.Final?classifier=sources
 - pkg:maven/org.kie.kogito/kogito-addons-quarkus-explainability-it@1.26.0.Final
 - pkg:maven/org.kie.kogito/kogito-addons-quarkus-explainability-it@1.26.0.Final?classifier=sources
+- pkg:maven/org.kie.kogito/kogito-addons-quarkus-explainability-it@1.27.0.Final
+- pkg:maven/org.kie.kogito/kogito-addons-quarkus-explainability-it@1.27.0.Final?classifier=sources
+- pkg:maven/org.kie.kogito/kogito-addons-quarkus-explainability-it@1.28.0.Final
+- pkg:maven/org.kie.kogito/kogito-addons-quarkus-explainability-it@1.28.0.Final?classifier=sources

@@ -311,3 +311,6 @@
 - pkg:maven/org.wso2.carbon.identity.governance/identity-governance@1.6.1?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.identity.governance/identity-governance@1.6.2?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.identity.governance/identity-governance@1.6.3?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.identity.governance/identity-governance@1.6.4?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.identity.governance/identity-governance@1.6.5?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.identity.governance/identity-governance@1.8.0?classifier=source-release&type=zip

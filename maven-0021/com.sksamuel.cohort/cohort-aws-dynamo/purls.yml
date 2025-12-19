@@ -1,0 +1,2 @@
+- pkg:maven/com.sksamuel.cohort/cohort-aws-dynamo@1.7.2?classifier=sources
+- pkg:maven/com.sksamuel.cohort/cohort-aws-dynamo@1.7.3?classifier=sources

@@ -64,3 +64,7 @@
 - pkg:maven/io.github.zhaohaoh/redismq-spring-boot-autoconfigure@1.1.343?classifier=sources
 - pkg:maven/io.github.zhaohaoh/redismq-spring-boot-autoconfigure@1.1.34?classifier=sources
 - pkg:maven/io.github.zhaohaoh/redismq-spring-boot-autoconfigure@1.1.3?classifier=sources
+- pkg:maven/io.github.zhaohaoh/redismq-spring-boot-autoconfigure@1.2.0
+- pkg:maven/io.github.zhaohaoh/redismq-spring-boot-autoconfigure@1.2.0?classifier=sources
+- pkg:maven/io.github.zhaohaoh/redismq-spring-boot-autoconfigure@1.2.1
+- pkg:maven/io.github.zhaohaoh/redismq-spring-boot-autoconfigure@1.2.1?classifier=sources

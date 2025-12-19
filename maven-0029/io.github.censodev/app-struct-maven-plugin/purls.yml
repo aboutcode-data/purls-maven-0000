@@ -1,0 +1,2 @@
+- pkg:maven/io.github.censodev/app-struct-maven-plugin@1.0.0
+- pkg:maven/io.github.censodev/app-struct-maven-plugin@1.0.0?classifier=sources

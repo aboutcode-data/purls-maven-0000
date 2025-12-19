@@ -20,3 +20,5 @@
 - pkg:maven/com.onecampus/tenant@1.1.8?classifier=sources
 - pkg:maven/com.onecampus/tenant@2.0.0
 - pkg:maven/com.onecampus/tenant@2.0.0?classifier=sources
+- pkg:maven/com.onecampus/tenant@2.1.0
+- pkg:maven/com.onecampus/tenant@2.1.0?classifier=sources

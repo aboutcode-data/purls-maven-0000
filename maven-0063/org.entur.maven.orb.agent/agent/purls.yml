@@ -1,2 +1,4 @@
 - pkg:maven/org.entur.maven.orb.agent/agent@1.0.0
 - pkg:maven/org.entur.maven.orb.agent/agent@1.0.0?classifier=sources
+- pkg:maven/org.entur.maven.orb.agent/agent@1.0.1
+- pkg:maven/org.entur.maven.orb.agent/agent@1.0.1?classifier=sources

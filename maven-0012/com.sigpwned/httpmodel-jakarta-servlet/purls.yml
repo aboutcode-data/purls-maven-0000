@@ -1,0 +1,2 @@
+- pkg:maven/com.sigpwned/httpmodel-jakarta-servlet@0.0.1
+- pkg:maven/com.sigpwned/httpmodel-jakarta-servlet@0.0.1?classifier=sources

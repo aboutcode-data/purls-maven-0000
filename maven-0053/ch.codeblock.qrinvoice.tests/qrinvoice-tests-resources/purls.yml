@@ -8,6 +8,8 @@
 - pkg:maven/ch.codeblock.qrinvoice.tests/qrinvoice-tests-resources@1.13?classifier=sources
 - pkg:maven/ch.codeblock.qrinvoice.tests/qrinvoice-tests-resources@1.14
 - pkg:maven/ch.codeblock.qrinvoice.tests/qrinvoice-tests-resources@1.14?classifier=sources
+- pkg:maven/ch.codeblock.qrinvoice.tests/qrinvoice-tests-resources@1.15
+- pkg:maven/ch.codeblock.qrinvoice.tests/qrinvoice-tests-resources@1.15?classifier=sources
 - pkg:maven/ch.codeblock.qrinvoice.tests/qrinvoice-tests-resources@1.7
 - pkg:maven/ch.codeblock.qrinvoice.tests/qrinvoice-tests-resources@1.7?classifier=sources
 - pkg:maven/ch.codeblock.qrinvoice.tests/qrinvoice-tests-resources@1.8

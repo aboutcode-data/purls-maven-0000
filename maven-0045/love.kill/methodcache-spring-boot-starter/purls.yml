@@ -6,3 +6,7 @@
 - pkg:maven/love.kill/methodcache-spring-boot-starter@1.1.2?classifier=sources
 - pkg:maven/love.kill/methodcache-spring-boot-starter@2.0.0
 - pkg:maven/love.kill/methodcache-spring-boot-starter@2.0.0?classifier=sources
+- pkg:maven/love.kill/methodcache-spring-boot-starter@2.0.1
+- pkg:maven/love.kill/methodcache-spring-boot-starter@2.0.1?classifier=sources
+- pkg:maven/love.kill/methodcache-spring-boot-starter@2.0.2
+- pkg:maven/love.kill/methodcache-spring-boot-starter@2.0.2?classifier=sources

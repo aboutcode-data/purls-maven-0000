@@ -1,2 +1,10 @@
 - pkg:maven/com.antgroup.antchain.openapi/openapi-bbp@1.7.10
 - pkg:maven/com.antgroup.antchain.openapi/openapi-bbp@1.7.10?classifier=sources
+- pkg:maven/com.antgroup.antchain.openapi/openapi-bbp@1.7.26
+- pkg:maven/com.antgroup.antchain.openapi/openapi-bbp@1.7.26?classifier=sources
+- pkg:maven/com.antgroup.antchain.openapi/openapi-bbp@1.7.28
+- pkg:maven/com.antgroup.antchain.openapi/openapi-bbp@1.7.28?classifier=sources
+- pkg:maven/com.antgroup.antchain.openapi/openapi-bbp@1.7.29
+- pkg:maven/com.antgroup.antchain.openapi/openapi-bbp@1.7.29?classifier=sources
+- pkg:maven/com.antgroup.antchain.openapi/openapi-bbp@1.7.30
+- pkg:maven/com.antgroup.antchain.openapi/openapi-bbp@1.7.30?classifier=sources

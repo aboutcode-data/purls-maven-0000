@@ -1,5 +1,7 @@
 - pkg:maven/org.webjars.npm/vega-embed@3.29.1
 - pkg:maven/org.webjars.npm/vega-embed@3.29.1?classifier=sources
+- pkg:maven/org.webjars.npm/vega-embed@6.21.0
+- pkg:maven/org.webjars.npm/vega-embed@6.21.0?classifier=sources
 - pkg:maven/org.webjars.npm/vega-embed@6.4.0
 - pkg:maven/org.webjars.npm/vega-embed@6.4.0?classifier=sources
 - pkg:maven/org.webjars.npm/vega-embed@6.8.0

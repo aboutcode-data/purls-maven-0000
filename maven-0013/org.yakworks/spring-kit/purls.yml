@@ -1,0 +1,2 @@
+- pkg:maven/org.yakworks/spring-kit@5.0.7?classifier=sources
+- pkg:maven/org.yakworks/spring-kit@5.0.8?classifier=sources

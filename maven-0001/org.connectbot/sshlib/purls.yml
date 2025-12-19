@@ -4,5 +4,6 @@
 - pkg:maven/org.connectbot/sshlib@2.2.18?classifier=sources
 - pkg:maven/org.connectbot/sshlib@2.2.19?classifier=sources
 - pkg:maven/org.connectbot/sshlib@2.2.20?classifier=sources
+- pkg:maven/org.connectbot/sshlib@2.2.21?classifier=sources
 - pkg:maven/org.connectbot/sshlib@2.2.3
 - pkg:maven/org.connectbot/sshlib@2.2.3?classifier=sources

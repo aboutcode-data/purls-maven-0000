@@ -1,0 +1,1 @@
+- pkg:maven/com.kappadrive.testcontainers/testcontainers-junit5@0.1.0?classifier=sources

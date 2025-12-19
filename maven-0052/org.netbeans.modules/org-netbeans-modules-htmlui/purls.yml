@@ -1,2 +1,3 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-htmlui@RELEASE130?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-htmlui@RELEASE140?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-htmlui@RELEASE150?classifier=sources
