@@ -8,3 +8,4 @@
 - pkg:maven/com.withabound/withabound-java@0.4.0?classifier=sources
 - pkg:maven/com.withabound/withabound-java@0.5.0?classifier=sources
 - pkg:maven/com.withabound/withabound-java@1.0.0?classifier=sources
+- pkg:maven/com.withabound/withabound-java@1.1.0?classifier=sources

@@ -1,2 +1,3 @@
 - pkg:maven/io.streamnative.connectors/nifi-pulsar-client-service-nar@1.14.0-rc-3?classifier=sources
 - pkg:maven/io.streamnative.connectors/nifi-pulsar-client-service-nar@1.15.2?classifier=sources
+- pkg:maven/io.streamnative.connectors/nifi-pulsar-client-service-nar@1.18.0?classifier=sources

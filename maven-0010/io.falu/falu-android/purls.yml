@@ -10,3 +10,9 @@
 - pkg:maven/io.falu/falu-android@1.3.21?classifier=sources
 - pkg:maven/io.falu/falu-android@1.3.2?classifier=sources
 - pkg:maven/io.falu/falu-android@1.4.0?classifier=sources
+- pkg:maven/io.falu/falu-android@1.5.0?classifier=sources
+- pkg:maven/io.falu/falu-android@1.5.11?classifier=sources
+- pkg:maven/io.falu/falu-android@1.5.12?classifier=sources
+- pkg:maven/io.falu/falu-android@1.5.13?classifier=sources
+- pkg:maven/io.falu/falu-android@1.5.14?classifier=sources
+- pkg:maven/io.falu/falu-android@1.5.1?classifier=sources

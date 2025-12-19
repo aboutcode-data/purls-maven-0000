@@ -1,0 +1,2 @@
+- pkg:maven/edu.iu.uits.lms/course-review-form@5.0.2
+- pkg:maven/edu.iu.uits.lms/course-review-form@5.0.2?classifier=sources

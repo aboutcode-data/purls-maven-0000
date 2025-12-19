@@ -10,6 +10,7 @@
 - pkg:maven/io.opentelemetry/opentelemetry-sdk-extension-autoconfigure-spi@1.16.0?classifier=sources
 - pkg:maven/io.opentelemetry/opentelemetry-sdk-extension-autoconfigure-spi@1.17.0?classifier=sources
 - pkg:maven/io.opentelemetry/opentelemetry-sdk-extension-autoconfigure-spi@1.18.0?classifier=sources
+- pkg:maven/io.opentelemetry/opentelemetry-sdk-extension-autoconfigure-spi@1.19.0?classifier=sources
 - pkg:maven/io.opentelemetry/opentelemetry-sdk-extension-autoconfigure-spi@1.6.0?classifier=sources
 - pkg:maven/io.opentelemetry/opentelemetry-sdk-extension-autoconfigure-spi@1.7.0?classifier=sources
 - pkg:maven/io.opentelemetry/opentelemetry-sdk-extension-autoconfigure-spi@1.7.1?classifier=sources

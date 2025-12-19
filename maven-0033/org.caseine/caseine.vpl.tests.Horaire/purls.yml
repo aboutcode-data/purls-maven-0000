@@ -26,3 +26,5 @@
 - pkg:maven/org.caseine/caseine.vpl.tests.Horaire@0.0.51?classifier=sources
 - pkg:maven/org.caseine/caseine.vpl.tests.Horaire@0.0.55
 - pkg:maven/org.caseine/caseine.vpl.tests.Horaire@0.0.55?classifier=sources
+- pkg:maven/org.caseine/caseine.vpl.tests.Horaire@0.0.57
+- pkg:maven/org.caseine/caseine.vpl.tests.Horaire@0.0.57?classifier=sources

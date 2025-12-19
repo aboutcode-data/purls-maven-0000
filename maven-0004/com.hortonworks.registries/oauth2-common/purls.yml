@@ -1,0 +1,2 @@
+- pkg:maven/com.hortonworks.registries/oauth2-common@1.0.0
+- pkg:maven/com.hortonworks.registries/oauth2-common@1.0.0?classifier=sources

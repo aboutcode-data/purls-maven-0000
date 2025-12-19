@@ -64,3 +64,13 @@
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-osubbillingschedule@2.42.0?classifier=sources
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-osubbillingschedule@2.43.0
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-osubbillingschedule@2.43.0?classifier=sources
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-osubbillingschedule@2.44.0
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-osubbillingschedule@2.44.0?classifier=sources
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-osubbillingschedule@2.45.0
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-osubbillingschedule@2.45.0?classifier=sources
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-osubbillingschedule@2.46.0
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-osubbillingschedule@2.46.0?classifier=sources
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-osubbillingschedule@2.47.0
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-osubbillingschedule@2.47.0?classifier=sources
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-osubbillingschedule@3.0.0-beta1
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-osubbillingschedule@3.0.0-beta1?classifier=sources

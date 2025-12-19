@@ -1,0 +1,4 @@
+- pkg:maven/com.gitee.wzJun1/shadowLayout@3.2.41?classifier=sources
+- pkg:maven/com.gitee.wzJun1/shadowLayout@3.2.41?type=aar
+- pkg:maven/com.gitee.wzJun1/shadowLayout@3.2.4?classifier=sources
+- pkg:maven/com.gitee.wzJun1/shadowLayout@3.2.4?type=aar

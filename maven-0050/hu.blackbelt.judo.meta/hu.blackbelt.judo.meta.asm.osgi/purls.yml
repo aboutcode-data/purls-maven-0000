@@ -1,2 +1,6 @@
 - pkg:maven/hu.blackbelt.judo.meta/hu.blackbelt.judo.meta.asm.osgi@1.1.0.20220919_144630
 - pkg:maven/hu.blackbelt.judo.meta/hu.blackbelt.judo.meta.asm.osgi@1.1.0.20220919_144630?classifier=sources
+- pkg:maven/hu.blackbelt.judo.meta/hu.blackbelt.judo.meta.asm.osgi@1.1.1
+- pkg:maven/hu.blackbelt.judo.meta/hu.blackbelt.judo.meta.asm.osgi@1.1.1?classifier=sources
+- pkg:maven/hu.blackbelt.judo.meta/hu.blackbelt.judo.meta.asm.osgi@1.1.2
+- pkg:maven/hu.blackbelt.judo.meta/hu.blackbelt.judo.meta.asm.osgi@1.1.2?classifier=sources

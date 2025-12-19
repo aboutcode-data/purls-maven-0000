@@ -1,0 +1,2 @@
+- pkg:maven/com.github.alexarchambault/case-app-cats_3@2.1.0-M19
+- pkg:maven/com.github.alexarchambault/case-app-cats_3@2.1.0-M19?classifier=sources

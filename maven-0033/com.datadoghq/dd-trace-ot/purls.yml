@@ -12,8 +12,15 @@
 - pkg:maven/com.datadoghq/dd-trace-ot@0.108.0?classifier=sources
 - pkg:maven/com.datadoghq/dd-trace-ot@0.108.1?classifier=sources
 - pkg:maven/com.datadoghq/dd-trace-ot@0.108.2?classifier=sources
+- pkg:maven/com.datadoghq/dd-trace-ot@0.109.0?classifier=sources
+- pkg:maven/com.datadoghq/dd-trace-ot@0.109.1?classifier=sources
 - pkg:maven/com.datadoghq/dd-trace-ot@0.11.0
 - pkg:maven/com.datadoghq/dd-trace-ot@0.11.0?classifier=sources
+- pkg:maven/com.datadoghq/dd-trace-ot@0.110.0?classifier=sources
+- pkg:maven/com.datadoghq/dd-trace-ot@0.111.0?classifier=sources
+- pkg:maven/com.datadoghq/dd-trace-ot@0.112.0?classifier=sources
+- pkg:maven/com.datadoghq/dd-trace-ot@0.113.0?classifier=sources
+- pkg:maven/com.datadoghq/dd-trace-ot@0.114.0?classifier=sources
 - pkg:maven/com.datadoghq/dd-trace-ot@0.12.0
 - pkg:maven/com.datadoghq/dd-trace-ot@0.12.0?classifier=sources
 - pkg:maven/com.datadoghq/dd-trace-ot@0.13.0

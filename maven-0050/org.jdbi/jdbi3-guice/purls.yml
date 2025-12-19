@@ -30,3 +30,5 @@
 - pkg:maven/org.jdbi/jdbi3-guice@3.32.0?classifier=sources
 - pkg:maven/org.jdbi/jdbi3-guice@3.33.0
 - pkg:maven/org.jdbi/jdbi3-guice@3.33.0?classifier=sources
+- pkg:maven/org.jdbi/jdbi3-guice@3.34.0
+- pkg:maven/org.jdbi/jdbi3-guice@3.34.0?classifier=sources

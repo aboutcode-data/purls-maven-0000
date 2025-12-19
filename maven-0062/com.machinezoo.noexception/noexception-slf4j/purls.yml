@@ -1,0 +1,2 @@
+- pkg:maven/com.machinezoo.noexception/noexception-slf4j@1.0.0
+- pkg:maven/com.machinezoo.noexception/noexception-slf4j@1.0.0?classifier=sources

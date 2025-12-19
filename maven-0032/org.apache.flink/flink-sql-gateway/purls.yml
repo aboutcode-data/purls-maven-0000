@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.flink/flink-sql-gateway@1.16.0
+- pkg:maven/org.apache.flink/flink-sql-gateway@1.16.0?classifier=sources

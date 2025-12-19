@@ -34,3 +34,5 @@
 - pkg:maven/com.telenav.kivakit/kivakit-data-compression@1.6.2?classifier=sources
 - pkg:maven/com.telenav.kivakit/kivakit-data-compression@1.7.0
 - pkg:maven/com.telenav.kivakit/kivakit-data-compression@1.7.0?classifier=sources
+- pkg:maven/com.telenav.kivakit/kivakit-data-compression@1.8.1
+- pkg:maven/com.telenav.kivakit/kivakit-data-compression@1.8.1?classifier=sources

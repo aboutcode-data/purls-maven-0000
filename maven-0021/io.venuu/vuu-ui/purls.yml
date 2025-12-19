@@ -4,3 +4,9 @@
 - pkg:maven/io.venuu/vuu-ui@0.350?classifier=sources
 - pkg:maven/io.venuu/vuu-ui@0.351
 - pkg:maven/io.venuu/vuu-ui@0.351?classifier=sources
+- pkg:maven/io.venuu/vuu-ui@0.353
+- pkg:maven/io.venuu/vuu-ui@0.353?classifier=sources
+- pkg:maven/io.venuu/vuu-ui@0.354
+- pkg:maven/io.venuu/vuu-ui@0.354?classifier=sources
+- pkg:maven/io.venuu/vuu-ui@0.355
+- pkg:maven/io.venuu/vuu-ui@0.355?classifier=sources

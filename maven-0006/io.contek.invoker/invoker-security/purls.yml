@@ -23,3 +23,5 @@
 - pkg:maven/io.contek.invoker/invoker-security@2.6.2?classifier=sources
 - pkg:maven/io.contek.invoker/invoker-security@3.0.0?classifier=sources
 - pkg:maven/io.contek.invoker/invoker-security@3.0.2?classifier=sources
+- pkg:maven/io.contek.invoker/invoker-security@3.0.3?classifier=sources
+- pkg:maven/io.contek.invoker/invoker-security@3.1.1?classifier=sources

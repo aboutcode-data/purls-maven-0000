@@ -22,6 +22,7 @@
 - pkg:maven/org.n52.sensorweb-server.sos/sos-views@5.4.3?type=war
 - pkg:maven/org.n52.sensorweb-server.sos/sos-views@5.5.0?type=war
 - pkg:maven/org.n52.sensorweb-server.sos/sos-views@5.5.1?type=war
+- pkg:maven/org.n52.sensorweb-server.sos/sos-views@5.5.2?type=war
 - pkg:maven/org.n52.sensorweb-server.sos/sos-views@6.0.0-PR.10?type=war
 - pkg:maven/org.n52.sensorweb-server.sos/sos-views@6.0.0-PR.11?type=war
 - pkg:maven/org.n52.sensorweb-server.sos/sos-views@6.0.0-PR.12?type=war
@@ -30,6 +31,7 @@
 - pkg:maven/org.n52.sensorweb-server.sos/sos-views@6.0.0-PR.15?type=war
 - pkg:maven/org.n52.sensorweb-server.sos/sos-views@6.0.0-PR.17?type=war
 - pkg:maven/org.n52.sensorweb-server.sos/sos-views@6.0.0-PR.18?type=war
+- pkg:maven/org.n52.sensorweb-server.sos/sos-views@6.0.0-PR.19?type=war
 - pkg:maven/org.n52.sensorweb-server.sos/sos-views@6.0.0-PR.1?type=war
 - pkg:maven/org.n52.sensorweb-server.sos/sos-views@6.0.0-PR.2?type=war
 - pkg:maven/org.n52.sensorweb-server.sos/sos-views@6.0.0-PR.3?type=war

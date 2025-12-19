@@ -1,2 +1,4 @@
 - pkg:maven/edu.utah.bmi.blulab/domainontology@2016.12.2
 - pkg:maven/edu.utah.bmi.blulab/domainontology@2016.12.2?classifier=sources
+- pkg:maven/edu.utah.bmi.blulab/domainontology@2021-12-15
+- pkg:maven/edu.utah.bmi.blulab/domainontology@2021-12-15?classifier=sources

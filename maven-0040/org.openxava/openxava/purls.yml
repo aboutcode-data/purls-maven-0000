@@ -5,4 +5,6 @@
 - pkg:maven/org.openxava/openxava@7.0-BETA2?classifier=sources
 - pkg:maven/org.openxava/openxava@7.0-RC1
 - pkg:maven/org.openxava/openxava@7.0-RC1?classifier=sources
+- pkg:maven/org.openxava/openxava@7.0.1
+- pkg:maven/org.openxava/openxava@7.0.1?classifier=sources
 - pkg:maven/org.openxava/openxava@7.0?classifier=sources

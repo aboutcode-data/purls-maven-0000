@@ -1,2 +1,4 @@
+- pkg:maven/org.webjars.npm/zip.js__zip.js@2.4.26
+- pkg:maven/org.webjars.npm/zip.js__zip.js@2.4.26?classifier=sources
 - pkg:maven/org.webjars.npm/zip.js__zip.js@2.6.8
 - pkg:maven/org.webjars.npm/zip.js__zip.js@2.6.8?classifier=sources

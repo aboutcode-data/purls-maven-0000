@@ -1,0 +1,2 @@
+- pkg:maven/io.github.hayes-roach/clamav-client@1.0.0
+- pkg:maven/io.github.hayes-roach/clamav-client@1.0.0?classifier=sources

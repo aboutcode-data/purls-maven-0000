@@ -6,3 +6,4 @@
 - pkg:maven/com.netflix.nebula/gradle-override-plugin@2.2.0?classifier=sources
 - pkg:maven/com.netflix.nebula/gradle-override-plugin@3.0.2
 - pkg:maven/com.netflix.nebula/gradle-override-plugin@3.0.2?classifier=sources
+- pkg:maven/com.netflix.nebula/gradle-override-plugin@4.0.0?classifier=sources

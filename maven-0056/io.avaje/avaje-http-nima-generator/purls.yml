@@ -1,0 +1,4 @@
+- pkg:maven/io.avaje/avaje-http-nima-generator@1.18
+- pkg:maven/io.avaje/avaje-http-nima-generator@1.18?classifier=sources
+- pkg:maven/io.avaje/avaje-http-nima-generator@1.19
+- pkg:maven/io.avaje/avaje-http-nima-generator@1.19?classifier=sources

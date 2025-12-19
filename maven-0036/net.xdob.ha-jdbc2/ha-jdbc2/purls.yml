@@ -1,2 +1,6 @@
 - pkg:maven/net.xdob.ha-jdbc2/ha-jdbc2@3.6.17
 - pkg:maven/net.xdob.ha-jdbc2/ha-jdbc2@3.6.17?classifier=sources
+- pkg:maven/net.xdob.ha-jdbc2/ha-jdbc2@3.6.18
+- pkg:maven/net.xdob.ha-jdbc2/ha-jdbc2@3.6.18?classifier=sources
+- pkg:maven/net.xdob.ha-jdbc2/ha-jdbc2@3.6.19
+- pkg:maven/net.xdob.ha-jdbc2/ha-jdbc2@3.6.19?classifier=sources

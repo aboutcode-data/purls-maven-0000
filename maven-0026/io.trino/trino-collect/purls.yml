@@ -50,3 +50,13 @@
 - pkg:maven/io.trino/trino-collect@395?classifier=sources
 - pkg:maven/io.trino/trino-collect@396
 - pkg:maven/io.trino/trino-collect@396?classifier=sources
+- pkg:maven/io.trino/trino-collect@397
+- pkg:maven/io.trino/trino-collect@397?classifier=sources
+- pkg:maven/io.trino/trino-collect@398
+- pkg:maven/io.trino/trino-collect@398?classifier=sources
+- pkg:maven/io.trino/trino-collect@399
+- pkg:maven/io.trino/trino-collect@399?classifier=sources
+- pkg:maven/io.trino/trino-collect@400
+- pkg:maven/io.trino/trino-collect@400?classifier=sources
+- pkg:maven/io.trino/trino-collect@401
+- pkg:maven/io.trino/trino-collect@401?classifier=sources

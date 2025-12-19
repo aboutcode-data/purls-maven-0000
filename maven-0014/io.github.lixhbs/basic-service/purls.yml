@@ -34,3 +34,7 @@
 - pkg:maven/io.github.lixhbs/basic-service@1.0.7?classifier=sources
 - pkg:maven/io.github.lixhbs/basic-service@1.0.8
 - pkg:maven/io.github.lixhbs/basic-service@1.0.8?classifier=sources
+- pkg:maven/io.github.lixhbs/basic-service@1.1.0
+- pkg:maven/io.github.lixhbs/basic-service@1.1.01
+- pkg:maven/io.github.lixhbs/basic-service@1.1.01?classifier=sources
+- pkg:maven/io.github.lixhbs/basic-service@1.1.0?classifier=sources

@@ -20,3 +20,6 @@
 - pkg:maven/io.bkbn/kompendium-oas@3.1.0?classifier=sources
 - pkg:maven/io.bkbn/kompendium-oas@3.2.0?classifier=sources
 - pkg:maven/io.bkbn/kompendium-oas@3.3.0?classifier=sources
+- pkg:maven/io.bkbn/kompendium-oas@3.3.1?classifier=sources
+- pkg:maven/io.bkbn/kompendium-oas@3.4.0?classifier=sources
+- pkg:maven/io.bkbn/kompendium-oas@3.5.0?classifier=sources

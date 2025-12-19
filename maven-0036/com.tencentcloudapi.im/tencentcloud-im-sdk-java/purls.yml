@@ -10,3 +10,5 @@
 - pkg:maven/com.tencentcloudapi.im/tencentcloud-im-sdk-java@1.0.6?classifier=sources
 - pkg:maven/com.tencentcloudapi.im/tencentcloud-im-sdk-java@1.0.7
 - pkg:maven/com.tencentcloudapi.im/tencentcloud-im-sdk-java@1.0.7?classifier=sources
+- pkg:maven/com.tencentcloudapi.im/tencentcloud-im-sdk-java@1.0.8
+- pkg:maven/com.tencentcloudapi.im/tencentcloud-im-sdk-java@1.0.8?classifier=sources

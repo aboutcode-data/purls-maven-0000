@@ -26,3 +26,5 @@
 - pkg:maven/com.github.danielflower.mavenplugins/gitlog-maven-plugin@1.13.7?classifier=sources
 - pkg:maven/com.github.danielflower.mavenplugins/gitlog-maven-plugin@1.13.8
 - pkg:maven/com.github.danielflower.mavenplugins/gitlog-maven-plugin@1.13.8?classifier=sources
+- pkg:maven/com.github.danielflower.mavenplugins/gitlog-maven-plugin@1.14.0
+- pkg:maven/com.github.danielflower.mavenplugins/gitlog-maven-plugin@1.14.0?classifier=sources

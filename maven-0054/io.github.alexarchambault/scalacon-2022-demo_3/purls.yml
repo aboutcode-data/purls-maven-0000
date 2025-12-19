@@ -1,0 +1,2 @@
+- pkg:maven/io.github.alexarchambault/scalacon-2022-demo_3@0.1.0
+- pkg:maven/io.github.alexarchambault/scalacon-2022-demo_3@0.1.0?classifier=sources

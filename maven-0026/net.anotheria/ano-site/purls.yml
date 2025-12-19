@@ -22,3 +22,5 @@
 - pkg:maven/net.anotheria/ano-site@2.6.8?classifier=sources
 - pkg:maven/net.anotheria/ano-site@2.6.9
 - pkg:maven/net.anotheria/ano-site@2.6.9?classifier=sources
+- pkg:maven/net.anotheria/ano-site@3.0.0
+- pkg:maven/net.anotheria/ano-site@3.0.0?classifier=sources

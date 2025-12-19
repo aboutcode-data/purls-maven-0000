@@ -1,2 +1,4 @@
 - pkg:maven/com.scality/osis-scality@0.0.3
 - pkg:maven/com.scality/osis-scality@0.0.3?classifier=sources
+- pkg:maven/com.scality/osis-scality@1.4.0
+- pkg:maven/com.scality/osis-scality@1.4.0?classifier=sources

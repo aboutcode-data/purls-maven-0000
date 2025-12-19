@@ -2,6 +2,8 @@
 - pkg:maven/cloud.piranha.extension/piranha-extension-bytesstreamhandler@21.12.0?classifier=sources
 - pkg:maven/cloud.piranha.extension/piranha-extension-bytesstreamhandler@22.1.0
 - pkg:maven/cloud.piranha.extension/piranha-extension-bytesstreamhandler@22.1.0?classifier=sources
+- pkg:maven/cloud.piranha.extension/piranha-extension-bytesstreamhandler@22.10.0
+- pkg:maven/cloud.piranha.extension/piranha-extension-bytesstreamhandler@22.10.0?classifier=sources
 - pkg:maven/cloud.piranha.extension/piranha-extension-bytesstreamhandler@22.2.0
 - pkg:maven/cloud.piranha.extension/piranha-extension-bytesstreamhandler@22.2.0?classifier=sources
 - pkg:maven/cloud.piranha.extension/piranha-extension-bytesstreamhandler@22.3.0

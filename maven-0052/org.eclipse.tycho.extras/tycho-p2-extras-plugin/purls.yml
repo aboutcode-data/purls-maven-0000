@@ -74,3 +74,5 @@
 - pkg:maven/org.eclipse.tycho.extras/tycho-p2-extras-plugin@2.7.4?classifier=sources
 - pkg:maven/org.eclipse.tycho.extras/tycho-p2-extras-plugin@2.7.5
 - pkg:maven/org.eclipse.tycho.extras/tycho-p2-extras-plugin@2.7.5?classifier=sources
+- pkg:maven/org.eclipse.tycho.extras/tycho-p2-extras-plugin@3.0.0
+- pkg:maven/org.eclipse.tycho.extras/tycho-p2-extras-plugin@3.0.0?classifier=sources

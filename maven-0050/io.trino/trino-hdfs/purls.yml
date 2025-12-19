@@ -6,3 +6,13 @@
 - pkg:maven/io.trino/trino-hdfs@395?classifier=sources
 - pkg:maven/io.trino/trino-hdfs@396
 - pkg:maven/io.trino/trino-hdfs@396?classifier=sources
+- pkg:maven/io.trino/trino-hdfs@397
+- pkg:maven/io.trino/trino-hdfs@397?classifier=sources
+- pkg:maven/io.trino/trino-hdfs@398
+- pkg:maven/io.trino/trino-hdfs@398?classifier=sources
+- pkg:maven/io.trino/trino-hdfs@399
+- pkg:maven/io.trino/trino-hdfs@399?classifier=sources
+- pkg:maven/io.trino/trino-hdfs@400
+- pkg:maven/io.trino/trino-hdfs@400?classifier=sources
+- pkg:maven/io.trino/trino-hdfs@401
+- pkg:maven/io.trino/trino-hdfs@401?classifier=sources

@@ -432,3 +432,7 @@
 - pkg:maven/com.proofpoint.platform/http-server@2.68?classifier=sources
 - pkg:maven/com.proofpoint.platform/http-server@2.69
 - pkg:maven/com.proofpoint.platform/http-server@2.69?classifier=sources
+- pkg:maven/com.proofpoint.platform/http-server@2.70
+- pkg:maven/com.proofpoint.platform/http-server@2.70?classifier=sources
+- pkg:maven/com.proofpoint.platform/http-server@2.71
+- pkg:maven/com.proofpoint.platform/http-server@2.71?classifier=sources

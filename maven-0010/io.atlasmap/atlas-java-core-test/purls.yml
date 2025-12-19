@@ -125,3 +125,4 @@
 - pkg:maven/io.atlasmap/atlas-java-core-test@2.4.0-M.4
 - pkg:maven/io.atlasmap/atlas-java-core-test@2.5.0
 - pkg:maven/io.atlasmap/atlas-java-core-test@2.5.1
+- pkg:maven/io.atlasmap/atlas-java-core-test@2.5.2

@@ -158,6 +158,8 @@
 - pkg:maven/com.hack23.cia/service.external.worldbank@2021.9.24?classifier=sources
 - pkg:maven/com.hack23.cia/service.external.worldbank@2022.1.24
 - pkg:maven/com.hack23.cia/service.external.worldbank@2022.1.24?classifier=sources
+- pkg:maven/com.hack23.cia/service.external.worldbank@2022.10.9
+- pkg:maven/com.hack23.cia/service.external.worldbank@2022.10.9?classifier=sources
 - pkg:maven/com.hack23.cia/service.external.worldbank@2022.3.12
 - pkg:maven/com.hack23.cia/service.external.worldbank@2022.3.12?classifier=sources
 - pkg:maven/com.hack23.cia/service.external.worldbank@2022.4.14

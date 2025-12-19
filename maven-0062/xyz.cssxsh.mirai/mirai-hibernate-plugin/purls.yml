@@ -38,3 +38,5 @@
 - pkg:maven/xyz.cssxsh.mirai/mirai-hibernate-plugin@2.4.2?classifier=sources
 - pkg:maven/xyz.cssxsh.mirai/mirai-hibernate-plugin@2.4.3?classifier=sources
 - pkg:maven/xyz.cssxsh.mirai/mirai-hibernate-plugin@2.4.4?classifier=sources
+- pkg:maven/xyz.cssxsh.mirai/mirai-hibernate-plugin@2.5.0-RC2?classifier=sources
+- pkg:maven/xyz.cssxsh.mirai/mirai-hibernate-plugin@2.5.0-RC?classifier=sources

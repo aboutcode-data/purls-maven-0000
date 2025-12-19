@@ -44,3 +44,5 @@
 - pkg:maven/com.nhl.link.move/link-move@2.8?classifier=sources
 - pkg:maven/com.nhl.link.move/link-move@2.9
 - pkg:maven/com.nhl.link.move/link-move@2.9?classifier=sources
+- pkg:maven/com.nhl.link.move/link-move@3.0.M1
+- pkg:maven/com.nhl.link.move/link-move@3.0.M1?classifier=sources

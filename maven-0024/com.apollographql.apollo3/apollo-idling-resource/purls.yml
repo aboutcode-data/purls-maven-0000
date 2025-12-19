@@ -32,3 +32,5 @@
 - pkg:maven/com.apollographql.apollo3/apollo-idling-resource@3.4.0?classifier=sources
 - pkg:maven/com.apollographql.apollo3/apollo-idling-resource@3.5.0?classifier=sources
 - pkg:maven/com.apollographql.apollo3/apollo-idling-resource@3.6.0?classifier=sources
+- pkg:maven/com.apollographql.apollo3/apollo-idling-resource@3.6.1?classifier=sources
+- pkg:maven/com.apollographql.apollo3/apollo-idling-resource@3.6.2?classifier=sources

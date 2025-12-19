@@ -6,3 +6,5 @@
 - pkg:maven/org.xworker/xworker_web@1.4.3?classifier=sources
 - pkg:maven/org.xworker/xworker_web@1.4.4
 - pkg:maven/org.xworker/xworker_web@1.4.4?classifier=sources
+- pkg:maven/org.xworker/xworker_web@2.0.1
+- pkg:maven/org.xworker/xworker_web@2.0.1?classifier=sources

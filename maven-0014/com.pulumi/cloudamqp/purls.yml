@@ -2,3 +2,4 @@
 - pkg:maven/com.pulumi/cloudamqp@3.10.0-alpha.1663280953%2Bdf977ec1?classifier=sources
 - pkg:maven/com.pulumi/cloudamqp@3.10.0-alpha.1663341529%2Bbc0f8c81?classifier=sources
 - pkg:maven/com.pulumi/cloudamqp@3.9.1?classifier=sources
+- pkg:maven/com.pulumi/cloudamqp@3.9.2?classifier=sources

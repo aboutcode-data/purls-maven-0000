@@ -18,3 +18,7 @@
 - pkg:maven/com.predic8/soa-model-core@1.6.3?classifier=sources
 - pkg:maven/com.predic8/soa-model-core@1.6.4
 - pkg:maven/com.predic8/soa-model-core@1.6.4?classifier=sources
+- pkg:maven/com.predic8/soa-model-core@2.0.0
+- pkg:maven/com.predic8/soa-model-core@2.0.0?classifier=sources
+- pkg:maven/com.predic8/soa-model-core@2.0.1
+- pkg:maven/com.predic8/soa-model-core@2.0.1?classifier=sources

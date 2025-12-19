@@ -33,3 +33,4 @@
 - pkg:maven/org.bitbucket.askllc.fermenter.stout/stout-cookbook-domain-webapp@2.2.0?type=war
 - pkg:maven/org.bitbucket.askllc.fermenter.stout/stout-cookbook-domain-webapp@2.3.0?type=war
 - pkg:maven/org.bitbucket.askllc.fermenter.stout/stout-cookbook-domain-webapp@2.4.0?type=war
+- pkg:maven/org.bitbucket.askllc.fermenter.stout/stout-cookbook-domain-webapp@2.5.0?type=war

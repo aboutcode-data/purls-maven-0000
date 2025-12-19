@@ -150,6 +150,10 @@
 - pkg:maven/com.rookout/rook@0.1.236
 - pkg:maven/com.rookout/rook@0.1.237
 - pkg:maven/com.rookout/rook@0.1.238
+- pkg:maven/com.rookout/rook@0.1.239
+- pkg:maven/com.rookout/rook@0.1.240
+- pkg:maven/com.rookout/rook@0.1.241
+- pkg:maven/com.rookout/rook@0.1.242
 - pkg:maven/com.rookout/rook@0.1.25
 - pkg:maven/com.rookout/rook@0.1.26
 - pkg:maven/com.rookout/rook@0.1.27

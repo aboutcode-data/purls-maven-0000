@@ -1,0 +1,4 @@
+- pkg:maven/kz.greetgo.kafka/greetgo.kafka-model@2.3.8
+- pkg:maven/kz.greetgo.kafka/greetgo.kafka-model@2.3.8?classifier=sources
+- pkg:maven/kz.greetgo.kafka/greetgo.kafka-model@2.4.0
+- pkg:maven/kz.greetgo.kafka/greetgo.kafka-model@2.4.0?classifier=sources

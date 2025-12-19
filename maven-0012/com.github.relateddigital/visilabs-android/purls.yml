@@ -50,3 +50,4 @@
 - pkg:maven/com.github.relateddigital/visilabs-android@5.7.8?type=aar
 - pkg:maven/com.github.relateddigital/visilabs-android@5.7.9?classifier=sources
 - pkg:maven/com.github.relateddigital/visilabs-android@5.7.9?type=aar
+- pkg:maven/com.github.relateddigital/visilabs-android@6.0.5?classifier=sources

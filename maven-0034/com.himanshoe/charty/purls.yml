@@ -1,7 +1,10 @@
 - pkg:maven/com.himanshoe/charty@1.0.0-alpha01?classifier=sources
+- pkg:maven/com.himanshoe/charty@1.0.0-alpha03?classifier=sources
+- pkg:maven/com.himanshoe/charty@1.0.0?classifier=sources
 - pkg:maven/com.himanshoe/charty@1.1.0-alpha02?classifier=sources
 - pkg:maven/com.himanshoe/charty@1.1.1-alpha02?classifier=sources
 - pkg:maven/com.himanshoe/charty@1.1.2-alpha02?classifier=sources
 - pkg:maven/com.himanshoe/charty@1.1.3-alpha02?classifier=sources
 - pkg:maven/com.himanshoe/charty@1.1.3-alpha03?classifier=sources
 - pkg:maven/com.himanshoe/charty@1.1.3-alpha04?classifier=sources
+- pkg:maven/com.himanshoe/charty@1.1.3-alpha05?classifier=sources
