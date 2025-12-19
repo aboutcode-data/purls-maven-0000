@@ -3,3 +3,4 @@
 - pkg:maven/net.codinux.util/stopwatch@1.0.2?classifier=sources
 - pkg:maven/net.codinux.util/stopwatch@1.0.3?classifier=sources
 - pkg:maven/net.codinux.util/stopwatch@1.5.0?classifier=sources
+- pkg:maven/net.codinux.util/stopwatch@1.6.0?classifier=sources

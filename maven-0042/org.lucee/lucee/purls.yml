@@ -192,5 +192,15 @@
 - pkg:maven/org.lucee/lucee@5.3.9.160?classifier=sources
 - pkg:maven/org.lucee/lucee@5.3.9.166
 - pkg:maven/org.lucee/lucee@5.3.9.166?classifier=sources
+- pkg:maven/org.lucee/lucee@5.4.0.65-RC
+- pkg:maven/org.lucee/lucee@5.4.0.65-RC?classifier=sources
+- pkg:maven/org.lucee/lucee@5.4.0.77-RC
+- pkg:maven/org.lucee/lucee@5.4.0.77-RC?classifier=sources
+- pkg:maven/org.lucee/lucee@5.4.0.80
+- pkg:maven/org.lucee/lucee@5.4.0.80?classifier=sources
 - pkg:maven/org.lucee/lucee@6.0.0.346-BETA
 - pkg:maven/org.lucee/lucee@6.0.0.346-BETA?classifier=sources
+- pkg:maven/org.lucee/lucee@6.0.0.451-BETA
+- pkg:maven/org.lucee/lucee@6.0.0.451-BETA?classifier=sources
+- pkg:maven/org.lucee/lucee@6.0.0.481-RC
+- pkg:maven/org.lucee/lucee@6.0.0.481-RC?classifier=sources

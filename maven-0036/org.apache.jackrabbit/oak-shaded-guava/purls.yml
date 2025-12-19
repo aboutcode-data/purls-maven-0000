@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.jackrabbit/oak-shaded-guava@1.52.0
+- pkg:maven/org.apache.jackrabbit/oak-shaded-guava@1.52.0?classifier=sources

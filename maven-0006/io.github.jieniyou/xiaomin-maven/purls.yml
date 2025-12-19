@@ -1,0 +1,2 @@
+- pkg:maven/io.github.jieniyou/xiaomin-maven@1.0.0
+- pkg:maven/io.github.jieniyou/xiaomin-maven@1.0.0?classifier=sources

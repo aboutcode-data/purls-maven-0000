@@ -1,0 +1,12 @@
+- pkg:maven/software.amazon.awscdk/cdk-app-staging-synthesizer-alpha@2.82.0-alpha.0
+- pkg:maven/software.amazon.awscdk/cdk-app-staging-synthesizer-alpha@2.82.0-alpha.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/cdk-app-staging-synthesizer-alpha@2.83.0-alpha.0
+- pkg:maven/software.amazon.awscdk/cdk-app-staging-synthesizer-alpha@2.83.0-alpha.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/cdk-app-staging-synthesizer-alpha@2.83.1-alpha.0
+- pkg:maven/software.amazon.awscdk/cdk-app-staging-synthesizer-alpha@2.83.1-alpha.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/cdk-app-staging-synthesizer-alpha@2.84.0-alpha.0
+- pkg:maven/software.amazon.awscdk/cdk-app-staging-synthesizer-alpha@2.84.0-alpha.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/cdk-app-staging-synthesizer-alpha@2.85.0-alpha.0
+- pkg:maven/software.amazon.awscdk/cdk-app-staging-synthesizer-alpha@2.85.0-alpha.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/cdk-app-staging-synthesizer-alpha@2.86.0-alpha.0
+- pkg:maven/software.amazon.awscdk/cdk-app-staging-synthesizer-alpha@2.86.0-alpha.0?classifier=sources

@@ -5,4 +5,12 @@
 - pkg:maven/io.github.pnoker/dc3-starter-center-register-nacos-client@2023.1.9
 - pkg:maven/io.github.pnoker/dc3-starter-center-register-nacos-client@2023.1.9?classifier=sources
 - pkg:maven/io.github.pnoker/dc3-starter-center-register-nacos-client@2023.4.0
+- pkg:maven/io.github.pnoker/dc3-starter-center-register-nacos-client@2023.4.0.1
+- pkg:maven/io.github.pnoker/dc3-starter-center-register-nacos-client@2023.4.0.1?classifier=sources
 - pkg:maven/io.github.pnoker/dc3-starter-center-register-nacos-client@2023.4.0?classifier=sources
+- pkg:maven/io.github.pnoker/dc3-starter-center-register-nacos-client@2023.4.1
+- pkg:maven/io.github.pnoker/dc3-starter-center-register-nacos-client@2023.4.1?classifier=sources
+- pkg:maven/io.github.pnoker/dc3-starter-center-register-nacos-client@2023.4.2
+- pkg:maven/io.github.pnoker/dc3-starter-center-register-nacos-client@2023.4.2?classifier=sources
+- pkg:maven/io.github.pnoker/dc3-starter-center-register-nacos-client@2023.4.3
+- pkg:maven/io.github.pnoker/dc3-starter-center-register-nacos-client@2023.4.3?classifier=sources

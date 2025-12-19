@@ -18,3 +18,9 @@
 - pkg:maven/org.openxava/openxava@7.0.6
 - pkg:maven/org.openxava/openxava@7.0.6?classifier=sources
 - pkg:maven/org.openxava/openxava@7.0?classifier=sources
+- pkg:maven/org.openxava/openxava@7.1
+- pkg:maven/org.openxava/openxava@7.1.1
+- pkg:maven/org.openxava/openxava@7.1.1?classifier=sources
+- pkg:maven/org.openxava/openxava@7.1.2
+- pkg:maven/org.openxava/openxava@7.1.2?classifier=sources
+- pkg:maven/org.openxava/openxava@7.1?classifier=sources

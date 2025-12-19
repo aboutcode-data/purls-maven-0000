@@ -1,0 +1,2 @@
+- pkg:maven/com.tianscar.javasound/javasound-flac@1.4.0?classifier=sources
+- pkg:maven/com.tianscar.javasound/javasound-flac@1.4.1?classifier=sources

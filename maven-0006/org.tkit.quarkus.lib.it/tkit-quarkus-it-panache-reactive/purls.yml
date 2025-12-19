@@ -8,6 +8,8 @@
 - pkg:maven/org.tkit.quarkus.lib.it/tkit-quarkus-it-panache-reactive@0.14.0?classifier=sources
 - pkg:maven/org.tkit.quarkus.lib.it/tkit-quarkus-it-panache-reactive@0.15.0
 - pkg:maven/org.tkit.quarkus.lib.it/tkit-quarkus-it-panache-reactive@0.15.0?classifier=sources
+- pkg:maven/org.tkit.quarkus.lib.it/tkit-quarkus-it-panache-reactive@0.16.0
+- pkg:maven/org.tkit.quarkus.lib.it/tkit-quarkus-it-panache-reactive@0.16.0?classifier=sources
 - pkg:maven/org.tkit.quarkus.lib.it/tkit-quarkus-it-panache-reactive@0.7.0
 - pkg:maven/org.tkit.quarkus.lib.it/tkit-quarkus-it-panache-reactive@0.7.0?classifier=sources
 - pkg:maven/org.tkit.quarkus.lib.it/tkit-quarkus-it-panache-reactive@0.8.0
@@ -18,3 +20,5 @@
 - pkg:maven/org.tkit.quarkus.lib.it/tkit-quarkus-it-panache-reactive@1.0.0?classifier=sources
 - pkg:maven/org.tkit.quarkus.lib.it/tkit-quarkus-it-panache-reactive@1.1.0
 - pkg:maven/org.tkit.quarkus.lib.it/tkit-quarkus-it-panache-reactive@1.1.0?classifier=sources
+- pkg:maven/org.tkit.quarkus.lib.it/tkit-quarkus-it-panache-reactive@1.2.0
+- pkg:maven/org.tkit.quarkus.lib.it/tkit-quarkus-it-panache-reactive@1.2.0?classifier=sources

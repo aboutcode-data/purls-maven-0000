@@ -6,4 +6,5 @@
 - pkg:maven/org.deepboof/models@0.4?classifier=sources
 - pkg:maven/org.deepboof/models@0.5
 - pkg:maven/org.deepboof/models@0.5.1?classifier=sources
+- pkg:maven/org.deepboof/models@0.5.2?classifier=sources
 - pkg:maven/org.deepboof/models@0.5?classifier=sources

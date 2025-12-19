@@ -6,3 +6,5 @@
 - pkg:maven/us.ihmc/ros2-common-interfaces-generator@0.21.1?classifier=sources
 - pkg:maven/us.ihmc/ros2-common-interfaces-generator@0.22.2?classifier=sources
 - pkg:maven/us.ihmc/ros2-common-interfaces-generator@0.22.4?classifier=sources
+- pkg:maven/us.ihmc/ros2-common-interfaces-generator@0.22.5?classifier=sources
+- pkg:maven/us.ihmc/ros2-common-interfaces-generator@0.22.6?classifier=sources

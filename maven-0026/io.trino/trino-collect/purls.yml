@@ -88,3 +88,7 @@
 - pkg:maven/io.trino/trino-collect@415?classifier=sources
 - pkg:maven/io.trino/trino-collect@416
 - pkg:maven/io.trino/trino-collect@416?classifier=sources
+- pkg:maven/io.trino/trino-collect@417
+- pkg:maven/io.trino/trino-collect@417?classifier=sources
+- pkg:maven/io.trino/trino-collect@418
+- pkg:maven/io.trino/trino-collect@418?classifier=sources

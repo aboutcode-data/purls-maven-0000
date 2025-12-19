@@ -34,3 +34,9 @@
 - pkg:maven/org.kie.kogito/kogito-addons-quarkus-explainability-it@1.37.0.Final?classifier=sources
 - pkg:maven/org.kie.kogito/kogito-addons-quarkus-explainability-it@1.38.0.Final
 - pkg:maven/org.kie.kogito/kogito-addons-quarkus-explainability-it@1.38.0.Final?classifier=sources
+- pkg:maven/org.kie.kogito/kogito-addons-quarkus-explainability-it@1.39.0.Final
+- pkg:maven/org.kie.kogito/kogito-addons-quarkus-explainability-it@1.39.0.Final?classifier=sources
+- pkg:maven/org.kie.kogito/kogito-addons-quarkus-explainability-it@1.40.0.Final
+- pkg:maven/org.kie.kogito/kogito-addons-quarkus-explainability-it@1.40.0.Final?classifier=sources
+- pkg:maven/org.kie.kogito/kogito-addons-quarkus-explainability-it@1.40.1.Final
+- pkg:maven/org.kie.kogito/kogito-addons-quarkus-explainability-it@1.40.1.Final?classifier=sources

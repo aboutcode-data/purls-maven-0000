@@ -8,3 +8,11 @@
 - pkg:maven/ar.gabrielsuarez/glib@0.2.2?classifier=sources
 - pkg:maven/ar.gabrielsuarez/glib@0.3.0
 - pkg:maven/ar.gabrielsuarez/glib@0.3.0?classifier=sources
+- pkg:maven/ar.gabrielsuarez/glib@0.4.0
+- pkg:maven/ar.gabrielsuarez/glib@0.4.0?classifier=sources
+- pkg:maven/ar.gabrielsuarez/glib@0.4.1
+- pkg:maven/ar.gabrielsuarez/glib@0.4.1?classifier=sources
+- pkg:maven/ar.gabrielsuarez/glib@0.4.2
+- pkg:maven/ar.gabrielsuarez/glib@0.4.2?classifier=sources
+- pkg:maven/ar.gabrielsuarez/glib@0.4.3
+- pkg:maven/ar.gabrielsuarez/glib@0.4.3?classifier=sources

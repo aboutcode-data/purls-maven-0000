@@ -20,4 +20,6 @@
 - pkg:maven/io.servicetalk/servicetalk-data-protobuf-jersey@0.42.27?classifier=sources
 - pkg:maven/io.servicetalk/servicetalk-data-protobuf-jersey@0.42.28?classifier=sources
 - pkg:maven/io.servicetalk/servicetalk-data-protobuf-jersey@0.42.29?classifier=sources
+- pkg:maven/io.servicetalk/servicetalk-data-protobuf-jersey@0.42.30?classifier=sources
+- pkg:maven/io.servicetalk/servicetalk-data-protobuf-jersey@0.42.31?classifier=sources
 - pkg:maven/io.servicetalk/servicetalk-data-protobuf-jersey@0.42.9?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.scalameta/sbt-munit_2.12_1.0@1.0.0-M8
+- pkg:maven/org.scalameta/sbt-munit_2.12_1.0@1.0.0-M8?classifier=sources

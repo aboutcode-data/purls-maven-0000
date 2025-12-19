@@ -278,6 +278,9 @@
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.notification.service@3.0.27
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.notification.service@3.0.27?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.notification.service@3.0.27?classifier=sources-commercial
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.notification.service@3.0.28
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.notification.service@3.0.28?classifier=sources
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.notification.service@3.0.28?classifier=sources-commercial
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.notification.service@3.0.2?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.notification.service@3.0.2?classifier=sources-commercial
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.notification.service@3.0.3
@@ -440,6 +443,9 @@
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.notification.service@4.0.50
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.notification.service@4.0.50?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.notification.service@4.0.50?classifier=sources-commercial
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.notification.service@4.0.51
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.notification.service@4.0.51?classifier=sources
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.notification.service@4.0.51?classifier=sources-commercial
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.notification.service@4.0.5?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.notification.service@4.0.5?classifier=sources-commercial
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.notification.service@4.0.6

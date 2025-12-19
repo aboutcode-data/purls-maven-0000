@@ -1,0 +1,4 @@
+- pkg:maven/asia.990121/message-spring-boot-starter@1.0.0
+- pkg:maven/asia.990121/message-spring-boot-starter@1.0.0?classifier=sources
+- pkg:maven/asia.990121/message-spring-boot-starter@1.0.2
+- pkg:maven/asia.990121/message-spring-boot-starter@1.0.2?classifier=sources

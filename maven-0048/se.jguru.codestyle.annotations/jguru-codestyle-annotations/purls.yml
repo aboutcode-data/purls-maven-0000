@@ -40,3 +40,7 @@
 - pkg:maven/se.jguru.codestyle.annotations/jguru-codestyle-annotations@1.2.0?classifier=sources
 - pkg:maven/se.jguru.codestyle.annotations/jguru-codestyle-annotations@2.0.0
 - pkg:maven/se.jguru.codestyle.annotations/jguru-codestyle-annotations@2.0.0?classifier=sources
+- pkg:maven/se.jguru.codestyle.annotations/jguru-codestyle-annotations@3.0.0
+- pkg:maven/se.jguru.codestyle.annotations/jguru-codestyle-annotations@3.0.0?classifier=sources
+- pkg:maven/se.jguru.codestyle.annotations/jguru-codestyle-annotations@3.1.0
+- pkg:maven/se.jguru.codestyle.annotations/jguru-codestyle-annotations@3.1.0?classifier=sources

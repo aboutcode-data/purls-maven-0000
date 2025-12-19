@@ -22,6 +22,10 @@
 - pkg:maven/ch.epfl.bluebrain.nexus/delta-rdf_2.13@1.7.0?classifier=sources
 - pkg:maven/ch.epfl.bluebrain.nexus/delta-rdf_2.13@1.7.1
 - pkg:maven/ch.epfl.bluebrain.nexus/delta-rdf_2.13@1.7.1?classifier=sources
+- pkg:maven/ch.epfl.bluebrain.nexus/delta-rdf_2.13@1.8.0-M10
+- pkg:maven/ch.epfl.bluebrain.nexus/delta-rdf_2.13@1.8.0-M10?classifier=sources
+- pkg:maven/ch.epfl.bluebrain.nexus/delta-rdf_2.13@1.8.0-M11
+- pkg:maven/ch.epfl.bluebrain.nexus/delta-rdf_2.13@1.8.0-M11?classifier=sources
 - pkg:maven/ch.epfl.bluebrain.nexus/delta-rdf_2.13@1.8.0-M2
 - pkg:maven/ch.epfl.bluebrain.nexus/delta-rdf_2.13@1.8.0-M2?classifier=sources
 - pkg:maven/ch.epfl.bluebrain.nexus/delta-rdf_2.13@1.8.0-M3
@@ -36,5 +40,7 @@
 - pkg:maven/ch.epfl.bluebrain.nexus/delta-rdf_2.13@1.8.0-M7?classifier=sources
 - pkg:maven/ch.epfl.bluebrain.nexus/delta-rdf_2.13@1.8.0-M8
 - pkg:maven/ch.epfl.bluebrain.nexus/delta-rdf_2.13@1.8.0-M8?classifier=sources
+- pkg:maven/ch.epfl.bluebrain.nexus/delta-rdf_2.13@1.8.0-M9
+- pkg:maven/ch.epfl.bluebrain.nexus/delta-rdf_2.13@1.8.0-M9?classifier=sources
 - pkg:maven/ch.epfl.bluebrain.nexus/delta-rdf_2.13@1.8.0-MX
 - pkg:maven/ch.epfl.bluebrain.nexus/delta-rdf_2.13@1.8.0-MX?classifier=sources

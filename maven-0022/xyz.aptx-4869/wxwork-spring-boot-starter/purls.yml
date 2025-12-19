@@ -50,3 +50,5 @@
 - pkg:maven/xyz.aptx-4869/wxwork-spring-boot-starter@1.2.7?classifier=sources
 - pkg:maven/xyz.aptx-4869/wxwork-spring-boot-starter@1.2.8
 - pkg:maven/xyz.aptx-4869/wxwork-spring-boot-starter@1.2.8?classifier=sources
+- pkg:maven/xyz.aptx-4869/wxwork-spring-boot-starter@1.2.9
+- pkg:maven/xyz.aptx-4869/wxwork-spring-boot-starter@1.2.9?classifier=sources

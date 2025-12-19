@@ -1,1 +1,2 @@
 - pkg:maven/com.moengage/encrypted-storage@1.0.0?classifier=sources
+- pkg:maven/com.moengage/encrypted-storage@1.1.0?classifier=sources

@@ -1,1 +1,2 @@
 - pkg:maven/org.codeforamerica.platform/form-flow@0.0.3?classifier=sources
+- pkg:maven/org.codeforamerica.platform/form-flow@0.0.4?classifier=sources

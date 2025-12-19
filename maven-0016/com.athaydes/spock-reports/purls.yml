@@ -47,4 +47,5 @@
 - pkg:maven/com.athaydes/spock-reports@2.3.1-groovy-3.0?classifier=sources
 - pkg:maven/com.athaydes/spock-reports@2.3.2-groovy-3.0?classifier=sources
 - pkg:maven/com.athaydes/spock-reports@2.4.0-groovy-4.0?classifier=sources
+- pkg:maven/com.athaydes/spock-reports@2.5.0-groovy-3.0?classifier=sources
 - pkg:maven/com.athaydes/spock-reports@2.5.0-groovy-4.0?classifier=sources

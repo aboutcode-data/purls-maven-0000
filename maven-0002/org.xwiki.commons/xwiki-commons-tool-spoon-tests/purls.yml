@@ -80,6 +80,10 @@
 - pkg:maven/org.xwiki.commons/xwiki-commons-tool-spoon-tests@14.1-rc-1
 - pkg:maven/org.xwiki.commons/xwiki-commons-tool-spoon-tests@14.10
 - pkg:maven/org.xwiki.commons/xwiki-commons-tool-spoon-tests@14.10.1
+- pkg:maven/org.xwiki.commons/xwiki-commons-tool-spoon-tests@14.10.10
+- pkg:maven/org.xwiki.commons/xwiki-commons-tool-spoon-tests@14.10.11
+- pkg:maven/org.xwiki.commons/xwiki-commons-tool-spoon-tests@14.10.12
+- pkg:maven/org.xwiki.commons/xwiki-commons-tool-spoon-tests@14.10.13
 - pkg:maven/org.xwiki.commons/xwiki-commons-tool-spoon-tests@14.10.2
 - pkg:maven/org.xwiki.commons/xwiki-commons-tool-spoon-tests@14.10.3
 - pkg:maven/org.xwiki.commons/xwiki-commons-tool-spoon-tests@14.10.4
@@ -121,3 +125,7 @@
 - pkg:maven/org.xwiki.commons/xwiki-commons-tool-spoon-tests@15.2-rc-1
 - pkg:maven/org.xwiki.commons/xwiki-commons-tool-spoon-tests@15.3
 - pkg:maven/org.xwiki.commons/xwiki-commons-tool-spoon-tests@15.3-rc-1
+- pkg:maven/org.xwiki.commons/xwiki-commons-tool-spoon-tests@15.4
+- pkg:maven/org.xwiki.commons/xwiki-commons-tool-spoon-tests@15.4-rc-1
+- pkg:maven/org.xwiki.commons/xwiki-commons-tool-spoon-tests@15.5
+- pkg:maven/org.xwiki.commons/xwiki-commons-tool-spoon-tests@15.5-rc-1

@@ -20,6 +20,14 @@
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-addons-oke-workload-identity@2.60.1?classifier=sources
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-addons-oke-workload-identity@2.61.0
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-addons-oke-workload-identity@2.61.0?classifier=sources
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-addons-oke-workload-identity@2.61.1
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-addons-oke-workload-identity@2.61.1?classifier=sources
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-addons-oke-workload-identity@2.62.0
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-addons-oke-workload-identity@2.62.0?classifier=sources
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-addons-oke-workload-identity@2.63.0
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-addons-oke-workload-identity@2.63.0?classifier=sources
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-addons-oke-workload-identity@2.64.0
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-addons-oke-workload-identity@2.64.0?classifier=sources
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-addons-oke-workload-identity@3.11.0
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-addons-oke-workload-identity@3.11.0?classifier=sources
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-addons-oke-workload-identity@3.12.0
@@ -28,3 +36,11 @@
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-addons-oke-workload-identity@3.12.1?classifier=sources
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-addons-oke-workload-identity@3.13.0
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-addons-oke-workload-identity@3.13.0?classifier=sources
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-addons-oke-workload-identity@3.13.1
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-addons-oke-workload-identity@3.13.1?classifier=sources
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-addons-oke-workload-identity@3.14.0
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-addons-oke-workload-identity@3.14.0?classifier=sources
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-addons-oke-workload-identity@3.15.0
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-addons-oke-workload-identity@3.15.0?classifier=sources
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-addons-oke-workload-identity@3.16.0
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-addons-oke-workload-identity@3.16.0?classifier=sources

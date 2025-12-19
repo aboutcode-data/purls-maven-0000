@@ -2,3 +2,7 @@
 - pkg:maven/com.zhouzifei/simpleFS@1.0.1.RELEASES?classifier=sources
 - pkg:maven/com.zhouzifei/simpleFS@1.0.2.RELEASES
 - pkg:maven/com.zhouzifei/simpleFS@1.0.2.RELEASES?classifier=sources
+- pkg:maven/com.zhouzifei/simpleFS@1.0.3.RELEASES
+- pkg:maven/com.zhouzifei/simpleFS@1.0.3.RELEASES?classifier=sources
+- pkg:maven/com.zhouzifei/simpleFS@1.0.4.RELEASES
+- pkg:maven/com.zhouzifei/simpleFS@1.0.4.RELEASES?classifier=sources

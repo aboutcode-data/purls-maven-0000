@@ -1,0 +1,2 @@
+- pkg:maven/io.github.teuton-software/jasker@2.5.9
+- pkg:maven/io.github.teuton-software/jasker@2.5.9?classifier=sources

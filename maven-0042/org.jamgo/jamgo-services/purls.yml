@@ -9,7 +9,15 @@
 - pkg:maven/org.jamgo/jamgo-services@5.0.0-M4
 - pkg:maven/org.jamgo/jamgo-services@5.0.0-M4?classifier=sources
 - pkg:maven/org.jamgo/jamgo-services@5.0.0?classifier=sources
+- pkg:maven/org.jamgo/jamgo-services@5.1.0
+- pkg:maven/org.jamgo/jamgo-services@5.1.0?classifier=sources
 - pkg:maven/org.jamgo/jamgo-services@6.0.0
 - pkg:maven/org.jamgo/jamgo-services@6.0.0?classifier=sources
+- pkg:maven/org.jamgo/jamgo-services@7.0.0
 - pkg:maven/org.jamgo/jamgo-services@7.0.0-M1
 - pkg:maven/org.jamgo/jamgo-services@7.0.0-M1?classifier=sources
+- pkg:maven/org.jamgo/jamgo-services@7.0.0?classifier=sources
+- pkg:maven/org.jamgo/jamgo-services@8.0.0
+- pkg:maven/org.jamgo/jamgo-services@8.0.0?classifier=sources
+- pkg:maven/org.jamgo/jamgo-services@8.0.1
+- pkg:maven/org.jamgo/jamgo-services@8.0.1?classifier=sources

@@ -1,2 +1,4 @@
 - pkg:maven/org.opensearch.driver/opensearch-sql-jdbc@1.2.0.0
 - pkg:maven/org.opensearch.driver/opensearch-sql-jdbc@1.2.0.0?classifier=sources
+- pkg:maven/org.opensearch.driver/opensearch-sql-jdbc@1.3.0.0
+- pkg:maven/org.opensearch.driver/opensearch-sql-jdbc@1.3.0.0?classifier=sources
