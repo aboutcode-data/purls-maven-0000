@@ -5,3 +5,4 @@
 - pkg:maven/org.apache.beam/beam-sdks-java-io-neo4j@2.42.0?classifier=sources
 - pkg:maven/org.apache.beam/beam-sdks-java-io-neo4j@2.43.0?classifier=sources
 - pkg:maven/org.apache.beam/beam-sdks-java-io-neo4j@2.44.0?classifier=sources
+- pkg:maven/org.apache.beam/beam-sdks-java-io-neo4j@2.45.0?classifier=sources

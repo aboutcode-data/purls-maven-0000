@@ -8,3 +8,4 @@
 - pkg:maven/com.myadsget/mediation-unityads@3.7.5.4?classifier=sources
 - pkg:maven/com.myadsget/mediation-unityads@3.7.5.5?classifier=sources
 - pkg:maven/com.myadsget/mediation-unityads@4.3.0.0?classifier=sources
+- pkg:maven/com.myadsget/mediation-unityads@4.4.0.0?classifier=sources

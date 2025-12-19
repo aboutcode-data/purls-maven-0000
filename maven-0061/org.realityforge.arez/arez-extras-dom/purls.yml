@@ -16,3 +16,7 @@
 - pkg:maven/org.realityforge.arez/arez-extras-dom@0.205?classifier=sources
 - pkg:maven/org.realityforge.arez/arez-extras-dom@0.206
 - pkg:maven/org.realityforge.arez/arez-extras-dom@0.206?classifier=sources
+- pkg:maven/org.realityforge.arez/arez-extras-dom@0.207
+- pkg:maven/org.realityforge.arez/arez-extras-dom@0.207?classifier=sources
+- pkg:maven/org.realityforge.arez/arez-extras-dom@0.208
+- pkg:maven/org.realityforge.arez/arez-extras-dom@0.208?classifier=sources

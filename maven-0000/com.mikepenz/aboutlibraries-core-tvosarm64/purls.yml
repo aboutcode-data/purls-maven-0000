@@ -24,3 +24,6 @@
 - pkg:maven/com.mikepenz/aboutlibraries-core-tvosarm64@10.5.2?classifier=sources
 - pkg:maven/com.mikepenz/aboutlibraries-core-tvosarm64@10.6.0-b01?classifier=sources
 - pkg:maven/com.mikepenz/aboutlibraries-core-tvosarm64@10.6.0-rc01?classifier=sources
+- pkg:maven/com.mikepenz/aboutlibraries-core-tvosarm64@10.6.0-rc02?classifier=sources
+- pkg:maven/com.mikepenz/aboutlibraries-core-tvosarm64@10.6.0?classifier=sources
+- pkg:maven/com.mikepenz/aboutlibraries-core-tvosarm64@10.6.1?classifier=sources

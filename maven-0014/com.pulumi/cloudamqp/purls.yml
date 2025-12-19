@@ -4,5 +4,10 @@
 - pkg:maven/com.pulumi/cloudamqp@3.10.0-alpha.1668643482%2B7d27a487?classifier=sources
 - pkg:maven/com.pulumi/cloudamqp@3.10.0-alpha.1673415955%2Ba014481f?classifier=sources
 - pkg:maven/com.pulumi/cloudamqp@3.10.0-alpha.1673555795%2B38c86cae?classifier=sources
+- pkg:maven/com.pulumi/cloudamqp@3.10.0-alpha.1674586250%2B2794aef5?classifier=sources
+- pkg:maven/com.pulumi/cloudamqp@3.10.0?classifier=sources
+- pkg:maven/com.pulumi/cloudamqp@3.11.0-alpha.1675876519%2Bea0faa6d?classifier=sources
+- pkg:maven/com.pulumi/cloudamqp@3.11.0-alpha.1675879125%2Bde872f5d?classifier=sources
+- pkg:maven/com.pulumi/cloudamqp@3.11.0?classifier=sources
 - pkg:maven/com.pulumi/cloudamqp@3.9.1?classifier=sources
 - pkg:maven/com.pulumi/cloudamqp@3.9.2?classifier=sources

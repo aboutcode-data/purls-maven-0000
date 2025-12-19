@@ -1,0 +1,2 @@
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-addons-oke-workload-identity@2.54.0
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-addons-oke-workload-identity@2.54.0?classifier=sources

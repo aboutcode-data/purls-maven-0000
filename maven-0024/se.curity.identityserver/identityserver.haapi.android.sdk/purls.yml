@@ -9,3 +9,4 @@
 - pkg:maven/se.curity.identityserver/identityserver.haapi.android.sdk@2.2.0?classifier=sources
 - pkg:maven/se.curity.identityserver/identityserver.haapi.android.sdk@2.3.0?classifier=sources
 - pkg:maven/se.curity.identityserver/identityserver.haapi.android.sdk@2.4.0?classifier=sources
+- pkg:maven/se.curity.identityserver/identityserver.haapi.android.sdk@3.0.0?classifier=sources

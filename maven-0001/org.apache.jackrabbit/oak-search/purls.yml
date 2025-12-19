@@ -78,6 +78,8 @@
 - pkg:maven/org.apache.jackrabbit/oak-search@1.44.0?classifier=sources
 - pkg:maven/org.apache.jackrabbit/oak-search@1.46.0
 - pkg:maven/org.apache.jackrabbit/oak-search@1.46.0?classifier=sources
+- pkg:maven/org.apache.jackrabbit/oak-search@1.48.0
+- pkg:maven/org.apache.jackrabbit/oak-search@1.48.0?classifier=sources
 - pkg:maven/org.apache.jackrabbit/oak-search@1.9.0
 - pkg:maven/org.apache.jackrabbit/oak-search@1.9.0?classifier=sources
 - pkg:maven/org.apache.jackrabbit/oak-search@1.9.1

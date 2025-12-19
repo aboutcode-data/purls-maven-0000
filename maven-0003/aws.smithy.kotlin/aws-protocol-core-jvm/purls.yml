@@ -1,0 +1,1 @@
+- pkg:maven/aws.smithy.kotlin/aws-protocol-core-jvm@0.15.3?classifier=sources

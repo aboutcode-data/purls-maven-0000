@@ -57,6 +57,8 @@
 - pkg:maven/com.gitlab.cdc-java.ui/cdc-ui-swing@0.20.0
 - pkg:maven/com.gitlab.cdc-java.ui/cdc-ui-swing@0.20.0?classifier=sources
 - pkg:maven/com.gitlab.cdc-java.ui/cdc-ui-swing@0.20.1
+- pkg:maven/com.gitlab.cdc-java.ui/cdc-ui-swing@0.20.10
+- pkg:maven/com.gitlab.cdc-java.ui/cdc-ui-swing@0.20.10?classifier=sources
 - pkg:maven/com.gitlab.cdc-java.ui/cdc-ui-swing@0.20.1?classifier=sources
 - pkg:maven/com.gitlab.cdc-java.ui/cdc-ui-swing@0.20.2
 - pkg:maven/com.gitlab.cdc-java.ui/cdc-ui-swing@0.20.2?classifier=sources
@@ -72,6 +74,8 @@
 - pkg:maven/com.gitlab.cdc-java.ui/cdc-ui-swing@0.20.7?classifier=sources
 - pkg:maven/com.gitlab.cdc-java.ui/cdc-ui-swing@0.20.8
 - pkg:maven/com.gitlab.cdc-java.ui/cdc-ui-swing@0.20.8?classifier=sources
+- pkg:maven/com.gitlab.cdc-java.ui/cdc-ui-swing@0.20.9
+- pkg:maven/com.gitlab.cdc-java.ui/cdc-ui-swing@0.20.9?classifier=sources
 - pkg:maven/com.gitlab.cdc-java.ui/cdc-ui-swing@0.3.0
 - pkg:maven/com.gitlab.cdc-java.ui/cdc-ui-swing@0.3.0?classifier=sources
 - pkg:maven/com.gitlab.cdc-java.ui/cdc-ui-swing@0.4.0

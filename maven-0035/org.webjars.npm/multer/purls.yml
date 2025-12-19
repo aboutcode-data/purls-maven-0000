@@ -1,2 +1,8 @@
+- pkg:maven/org.webjars.npm/multer@1.4.4
+- pkg:maven/org.webjars.npm/multer@1.4.4-lts.1
+- pkg:maven/org.webjars.npm/multer@1.4.4-lts.1?classifier=sources
+- pkg:maven/org.webjars.npm/multer@1.4.4?classifier=sources
+- pkg:maven/org.webjars.npm/multer@1.4.5-lts.1
+- pkg:maven/org.webjars.npm/multer@1.4.5-lts.1?classifier=sources
 - pkg:maven/org.webjars.npm/multer@2.0.0-alpha.6
 - pkg:maven/org.webjars.npm/multer@2.0.0-alpha.6?classifier=sources

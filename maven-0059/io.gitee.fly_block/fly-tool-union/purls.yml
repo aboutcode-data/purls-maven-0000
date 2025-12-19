@@ -1,2 +1,4 @@
 - pkg:maven/io.gitee.fly_block/fly-tool-union@1.0.1-test
 - pkg:maven/io.gitee.fly_block/fly-tool-union@1.0.1-test?classifier=sources
+- pkg:maven/io.gitee.fly_block/fly-tool-union@1.0.2-test
+- pkg:maven/io.gitee.fly_block/fly-tool-union@1.0.2-test?classifier=sources

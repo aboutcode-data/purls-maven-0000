@@ -319,4 +319,7 @@
 - pkg:maven/com.liferay/com.liferay.portal.search.elasticsearch@2.1.98
 - pkg:maven/com.liferay/com.liferay.portal.search.elasticsearch@2.1.98?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.search.elasticsearch@2.1.98?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.search.elasticsearch@2.1.99
+- pkg:maven/com.liferay/com.liferay.portal.search.elasticsearch@2.1.99?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.search.elasticsearch@2.1.99?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.search.elasticsearch@2.1.9?classifier=sources

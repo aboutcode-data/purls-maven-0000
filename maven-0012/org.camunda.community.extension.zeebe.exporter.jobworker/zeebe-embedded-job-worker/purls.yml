@@ -1,0 +1,2 @@
+- pkg:maven/org.camunda.community.extension.zeebe.exporter.jobworker/zeebe-embedded-job-worker@v0.0.9
+- pkg:maven/org.camunda.community.extension.zeebe.exporter.jobworker/zeebe-embedded-job-worker@v0.0.9?classifier=sources

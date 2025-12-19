@@ -16,3 +16,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-javascript-bower@RELEASE140?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-javascript-bower@RELEASE150?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-javascript-bower@RELEASE160?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-javascript-bower@RELEASE170?classifier=sources

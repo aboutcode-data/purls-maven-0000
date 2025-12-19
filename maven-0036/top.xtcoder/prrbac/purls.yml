@@ -15,6 +15,8 @@
 - pkg:maven/top.xtcoder/prrbac@2.7.5-0.2.0
 - pkg:maven/top.xtcoder/prrbac@2.7.5-0.2.0?classifier=sources
 - pkg:maven/top.xtcoder/prrbac@2.7.5-0.2.1
+- pkg:maven/top.xtcoder/prrbac@2.7.5-0.2.10
+- pkg:maven/top.xtcoder/prrbac@2.7.5-0.2.10?classifier=sources
 - pkg:maven/top.xtcoder/prrbac@2.7.5-0.2.1?classifier=sources
 - pkg:maven/top.xtcoder/prrbac@2.7.5-0.2.2
 - pkg:maven/top.xtcoder/prrbac@2.7.5-0.2.2?classifier=sources

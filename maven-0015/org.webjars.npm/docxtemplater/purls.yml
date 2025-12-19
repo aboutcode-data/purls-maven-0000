@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/docxtemplater@3.34.1
+- pkg:maven/org.webjars.npm/docxtemplater@3.34.1?classifier=sources

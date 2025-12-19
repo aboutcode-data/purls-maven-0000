@@ -13,6 +13,7 @@
 - pkg:maven/org.httprpc/kilo-client@1.1.6?classifier=sources
 - pkg:maven/org.httprpc/kilo-client@1.1?classifier=sources
 - pkg:maven/org.httprpc/kilo-client@1.2.10?classifier=sources
+- pkg:maven/org.httprpc/kilo-client@1.2.11?classifier=sources
 - pkg:maven/org.httprpc/kilo-client@1.2.1?classifier=sources
 - pkg:maven/org.httprpc/kilo-client@1.2.2?classifier=sources
 - pkg:maven/org.httprpc/kilo-client@1.2.3?classifier=sources

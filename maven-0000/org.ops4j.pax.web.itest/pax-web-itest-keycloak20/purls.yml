@@ -1,0 +1,2 @@
+- pkg:maven/org.ops4j.pax.web.itest/pax-web-itest-keycloak20@8.0.16
+- pkg:maven/org.ops4j.pax.web.itest/pax-web-itest-keycloak20@9.0.5

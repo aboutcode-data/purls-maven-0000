@@ -242,3 +242,7 @@
 - pkg:maven/org.drools/drools-model-compiler@8.31.1.Final?classifier=sources
 - pkg:maven/org.drools/drools-model-compiler@8.32.0.Final
 - pkg:maven/org.drools/drools-model-compiler@8.32.0.Final?classifier=sources
+- pkg:maven/org.drools/drools-model-compiler@8.33.0.Final
+- pkg:maven/org.drools/drools-model-compiler@8.33.0.Final?classifier=sources
+- pkg:maven/org.drools/drools-model-compiler@8.34.0.Final
+- pkg:maven/org.drools/drools-model-compiler@8.34.0.Final?classifier=sources

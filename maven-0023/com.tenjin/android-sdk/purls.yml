@@ -1,1 +1,2 @@
 - pkg:maven/com.tenjin/android-sdk@1.12.19?classifier=sources
+- pkg:maven/com.tenjin/android-sdk@1.12.20?classifier=sources

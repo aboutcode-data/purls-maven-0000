@@ -34,3 +34,9 @@
 - pkg:maven/org.optaplanner/optaplanner-constraint-drl@8.31.1.Final?classifier=sources
 - pkg:maven/org.optaplanner/optaplanner-constraint-drl@8.32.0.Final
 - pkg:maven/org.optaplanner/optaplanner-constraint-drl@8.32.0.Final?classifier=sources
+- pkg:maven/org.optaplanner/optaplanner-constraint-drl@8.33.0.Final
+- pkg:maven/org.optaplanner/optaplanner-constraint-drl@8.33.0.Final?classifier=sources
+- pkg:maven/org.optaplanner/optaplanner-constraint-drl@8.34.0.Final
+- pkg:maven/org.optaplanner/optaplanner-constraint-drl@8.34.0.Final?classifier=sources
+- pkg:maven/org.optaplanner/optaplanner-constraint-drl@9.34.0.Beta1
+- pkg:maven/org.optaplanner/optaplanner-constraint-drl@9.34.0.Beta1?classifier=sources

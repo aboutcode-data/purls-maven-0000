@@ -6,3 +6,5 @@
 - pkg:maven/com.xdev-software/vaadin-grid-exporter@1.0.2?classifier=sources
 - pkg:maven/com.xdev-software/vaadin-grid-exporter@1.0.3
 - pkg:maven/com.xdev-software/vaadin-grid-exporter@1.0.3?classifier=sources
+- pkg:maven/com.xdev-software/vaadin-grid-exporter@2.0.0
+- pkg:maven/com.xdev-software/vaadin-grid-exporter@2.0.0?classifier=sources

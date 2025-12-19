@@ -219,6 +219,8 @@
 - pkg:maven/net.bytebuddy/byte-buddy-benchmark@1.12.21?classifier=sources
 - pkg:maven/net.bytebuddy/byte-buddy-benchmark@1.12.22
 - pkg:maven/net.bytebuddy/byte-buddy-benchmark@1.12.22?classifier=sources
+- pkg:maven/net.bytebuddy/byte-buddy-benchmark@1.12.23
+- pkg:maven/net.bytebuddy/byte-buddy-benchmark@1.12.23?classifier=sources
 - pkg:maven/net.bytebuddy/byte-buddy-benchmark@1.12.2?classifier=sources
 - pkg:maven/net.bytebuddy/byte-buddy-benchmark@1.12.3
 - pkg:maven/net.bytebuddy/byte-buddy-benchmark@1.12.3?classifier=sources
@@ -234,6 +236,10 @@
 - pkg:maven/net.bytebuddy/byte-buddy-benchmark@1.12.8?classifier=sources
 - pkg:maven/net.bytebuddy/byte-buddy-benchmark@1.12.9
 - pkg:maven/net.bytebuddy/byte-buddy-benchmark@1.12.9?classifier=sources
+- pkg:maven/net.bytebuddy/byte-buddy-benchmark@1.13.0
+- pkg:maven/net.bytebuddy/byte-buddy-benchmark@1.13.0?classifier=sources
+- pkg:maven/net.bytebuddy/byte-buddy-benchmark@1.14.0
+- pkg:maven/net.bytebuddy/byte-buddy-benchmark@1.14.0?classifier=sources
 - pkg:maven/net.bytebuddy/byte-buddy-benchmark@1.2.0
 - pkg:maven/net.bytebuddy/byte-buddy-benchmark@1.2.0?classifier=sources
 - pkg:maven/net.bytebuddy/byte-buddy-benchmark@1.2.1

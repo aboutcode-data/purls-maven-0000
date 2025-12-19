@@ -12,3 +12,5 @@
 - pkg:maven/com.powsybl/powsybl-network-area-diagram@0.6.0?classifier=sources
 - pkg:maven/com.powsybl/powsybl-network-area-diagram@3.0.0
 - pkg:maven/com.powsybl/powsybl-network-area-diagram@3.0.0?classifier=sources
+- pkg:maven/com.powsybl/powsybl-network-area-diagram@3.1.0
+- pkg:maven/com.powsybl/powsybl-network-area-diagram@3.1.0?classifier=sources

@@ -26,6 +26,8 @@
 - pkg:maven/eu.michael-simons.neo4j/neo4j-migrations-formats-markdown@1.15.3?classifier=sources
 - pkg:maven/eu.michael-simons.neo4j/neo4j-migrations-formats-markdown@1.16.0
 - pkg:maven/eu.michael-simons.neo4j/neo4j-migrations-formats-markdown@1.16.0?classifier=sources
+- pkg:maven/eu.michael-simons.neo4j/neo4j-migrations-formats-markdown@1.16.1
+- pkg:maven/eu.michael-simons.neo4j/neo4j-migrations-formats-markdown@1.16.1?classifier=sources
 - pkg:maven/eu.michael-simons.neo4j/neo4j-migrations-formats-markdown@1.9.0
 - pkg:maven/eu.michael-simons.neo4j/neo4j-migrations-formats-markdown@1.9.0?classifier=sources
 - pkg:maven/eu.michael-simons.neo4j/neo4j-migrations-formats-markdown@1.9.1
@@ -42,3 +44,5 @@
 - pkg:maven/eu.michael-simons.neo4j/neo4j-migrations-formats-markdown@2.0.3?classifier=sources
 - pkg:maven/eu.michael-simons.neo4j/neo4j-migrations-formats-markdown@2.1.0
 - pkg:maven/eu.michael-simons.neo4j/neo4j-migrations-formats-markdown@2.1.0?classifier=sources
+- pkg:maven/eu.michael-simons.neo4j/neo4j-migrations-formats-markdown@2.1.1
+- pkg:maven/eu.michael-simons.neo4j/neo4j-migrations-formats-markdown@2.1.1?classifier=sources

@@ -60,5 +60,15 @@
 - pkg:maven/com.aliyun/ecs20140526@3.1.6?classifier=sources
 - pkg:maven/com.aliyun/ecs20140526@3.1.7
 - pkg:maven/com.aliyun/ecs20140526@3.1.7?classifier=sources
+- pkg:maven/com.aliyun/ecs20140526@3.1.8
+- pkg:maven/com.aliyun/ecs20140526@3.1.8?classifier=sources
+- pkg:maven/com.aliyun/ecs20140526@3.1.9
+- pkg:maven/com.aliyun/ecs20140526@3.1.9?classifier=sources
 - pkg:maven/com.aliyun/ecs20140526@4.24.17
 - pkg:maven/com.aliyun/ecs20140526@4.24.17?classifier=sources
+- pkg:maven/com.aliyun/ecs20140526@4.24.54
+- pkg:maven/com.aliyun/ecs20140526@4.24.54?classifier=sources
+- pkg:maven/com.aliyun/ecs20140526@4.24.55
+- pkg:maven/com.aliyun/ecs20140526@4.24.55?classifier=sources
+- pkg:maven/com.aliyun/ecs20140526@4.24.56
+- pkg:maven/com.aliyun/ecs20140526@4.24.56?classifier=sources

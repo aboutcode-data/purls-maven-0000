@@ -13,6 +13,11 @@
 - pkg:maven/com.smileidentity/smile-id-sdk@7.3.14?classifier=sources
 - pkg:maven/com.smileidentity/smile-id-sdk@7.3.15?classifier=sources
 - pkg:maven/com.smileidentity/smile-id-sdk@7.3.16?classifier=sources
+- pkg:maven/com.smileidentity/smile-id-sdk@7.3.17?classifier=sources
+- pkg:maven/com.smileidentity/smile-id-sdk@7.3.18?classifier=sources
+- pkg:maven/com.smileidentity/smile-id-sdk@7.3.19?classifier=sources
+- pkg:maven/com.smileidentity/smile-id-sdk@7.3.20?classifier=sources
+- pkg:maven/com.smileidentity/smile-id-sdk@7.3.21?classifier=sources
 - pkg:maven/com.smileidentity/smile-id-sdk@7.3.2?type=aar
 - pkg:maven/com.smileidentity/smile-id-sdk@7.3.3?type=aar
 - pkg:maven/com.smileidentity/smile-id-sdk@7.3.4?type=aar

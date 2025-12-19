@@ -26,3 +26,5 @@
 - pkg:maven/org.daisy.pipeline.modules/dtbook-to-zedai@2.0.6?classifier=sources
 - pkg:maven/org.daisy.pipeline.modules/dtbook-to-zedai@3.0.0
 - pkg:maven/org.daisy.pipeline.modules/dtbook-to-zedai@3.0.0?classifier=sources
+- pkg:maven/org.daisy.pipeline.modules/dtbook-to-zedai@3.0.1
+- pkg:maven/org.daisy.pipeline.modules/dtbook-to-zedai@3.0.1?classifier=sources

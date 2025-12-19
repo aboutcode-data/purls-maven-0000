@@ -1,0 +1,2 @@
+- pkg:maven/com.seanproctor/compose-calendar-android@1.0.7?classifier=sources
+- pkg:maven/com.seanproctor/compose-calendar-android@1.0.8?classifier=sources

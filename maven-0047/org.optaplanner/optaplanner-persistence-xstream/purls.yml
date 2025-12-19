@@ -284,6 +284,10 @@
 - pkg:maven/org.optaplanner/optaplanner-persistence-xstream@8.31.1.Final?classifier=sources
 - pkg:maven/org.optaplanner/optaplanner-persistence-xstream@8.32.0.Final
 - pkg:maven/org.optaplanner/optaplanner-persistence-xstream@8.32.0.Final?classifier=sources
+- pkg:maven/org.optaplanner/optaplanner-persistence-xstream@8.33.0.Final
+- pkg:maven/org.optaplanner/optaplanner-persistence-xstream@8.33.0.Final?classifier=sources
+- pkg:maven/org.optaplanner/optaplanner-persistence-xstream@8.34.0.Final
+- pkg:maven/org.optaplanner/optaplanner-persistence-xstream@8.34.0.Final?classifier=sources
 - pkg:maven/org.optaplanner/optaplanner-persistence-xstream@8.4.0.Final
 - pkg:maven/org.optaplanner/optaplanner-persistence-xstream@8.4.0.Final?classifier=sources
 - pkg:maven/org.optaplanner/optaplanner-persistence-xstream@8.4.1.Final
@@ -300,3 +304,5 @@
 - pkg:maven/org.optaplanner/optaplanner-persistence-xstream@8.9.0.Final?classifier=sources
 - pkg:maven/org.optaplanner/optaplanner-persistence-xstream@8.9.1.Final
 - pkg:maven/org.optaplanner/optaplanner-persistence-xstream@8.9.1.Final?classifier=sources
+- pkg:maven/org.optaplanner/optaplanner-persistence-xstream@9.34.0.Beta1
+- pkg:maven/org.optaplanner/optaplanner-persistence-xstream@9.34.0.Beta1?classifier=sources

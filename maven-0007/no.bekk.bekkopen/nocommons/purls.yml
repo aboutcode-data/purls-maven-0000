@@ -8,6 +8,8 @@
 - pkg:maven/no.bekk.bekkopen/nocommons@0.13.0?classifier=sources
 - pkg:maven/no.bekk.bekkopen/nocommons@0.14.0
 - pkg:maven/no.bekk.bekkopen/nocommons@0.14.0?classifier=sources
+- pkg:maven/no.bekk.bekkopen/nocommons@0.15.0
+- pkg:maven/no.bekk.bekkopen/nocommons@0.15.0?classifier=sources
 - pkg:maven/no.bekk.bekkopen/nocommons@0.2
 - pkg:maven/no.bekk.bekkopen/nocommons@0.2?classifier=sources
 - pkg:maven/no.bekk.bekkopen/nocommons@0.4

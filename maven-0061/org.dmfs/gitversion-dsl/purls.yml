@@ -2,4 +2,6 @@
 - pkg:maven/org.dmfs/gitversion-dsl@0.11.1?classifier=sources
 - pkg:maven/org.dmfs/gitversion-dsl@0.12.0?classifier=sources
 - pkg:maven/org.dmfs/gitversion-dsl@0.13.0?classifier=sources
+- pkg:maven/org.dmfs/gitversion-dsl@0.14.1?classifier=sources
+- pkg:maven/org.dmfs/gitversion-dsl@0.15.0?classifier=sources
 - pkg:maven/org.dmfs/gitversion-dsl@0.9.0?classifier=sources

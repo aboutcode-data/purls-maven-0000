@@ -1,0 +1,2 @@
+- pkg:maven/com.ditchoom/websocket-macosarm64@1.0.2?classifier=sources
+- pkg:maven/com.ditchoom/websocket-macosarm64@1.0.3?classifier=sources

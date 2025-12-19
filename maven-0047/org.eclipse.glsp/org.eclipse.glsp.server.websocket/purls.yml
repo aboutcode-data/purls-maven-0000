@@ -9,3 +9,4 @@
 - pkg:maven/org.eclipse.glsp/org.eclipse.glsp.server.websocket@1.1.0.RC02?classifier=sources
 - pkg:maven/org.eclipse.glsp/org.eclipse.glsp.server.websocket@1.1.0.RC03?classifier=sources
 - pkg:maven/org.eclipse.glsp/org.eclipse.glsp.server.websocket@1.1.0.RC04?classifier=sources
+- pkg:maven/org.eclipse.glsp/org.eclipse.glsp.server.websocket@1.1.0.RC05?classifier=sources

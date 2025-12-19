@@ -1,0 +1,2 @@
+- pkg:maven/com.exactpro.th2/read-log@3.5.2?classifier=sources
+- pkg:maven/com.exactpro.th2/read-log@3.5.3?classifier=sources

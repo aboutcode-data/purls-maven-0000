@@ -1,1 +1,4 @@
 - pkg:maven/io.github.mjfryc/mjaron-etudes-java@0.1.11?classifier=sources
+- pkg:maven/io.github.mjfryc/mjaron-etudes-java@0.1.12?classifier=sources
+- pkg:maven/io.github.mjfryc/mjaron-etudes-java@0.2.0?classifier=sources
+- pkg:maven/io.github.mjfryc/mjaron-etudes-java@0.2.1?classifier=sources

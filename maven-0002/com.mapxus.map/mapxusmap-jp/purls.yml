@@ -12,3 +12,5 @@
 - pkg:maven/com.mapxus.map/mapxusmap-jp@5.1.0?type=aar
 - pkg:maven/com.mapxus.map/mapxusmap-jp@6.0.0?classifier=sources
 - pkg:maven/com.mapxus.map/mapxusmap-jp@6.1.0?classifier=sources
+- pkg:maven/com.mapxus.map/mapxusmap-jp@6.2.0?classifier=sources
+- pkg:maven/com.mapxus.map/mapxusmap-jp@6.2.0?type=aar

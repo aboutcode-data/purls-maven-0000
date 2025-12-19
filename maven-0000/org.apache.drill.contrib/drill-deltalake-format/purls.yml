@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.drill.contrib/drill-deltalake-format@1.21.0
+- pkg:maven/org.apache.drill.contrib/drill-deltalake-format@1.21.0?classifier=sources

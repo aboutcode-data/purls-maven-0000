@@ -18,6 +18,8 @@
 - pkg:maven/org.webjars.npm/material-ui__core@4.11.0?classifier=sources
 - pkg:maven/org.webjars.npm/material-ui__core@4.11.3
 - pkg:maven/org.webjars.npm/material-ui__core@4.11.3?classifier=sources
+- pkg:maven/org.webjars.npm/material-ui__core@4.12.4
+- pkg:maven/org.webjars.npm/material-ui__core@4.12.4?classifier=sources
 - pkg:maven/org.webjars.npm/material-ui__core@4.7.0
 - pkg:maven/org.webjars.npm/material-ui__core@4.7.0?classifier=sources
 - pkg:maven/org.webjars.npm/material-ui__core@5.0.0-alpha.24

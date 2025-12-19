@@ -37,4 +37,6 @@
 - pkg:maven/org.webjars.npm/inputmask@5.0.7-beta.23
 - pkg:maven/org.webjars.npm/inputmask@5.0.7-beta.23?classifier=sources
 - pkg:maven/org.webjars.npm/inputmask@5.0.8-beta.7
+- pkg:maven/org.webjars.npm/inputmask@5.0.8-beta.72
+- pkg:maven/org.webjars.npm/inputmask@5.0.8-beta.72?classifier=sources
 - pkg:maven/org.webjars.npm/inputmask@5.0.8-beta.7?classifier=sources

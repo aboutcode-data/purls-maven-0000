@@ -1,0 +1,6 @@
+- pkg:maven/com.swedbankpay.pax/swedbankpay-pax-sdk@1.2.40
+- pkg:maven/com.swedbankpay.pax/swedbankpay-pax-sdk@1.2.40?classifier=sources
+- pkg:maven/com.swedbankpay.pax/swedbankpay-pax-sdk@1.2.45
+- pkg:maven/com.swedbankpay.pax/swedbankpay-pax-sdk@1.2.45?classifier=sources
+- pkg:maven/com.swedbankpay.pax/swedbankpay-pax-sdk@1.2.49
+- pkg:maven/com.swedbankpay.pax/swedbankpay-pax-sdk@1.2.49?classifier=sources

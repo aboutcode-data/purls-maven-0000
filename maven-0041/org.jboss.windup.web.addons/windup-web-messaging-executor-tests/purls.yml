@@ -44,3 +44,4 @@
 - pkg:maven/org.jboss.windup.web.addons/windup-web-messaging-executor-tests@6.1.0.Final
 - pkg:maven/org.jboss.windup.web.addons/windup-web-messaging-executor-tests@6.1.1.Final
 - pkg:maven/org.jboss.windup.web.addons/windup-web-messaging-executor-tests@6.1.2.Final
+- pkg:maven/org.jboss.windup.web.addons/windup-web-messaging-executor-tests@6.1.3.Final

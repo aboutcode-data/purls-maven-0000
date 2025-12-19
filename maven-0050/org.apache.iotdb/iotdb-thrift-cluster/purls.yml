@@ -20,3 +20,5 @@
 - pkg:maven/org.apache.iotdb/iotdb-thrift-cluster@0.13.2?classifier=sources
 - pkg:maven/org.apache.iotdb/iotdb-thrift-cluster@0.13.3
 - pkg:maven/org.apache.iotdb/iotdb-thrift-cluster@0.13.3?classifier=sources
+- pkg:maven/org.apache.iotdb/iotdb-thrift-cluster@0.13.4
+- pkg:maven/org.apache.iotdb/iotdb-thrift-cluster@0.13.4?classifier=sources

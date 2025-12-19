@@ -2,3 +2,5 @@
 - pkg:maven/com.foxnicweb/foxnic-commons@1.6.0.RELEASE?classifier=sources
 - pkg:maven/com.foxnicweb/foxnic-commons@1.7.0.RELEASE
 - pkg:maven/com.foxnicweb/foxnic-commons@1.7.0.RELEASE?classifier=sources
+- pkg:maven/com.foxnicweb/foxnic-commons@1.7.1.RELEASE
+- pkg:maven/com.foxnicweb/foxnic-commons@1.7.1.RELEASE?classifier=sources

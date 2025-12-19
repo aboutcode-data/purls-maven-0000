@@ -22,6 +22,11 @@
 - pkg:maven/com.markelliot.barista/barista-processor@0.31.0?classifier=sources
 - pkg:maven/com.markelliot.barista/barista-processor@0.32.0?classifier=sources
 - pkg:maven/com.markelliot.barista/barista-processor@0.33.0?classifier=sources
+- pkg:maven/com.markelliot.barista/barista-processor@0.34.0?classifier=sources
+- pkg:maven/com.markelliot.barista/barista-processor@0.35.0?classifier=sources
+- pkg:maven/com.markelliot.barista/barista-processor@0.36.0?classifier=sources
+- pkg:maven/com.markelliot.barista/barista-processor@0.37.0?classifier=sources
+- pkg:maven/com.markelliot.barista/barista-processor@0.39.0?classifier=sources
 - pkg:maven/com.markelliot.barista/barista-processor@0.4.0?classifier=sources
 - pkg:maven/com.markelliot.barista/barista-processor@0.4.1?classifier=sources
 - pkg:maven/com.markelliot.barista/barista-processor@0.5.0?classifier=sources

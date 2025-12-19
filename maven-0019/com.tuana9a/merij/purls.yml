@@ -1,0 +1,2 @@
+- pkg:maven/com.tuana9a/merij@1.0.0
+- pkg:maven/com.tuana9a/merij@1.0.0?classifier=sources

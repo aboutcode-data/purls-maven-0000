@@ -1,5 +1,7 @@
 - pkg:maven/io.dialob/dialob-rule-parser@2.1.2
 - pkg:maven/io.dialob/dialob-rule-parser@2.1.2?classifier=sources
+- pkg:maven/io.dialob/dialob-rule-parser@2.1.3
+- pkg:maven/io.dialob/dialob-rule-parser@2.1.3?classifier=sources
 - pkg:maven/io.dialob/dialob-rule-parser@3.0.2
 - pkg:maven/io.dialob/dialob-rule-parser@3.0.2?classifier=sources
 - pkg:maven/io.dialob/dialob-rule-parser@3.0.3

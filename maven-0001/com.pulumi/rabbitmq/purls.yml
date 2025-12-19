@@ -1,2 +1,3 @@
 - pkg:maven/com.pulumi/rabbitmq@1.8.0-alpha.1668658363%2B84096bfe?classifier=sources
 - pkg:maven/com.pulumi/rabbitmq@1.8.0-alpha.1673556293%2B5c2e9e48?classifier=sources
+- pkg:maven/com.pulumi/rabbitmq@1.8.0-alpha.1675060904%2Bd3dcfdc2?classifier=sources

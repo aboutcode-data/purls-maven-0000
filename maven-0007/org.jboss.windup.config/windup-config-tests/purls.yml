@@ -78,3 +78,4 @@
 - pkg:maven/org.jboss.windup.config/windup-config-tests@6.1.0.Final
 - pkg:maven/org.jboss.windup.config/windup-config-tests@6.1.1.Final
 - pkg:maven/org.jboss.windup.config/windup-config-tests@6.1.2.Final
+- pkg:maven/org.jboss.windup.config/windup-config-tests@6.1.3.Final
