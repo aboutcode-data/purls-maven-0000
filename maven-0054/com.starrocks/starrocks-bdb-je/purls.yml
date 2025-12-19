@@ -1,0 +1,2 @@
+- pkg:maven/com.starrocks/starrocks-bdb-je@7.3.8
+- pkg:maven/com.starrocks/starrocks-bdb-je@7.3.8?classifier=sources

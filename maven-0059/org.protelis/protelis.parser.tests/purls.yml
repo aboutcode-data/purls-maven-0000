@@ -6,6 +6,7 @@
 - pkg:maven/org.protelis/protelis.parser.tests@10.2.10?classifier=sources
 - pkg:maven/org.protelis/protelis.parser.tests@10.2.11?classifier=sources
 - pkg:maven/org.protelis/protelis.parser.tests@10.2.12?classifier=sources
+- pkg:maven/org.protelis/protelis.parser.tests@10.2.13?classifier=sources
 - pkg:maven/org.protelis/protelis.parser.tests@10.2.6?classifier=sources
 - pkg:maven/org.protelis/protelis.parser.tests@10.2.7?classifier=sources
 - pkg:maven/org.protelis/protelis.parser.tests@10.2.8?classifier=sources

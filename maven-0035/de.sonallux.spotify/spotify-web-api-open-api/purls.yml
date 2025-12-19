@@ -2,3 +2,5 @@
 - pkg:maven/de.sonallux.spotify/spotify-web-api-open-api@2022.2.6?classifier=sources
 - pkg:maven/de.sonallux.spotify/spotify-web-api-open-api@2022.3.23
 - pkg:maven/de.sonallux.spotify/spotify-web-api-open-api@2022.3.23?classifier=sources
+- pkg:maven/de.sonallux.spotify/spotify-web-api-open-api@2022.4.14
+- pkg:maven/de.sonallux.spotify/spotify-web-api-open-api@2022.4.14?classifier=sources

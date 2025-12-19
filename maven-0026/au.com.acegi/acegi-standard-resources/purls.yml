@@ -62,3 +62,5 @@
 - pkg:maven/au.com.acegi/acegi-standard-resources@0.6.1?classifier=sources
 - pkg:maven/au.com.acegi/acegi-standard-resources@0.6.2
 - pkg:maven/au.com.acegi/acegi-standard-resources@0.6.2?classifier=sources
+- pkg:maven/au.com.acegi/acegi-standard-resources@0.6.3
+- pkg:maven/au.com.acegi/acegi-standard-resources@0.6.3?classifier=sources

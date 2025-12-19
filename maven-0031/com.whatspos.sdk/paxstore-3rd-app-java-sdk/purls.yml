@@ -8,3 +8,5 @@
 - pkg:maven/com.whatspos.sdk/paxstore-3rd-app-java-sdk@8.2.1?classifier=sources
 - pkg:maven/com.whatspos.sdk/paxstore-3rd-app-java-sdk@8.2.2
 - pkg:maven/com.whatspos.sdk/paxstore-3rd-app-java-sdk@8.2.2?classifier=sources
+- pkg:maven/com.whatspos.sdk/paxstore-3rd-app-java-sdk@8.4.0
+- pkg:maven/com.whatspos.sdk/paxstore-3rd-app-java-sdk@8.4.0?classifier=sources

@@ -12,3 +12,5 @@
 - pkg:maven/org.jboss.pnc.bacon/parent@2.1.7?classifier=source-release&type=zip
 - pkg:maven/org.jboss.pnc.bacon/parent@2.1.8?classifier=source-release&type=zip
 - pkg:maven/org.jboss.pnc.bacon/parent@2.1.9?classifier=source-release&type=zip
+- pkg:maven/org.jboss.pnc.bacon/parent@2.2.0?classifier=source-release&type=zip
+- pkg:maven/org.jboss.pnc.bacon/parent@2.2.1?classifier=source-release&type=zip

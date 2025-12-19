@@ -60,3 +60,7 @@
 - pkg:maven/org.dhatim/dropwizard-sentry@2.0.28-8?classifier=sources
 - pkg:maven/org.dhatim/dropwizard-sentry@2.0.28-9
 - pkg:maven/org.dhatim/dropwizard-sentry@2.0.28-9?classifier=sources
+- pkg:maven/org.dhatim/dropwizard-sentry@2.0.29
+- pkg:maven/org.dhatim/dropwizard-sentry@2.0.29?classifier=sources
+- pkg:maven/org.dhatim/dropwizard-sentry@2.1.0
+- pkg:maven/org.dhatim/dropwizard-sentry@2.1.0?classifier=sources

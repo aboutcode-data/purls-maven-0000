@@ -52,6 +52,10 @@
 - pkg:maven/com.microsoft.azure/azure-functions-maven-plugin@1.15.0?classifier=sources
 - pkg:maven/com.microsoft.azure/azure-functions-maven-plugin@1.16.0
 - pkg:maven/com.microsoft.azure/azure-functions-maven-plugin@1.16.0?classifier=sources
+- pkg:maven/com.microsoft.azure/azure-functions-maven-plugin@1.17.0
+- pkg:maven/com.microsoft.azure/azure-functions-maven-plugin@1.17.0?classifier=sources
+- pkg:maven/com.microsoft.azure/azure-functions-maven-plugin@1.18.0
+- pkg:maven/com.microsoft.azure/azure-functions-maven-plugin@1.18.0?classifier=sources
 - pkg:maven/com.microsoft.azure/azure-functions-maven-plugin@1.2.0
 - pkg:maven/com.microsoft.azure/azure-functions-maven-plugin@1.2.0?classifier=sources
 - pkg:maven/com.microsoft.azure/azure-functions-maven-plugin@1.2.1

@@ -8,3 +8,5 @@
 - pkg:maven/org.anyline/anyline-nc@8.3.5?classifier=sources
 - pkg:maven/org.anyline/anyline-nc@8.3.6
 - pkg:maven/org.anyline/anyline-nc@8.3.6?classifier=sources
+- pkg:maven/org.anyline/anyline-nc@8.5.2-20220501
+- pkg:maven/org.anyline/anyline-nc@8.5.2-20220501?classifier=sources

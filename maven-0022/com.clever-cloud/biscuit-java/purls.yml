@@ -44,3 +44,7 @@
 - pkg:maven/com.clever-cloud/biscuit-java@1.1.4?classifier=sources
 - pkg:maven/com.clever-cloud/biscuit-java@2.0.0
 - pkg:maven/com.clever-cloud/biscuit-java@2.0.0?classifier=sources
+- pkg:maven/com.clever-cloud/biscuit-java@2.1.0
+- pkg:maven/com.clever-cloud/biscuit-java@2.1.0?classifier=sources
+- pkg:maven/com.clever-cloud/biscuit-java@2.2.0
+- pkg:maven/com.clever-cloud/biscuit-java@2.2.0?classifier=sources

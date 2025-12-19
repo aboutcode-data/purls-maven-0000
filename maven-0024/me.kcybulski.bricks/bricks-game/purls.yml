@@ -1,1 +1,6 @@
 - pkg:maven/me.kcybulski.bricks/bricks-game@1.0?classifier=sources
+- pkg:maven/me.kcybulski.bricks/bricks-game@1.2?classifier=sources
+- pkg:maven/me.kcybulski.bricks/bricks-game@1.4?classifier=sources
+- pkg:maven/me.kcybulski.bricks/bricks-game@2.0?classifier=sources
+- pkg:maven/me.kcybulski.bricks/bricks-game@2.1?classifier=sources
+- pkg:maven/me.kcybulski.bricks/bricks-game@2.2?classifier=sources

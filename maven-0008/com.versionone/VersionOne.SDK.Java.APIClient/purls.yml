@@ -36,3 +36,5 @@
 - pkg:maven/com.versionone/VersionOne.SDK.Java.APIClient@16.1.2?type=zip
 - pkg:maven/com.versionone/VersionOne.SDK.Java.APIClient@16.1.3?classifier=sources
 - pkg:maven/com.versionone/VersionOne.SDK.Java.APIClient@16.1.3?type=zip
+- pkg:maven/com.versionone/VersionOne.SDK.Java.APIClient@21.2.0?classifier=sources
+- pkg:maven/com.versionone/VersionOne.SDK.Java.APIClient@21.2.0?type=zip

@@ -1,0 +1,1 @@
+- pkg:maven/org.wildfly.channel/channel-parent@1.0.0.Alpha12?classifier=source-release&type=zip

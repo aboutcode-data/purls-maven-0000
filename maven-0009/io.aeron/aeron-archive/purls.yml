@@ -82,6 +82,8 @@
 - pkg:maven/io.aeron/aeron-archive@1.35.1?classifier=sources
 - pkg:maven/io.aeron/aeron-archive@1.36.0?classifier=sources
 - pkg:maven/io.aeron/aeron-archive@1.37.0?classifier=sources
+- pkg:maven/io.aeron/aeron-archive@1.38.0?classifier=sources
+- pkg:maven/io.aeron/aeron-archive@1.38.1?classifier=sources
 - pkg:maven/io.aeron/aeron-archive@1.4.1
 - pkg:maven/io.aeron/aeron-archive@1.4.1?classifier=sources
 - pkg:maven/io.aeron/aeron-archive@1.5.0

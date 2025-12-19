@@ -64,6 +64,8 @@
 - pkg:maven/io.github.starlangsoftware/DataCollector@1.0.43?classifier=sources
 - pkg:maven/io.github.starlangsoftware/DataCollector@1.0.44
 - pkg:maven/io.github.starlangsoftware/DataCollector@1.0.44?classifier=sources
+- pkg:maven/io.github.starlangsoftware/DataCollector@1.0.45
+- pkg:maven/io.github.starlangsoftware/DataCollector@1.0.45?classifier=sources
 - pkg:maven/io.github.starlangsoftware/DataCollector@1.0.8
 - pkg:maven/io.github.starlangsoftware/DataCollector@1.0.8?classifier=sources
 - pkg:maven/io.github.starlangsoftware/DataCollector@1.0.9

@@ -1,0 +1,10 @@
+- pkg:maven/io.github.xpc1024/easy-es-extension@0.9.10
+- pkg:maven/io.github.xpc1024/easy-es-extension@0.9.10?classifier=sources
+- pkg:maven/io.github.xpc1024/easy-es-extension@0.9.11
+- pkg:maven/io.github.xpc1024/easy-es-extension@0.9.11?classifier=sources
+- pkg:maven/io.github.xpc1024/easy-es-extension@0.9.7
+- pkg:maven/io.github.xpc1024/easy-es-extension@0.9.7?classifier=sources
+- pkg:maven/io.github.xpc1024/easy-es-extension@0.9.8
+- pkg:maven/io.github.xpc1024/easy-es-extension@0.9.8?classifier=sources
+- pkg:maven/io.github.xpc1024/easy-es-extension@0.9.9
+- pkg:maven/io.github.xpc1024/easy-es-extension@0.9.9?classifier=sources

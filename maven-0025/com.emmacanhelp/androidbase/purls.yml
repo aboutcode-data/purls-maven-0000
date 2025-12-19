@@ -2,3 +2,4 @@
 - pkg:maven/com.emmacanhelp/androidbase@202110303?classifier=sources
 - pkg:maven/com.emmacanhelp/androidbase@202201070?classifier=sources
 - pkg:maven/com.emmacanhelp/androidbase@202201230?classifier=sources
+- pkg:maven/com.emmacanhelp/androidbase@202204050?classifier=sources

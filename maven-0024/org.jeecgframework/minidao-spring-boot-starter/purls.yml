@@ -34,3 +34,5 @@
 - pkg:maven/org.jeecgframework/minidao-spring-boot-starter@1.8.7?classifier=sources
 - pkg:maven/org.jeecgframework/minidao-spring-boot-starter@1.8.8
 - pkg:maven/org.jeecgframework/minidao-spring-boot-starter@1.8.8?classifier=sources
+- pkg:maven/org.jeecgframework/minidao-spring-boot-starter@1.9.0
+- pkg:maven/org.jeecgframework/minidao-spring-boot-starter@1.9.0?classifier=sources

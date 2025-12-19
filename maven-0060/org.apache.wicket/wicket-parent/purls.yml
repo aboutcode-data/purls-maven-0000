@@ -90,6 +90,7 @@
 - pkg:maven/org.apache.wicket/wicket-parent@9.0.0-M5?classifier=source-release&type=zip
 - pkg:maven/org.apache.wicket/wicket-parent@9.0.0?classifier=source-release&type=zip
 - pkg:maven/org.apache.wicket/wicket-parent@9.1.0?classifier=source-release&type=zip
+- pkg:maven/org.apache.wicket/wicket-parent@9.10.0?classifier=source-release&type=zip
 - pkg:maven/org.apache.wicket/wicket-parent@9.2.0?classifier=source-release&type=zip
 - pkg:maven/org.apache.wicket/wicket-parent@9.3.0?classifier=source-release&type=zip
 - pkg:maven/org.apache.wicket/wicket-parent@9.4.0?classifier=source-release&type=zip
@@ -97,3 +98,5 @@
 - pkg:maven/org.apache.wicket/wicket-parent@9.6.0?classifier=source-release&type=zip
 - pkg:maven/org.apache.wicket/wicket-parent@9.7.0?classifier=source-release&type=zip
 - pkg:maven/org.apache.wicket/wicket-parent@9.8.0?classifier=source-release&type=zip
+- pkg:maven/org.apache.wicket/wicket-parent@9.9.0?classifier=source-release&type=zip
+- pkg:maven/org.apache.wicket/wicket-parent@9.9.1?classifier=source-release&type=zip

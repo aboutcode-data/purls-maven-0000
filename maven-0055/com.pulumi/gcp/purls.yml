@@ -1,0 +1,1 @@
+- pkg:maven/com.pulumi/gcp@6.21.0?classifier=sources

@@ -12,3 +12,4 @@
 - pkg:maven/org.apache.maven.indexer/maven-indexer@5.1.2-ea1205e?classifier=source-release&type=zip
 - pkg:maven/org.apache.maven.indexer/maven-indexer@6.0.0?classifier=source-release&type=zip
 - pkg:maven/org.apache.maven.indexer/maven-indexer@6.1.1?classifier=source-release&type=zip
+- pkg:maven/org.apache.maven.indexer/maven-indexer@6.2.0?classifier=source-release&type=zip

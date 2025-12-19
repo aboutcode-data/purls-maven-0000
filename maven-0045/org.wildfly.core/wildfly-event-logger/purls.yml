@@ -162,6 +162,8 @@
 - pkg:maven/org.wildfly.core/wildfly-event-logger@18.0.4.Final?classifier=sources
 - pkg:maven/org.wildfly.core/wildfly-event-logger@18.1.0.Beta1
 - pkg:maven/org.wildfly.core/wildfly-event-logger@18.1.0.Beta1?classifier=sources
+- pkg:maven/org.wildfly.core/wildfly-event-logger@18.1.0.Final
+- pkg:maven/org.wildfly.core/wildfly-event-logger@18.1.0.Final?classifier=sources
 - pkg:maven/org.wildfly.core/wildfly-event-logger@19.0.0.Beta1
 - pkg:maven/org.wildfly.core/wildfly-event-logger@19.0.0.Beta1?classifier=sources
 - pkg:maven/org.wildfly.core/wildfly-event-logger@19.0.0.Beta2
@@ -172,6 +174,12 @@
 - pkg:maven/org.wildfly.core/wildfly-event-logger@19.0.0.Beta5?classifier=sources
 - pkg:maven/org.wildfly.core/wildfly-event-logger@19.0.0.Beta6
 - pkg:maven/org.wildfly.core/wildfly-event-logger@19.0.0.Beta6?classifier=sources
+- pkg:maven/org.wildfly.core/wildfly-event-logger@19.0.0.Beta7
+- pkg:maven/org.wildfly.core/wildfly-event-logger@19.0.0.Beta7?classifier=sources
+- pkg:maven/org.wildfly.core/wildfly-event-logger@19.0.0.Beta8
+- pkg:maven/org.wildfly.core/wildfly-event-logger@19.0.0.Beta8?classifier=sources
+- pkg:maven/org.wildfly.core/wildfly-event-logger@19.0.0.Beta9
+- pkg:maven/org.wildfly.core/wildfly-event-logger@19.0.0.Beta9?classifier=sources
 - pkg:maven/org.wildfly.core/wildfly-event-logger@9.0.0.Beta5
 - pkg:maven/org.wildfly.core/wildfly-event-logger@9.0.0.Beta5?classifier=sources
 - pkg:maven/org.wildfly.core/wildfly-event-logger@9.0.0.Beta6

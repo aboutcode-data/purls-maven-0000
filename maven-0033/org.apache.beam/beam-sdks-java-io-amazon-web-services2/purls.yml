@@ -31,3 +31,4 @@
 - pkg:maven/org.apache.beam/beam-sdks-java-io-amazon-web-services2@2.35.0?classifier=sources
 - pkg:maven/org.apache.beam/beam-sdks-java-io-amazon-web-services2@2.36.0?classifier=sources
 - pkg:maven/org.apache.beam/beam-sdks-java-io-amazon-web-services2@2.37.0?classifier=sources
+- pkg:maven/org.apache.beam/beam-sdks-java-io-amazon-web-services2@2.38.0?classifier=sources

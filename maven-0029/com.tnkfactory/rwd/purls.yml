@@ -19,3 +19,4 @@
 - pkg:maven/com.tnkfactory/rwd@7.25.1?classifier=sources
 - pkg:maven/com.tnkfactory/rwd@7.25.1?type=aar
 - pkg:maven/com.tnkfactory/rwd@7.27.1?classifier=sources
+- pkg:maven/com.tnkfactory/rwd@7.28.1?classifier=sources

@@ -1,1 +1,2 @@
 - pkg:maven/de.br.android/envpicker@0.1.0?classifier=sources
+- pkg:maven/de.br.android/envpicker@0.2.0?classifier=sources

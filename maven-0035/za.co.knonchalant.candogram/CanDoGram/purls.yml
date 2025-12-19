@@ -1,0 +1,6 @@
+- pkg:maven/za.co.knonchalant.candogram/CanDoGram@1.2
+- pkg:maven/za.co.knonchalant.candogram/CanDoGram@1.2?classifier=sources
+- pkg:maven/za.co.knonchalant.candogram/CanDoGram@1.3
+- pkg:maven/za.co.knonchalant.candogram/CanDoGram@1.3?classifier=sources
+- pkg:maven/za.co.knonchalant.candogram/CanDoGram@1.4
+- pkg:maven/za.co.knonchalant.candogram/CanDoGram@1.4?classifier=sources

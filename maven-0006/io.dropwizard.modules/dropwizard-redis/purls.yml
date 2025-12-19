@@ -10,5 +10,7 @@
 - pkg:maven/io.dropwizard.modules/dropwizard-redis@1.5.2?classifier=sources
 - pkg:maven/io.dropwizard.modules/dropwizard-redis@1.6.0
 - pkg:maven/io.dropwizard.modules/dropwizard-redis@1.6.0?classifier=sources
+- pkg:maven/io.dropwizard.modules/dropwizard-redis@1.7.0
 - pkg:maven/io.dropwizard.modules/dropwizard-redis@1.7.0-beta.2
 - pkg:maven/io.dropwizard.modules/dropwizard-redis@1.7.0-beta.2?classifier=sources
+- pkg:maven/io.dropwizard.modules/dropwizard-redis@1.7.0?classifier=sources

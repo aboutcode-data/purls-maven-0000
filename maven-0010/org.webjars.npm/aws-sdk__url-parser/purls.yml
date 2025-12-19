@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/aws-sdk__url-parser@3.47.2
+- pkg:maven/org.webjars.npm/aws-sdk__url-parser@3.47.2?classifier=sources

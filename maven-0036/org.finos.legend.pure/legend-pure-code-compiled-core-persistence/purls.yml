@@ -1,0 +1,6 @@
+- pkg:maven/org.finos.legend.pure/legend-pure-code-compiled-core-persistence@1.53.0
+- pkg:maven/org.finos.legend.pure/legend-pure-code-compiled-core-persistence@1.53.0?classifier=sources
+- pkg:maven/org.finos.legend.pure/legend-pure-code-compiled-core-persistence@1.54.0
+- pkg:maven/org.finos.legend.pure/legend-pure-code-compiled-core-persistence@1.54.0?classifier=sources
+- pkg:maven/org.finos.legend.pure/legend-pure-code-compiled-core-persistence@2.0.0
+- pkg:maven/org.finos.legend.pure/legend-pure-code-compiled-core-persistence@2.0.0?classifier=sources

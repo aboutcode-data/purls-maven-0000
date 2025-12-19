@@ -9,3 +9,5 @@
 - pkg:maven/de.hhu.stups/sablecc@3.2.14?classifier=sources
 - pkg:maven/de.hhu.stups/sablecc@3.3.0?classifier=sources
 - pkg:maven/de.hhu.stups/sablecc@3.3.2?classifier=sources
+- pkg:maven/de.hhu.stups/sablecc@3.3.3?classifier=sources
+- pkg:maven/de.hhu.stups/sablecc@3.4.0?classifier=sources

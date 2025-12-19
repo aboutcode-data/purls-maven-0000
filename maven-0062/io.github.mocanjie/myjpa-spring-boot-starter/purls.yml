@@ -17,4 +17,8 @@
 - pkg:maven/io.github.mocanjie/myjpa-spring-boot-starter@2.0.2
 - pkg:maven/io.github.mocanjie/myjpa-spring-boot-starter@2.0.2?classifier=sources
 - pkg:maven/io.github.mocanjie/myjpa-spring-boot-starter@2.0.3
+- pkg:maven/io.github.mocanjie/myjpa-spring-boot-starter@2.0.3-centos
+- pkg:maven/io.github.mocanjie/myjpa-spring-boot-starter@2.0.3-centos?classifier=sources
 - pkg:maven/io.github.mocanjie/myjpa-spring-boot-starter@2.0.3?classifier=sources
+- pkg:maven/io.github.mocanjie/myjpa-spring-boot-starter@2.0.4
+- pkg:maven/io.github.mocanjie/myjpa-spring-boot-starter@2.0.4?classifier=sources

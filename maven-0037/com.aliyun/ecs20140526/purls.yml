@@ -12,3 +12,7 @@
 - pkg:maven/com.aliyun/ecs20140526@1.0.2?classifier=sources
 - pkg:maven/com.aliyun/ecs20140526@1.1.0
 - pkg:maven/com.aliyun/ecs20140526@1.1.0?classifier=sources
+- pkg:maven/com.aliyun/ecs20140526@2.1.1
+- pkg:maven/com.aliyun/ecs20140526@2.1.1?classifier=sources
+- pkg:maven/com.aliyun/ecs20140526@4.24.17
+- pkg:maven/com.aliyun/ecs20140526@4.24.17?classifier=sources

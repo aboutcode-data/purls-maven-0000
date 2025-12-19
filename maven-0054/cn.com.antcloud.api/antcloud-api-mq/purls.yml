@@ -1,2 +1,4 @@
 - pkg:maven/cn.com.antcloud.api/antcloud-api-mq@2.3.1
 - pkg:maven/cn.com.antcloud.api/antcloud-api-mq@2.3.1?classifier=sources
+- pkg:maven/cn.com.antcloud.api/antcloud-api-mq@3.8.22
+- pkg:maven/cn.com.antcloud.api/antcloud-api-mq@3.8.22?classifier=sources

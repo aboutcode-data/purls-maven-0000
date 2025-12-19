@@ -660,6 +660,10 @@
 - pkg:maven/com.google.apis/google-api-services-cloudbuild@v1-rev20220301-1.32.1?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-cloudbuild@v1-rev20220310-1.32.1
 - pkg:maven/com.google.apis/google-api-services-cloudbuild@v1-rev20220310-1.32.1?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-cloudbuild@v1-rev20220322-1.32.1
+- pkg:maven/com.google.apis/google-api-services-cloudbuild@v1-rev20220322-1.32.1?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-cloudbuild@v1-rev20220407-1.32.1
+- pkg:maven/com.google.apis/google-api-services-cloudbuild@v1-rev20220407-1.32.1?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-cloudbuild@v1-rev21-1.18.0-rc
 - pkg:maven/com.google.apis/google-api-services-cloudbuild@v1-rev21-1.18.0-rc?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-cloudbuild@v1-rev21-1.19.1
@@ -3590,6 +3594,8 @@
 - pkg:maven/com.google.apis/google-api-services-cloudbuild@v1alpha1-rev20220131-1.32.1?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-cloudbuild@v1alpha1-rev20220218-1.32.1
 - pkg:maven/com.google.apis/google-api-services-cloudbuild@v1alpha1-rev20220218-1.32.1?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-cloudbuild@v1alpha1-rev20220322-1.32.1
+- pkg:maven/com.google.apis/google-api-services-cloudbuild@v1alpha1-rev20220322-1.32.1?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-cloudbuild@v1alpha1-rev22-1.18.0-rc
 - pkg:maven/com.google.apis/google-api-services-cloudbuild@v1alpha1-rev22-1.18.0-rc?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-cloudbuild@v1alpha1-rev22-1.22.0
@@ -4014,6 +4020,8 @@
 - pkg:maven/com.google.apis/google-api-services-cloudbuild@v1alpha2-rev20220131-1.32.1?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-cloudbuild@v1alpha2-rev20220218-1.32.1
 - pkg:maven/com.google.apis/google-api-services-cloudbuild@v1alpha2-rev20220218-1.32.1?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-cloudbuild@v1alpha2-rev20220322-1.32.1
+- pkg:maven/com.google.apis/google-api-services-cloudbuild@v1alpha2-rev20220322-1.32.1?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-cloudbuild@v1alpha2-rev3-1.18.0-rc
 - pkg:maven/com.google.apis/google-api-services-cloudbuild@v1alpha2-rev3-1.18.0-rc?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-cloudbuild@v1alpha2-rev3-1.25.0
@@ -4072,3 +4080,5 @@
 - pkg:maven/com.google.apis/google-api-services-cloudbuild@v1beta1-rev20220131-1.32.1?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-cloudbuild@v1beta1-rev20220218-1.32.1
 - pkg:maven/com.google.apis/google-api-services-cloudbuild@v1beta1-rev20220218-1.32.1?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-cloudbuild@v1beta1-rev20220322-1.32.1
+- pkg:maven/com.google.apis/google-api-services-cloudbuild@v1beta1-rev20220322-1.32.1?classifier=sources

@@ -102,3 +102,5 @@
 - pkg:maven/org.nervos.ckb/example@0.43.3-beta.4?classifier=sources
 - pkg:maven/org.nervos.ckb/example@1.0.0
 - pkg:maven/org.nervos.ckb/example@1.0.0?classifier=sources
+- pkg:maven/org.nervos.ckb/example@1.0.1
+- pkg:maven/org.nervos.ckb/example@1.0.1?classifier=sources

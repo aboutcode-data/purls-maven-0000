@@ -102,3 +102,5 @@
 - pkg:maven/com.intuit.karate/karate-gatling@1.2.0.RC4?classifier=sources
 - pkg:maven/com.intuit.karate/karate-gatling@1.2.0.RC5
 - pkg:maven/com.intuit.karate/karate-gatling@1.2.0.RC5?classifier=sources
+- pkg:maven/com.intuit.karate/karate-gatling@1.2.0.RC6
+- pkg:maven/com.intuit.karate/karate-gatling@1.2.0.RC6?classifier=sources

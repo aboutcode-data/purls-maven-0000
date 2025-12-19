@@ -1,2 +1,4 @@
 - pkg:maven/org.webjars.npm/apollographql__apollo-tools@0.4.3
 - pkg:maven/org.webjars.npm/apollographql__apollo-tools@0.4.3?classifier=sources
+- pkg:maven/org.webjars.npm/apollographql__apollo-tools@0.5.3
+- pkg:maven/org.webjars.npm/apollographql__apollo-tools@0.5.3?classifier=sources

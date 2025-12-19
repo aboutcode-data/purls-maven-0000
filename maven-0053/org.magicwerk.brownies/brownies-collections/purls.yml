@@ -1,1 +1,2 @@
 - pkg:maven/org.magicwerk.brownies/brownies-collections@0.9.16?classifier=sources
+- pkg:maven/org.magicwerk.brownies/brownies-collections@0.9.17?classifier=sources

@@ -2,3 +2,7 @@
 - pkg:maven/io.trino/trino-exchange@372?classifier=sources
 - pkg:maven/io.trino/trino-exchange@373?classifier=sources
 - pkg:maven/io.trino/trino-exchange@374?classifier=sources
+- pkg:maven/io.trino/trino-exchange@375?classifier=sources
+- pkg:maven/io.trino/trino-exchange@376?classifier=sources
+- pkg:maven/io.trino/trino-exchange@377?classifier=sources
+- pkg:maven/io.trino/trino-exchange@378?classifier=sources

@@ -18,3 +18,5 @@
 - pkg:maven/com.envisioniot/enos-core@0.1.9?classifier=sources
 - pkg:maven/com.envisioniot/enos-core@0.2.0
 - pkg:maven/com.envisioniot/enos-core@0.2.0?classifier=sources
+- pkg:maven/com.envisioniot/enos-core@0.2.2
+- pkg:maven/com.envisioniot/enos-core@0.2.2?classifier=sources

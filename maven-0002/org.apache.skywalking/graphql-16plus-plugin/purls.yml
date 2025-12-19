@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.skywalking/graphql-16plus-plugin@8.10.0
+- pkg:maven/org.apache.skywalking/graphql-16plus-plugin@8.10.0?classifier=sources

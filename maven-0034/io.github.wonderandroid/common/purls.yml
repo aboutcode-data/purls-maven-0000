@@ -12,6 +12,7 @@
 - pkg:maven/io.github.wonderandroid/common@1.0.6.2?type=aar
 - pkg:maven/io.github.wonderandroid/common@1.0.6.3.101?type=aar
 - pkg:maven/io.github.wonderandroid/common@1.0.6.3.103?type=aar
+- pkg:maven/io.github.wonderandroid/common@1.0.6.3.105?type=aar
 - pkg:maven/io.github.wonderandroid/common@1.0.6.3.111?type=aar
 - pkg:maven/io.github.wonderandroid/common@1.0.6.3.113?type=aar
 - pkg:maven/io.github.wonderandroid/common@1.0.6.3.11?classifier=sources
@@ -19,6 +20,7 @@
 - pkg:maven/io.github.wonderandroid/common@1.0.6.3.123?type=aar
 - pkg:maven/io.github.wonderandroid/common@1.0.6.3.12?classifier=sources
 - pkg:maven/io.github.wonderandroid/common@1.0.6.3.12?type=aar
+- pkg:maven/io.github.wonderandroid/common@1.0.6.3.133?type=aar
 - pkg:maven/io.github.wonderandroid/common@1.0.6.3.13?classifier=sources
 - pkg:maven/io.github.wonderandroid/common@1.0.6.3.13?type=aar
 - pkg:maven/io.github.wonderandroid/common@1.0.6.3.14?classifier=sources
@@ -125,6 +127,7 @@
 - pkg:maven/io.github.wonderandroid/common@1.0.6.3.91?type=aar
 - pkg:maven/io.github.wonderandroid/common@1.0.6.3.92?type=aar
 - pkg:maven/io.github.wonderandroid/common@1.0.6.3.93?type=aar
+- pkg:maven/io.github.wonderandroid/common@1.0.6.3.95?type=aar
 - pkg:maven/io.github.wonderandroid/common@1.0.6.3.9?classifier=sources
 - pkg:maven/io.github.wonderandroid/common@1.0.6.3.9?type=aar
 - pkg:maven/io.github.wonderandroid/common@1.0.6.3?classifier=sources
@@ -195,3 +198,7 @@
 - pkg:maven/io.github.wonderandroid/common@1.3.1.5?type=aar
 - pkg:maven/io.github.wonderandroid/common@1.3.1.6?type=aar
 - pkg:maven/io.github.wonderandroid/common@1.3.1.7?type=aar
+- pkg:maven/io.github.wonderandroid/common@1.3.1.8?type=aar
+- pkg:maven/io.github.wonderandroid/common@1.3.1.9?type=aar
+- pkg:maven/io.github.wonderandroid/common@1.3.2.0?type=aar
+- pkg:maven/io.github.wonderandroid/common@1.3.2.1?type=aar

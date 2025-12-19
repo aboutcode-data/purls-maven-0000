@@ -1,0 +1,2 @@
+- pkg:maven/io.github.rysefoxx/RyseInventory-API@API
+- pkg:maven/io.github.rysefoxx/RyseInventory-API@API?classifier=sources

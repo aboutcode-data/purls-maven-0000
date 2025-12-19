@@ -2,3 +2,4 @@
 - pkg:maven/com.applovin.mediation/huawei-adapter@13.4.49.301.1?type=aar
 - pkg:maven/com.applovin.mediation/huawei-adapter@13.4.49.301.2?classifier=sources
 - pkg:maven/com.applovin.mediation/huawei-adapter@13.4.49.301.3?classifier=sources
+- pkg:maven/com.applovin.mediation/huawei-adapter@13.4.49.301.4?classifier=sources

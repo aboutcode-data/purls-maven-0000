@@ -140,8 +140,16 @@
 - pkg:maven/com.hedera.hashgraph/sdk@2.10.0?classifier=sources
 - pkg:maven/com.hedera.hashgraph/sdk@2.10.1
 - pkg:maven/com.hedera.hashgraph/sdk@2.10.1?classifier=sources
+- pkg:maven/com.hedera.hashgraph/sdk@2.11.0
 - pkg:maven/com.hedera.hashgraph/sdk@2.11.0-beta.1
 - pkg:maven/com.hedera.hashgraph/sdk@2.11.0-beta.1?classifier=sources
+- pkg:maven/com.hedera.hashgraph/sdk@2.11.0?classifier=sources
+- pkg:maven/com.hedera.hashgraph/sdk@2.12.0
+- pkg:maven/com.hedera.hashgraph/sdk@2.12.0-beta.1
+- pkg:maven/com.hedera.hashgraph/sdk@2.12.0-beta.1?classifier=sources
+- pkg:maven/com.hedera.hashgraph/sdk@2.12.0?classifier=sources
+- pkg:maven/com.hedera.hashgraph/sdk@2.14.0-beta.1
+- pkg:maven/com.hedera.hashgraph/sdk@2.14.0-beta.1?classifier=sources
 - pkg:maven/com.hedera.hashgraph/sdk@2.2.0
 - pkg:maven/com.hedera.hashgraph/sdk@2.2.0-beta.1
 - pkg:maven/com.hedera.hashgraph/sdk@2.2.0-beta.1?classifier=sources

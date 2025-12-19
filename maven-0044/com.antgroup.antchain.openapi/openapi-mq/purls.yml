@@ -1,0 +1,2 @@
+- pkg:maven/com.antgroup.antchain.openapi/openapi-mq@3.8.22
+- pkg:maven/com.antgroup.antchain.openapi/openapi-mq@3.8.22?classifier=sources
