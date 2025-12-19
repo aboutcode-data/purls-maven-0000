@@ -5,4 +5,6 @@
 - pkg:maven/edu.uiowa.cs.clc/kind2-java-api@0.3.0?classifier=sources
 - pkg:maven/edu.uiowa.cs.clc/kind2-java-api@0.3.1?classifier=sources
 - pkg:maven/edu.uiowa.cs.clc/kind2-java-api@0.3.2?classifier=sources
+- pkg:maven/edu.uiowa.cs.clc/kind2-java-api@0.3.3?classifier=sources
+- pkg:maven/edu.uiowa.cs.clc/kind2-java-api@0.3.4?classifier=sources
 - pkg:maven/edu.uiowa.cs.clc/kind2-java-api@v0.1?classifier=sources

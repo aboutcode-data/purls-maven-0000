@@ -1,0 +1,6 @@
+- pkg:maven/com.playtika.reactivefeign/feign-reactor-webclient-apache-client5@3.2.11
+- pkg:maven/com.playtika.reactivefeign/feign-reactor-webclient-apache-client5@3.2.11?classifier=sources
+- pkg:maven/com.playtika.reactivefeign/feign-reactor-webclient-apache-client5@3.3.0
+- pkg:maven/com.playtika.reactivefeign/feign-reactor-webclient-apache-client5@3.3.0?classifier=sources
+- pkg:maven/com.playtika.reactivefeign/feign-reactor-webclient-apache-client5@4.0.0
+- pkg:maven/com.playtika.reactivefeign/feign-reactor-webclient-apache-client5@4.0.0?classifier=sources

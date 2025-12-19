@@ -17,6 +17,7 @@
 - pkg:maven/org.aya-prover/pretty@0.26?classifier=sources
 - pkg:maven/org.aya-prover/pretty@0.27?classifier=sources
 - pkg:maven/org.aya-prover/pretty@0.28?classifier=sources
+- pkg:maven/org.aya-prover/pretty@0.29?classifier=sources
 - pkg:maven/org.aya-prover/pretty@0.8.1?classifier=sources
 - pkg:maven/org.aya-prover/pretty@0.8.2?classifier=sources
 - pkg:maven/org.aya-prover/pretty@0.8.3?classifier=sources

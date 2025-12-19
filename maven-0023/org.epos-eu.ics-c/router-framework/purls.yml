@@ -42,5 +42,7 @@
 - pkg:maven/org.epos-eu.ics-c/router-framework@0.1.6?classifier=sources
 - pkg:maven/org.epos-eu.ics-c/router-framework@0.1.7
 - pkg:maven/org.epos-eu.ics-c/router-framework@0.1.7?classifier=sources
+- pkg:maven/org.epos-eu.ics-c/router-framework@0.1.8
+- pkg:maven/org.epos-eu.ics-c/router-framework@0.1.8?classifier=sources
 - pkg:maven/org.epos-eu.ics-c/router-framework@1.0.0
 - pkg:maven/org.epos-eu.ics-c/router-framework@1.0.0?classifier=sources

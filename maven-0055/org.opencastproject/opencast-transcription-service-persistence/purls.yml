@@ -74,6 +74,8 @@
 - pkg:maven/org.opencastproject/opencast-transcription-service-persistence@13.2?classifier=sources
 - pkg:maven/org.opencastproject/opencast-transcription-service-persistence@13.4
 - pkg:maven/org.opencastproject/opencast-transcription-service-persistence@13.4?classifier=sources
+- pkg:maven/org.opencastproject/opencast-transcription-service-persistence@13.5
+- pkg:maven/org.opencastproject/opencast-transcription-service-persistence@13.5?classifier=sources
 - pkg:maven/org.opencastproject/opencast-transcription-service-persistence@8.0
 - pkg:maven/org.opencastproject/opencast-transcription-service-persistence@8.0?classifier=sources
 - pkg:maven/org.opencastproject/opencast-transcription-service-persistence@8.1

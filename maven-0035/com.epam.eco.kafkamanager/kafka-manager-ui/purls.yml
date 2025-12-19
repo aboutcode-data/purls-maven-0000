@@ -6,3 +6,15 @@
 - pkg:maven/com.epam.eco.kafkamanager/kafka-manager-ui@1.2.0?classifier=sources
 - pkg:maven/com.epam.eco.kafkamanager/kafka-manager-ui@1.2.3
 - pkg:maven/com.epam.eco.kafkamanager/kafka-manager-ui@1.2.3?classifier=sources
+- pkg:maven/com.epam.eco.kafkamanager/kafka-manager-ui@2.0.0
+- pkg:maven/com.epam.eco.kafkamanager/kafka-manager-ui@2.0.0?classifier=sources
+- pkg:maven/com.epam.eco.kafkamanager/kafka-manager-ui@2.0.2
+- pkg:maven/com.epam.eco.kafkamanager/kafka-manager-ui@2.0.2?classifier=sources
+- pkg:maven/com.epam.eco.kafkamanager/kafka-manager-ui@2.0.3
+- pkg:maven/com.epam.eco.kafkamanager/kafka-manager-ui@2.0.3?classifier=sources
+- pkg:maven/com.epam.eco.kafkamanager/kafka-manager-ui@2.0.4
+- pkg:maven/com.epam.eco.kafkamanager/kafka-manager-ui@2.0.4?classifier=sources
+- pkg:maven/com.epam.eco.kafkamanager/kafka-manager-ui@2.0.5
+- pkg:maven/com.epam.eco.kafkamanager/kafka-manager-ui@2.0.5?classifier=sources
+- pkg:maven/com.epam.eco.kafkamanager/kafka-manager-ui@3.0.2
+- pkg:maven/com.epam.eco.kafkamanager/kafka-manager-ui@3.0.2?classifier=sources

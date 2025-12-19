@@ -18,3 +18,5 @@
 - pkg:maven/com.liferay.poshi.runner.resources/portal-7.3.x@20230210-7729154
 - pkg:maven/com.liferay.poshi.runner.resources/portal-7.3.x@20230228-3037860
 - pkg:maven/com.liferay.poshi.runner.resources/portal-7.3.x@20230322-5835650
+- pkg:maven/com.liferay.poshi.runner.resources/portal-7.3.x@20230330-b8ba199
+- pkg:maven/com.liferay.poshi.runner.resources/portal-7.3.x@20230405-4a44d12

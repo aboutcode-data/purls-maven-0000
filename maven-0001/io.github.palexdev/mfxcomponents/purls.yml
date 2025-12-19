@@ -1,2 +1,8 @@
 - pkg:maven/io.github.palexdev/mfxcomponents@11.15.2?classifier=sources
 - pkg:maven/io.github.palexdev/mfxcomponents@11.16.0?classifier=sources
+- pkg:maven/io.github.palexdev/mfxcomponents@11.16.1?classifier=sources
+- pkg:maven/io.github.palexdev/mfxcomponents@11.16.2?classifier=sources
+- pkg:maven/io.github.palexdev/mfxcomponents@11.16.3?classifier=sources
+- pkg:maven/io.github.palexdev/mfxcomponents@11.16.4?classifier=sources
+- pkg:maven/io.github.palexdev/mfxcomponents@11.17.0?classifier=sources
+- pkg:maven/io.github.palexdev/mfxcomponents@11.18.0?classifier=sources

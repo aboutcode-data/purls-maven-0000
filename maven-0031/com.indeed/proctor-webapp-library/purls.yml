@@ -275,6 +275,8 @@
 - pkg:maven/com.indeed/proctor-webapp-library@1.9.79?classifier=sources
 - pkg:maven/com.indeed/proctor-webapp-library@1.9.7?classifier=sources
 - pkg:maven/com.indeed/proctor-webapp-library@1.9.8
+- pkg:maven/com.indeed/proctor-webapp-library@1.9.80
+- pkg:maven/com.indeed/proctor-webapp-library@1.9.80?classifier=sources
 - pkg:maven/com.indeed/proctor-webapp-library@1.9.8?classifier=sources
 - pkg:maven/com.indeed/proctor-webapp-library@1.9.9
 - pkg:maven/com.indeed/proctor-webapp-library@1.9.9?classifier=sources

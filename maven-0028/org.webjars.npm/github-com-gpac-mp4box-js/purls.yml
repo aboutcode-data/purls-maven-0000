@@ -1,2 +1,4 @@
+- pkg:maven/org.webjars.npm/github-com-gpac-mp4box-js@0.3.20
+- pkg:maven/org.webjars.npm/github-com-gpac-mp4box-js@0.3.20?classifier=sources
 - pkg:maven/org.webjars.npm/github-com-gpac-mp4box-js@0.5.2
 - pkg:maven/org.webjars.npm/github-com-gpac-mp4box-js@0.5.2?classifier=sources

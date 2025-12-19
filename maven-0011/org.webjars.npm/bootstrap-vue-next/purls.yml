@@ -1,2 +1,4 @@
 - pkg:maven/org.webjars.npm/bootstrap-vue-next@0.7.3
 - pkg:maven/org.webjars.npm/bootstrap-vue-next@0.7.3?classifier=sources
+- pkg:maven/org.webjars.npm/bootstrap-vue-next@0.8.7
+- pkg:maven/org.webjars.npm/bootstrap-vue-next@0.8.7?classifier=sources

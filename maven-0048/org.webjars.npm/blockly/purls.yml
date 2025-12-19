@@ -4,3 +4,5 @@
 - pkg:maven/org.webjars.npm/blockly@3.20200625.2?classifier=sources
 - pkg:maven/org.webjars.npm/blockly@7.20211209.2
 - pkg:maven/org.webjars.npm/blockly@7.20211209.2?classifier=sources
+- pkg:maven/org.webjars.npm/blockly@9.3.2
+- pkg:maven/org.webjars.npm/blockly@9.3.2?classifier=sources

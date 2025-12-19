@@ -1,0 +1,2 @@
+- pkg:maven/com.personthecat/catlib-quilt@2.7?classifier=sources
+- pkg:maven/com.personthecat/catlib-quilt@2.9?classifier=sources

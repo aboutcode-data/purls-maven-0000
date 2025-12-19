@@ -2,3 +2,6 @@
 - pkg:maven/io.strmprivacy/java-driver@2.0.1?classifier=sources
 - pkg:maven/io.strmprivacy/java-driver@3.0.0?classifier=sources
 - pkg:maven/io.strmprivacy/java-driver@4.0.0?classifier=sources
+- pkg:maven/io.strmprivacy/java-driver@4.1.0?classifier=sources
+- pkg:maven/io.strmprivacy/java-driver@5.0.0?classifier=sources
+- pkg:maven/io.strmprivacy/java-driver@5.0.1?classifier=sources

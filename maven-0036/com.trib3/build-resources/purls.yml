@@ -306,3 +306,7 @@
 - pkg:maven/com.trib3/build-resources@1.9.883?classifier=sources
 - pkg:maven/com.trib3/build-resources@2.0.4255
 - pkg:maven/com.trib3/build-resources@2.0.4255?classifier=sources
+- pkg:maven/com.trib3/build-resources@2.0.4260
+- pkg:maven/com.trib3/build-resources@2.0.4260?classifier=sources
+- pkg:maven/com.trib3/build-resources@2.0.4305
+- pkg:maven/com.trib3/build-resources@2.0.4305?classifier=sources

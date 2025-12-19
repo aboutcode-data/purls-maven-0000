@@ -5,3 +5,7 @@
 - pkg:maven/com.pulumi/rabbitmq@1.8.0-alpha.1679335707%2B69cee8b7?classifier=sources
 - pkg:maven/com.pulumi/rabbitmq@1.8.0-alpha.1679418234%2Bd36e8fff?classifier=sources
 - pkg:maven/com.pulumi/rabbitmq@3.3.0?classifier=sources
+- pkg:maven/com.pulumi/rabbitmq@3.4.0-alpha.1680911273%2Bff89d946?classifier=sources
+- pkg:maven/com.pulumi/rabbitmq@3.4.0-alpha.1681936357%2B37343cdd?classifier=sources
+- pkg:maven/com.pulumi/rabbitmq@3.4.0-alpha.1683267355%2B431360e7?classifier=sources
+- pkg:maven/com.pulumi/rabbitmq@3.4.0-alpha.1683352878%2B503bcf93?classifier=sources

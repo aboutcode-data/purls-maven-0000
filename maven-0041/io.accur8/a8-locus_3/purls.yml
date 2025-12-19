@@ -1,0 +1,14 @@
+- pkg:maven/io.accur8/a8-locus_3@0.1.0-20230425_1128_glenziohttp
+- pkg:maven/io.accur8/a8-locus_3@0.1.0-20230425_1128_glenziohttp?classifier=sources
+- pkg:maven/io.accur8/a8-locus_3@0.1.0-20230425_1929_glenziohttp
+- pkg:maven/io.accur8/a8-locus_3@0.1.0-20230425_1929_glenziohttp?classifier=sources
+- pkg:maven/io.accur8/a8-locus_3@0.1.0-20230426_1354_glenziohttp
+- pkg:maven/io.accur8/a8-locus_3@0.1.0-20230426_1354_glenziohttp?classifier=sources
+- pkg:maven/io.accur8/a8-locus_3@0.1.0-20230426_1858_glenziohttp
+- pkg:maven/io.accur8/a8-locus_3@0.1.0-20230426_1858_glenziohttp?classifier=sources
+- pkg:maven/io.accur8/a8-locus_3@0.1.0-20230427_0904_glenziohttp
+- pkg:maven/io.accur8/a8-locus_3@0.1.0-20230427_0904_glenziohttp?classifier=sources
+- pkg:maven/io.accur8/a8-locus_3@0.1.0-20230429_1924_glenziohttp
+- pkg:maven/io.accur8/a8-locus_3@0.1.0-20230429_1924_glenziohttp?classifier=sources
+- pkg:maven/io.accur8/a8-locus_3@0.1.0-20230502_0740_glenziohttp
+- pkg:maven/io.accur8/a8-locus_3@0.1.0-20230502_0740_glenziohttp?classifier=sources

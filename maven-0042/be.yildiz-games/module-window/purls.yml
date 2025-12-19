@@ -60,3 +60,13 @@
 - pkg:maven/be.yildiz-games/module-window@5.2.2?classifier=sources
 - pkg:maven/be.yildiz-games/module-window@5.3.0
 - pkg:maven/be.yildiz-games/module-window@5.3.0?classifier=sources
+- pkg:maven/be.yildiz-games/module-window@5.3.1
+- pkg:maven/be.yildiz-games/module-window@5.3.1?classifier=sources
+- pkg:maven/be.yildiz-games/module-window@5.4.0
+- pkg:maven/be.yildiz-games/module-window@5.4.0?classifier=sources
+- pkg:maven/be.yildiz-games/module-window@5.4.1
+- pkg:maven/be.yildiz-games/module-window@5.4.1?classifier=sources
+- pkg:maven/be.yildiz-games/module-window@5.5.0
+- pkg:maven/be.yildiz-games/module-window@5.5.0?classifier=sources
+- pkg:maven/be.yildiz-games/module-window@5.5.1
+- pkg:maven/be.yildiz-games/module-window@5.5.1?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.fathzer/jdbbackup-gcs@1.0.0
+- pkg:maven/com.fathzer/jdbbackup-gcs@1.0.0?classifier=sources

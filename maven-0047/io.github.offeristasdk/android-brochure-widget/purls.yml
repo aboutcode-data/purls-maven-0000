@@ -1,3 +1,4 @@
 - pkg:maven/io.github.offeristasdk/android-brochure-widget@0.1.12?classifier=sources
 - pkg:maven/io.github.offeristasdk/android-brochure-widget@0.1.13?classifier=sources
 - pkg:maven/io.github.offeristasdk/android-brochure-widget@0.1.14?classifier=sources
+- pkg:maven/io.github.offeristasdk/android-brochure-widget@2.0?classifier=sources

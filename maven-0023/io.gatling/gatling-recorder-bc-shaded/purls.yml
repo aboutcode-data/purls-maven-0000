@@ -6,3 +6,5 @@
 - pkg:maven/io.gatling/gatling-recorder-bc-shaded@1.71?classifier=sources
 - pkg:maven/io.gatling/gatling-recorder-bc-shaded@1.72
 - pkg:maven/io.gatling/gatling-recorder-bc-shaded@1.72?classifier=sources
+- pkg:maven/io.gatling/gatling-recorder-bc-shaded@1.73
+- pkg:maven/io.gatling/gatling-recorder-bc-shaded@1.73?classifier=sources

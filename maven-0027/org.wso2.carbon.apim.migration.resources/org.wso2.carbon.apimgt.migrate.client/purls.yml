@@ -23,6 +23,8 @@
 - pkg:maven/org.wso2.carbon.apim.migration.resources/org.wso2.carbon.apimgt.migrate.client@4.1.0.51?classifier=sources
 - pkg:maven/org.wso2.carbon.apim.migration.resources/org.wso2.carbon.apimgt.migrate.client@4.1.0.52?classifier=sources
 - pkg:maven/org.wso2.carbon.apim.migration.resources/org.wso2.carbon.apimgt.migrate.client@4.1.0.53?classifier=sources
+- pkg:maven/org.wso2.carbon.apim.migration.resources/org.wso2.carbon.apimgt.migrate.client@4.1.0.54?classifier=sources
+- pkg:maven/org.wso2.carbon.apim.migration.resources/org.wso2.carbon.apimgt.migrate.client@4.1.0.55?classifier=sources
 - pkg:maven/org.wso2.carbon.apim.migration.resources/org.wso2.carbon.apimgt.migrate.client@4.2.0.10?classifier=sources
 - pkg:maven/org.wso2.carbon.apim.migration.resources/org.wso2.carbon.apimgt.migrate.client@4.2.0.11?classifier=sources
 - pkg:maven/org.wso2.carbon.apim.migration.resources/org.wso2.carbon.apimgt.migrate.client@4.2.0.12?classifier=sources

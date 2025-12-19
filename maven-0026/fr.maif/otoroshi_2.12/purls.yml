@@ -106,3 +106,9 @@
 - pkg:maven/fr.maif/otoroshi_2.12@16.2.0?classifier=sources
 - pkg:maven/fr.maif/otoroshi_2.12@16.2.1
 - pkg:maven/fr.maif/otoroshi_2.12@16.2.1?classifier=sources
+- pkg:maven/fr.maif/otoroshi_2.12@16.3.0
+- pkg:maven/fr.maif/otoroshi_2.12@16.3.0?classifier=sources
+- pkg:maven/fr.maif/otoroshi_2.12@16.3.1
+- pkg:maven/fr.maif/otoroshi_2.12@16.3.1?classifier=sources
+- pkg:maven/fr.maif/otoroshi_2.12@16.3.2
+- pkg:maven/fr.maif/otoroshi_2.12@16.3.2?classifier=sources

@@ -104,6 +104,8 @@
 - pkg:maven/com.zuunr/json@0.1.0.M57-56b3738?classifier=sources
 - pkg:maven/com.zuunr/json@0.1.0.M58-fe17306
 - pkg:maven/com.zuunr/json@0.1.0.M58-fe17306?classifier=sources
+- pkg:maven/com.zuunr/json@0.1.0.M59-3d3b798
+- pkg:maven/com.zuunr/json@0.1.0.M59-3d3b798?classifier=sources
 - pkg:maven/com.zuunr/json@0.1.0.M7-e037891
 - pkg:maven/com.zuunr/json@0.1.0.M7-e037891?classifier=sources
 - pkg:maven/com.zuunr/json@0.1.0.M8-148d65d

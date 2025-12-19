@@ -60,3 +60,7 @@
 - pkg:maven/com.brentcroft.tools/el-driver@01.01.37?classifier=sources
 - pkg:maven/com.brentcroft.tools/el-driver@01.01.38
 - pkg:maven/com.brentcroft.tools/el-driver@01.01.38?classifier=sources
+- pkg:maven/com.brentcroft.tools/el-driver@01.01.39
+- pkg:maven/com.brentcroft.tools/el-driver@01.01.39?classifier=sources
+- pkg:maven/com.brentcroft.tools/el-driver@01.01.40
+- pkg:maven/com.brentcroft.tools/el-driver@01.01.40?classifier=sources

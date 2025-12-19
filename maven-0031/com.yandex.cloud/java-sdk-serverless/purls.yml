@@ -1,0 +1,2 @@
+- pkg:maven/com.yandex.cloud/java-sdk-serverless@2.6.2
+- pkg:maven/com.yandex.cloud/java-sdk-serverless@2.6.2?classifier=sources

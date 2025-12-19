@@ -1,0 +1,2 @@
+- pkg:maven/ch.sbs.preptools/wordhierarchy@1.5
+- pkg:maven/ch.sbs.preptools/wordhierarchy@1.5?classifier=sources

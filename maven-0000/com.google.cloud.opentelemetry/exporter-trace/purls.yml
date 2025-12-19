@@ -18,6 +18,7 @@
 - pkg:maven/com.google.cloud.opentelemetry/exporter-trace@0.22.0?classifier=sources
 - pkg:maven/com.google.cloud.opentelemetry/exporter-trace@0.23.0?classifier=sources
 - pkg:maven/com.google.cloud.opentelemetry/exporter-trace@0.24.0?classifier=sources
+- pkg:maven/com.google.cloud.opentelemetry/exporter-trace@0.25.0?classifier=sources
 - pkg:maven/com.google.cloud.opentelemetry/exporter-trace@0.7.1
 - pkg:maven/com.google.cloud.opentelemetry/exporter-trace@0.7.1?classifier=sources
 - pkg:maven/com.google.cloud.opentelemetry/exporter-trace@0.9.1

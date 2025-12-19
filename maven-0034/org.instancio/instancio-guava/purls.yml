@@ -1,0 +1,6 @@
+- pkg:maven/org.instancio/instancio-guava@2.13.0
+- pkg:maven/org.instancio/instancio-guava@2.13.0?classifier=sources
+- pkg:maven/org.instancio/instancio-guava@2.14.0
+- pkg:maven/org.instancio/instancio-guava@2.14.0?classifier=sources
+- pkg:maven/org.instancio/instancio-guava@2.15.0
+- pkg:maven/org.instancio/instancio-guava@2.15.0?classifier=sources

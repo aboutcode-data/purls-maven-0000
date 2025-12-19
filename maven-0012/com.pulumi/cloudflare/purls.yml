@@ -33,3 +33,8 @@
 - pkg:maven/com.pulumi/cloudflare@5.0.0?classifier=sources
 - pkg:maven/com.pulumi/cloudflare@5.1.0-alpha.1679352776%2B1272da37?classifier=sources
 - pkg:maven/com.pulumi/cloudflare@5.1.0-alpha.1679413174%2B3b136a5f?classifier=sources
+- pkg:maven/com.pulumi/cloudflare@5.1.0-alpha.1680908118%2B067cd5d3?classifier=sources
+- pkg:maven/com.pulumi/cloudflare@5.1.0-alpha.1681424405%2B3132c031?classifier=sources
+- pkg:maven/com.pulumi/cloudflare@5.1.0-alpha.1681927423%2B2e231f73?classifier=sources
+- pkg:maven/com.pulumi/cloudflare@5.1.0-alpha.1683264195%2Bf4dd6d5f?classifier=sources
+- pkg:maven/com.pulumi/cloudflare@5.1.0-alpha.1683350427%2Bc59b562a?classifier=sources

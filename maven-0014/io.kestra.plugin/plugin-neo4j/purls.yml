@@ -1,1 +1,2 @@
 - pkg:maven/io.kestra.plugin/plugin-neo4j@0.6.0?classifier=sources
+- pkg:maven/io.kestra.plugin/plugin-neo4j@0.8.0?classifier=sources

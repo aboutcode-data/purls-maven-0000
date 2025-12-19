@@ -12,3 +12,5 @@
 - pkg:maven/org.scala-sbt.sbt-giter8-resolver/sbt-giter8-resolver_2.12@0.14.0?classifier=sources
 - pkg:maven/org.scala-sbt.sbt-giter8-resolver/sbt-giter8-resolver_2.12@0.15.0
 - pkg:maven/org.scala-sbt.sbt-giter8-resolver/sbt-giter8-resolver_2.12@0.15.0?classifier=sources
+- pkg:maven/org.scala-sbt.sbt-giter8-resolver/sbt-giter8-resolver_2.12@0.16.2
+- pkg:maven/org.scala-sbt.sbt-giter8-resolver/sbt-giter8-resolver_2.12@0.16.2?classifier=sources

@@ -1,1 +1,3 @@
 - pkg:maven/io.digified/biometric-lite@1.0.3?classifier=sources
+- pkg:maven/io.digified/biometric-lite@1.3.4?classifier=sources
+- pkg:maven/io.digified/biometric-lite@1.3.5?classifier=sources

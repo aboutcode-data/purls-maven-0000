@@ -15,3 +15,4 @@
 - pkg:maven/ru.vyarus/guice-ext-annotations@1.4.0?classifier=sources
 - pkg:maven/ru.vyarus/guice-ext-annotations@1.4.1?classifier=sources
 - pkg:maven/ru.vyarus/guice-ext-annotations@2.0.0?classifier=sources
+- pkg:maven/ru.vyarus/guice-ext-annotations@2.0.1?classifier=sources

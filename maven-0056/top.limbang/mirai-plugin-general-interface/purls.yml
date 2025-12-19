@@ -1,3 +1,4 @@
 - pkg:maven/top.limbang/mirai-plugin-general-interface@0.0.1-alpha.1?classifier=sources
 - pkg:maven/top.limbang/mirai-plugin-general-interface@1.0.0?classifier=sources
 - pkg:maven/top.limbang/mirai-plugin-general-interface@1.0.1?classifier=sources
+- pkg:maven/top.limbang/mirai-plugin-general-interface@1.0.2?classifier=sources

@@ -182,3 +182,7 @@
 - pkg:maven/org.scala-sbt/util-logging_2.12@1.8.2?classifier=sources
 - pkg:maven/org.scala-sbt/util-logging_2.12@1.9.0-M1
 - pkg:maven/org.scala-sbt/util-logging_2.12@1.9.0-M1?classifier=sources
+- pkg:maven/org.scala-sbt/util-logging_2.12@1.9.0-RC1
+- pkg:maven/org.scala-sbt/util-logging_2.12@1.9.0-RC1?classifier=sources
+- pkg:maven/org.scala-sbt/util-logging_2.12@1.9.0-RC2
+- pkg:maven/org.scala-sbt/util-logging_2.12@1.9.0-RC2?classifier=sources

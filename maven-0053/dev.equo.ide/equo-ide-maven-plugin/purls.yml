@@ -25,3 +25,4 @@
 - pkg:maven/dev.equo.ide/equo-ide-maven-plugin@0.7.0?classifier=sources
 - pkg:maven/dev.equo.ide/equo-ide-maven-plugin@0.8.0?classifier=sources
 - pkg:maven/dev.equo.ide/equo-ide-maven-plugin@0.9.0?classifier=sources
+- pkg:maven/dev.equo.ide/equo-ide-maven-plugin@1.0.0?classifier=sources

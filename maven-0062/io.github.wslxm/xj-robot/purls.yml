@@ -1,0 +1,3 @@
+- pkg:maven/io.github.wslxm/xj-robot@2.1.8?classifier=sources
+- pkg:maven/io.github.wslxm/xj-robot@2.1.9
+- pkg:maven/io.github.wslxm/xj-robot@2.1.9?classifier=sources

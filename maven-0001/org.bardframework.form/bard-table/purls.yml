@@ -14,3 +14,5 @@
 - pkg:maven/org.bardframework.form/bard-table@1.7.4?classifier=sources
 - pkg:maven/org.bardframework.form/bard-table@1.9.4
 - pkg:maven/org.bardframework.form/bard-table@1.9.4?classifier=sources
+- pkg:maven/org.bardframework.form/bard-table@2.1.4
+- pkg:maven/org.bardframework.form/bard-table@2.1.4?classifier=sources

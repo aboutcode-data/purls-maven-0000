@@ -4,3 +4,7 @@
 - pkg:maven/ch.dvbern.oss.iso20022/iso20022-ch-impl@5.0.0?classifier=sources
 - pkg:maven/ch.dvbern.oss.iso20022/iso20022-ch-impl@6.0.0
 - pkg:maven/ch.dvbern.oss.iso20022/iso20022-ch-impl@6.0.0?classifier=sources
+- pkg:maven/ch.dvbern.oss.iso20022/iso20022-ch-impl@6.1.0
+- pkg:maven/ch.dvbern.oss.iso20022/iso20022-ch-impl@6.1.0?classifier=sources
+- pkg:maven/ch.dvbern.oss.iso20022/iso20022-ch-impl@6.1.1
+- pkg:maven/ch.dvbern.oss.iso20022/iso20022-ch-impl@6.1.1?classifier=sources

@@ -6,5 +6,11 @@
 - pkg:maven/com.github.lolgab/mill-mima_mill0.10_2.13@0.0.12?classifier=sources
 - pkg:maven/com.github.lolgab/mill-mima_mill0.10_2.13@0.0.13
 - pkg:maven/com.github.lolgab/mill-mima_mill0.10_2.13@0.0.13?classifier=sources
+- pkg:maven/com.github.lolgab/mill-mima_mill0.10_2.13@0.0.17
+- pkg:maven/com.github.lolgab/mill-mima_mill0.10_2.13@0.0.17?classifier=sources
+- pkg:maven/com.github.lolgab/mill-mima_mill0.10_2.13@0.0.18
+- pkg:maven/com.github.lolgab/mill-mima_mill0.10_2.13@0.0.18?classifier=sources
+- pkg:maven/com.github.lolgab/mill-mima_mill0.10_2.13@0.0.19
+- pkg:maven/com.github.lolgab/mill-mima_mill0.10_2.13@0.0.19?classifier=sources
 - pkg:maven/com.github.lolgab/mill-mima_mill0.10_2.13@0.0.9
 - pkg:maven/com.github.lolgab/mill-mima_mill0.10_2.13@0.0.9?classifier=sources

@@ -2,3 +2,4 @@
 - pkg:maven/org.apache.flex.blazeds/blazeds@4.7.1?classifier=source-release&type=zip
 - pkg:maven/org.apache.flex.blazeds/blazeds@4.7.2?classifier=source-release&type=zip
 - pkg:maven/org.apache.flex.blazeds/blazeds@4.7.3?classifier=source-release&type=zip
+- pkg:maven/org.apache.flex.blazeds/blazeds@4.8.0?classifier=source-release&type=zip

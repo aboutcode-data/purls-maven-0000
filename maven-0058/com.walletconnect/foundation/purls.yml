@@ -7,3 +7,4 @@
 - pkg:maven/com.walletconnect/foundation@1.6.0?classifier=sources
 - pkg:maven/com.walletconnect/foundation@1.6.1?classifier=sources
 - pkg:maven/com.walletconnect/foundation@1.7.0?classifier=sources
+- pkg:maven/com.walletconnect/foundation@1.8.0?classifier=sources

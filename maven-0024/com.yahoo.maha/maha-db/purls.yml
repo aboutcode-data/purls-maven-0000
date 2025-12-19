@@ -66,6 +66,8 @@
 - pkg:maven/com.yahoo.maha/maha-db@6.134?classifier=sources
 - pkg:maven/com.yahoo.maha/maha-db@6.135
 - pkg:maven/com.yahoo.maha/maha-db@6.135?classifier=sources
+- pkg:maven/com.yahoo.maha/maha-db@6.136
+- pkg:maven/com.yahoo.maha/maha-db@6.136?classifier=sources
 - pkg:maven/com.yahoo.maha/maha-db@6.53
 - pkg:maven/com.yahoo.maha/maha-db@6.53?classifier=sources
 - pkg:maven/com.yahoo.maha/maha-db@6.54

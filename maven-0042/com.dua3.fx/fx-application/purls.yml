@@ -49,3 +49,7 @@
 - pkg:maven/com.dua3.fx/fx-application@0.21.2?classifier=sources
 - pkg:maven/com.dua3.fx/fx-application@0.22.0?classifier=sources
 - pkg:maven/com.dua3.fx/fx-application@0.23.0?classifier=sources
+- pkg:maven/com.dua3.fx/fx-application@0.24.0?classifier=sources
+- pkg:maven/com.dua3.fx/fx-application@0.25.0-M2?classifier=sources
+- pkg:maven/com.dua3.fx/fx-application@0.25.0?classifier=sources
+- pkg:maven/com.dua3.fx/fx-application@0.26.0?classifier=sources
