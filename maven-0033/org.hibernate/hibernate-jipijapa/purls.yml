@@ -105,6 +105,7 @@
 - pkg:maven/org.hibernate/hibernate-jipijapa@5.4.30.Final?classifier=sources
 - pkg:maven/org.hibernate/hibernate-jipijapa@5.4.31.Final?classifier=sources
 - pkg:maven/org.hibernate/hibernate-jipijapa@5.4.32.Final?classifier=sources
+- pkg:maven/org.hibernate/hibernate-jipijapa@5.4.33.Final?classifier=sources
 - pkg:maven/org.hibernate/hibernate-jipijapa@5.4.33?classifier=sources
 - pkg:maven/org.hibernate/hibernate-jipijapa@5.4.4.Final
 - pkg:maven/org.hibernate/hibernate-jipijapa@5.4.4.Final?classifier=sources

@@ -1,2 +1,6 @@
+- pkg:maven/com.github.loren-wang/AndroidKotlinCustomToolsFromLorenWang@2.0.0-alpha01?classifier=sources
+- pkg:maven/com.github.loren-wang/AndroidKotlinCustomToolsFromLorenWang@2.0.0-alpha01?type=aar
+- pkg:maven/com.github.loren-wang/AndroidKotlinCustomToolsFromLorenWang@2.0.0-alpha02?classifier=sources
+- pkg:maven/com.github.loren-wang/AndroidKotlinCustomToolsFromLorenWang@2.0.0-alpha02?type=aar
 - pkg:maven/com.github.loren-wang/AndroidKotlinCustomToolsFromLorenWang@2.0.0?classifier=sources
 - pkg:maven/com.github.loren-wang/AndroidKotlinCustomToolsFromLorenWang@2.0.0?type=aar

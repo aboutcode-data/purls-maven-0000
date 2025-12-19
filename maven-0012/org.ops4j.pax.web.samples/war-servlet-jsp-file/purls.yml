@@ -1,1 +1,2 @@
 - pkg:maven/org.ops4j.pax.web.samples/war-servlet-jsp-file@8.0.0?type=war
+- pkg:maven/org.ops4j.pax.web.samples/war-servlet-jsp-file@8.0.1?type=war

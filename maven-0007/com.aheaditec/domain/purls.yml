@@ -1,0 +1,3 @@
+- pkg:maven/com.aheaditec/domain@0.0.0?classifier=sources
+- pkg:maven/com.aheaditec/domain@1.0.0?classifier=sources
+- pkg:maven/com.aheaditec/domain@1.0.1?classifier=sources

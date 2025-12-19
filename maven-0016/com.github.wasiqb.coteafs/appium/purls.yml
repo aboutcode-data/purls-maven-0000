@@ -42,3 +42,5 @@
 - pkg:maven/com.github.wasiqb.coteafs/appium@4.0.0?classifier=sources
 - pkg:maven/com.github.wasiqb.coteafs/appium@4.1.0
 - pkg:maven/com.github.wasiqb.coteafs/appium@4.1.0?classifier=sources
+- pkg:maven/com.github.wasiqb.coteafs/appium@4.2.0
+- pkg:maven/com.github.wasiqb.coteafs/appium@4.2.0?classifier=sources

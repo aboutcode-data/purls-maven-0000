@@ -1,0 +1,2 @@
+- pkg:maven/io.alapierre.crypto/cipher@1.1
+- pkg:maven/io.alapierre.crypto/cipher@1.1?classifier=sources

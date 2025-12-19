@@ -5,6 +5,12 @@
 - pkg:maven/org.opencastproject/opencast-editor@10.4
 - pkg:maven/org.opencastproject/opencast-editor@10.5
 - pkg:maven/org.opencastproject/opencast-editor@10.6
+- pkg:maven/org.opencastproject/opencast-editor@10.7
+- pkg:maven/org.opencastproject/opencast-editor@10.8
+- pkg:maven/org.opencastproject/opencast-editor@11.0
+- pkg:maven/org.opencastproject/opencast-editor@11.1
+- pkg:maven/org.opencastproject/opencast-editor@11.2
+- pkg:maven/org.opencastproject/opencast-editor@11.3
 - pkg:maven/org.opencastproject/opencast-editor@9.10
 - pkg:maven/org.opencastproject/opencast-editor@9.11
 - pkg:maven/org.opencastproject/opencast-editor@9.12

@@ -102,3 +102,5 @@
 - pkg:maven/org.talend.sdk.component/component-uispec-mapper@1.39.3?classifier=sources
 - pkg:maven/org.talend.sdk.component/component-uispec-mapper@1.40.0
 - pkg:maven/org.talend.sdk.component/component-uispec-mapper@1.40.0?classifier=sources
+- pkg:maven/org.talend.sdk.component/component-uispec-mapper@1.41.0
+- pkg:maven/org.talend.sdk.component/component-uispec-mapper@1.41.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/de.sfuhrm/jaad@0.8.7
+- pkg:maven/de.sfuhrm/jaad@0.8.7?classifier=sources

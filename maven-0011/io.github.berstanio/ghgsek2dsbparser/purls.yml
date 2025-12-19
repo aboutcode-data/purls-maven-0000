@@ -14,3 +14,5 @@
 - pkg:maven/io.github.berstanio/ghgsek2dsbparser@1.2.7?classifier=sources
 - pkg:maven/io.github.berstanio/ghgsek2dsbparser@1.2.8
 - pkg:maven/io.github.berstanio/ghgsek2dsbparser@1.2.8?classifier=sources
+- pkg:maven/io.github.berstanio/ghgsek2dsbparser@1.3.0
+- pkg:maven/io.github.berstanio/ghgsek2dsbparser@1.3.0?classifier=sources

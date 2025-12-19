@@ -6,3 +6,5 @@
 - pkg:maven/biz.aQute/biz.aQute.osgi.logger.console.provider@1.7.0?classifier=sources
 - pkg:maven/biz.aQute/biz.aQute.osgi.logger.console.provider@1.8.0
 - pkg:maven/biz.aQute/biz.aQute.osgi.logger.console.provider@1.8.0?classifier=sources
+- pkg:maven/biz.aQute/biz.aQute.osgi.logger.console.provider@1.9.0
+- pkg:maven/biz.aQute/biz.aQute.osgi.logger.console.provider@1.9.0?classifier=sources

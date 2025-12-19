@@ -1,0 +1,4 @@
+- pkg:maven/cn.dustlight.fun/fun-kubeless@0.0.2-alpha-1
+- pkg:maven/cn.dustlight.fun/fun-kubeless@0.0.2-alpha-1?classifier=sources
+- pkg:maven/cn.dustlight.fun/fun-kubeless@0.0.3-alpha
+- pkg:maven/cn.dustlight.fun/fun-kubeless@0.0.3-alpha?classifier=sources

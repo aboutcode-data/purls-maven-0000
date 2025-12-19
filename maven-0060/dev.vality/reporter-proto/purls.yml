@@ -1,0 +1,4 @@
+- pkg:maven/dev.vality/reporter-proto@1.10-dc22be9
+- pkg:maven/dev.vality/reporter-proto@1.10-dc22be9?classifier=sources
+- pkg:maven/dev.vality/reporter-proto@1.12-1b6fbe9
+- pkg:maven/dev.vality/reporter-proto@1.12-1b6fbe9?classifier=sources

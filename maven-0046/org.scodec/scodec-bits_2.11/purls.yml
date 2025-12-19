@@ -70,12 +70,16 @@
 - pkg:maven/org.scodec/scodec-bits_2.11@1.1-21-320cb79?classifier=sources
 - pkg:maven/org.scodec/scodec-bits_2.11@1.1-22-d72d367
 - pkg:maven/org.scodec/scodec-bits_2.11@1.1-22-d72d367?classifier=sources
+- pkg:maven/org.scodec/scodec-bits_2.11@1.1-23-e1fd764
+- pkg:maven/org.scodec/scodec-bits_2.11@1.1-23-e1fd764?classifier=sources
 - pkg:maven/org.scodec/scodec-bits_2.11@1.1-23-e7186c2
 - pkg:maven/org.scodec/scodec-bits_2.11@1.1-23-e7186c2?classifier=sources
 - pkg:maven/org.scodec/scodec-bits_2.11@1.1-25-4865e80
 - pkg:maven/org.scodec/scodec-bits_2.11@1.1-25-4865e80?classifier=sources
 - pkg:maven/org.scodec/scodec-bits_2.11@1.1-25-65ab64b
 - pkg:maven/org.scodec/scodec-bits_2.11@1.1-25-65ab64b?classifier=sources
+- pkg:maven/org.scodec/scodec-bits_2.11@1.1-25-e6a7c04
+- pkg:maven/org.scodec/scodec-bits_2.11@1.1-25-e6a7c04?classifier=sources
 - pkg:maven/org.scodec/scodec-bits_2.11@1.1-26-62b07c7
 - pkg:maven/org.scodec/scodec-bits_2.11@1.1-26-62b07c7?classifier=sources
 - pkg:maven/org.scodec/scodec-bits_2.11@1.1-28-0a14d1b

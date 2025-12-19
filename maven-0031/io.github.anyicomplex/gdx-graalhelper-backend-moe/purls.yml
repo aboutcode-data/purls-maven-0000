@@ -1,0 +1,2 @@
+- pkg:maven/io.github.anyicomplex/gdx-graalhelper-backend-moe@1.10.0-beta2?classifier=sources
+- pkg:maven/io.github.anyicomplex/gdx-graalhelper-backend-moe@unspecified?classifier=sources

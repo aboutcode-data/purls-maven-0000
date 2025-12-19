@@ -12,6 +12,7 @@
 - pkg:maven/com.epam.dep.esp/gmp-tools@6.1.22?classifier=sources
 - pkg:maven/com.epam.dep.esp/gmp-tools@6.1.23?classifier=sources
 - pkg:maven/com.epam.dep.esp/gmp-tools@6.1.24?classifier=sources
+- pkg:maven/com.epam.dep.esp/gmp-tools@6.1.25?classifier=sources
 - pkg:maven/com.epam.dep.esp/gmp-tools@6.1.2?classifier=sources
 - pkg:maven/com.epam.dep.esp/gmp-tools@6.1.7
 - pkg:maven/com.epam.dep.esp/gmp-tools@6.1.7?classifier=sources

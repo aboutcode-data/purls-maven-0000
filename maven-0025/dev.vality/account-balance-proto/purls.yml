@@ -1,0 +1,4 @@
+- pkg:maven/dev.vality/account-balance-proto@1.1-9cc209c
+- pkg:maven/dev.vality/account-balance-proto@1.1-9cc209c?classifier=sources
+- pkg:maven/dev.vality/account-balance-proto@1.7-ff1c05a
+- pkg:maven/dev.vality/account-balance-proto@1.7-ff1c05a?classifier=sources

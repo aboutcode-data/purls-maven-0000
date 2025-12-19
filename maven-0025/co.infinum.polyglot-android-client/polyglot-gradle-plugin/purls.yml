@@ -5,3 +5,4 @@
 - pkg:maven/co.infinum.polyglot-android-client/polyglot-gradle-plugin@1.0.14?classifier=sources
 - pkg:maven/co.infinum.polyglot-android-client/polyglot-gradle-plugin@1.0.15?classifier=sources
 - pkg:maven/co.infinum.polyglot-android-client/polyglot-gradle-plugin@1.0.16?classifier=sources
+- pkg:maven/co.infinum.polyglot-android-client/polyglot-gradle-plugin@1.1.0-beta01?classifier=sources

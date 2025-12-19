@@ -1,0 +1,8 @@
+- pkg:maven/dev.j3ee/a8i@0.90
+- pkg:maven/dev.j3ee/a8i@0.90?classifier=sources
+- pkg:maven/dev.j3ee/a8i@0.91
+- pkg:maven/dev.j3ee/a8i@0.91?classifier=sources
+- pkg:maven/dev.j3ee/a8i@0.92
+- pkg:maven/dev.j3ee/a8i@0.92?classifier=sources
+- pkg:maven/dev.j3ee/a8i@0.93
+- pkg:maven/dev.j3ee/a8i@0.93?classifier=sources

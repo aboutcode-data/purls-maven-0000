@@ -18,3 +18,7 @@
 - pkg:maven/com.heavenark.infrastructure/ark-log-slf4j-support@2.6.1?classifier=sources
 - pkg:maven/com.heavenark.infrastructure/ark-log-slf4j-support@2.6.2
 - pkg:maven/com.heavenark.infrastructure/ark-log-slf4j-support@2.6.2?classifier=sources
+- pkg:maven/com.heavenark.infrastructure/ark-log-slf4j-support@2.6.3
+- pkg:maven/com.heavenark.infrastructure/ark-log-slf4j-support@2.6.3?classifier=sources
+- pkg:maven/com.heavenark.infrastructure/ark-log-slf4j-support@2.7.1
+- pkg:maven/com.heavenark.infrastructure/ark-log-slf4j-support@2.7.1?classifier=sources

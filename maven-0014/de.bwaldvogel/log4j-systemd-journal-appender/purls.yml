@@ -29,3 +29,4 @@
 - pkg:maven/de.bwaldvogel/log4j-systemd-journal-appender@2.4.0
 - pkg:maven/de.bwaldvogel/log4j-systemd-journal-appender@2.4.0?classifier=sources
 - pkg:maven/de.bwaldvogel/log4j-systemd-journal-appender@2.5.0?classifier=sources
+- pkg:maven/de.bwaldvogel/log4j-systemd-journal-appender@2.5.1?classifier=sources

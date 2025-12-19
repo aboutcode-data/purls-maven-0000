@@ -1,0 +1,8 @@
+- pkg:maven/dev.vality/identification-proto@1.10-8e215c0
+- pkg:maven/dev.vality/identification-proto@1.10-8e215c0?classifier=sources
+- pkg:maven/dev.vality/identification-proto@1.7-2330fac
+- pkg:maven/dev.vality/identification-proto@1.7-2330fac?classifier=sources
+- pkg:maven/dev.vality/identification-proto@1.8-60e790e
+- pkg:maven/dev.vality/identification-proto@1.8-60e790e?classifier=sources
+- pkg:maven/dev.vality/identification-proto@1.9-700548b
+- pkg:maven/dev.vality/identification-proto@1.9-700548b?classifier=sources

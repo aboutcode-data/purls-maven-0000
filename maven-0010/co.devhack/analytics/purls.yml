@@ -3,3 +3,4 @@
 - pkg:maven/co.devhack/analytics@0.9.2?classifier=sources
 - pkg:maven/co.devhack/analytics@1.0.0?classifier=sources
 - pkg:maven/co.devhack/analytics@1.0.1?classifier=sources
+- pkg:maven/co.devhack/analytics@1.0.2-beta01?classifier=sources

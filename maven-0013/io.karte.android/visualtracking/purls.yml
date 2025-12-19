@@ -12,3 +12,5 @@
 - pkg:maven/io.karte.android/visualtracking@2.4.0?type=aar
 - pkg:maven/io.karte.android/visualtracking@2.5.0?classifier=sources
 - pkg:maven/io.karte.android/visualtracking@2.5.0?type=aar
+- pkg:maven/io.karte.android/visualtracking@2.6.0?classifier=sources
+- pkg:maven/io.karte.android/visualtracking@2.6.0?type=aar

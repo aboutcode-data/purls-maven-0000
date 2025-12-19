@@ -182,6 +182,8 @@
 - pkg:maven/org.apache.jackrabbit/jackrabbit-webdav@2.16.7?classifier=sources
 - pkg:maven/org.apache.jackrabbit/jackrabbit-webdav@2.16.8
 - pkg:maven/org.apache.jackrabbit/jackrabbit-webdav@2.16.8?classifier=sources
+- pkg:maven/org.apache.jackrabbit/jackrabbit-webdav@2.16.9
+- pkg:maven/org.apache.jackrabbit/jackrabbit-webdav@2.16.9?classifier=sources
 - pkg:maven/org.apache.jackrabbit/jackrabbit-webdav@2.17.0
 - pkg:maven/org.apache.jackrabbit/jackrabbit-webdav@2.17.0?classifier=sources
 - pkg:maven/org.apache.jackrabbit/jackrabbit-webdav@2.17.1
@@ -263,6 +265,8 @@
 - pkg:maven/org.apache.jackrabbit/jackrabbit-webdav@2.21.0
 - pkg:maven/org.apache.jackrabbit/jackrabbit-webdav@2.21.0?classifier=sources
 - pkg:maven/org.apache.jackrabbit/jackrabbit-webdav@2.21.1
+- pkg:maven/org.apache.jackrabbit/jackrabbit-webdav@2.21.10
+- pkg:maven/org.apache.jackrabbit/jackrabbit-webdav@2.21.10?classifier=sources
 - pkg:maven/org.apache.jackrabbit/jackrabbit-webdav@2.21.1?classifier=sources
 - pkg:maven/org.apache.jackrabbit/jackrabbit-webdav@2.21.2
 - pkg:maven/org.apache.jackrabbit/jackrabbit-webdav@2.21.2?classifier=sources

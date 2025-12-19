@@ -68,3 +68,5 @@
 - pkg:maven/org.kie.soup/kie-soup-dataset-sql-tests@7.62.0.Final
 - pkg:maven/org.kie.soup/kie-soup-dataset-sql-tests@7.63.0.Final
 - pkg:maven/org.kie.soup/kie-soup-dataset-sql-tests@7.63.0.t20211129
+- pkg:maven/org.kie.soup/kie-soup-dataset-sql-tests@7.64.0.Final
+- pkg:maven/org.kie.soup/kie-soup-dataset-sql-tests@7.65.0.Final

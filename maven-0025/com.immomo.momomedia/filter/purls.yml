@@ -18,6 +18,12 @@
 - pkg:maven/com.immomo.momomedia/filter@2.3.1-20211108144304?type=aar
 - pkg:maven/com.immomo.momomedia/filter@2.3.1-20211223124307?classifier=sources
 - pkg:maven/com.immomo.momomedia/filter@2.3.1-20211223124307?type=aar
+- pkg:maven/com.immomo.momomedia/filter@2.3.1-20211229163703?classifier=sources
+- pkg:maven/com.immomo.momomedia/filter@2.3.1-20211229163703?type=aar
+- pkg:maven/com.immomo.momomedia/filter@2.3.1-20211230154701?classifier=sources
+- pkg:maven/com.immomo.momomedia/filter@2.3.1-20211230154701?type=aar
+- pkg:maven/com.immomo.momomedia/filter@2.3.1-20220105154701?classifier=sources
+- pkg:maven/com.immomo.momomedia/filter@2.3.1-20220105154701?type=aar
 - pkg:maven/com.immomo.momomedia/filter@2.4.1-20210929000001?classifier=sources
 - pkg:maven/com.immomo.momomedia/filter@2.4.1-20210929000001?type=aar
 - pkg:maven/com.immomo.momomedia/filter@2.4.1-20211011000001?classifier=sources
@@ -26,3 +32,5 @@
 - pkg:maven/com.immomo.momomedia/filter@2.4.2-20211211000001?type=aar
 - pkg:maven/com.immomo.momomedia/filter@3.0.0-2021112901?classifier=sources
 - pkg:maven/com.immomo.momomedia/filter@3.0.0-2021112901?type=aar
+- pkg:maven/com.immomo.momomedia/filter@3.0.0-2021122901?classifier=sources
+- pkg:maven/com.immomo.momomedia/filter@3.0.0-2021122901?type=aar

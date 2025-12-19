@@ -2,3 +2,5 @@
 - pkg:maven/org.geckoprojects.emf/org.gecko.emf.osgi.codegen@3.4.0?classifier=sources
 - pkg:maven/org.geckoprojects.emf/org.gecko.emf.osgi.codegen@4.0.0
 - pkg:maven/org.geckoprojects.emf/org.gecko.emf.osgi.codegen@4.0.0?classifier=sources
+- pkg:maven/org.geckoprojects.emf/org.gecko.emf.osgi.codegen@4.1.0.202202101728
+- pkg:maven/org.geckoprojects.emf/org.gecko.emf.osgi.codegen@4.1.0.202202101728?classifier=sources

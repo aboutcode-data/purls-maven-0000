@@ -1,0 +1,4 @@
+- pkg:maven/io.github.lavrov.src/cli_native0.4_2.13@12
+- pkg:maven/io.github.lavrov.src/cli_native0.4_2.13@12?classifier=sources
+- pkg:maven/io.github.lavrov.src/cli_native0.4_2.13@9
+- pkg:maven/io.github.lavrov.src/cli_native0.4_2.13@9?classifier=sources

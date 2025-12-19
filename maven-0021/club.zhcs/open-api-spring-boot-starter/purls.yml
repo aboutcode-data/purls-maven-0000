@@ -1,0 +1,4 @@
+- pkg:maven/club.zhcs/open-api-spring-boot-starter@2.6.2
+- pkg:maven/club.zhcs/open-api-spring-boot-starter@2.6.2?classifier=sources
+- pkg:maven/club.zhcs/open-api-spring-boot-starter@2.6.3
+- pkg:maven/club.zhcs/open-api-spring-boot-starter@2.6.3?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/com.wangshouyu/wsy-plugins@1.0.0
+- pkg:maven/com.wangshouyu/wsy-plugins@1.0.0?classifier=sources
+- pkg:maven/com.wangshouyu/wsy-plugins@1.0.1-alpha
+- pkg:maven/com.wangshouyu/wsy-plugins@1.0.1-alpha?classifier=sources

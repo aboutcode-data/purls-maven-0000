@@ -1,0 +1,2 @@
+- pkg:maven/wang.bannong/jart-web@0.0.47-RC
+- pkg:maven/wang.bannong/jart-web@0.0.47-RC?classifier=sources

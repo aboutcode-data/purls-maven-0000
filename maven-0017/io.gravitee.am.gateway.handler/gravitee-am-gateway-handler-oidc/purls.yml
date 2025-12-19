@@ -54,6 +54,7 @@
 - pkg:maven/io.gravitee.am.gateway.handler/gravitee-am-gateway-handler-oidc@3.10.10?classifier=sources
 - pkg:maven/io.gravitee.am.gateway.handler/gravitee-am-gateway-handler-oidc@3.10.11?classifier=sources
 - pkg:maven/io.gravitee.am.gateway.handler/gravitee-am-gateway-handler-oidc@3.10.12?classifier=sources
+- pkg:maven/io.gravitee.am.gateway.handler/gravitee-am-gateway-handler-oidc@3.10.13?classifier=sources
 - pkg:maven/io.gravitee.am.gateway.handler/gravitee-am-gateway-handler-oidc@3.10.1?classifier=sources
 - pkg:maven/io.gravitee.am.gateway.handler/gravitee-am-gateway-handler-oidc@3.10.2?classifier=sources
 - pkg:maven/io.gravitee.am.gateway.handler/gravitee-am-gateway-handler-oidc@3.10.3?classifier=sources
@@ -77,8 +78,13 @@
 - pkg:maven/io.gravitee.am.gateway.handler/gravitee-am-gateway-handler-oidc@3.13.1?classifier=sources
 - pkg:maven/io.gravitee.am.gateway.handler/gravitee-am-gateway-handler-oidc@3.13.2?classifier=sources
 - pkg:maven/io.gravitee.am.gateway.handler/gravitee-am-gateway-handler-oidc@3.13.3?classifier=sources
+- pkg:maven/io.gravitee.am.gateway.handler/gravitee-am-gateway-handler-oidc@3.13.4?classifier=sources
 - pkg:maven/io.gravitee.am.gateway.handler/gravitee-am-gateway-handler-oidc@3.14.0?classifier=sources
 - pkg:maven/io.gravitee.am.gateway.handler/gravitee-am-gateway-handler-oidc@3.14.1?classifier=sources
+- pkg:maven/io.gravitee.am.gateway.handler/gravitee-am-gateway-handler-oidc@3.14.2?classifier=sources
+- pkg:maven/io.gravitee.am.gateway.handler/gravitee-am-gateway-handler-oidc@3.14.3?classifier=sources
+- pkg:maven/io.gravitee.am.gateway.handler/gravitee-am-gateway-handler-oidc@3.14.4?classifier=sources
+- pkg:maven/io.gravitee.am.gateway.handler/gravitee-am-gateway-handler-oidc@3.15.0?classifier=sources
 - pkg:maven/io.gravitee.am.gateway.handler/gravitee-am-gateway-handler-oidc@3.2.0?classifier=sources
 - pkg:maven/io.gravitee.am.gateway.handler/gravitee-am-gateway-handler-oidc@3.2.1?classifier=sources
 - pkg:maven/io.gravitee.am.gateway.handler/gravitee-am-gateway-handler-oidc@3.2.2?classifier=sources

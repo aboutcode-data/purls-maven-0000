@@ -1,0 +1,2 @@
+- pkg:maven/io.github.nbl77/neosting-lib@1.0.1
+- pkg:maven/io.github.nbl77/neosting-lib@1.0.1?classifier=sources

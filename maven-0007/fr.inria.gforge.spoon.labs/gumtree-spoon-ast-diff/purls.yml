@@ -85,6 +85,12 @@
 - pkg:maven/fr.inria.gforge.spoon.labs/gumtree-spoon-ast-diff@1.45?classifier=sources
 - pkg:maven/fr.inria.gforge.spoon.labs/gumtree-spoon-ast-diff@1.46
 - pkg:maven/fr.inria.gforge.spoon.labs/gumtree-spoon-ast-diff@1.46?classifier=sources
+- pkg:maven/fr.inria.gforge.spoon.labs/gumtree-spoon-ast-diff@1.47
+- pkg:maven/fr.inria.gforge.spoon.labs/gumtree-spoon-ast-diff@1.47?classifier=sources
+- pkg:maven/fr.inria.gforge.spoon.labs/gumtree-spoon-ast-diff@1.48
+- pkg:maven/fr.inria.gforge.spoon.labs/gumtree-spoon-ast-diff@1.48?classifier=sources
+- pkg:maven/fr.inria.gforge.spoon.labs/gumtree-spoon-ast-diff@1.49
+- pkg:maven/fr.inria.gforge.spoon.labs/gumtree-spoon-ast-diff@1.49?classifier=sources
 - pkg:maven/fr.inria.gforge.spoon.labs/gumtree-spoon-ast-diff@1.4?classifier=sources
 - pkg:maven/fr.inria.gforge.spoon.labs/gumtree-spoon-ast-diff@1.5
 - pkg:maven/fr.inria.gforge.spoon.labs/gumtree-spoon-ast-diff@1.5?classifier=sources

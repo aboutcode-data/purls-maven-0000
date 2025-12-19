@@ -1,0 +1,2 @@
+- pkg:maven/com.aliyun/aliyun-java-sdk-finance-rule@3.0.3
+- pkg:maven/com.aliyun/aliyun-java-sdk-finance-rule@3.0.3?classifier=sources
