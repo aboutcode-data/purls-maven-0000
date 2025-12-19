@@ -10,3 +10,6 @@
 - pkg:maven/com.waitmoon.ice/ice-client-spring-boot-autoconfigure@0.0.8?classifier=sources
 - pkg:maven/com.waitmoon.ice/ice-client-spring-boot-autoconfigure@0.0.9
 - pkg:maven/com.waitmoon.ice/ice-client-spring-boot-autoconfigure@0.0.9?classifier=sources
+- pkg:maven/com.waitmoon.ice/ice-client-spring-boot-autoconfigure@1.0.0?classifier=sources
+- pkg:maven/com.waitmoon.ice/ice-client-spring-boot-autoconfigure@1.0.1
+- pkg:maven/com.waitmoon.ice/ice-client-spring-boot-autoconfigure@1.0.1?classifier=sources

@@ -12,3 +12,5 @@
 - pkg:maven/com.manorrock.parrot/parrot@21.9.0?classifier=sources
 - pkg:maven/com.manorrock.parrot/parrot@22.2.0
 - pkg:maven/com.manorrock.parrot/parrot@22.2.0?classifier=sources
+- pkg:maven/com.manorrock.parrot/parrot@22.5.0
+- pkg:maven/com.manorrock.parrot/parrot@22.5.0?classifier=sources

@@ -2,3 +2,4 @@
 - pkg:maven/org.netbeans.api/org-netbeans-modules-java-j2seplatform@RELEASE125?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-modules-java-j2seplatform@RELEASE126?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-modules-java-j2seplatform@RELEASE130?classifier=sources
+- pkg:maven/org.netbeans.api/org-netbeans-modules-java-j2seplatform@RELEASE140?classifier=sources

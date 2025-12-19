@@ -44,6 +44,14 @@
 - pkg:maven/com.criteo/jvips@8.12.1-a7b3f52?classifier=sources
 - pkg:maven/com.criteo/jvips@8.12.1-c46e83a
 - pkg:maven/com.criteo/jvips@8.12.1-c46e83a?classifier=sources
+- pkg:maven/com.criteo/jvips@8.12.2-0d94816
+- pkg:maven/com.criteo/jvips@8.12.2-0d94816?classifier=sources
+- pkg:maven/com.criteo/jvips@8.12.2-0ddcb01
+- pkg:maven/com.criteo/jvips@8.12.2-0ddcb01?classifier=sources
+- pkg:maven/com.criteo/jvips@8.12.2-69bf715
+- pkg:maven/com.criteo/jvips@8.12.2-69bf715?classifier=sources
+- pkg:maven/com.criteo/jvips@8.12.2-8e06653
+- pkg:maven/com.criteo/jvips@8.12.2-8e06653?classifier=sources
 - pkg:maven/com.criteo/jvips@8.8.3-6cad621
 - pkg:maven/com.criteo/jvips@8.8.3-6cad621?classifier=sources
 - pkg:maven/com.criteo/jvips@8.8.3-d2bd252

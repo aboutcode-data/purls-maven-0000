@@ -25,4 +25,8 @@
 - pkg:maven/io.appform.dropwizard.actors/dropwizard-rabbitmq-actors@2.0.23-4
 - pkg:maven/io.appform.dropwizard.actors/dropwizard-rabbitmq-actors@2.0.23-4?classifier=sources
 - pkg:maven/io.appform.dropwizard.actors/dropwizard-rabbitmq-actors@2.0.28
+- pkg:maven/io.appform.dropwizard.actors/dropwizard-rabbitmq-actors@2.0.28-1
+- pkg:maven/io.appform.dropwizard.actors/dropwizard-rabbitmq-actors@2.0.28-1?classifier=sources
+- pkg:maven/io.appform.dropwizard.actors/dropwizard-rabbitmq-actors@2.0.28-2
+- pkg:maven/io.appform.dropwizard.actors/dropwizard-rabbitmq-actors@2.0.28-2?classifier=sources
 - pkg:maven/io.appform.dropwizard.actors/dropwizard-rabbitmq-actors@2.0.28?classifier=sources

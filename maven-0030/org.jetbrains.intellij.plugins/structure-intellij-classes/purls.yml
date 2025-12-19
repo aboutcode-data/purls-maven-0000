@@ -49,3 +49,4 @@
 - pkg:maven/org.jetbrains.intellij.plugins/structure-intellij-classes@3.216?classifier=sources
 - pkg:maven/org.jetbrains.intellij.plugins/structure-intellij-classes@3.217?classifier=sources
 - pkg:maven/org.jetbrains.intellij.plugins/structure-intellij-classes@3.218?classifier=sources
+- pkg:maven/org.jetbrains.intellij.plugins/structure-intellij-classes@3.219?classifier=sources

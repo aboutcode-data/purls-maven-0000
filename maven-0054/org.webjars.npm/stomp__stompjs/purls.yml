@@ -30,3 +30,5 @@
 - pkg:maven/org.webjars.npm/stomp__stompjs@6.0.0?classifier=sources
 - pkg:maven/org.webjars.npm/stomp__stompjs@6.1.0
 - pkg:maven/org.webjars.npm/stomp__stompjs@6.1.0?classifier=sources
+- pkg:maven/org.webjars.npm/stomp__stompjs@6.1.2
+- pkg:maven/org.webjars.npm/stomp__stompjs@6.1.2?classifier=sources

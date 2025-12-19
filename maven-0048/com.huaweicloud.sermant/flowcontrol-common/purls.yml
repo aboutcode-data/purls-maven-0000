@@ -1,0 +1,4 @@
+- pkg:maven/com.huaweicloud.sermant/flowcontrol-common@0.2.4
+- pkg:maven/com.huaweicloud.sermant/flowcontrol-common@0.2.4?classifier=sources
+- pkg:maven/com.huaweicloud.sermant/flowcontrol-common@0.3.3
+- pkg:maven/com.huaweicloud.sermant/flowcontrol-common@0.3.3?classifier=sources

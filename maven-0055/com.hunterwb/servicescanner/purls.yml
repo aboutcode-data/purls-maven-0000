@@ -1,0 +1,2 @@
+- pkg:maven/com.hunterwb/servicescanner@0.1.3
+- pkg:maven/com.hunterwb/servicescanner@0.1.3?classifier=sources

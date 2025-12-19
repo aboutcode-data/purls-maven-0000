@@ -2,3 +2,6 @@
 - pkg:maven/top.wu2020/wu-easy-upsert-influxdb-sink@1.0.7-JDK1.8
 - pkg:maven/top.wu2020/wu-easy-upsert-influxdb-sink@1.0.8
 - pkg:maven/top.wu2020/wu-easy-upsert-influxdb-sink@1.0.8-JDK1.8
+- pkg:maven/top.wu2020/wu-easy-upsert-influxdb-sink@1.0.9
+- pkg:maven/top.wu2020/wu-easy-upsert-influxdb-sink@1.0.9-JDK1.8
+- pkg:maven/top.wu2020/wu-easy-upsert-influxdb-sink@1.1.0-JDK1.8

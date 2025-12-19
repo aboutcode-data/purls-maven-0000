@@ -1,1 +1,2 @@
 - pkg:maven/com.viliussutkus89.licenseOnly/libffi@3.3?classifier=sources
+- pkg:maven/com.viliussutkus89.licenseOnly/libffi@3.4.2?classifier=sources

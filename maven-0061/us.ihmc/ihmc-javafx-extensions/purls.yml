@@ -1,4 +1,8 @@
 - pkg:maven/us.ihmc/ihmc-javafx-extensions@0.0.3?classifier=sources
 - pkg:maven/us.ihmc/ihmc-javafx-extensions@0.1.0?classifier=sources
+- pkg:maven/us.ihmc/ihmc-javafx-extensions@0.1.1?classifier=sources
+- pkg:maven/us.ihmc/ihmc-javafx-extensions@0.1.2?classifier=sources
 - pkg:maven/us.ihmc/ihmc-javafx-extensions@15-0.0.3?classifier=sources
 - pkg:maven/us.ihmc/ihmc-javafx-extensions@17-0.1.0?classifier=sources
+- pkg:maven/us.ihmc/ihmc-javafx-extensions@17-0.1.1?classifier=sources
+- pkg:maven/us.ihmc/ihmc-javafx-extensions@17-0.1.2?classifier=sources

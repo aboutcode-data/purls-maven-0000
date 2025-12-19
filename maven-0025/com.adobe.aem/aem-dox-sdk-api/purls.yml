@@ -1,2 +1,4 @@
 - pkg:maven/com.adobe.aem/aem-dox-sdk-api@2022.3
 - pkg:maven/com.adobe.aem/aem-dox-sdk-api@2022.3?classifier=sources
+- pkg:maven/com.adobe.aem/aem-dox-sdk-api@2022.4
+- pkg:maven/com.adobe.aem/aem-dox-sdk-api@2022.4?classifier=sources

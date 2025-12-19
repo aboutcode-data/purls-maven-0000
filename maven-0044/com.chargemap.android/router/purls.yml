@@ -1,4 +1,5 @@
 - pkg:maven/com.chargemap.android/router@1.0.10?classifier=sources
+- pkg:maven/com.chargemap.android/router@1.0.13?classifier=sources
 - pkg:maven/com.chargemap.android/router@1.0.5?classifier=sources
 - pkg:maven/com.chargemap.android/router@1.0.6?classifier=sources
 - pkg:maven/com.chargemap.android/router@1.0.7?classifier=sources

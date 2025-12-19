@@ -12,3 +12,4 @@
 - pkg:maven/org.openrewrite.recipe/rewrite-circleci@1.5.2?classifier=sources
 - pkg:maven/org.openrewrite.recipe/rewrite-circleci@1.6.0?classifier=sources
 - pkg:maven/org.openrewrite.recipe/rewrite-circleci@1.7.0?classifier=sources
+- pkg:maven/org.openrewrite.recipe/rewrite-circleci@1.8.0?classifier=sources

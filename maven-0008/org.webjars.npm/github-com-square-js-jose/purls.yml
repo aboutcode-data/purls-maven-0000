@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/github-com-square-js-jose@0.2.2
+- pkg:maven/org.webjars.npm/github-com-square-js-jose@0.2.2?classifier=sources

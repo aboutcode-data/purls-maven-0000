@@ -12,3 +12,4 @@
 - pkg:maven/org.netbeans.api/org-netbeans-libs-graalsdk@RELEASE125?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-libs-graalsdk@RELEASE126?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-libs-graalsdk@RELEASE130?classifier=sources
+- pkg:maven/org.netbeans.api/org-netbeans-libs-graalsdk@RELEASE140?classifier=sources

@@ -1,2 +1,6 @@
 - pkg:maven/com.hcl.domino/domino-jnx-rawdoc-json@1.10.11
 - pkg:maven/com.hcl.domino/domino-jnx-rawdoc-json@1.10.11?classifier=sources
+- pkg:maven/com.hcl.domino/domino-jnx-rawdoc-json@1.10.12
+- pkg:maven/com.hcl.domino/domino-jnx-rawdoc-json@1.10.12?classifier=sources
+- pkg:maven/com.hcl.domino/domino-jnx-rawdoc-json@1.10.13
+- pkg:maven/com.hcl.domino/domino-jnx-rawdoc-json@1.10.13?classifier=sources

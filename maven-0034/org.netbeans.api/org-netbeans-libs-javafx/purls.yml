@@ -13,4 +13,5 @@
 - pkg:maven/org.netbeans.api/org-netbeans-libs-javafx@RELEASE125?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-libs-javafx@RELEASE126?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-libs-javafx@RELEASE130?classifier=sources
+- pkg:maven/org.netbeans.api/org-netbeans-libs-javafx@RELEASE140?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-libs-javafx@RELEASE90?classifier=sources

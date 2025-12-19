@@ -1,2 +1,4 @@
 - pkg:maven/org.jetbrains.kotlinx.spark/kotlin-spark-api-3.2@1.0.3
 - pkg:maven/org.jetbrains.kotlinx.spark/kotlin-spark-api-3.2@1.0.3?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx.spark/kotlin-spark-api-3.2@1.1.0
+- pkg:maven/org.jetbrains.kotlinx.spark/kotlin-spark-api-3.2@1.1.0?classifier=sources

@@ -4,3 +4,5 @@
 - pkg:maven/org.apache.hadoop/hadoop-yarn-applications-catalog-webapp@3.3.1?type=war
 - pkg:maven/org.apache.hadoop/hadoop-yarn-applications-catalog-webapp@3.3.2?classifier=sources
 - pkg:maven/org.apache.hadoop/hadoop-yarn-applications-catalog-webapp@3.3.2?type=war
+- pkg:maven/org.apache.hadoop/hadoop-yarn-applications-catalog-webapp@3.3.3?classifier=sources
+- pkg:maven/org.apache.hadoop/hadoop-yarn-applications-catalog-webapp@3.3.3?type=war

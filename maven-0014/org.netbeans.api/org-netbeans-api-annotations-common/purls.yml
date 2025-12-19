@@ -13,4 +13,5 @@
 - pkg:maven/org.netbeans.api/org-netbeans-api-annotations-common@RELEASE125?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-api-annotations-common@RELEASE126?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-api-annotations-common@RELEASE130?classifier=sources
+- pkg:maven/org.netbeans.api/org-netbeans-api-annotations-common@RELEASE140?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-api-annotations-common@RELEASE90?classifier=sources

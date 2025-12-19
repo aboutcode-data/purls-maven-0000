@@ -1,0 +1,6 @@
+- pkg:maven/xyz.opcal.cloud/opcal-cloud-commons-feign-reactive@0.2.6.8
+- pkg:maven/xyz.opcal.cloud/opcal-cloud-commons-feign-reactive@0.2.6.8?classifier=sources
+- pkg:maven/xyz.opcal.cloud/opcal-cloud-commons-feign-reactive@2.7.0.0
+- pkg:maven/xyz.opcal.cloud/opcal-cloud-commons-feign-reactive@2.7.0.0?classifier=sources
+- pkg:maven/xyz.opcal.cloud/opcal-cloud-commons-feign-reactive@2.7.1.0
+- pkg:maven/xyz.opcal.cloud/opcal-cloud-commons-feign-reactive@2.7.1.0?classifier=sources

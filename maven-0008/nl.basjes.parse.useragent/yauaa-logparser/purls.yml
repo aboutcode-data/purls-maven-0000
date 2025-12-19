@@ -130,3 +130,5 @@
 - pkg:maven/nl.basjes.parse.useragent/yauaa-logparser@7.0.0?classifier=sources
 - pkg:maven/nl.basjes.parse.useragent/yauaa-logparser@7.1.0
 - pkg:maven/nl.basjes.parse.useragent/yauaa-logparser@7.1.0?classifier=sources
+- pkg:maven/nl.basjes.parse.useragent/yauaa-logparser@7.2.0
+- pkg:maven/nl.basjes.parse.useragent/yauaa-logparser@7.2.0?classifier=sources

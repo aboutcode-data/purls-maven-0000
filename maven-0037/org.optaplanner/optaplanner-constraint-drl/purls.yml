@@ -6,3 +6,9 @@
 - pkg:maven/org.optaplanner/optaplanner-constraint-drl@8.20.0.Final?classifier=sources
 - pkg:maven/org.optaplanner/optaplanner-constraint-drl@8.21.0.Final
 - pkg:maven/org.optaplanner/optaplanner-constraint-drl@8.21.0.Final?classifier=sources
+- pkg:maven/org.optaplanner/optaplanner-constraint-drl@8.22.0.Final
+- pkg:maven/org.optaplanner/optaplanner-constraint-drl@8.22.0.Final?classifier=sources
+- pkg:maven/org.optaplanner/optaplanner-constraint-drl@8.22.1.Final
+- pkg:maven/org.optaplanner/optaplanner-constraint-drl@8.22.1.Final?classifier=sources
+- pkg:maven/org.optaplanner/optaplanner-constraint-drl@8.23.0.Final
+- pkg:maven/org.optaplanner/optaplanner-constraint-drl@8.23.0.Final?classifier=sources

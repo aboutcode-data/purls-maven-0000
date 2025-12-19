@@ -28,6 +28,8 @@
 - pkg:maven/org.apache.activemq.examples.broker.camel/camel-broker@2.21.0?classifier=sources
 - pkg:maven/org.apache.activemq.examples.broker.camel/camel-broker@2.22.0
 - pkg:maven/org.apache.activemq.examples.broker.camel/camel-broker@2.22.0?classifier=sources
+- pkg:maven/org.apache.activemq.examples.broker.camel/camel-broker@2.23.0
+- pkg:maven/org.apache.activemq.examples.broker.camel/camel-broker@2.23.0?classifier=sources
 - pkg:maven/org.apache.activemq.examples.broker.camel/camel-broker@2.7.0
 - pkg:maven/org.apache.activemq.examples.broker.camel/camel-broker@2.7.0?classifier=sources
 - pkg:maven/org.apache.activemq.examples.broker.camel/camel-broker@2.8.0

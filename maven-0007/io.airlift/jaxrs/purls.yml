@@ -300,3 +300,7 @@
 - pkg:maven/io.airlift/jaxrs@214?classifier=sources
 - pkg:maven/io.airlift/jaxrs@215
 - pkg:maven/io.airlift/jaxrs@215?classifier=sources
+- pkg:maven/io.airlift/jaxrs@216
+- pkg:maven/io.airlift/jaxrs@216?classifier=sources
+- pkg:maven/io.airlift/jaxrs@217
+- pkg:maven/io.airlift/jaxrs@217?classifier=sources

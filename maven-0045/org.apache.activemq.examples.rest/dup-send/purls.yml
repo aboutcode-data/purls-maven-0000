@@ -58,6 +58,8 @@
 - pkg:maven/org.apache.activemq.examples.rest/dup-send@2.21.0?type=war
 - pkg:maven/org.apache.activemq.examples.rest/dup-send@2.22.0?classifier=sources
 - pkg:maven/org.apache.activemq.examples.rest/dup-send@2.22.0?type=war
+- pkg:maven/org.apache.activemq.examples.rest/dup-send@2.23.0?classifier=sources
+- pkg:maven/org.apache.activemq.examples.rest/dup-send@2.23.0?type=war
 - pkg:maven/org.apache.activemq.examples.rest/dup-send@2.3.0?classifier=sources
 - pkg:maven/org.apache.activemq.examples.rest/dup-send@2.3.0?type=war
 - pkg:maven/org.apache.activemq.examples.rest/dup-send@2.4.0?classifier=sources

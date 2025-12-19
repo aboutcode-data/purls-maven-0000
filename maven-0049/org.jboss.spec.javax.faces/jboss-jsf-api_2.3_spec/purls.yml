@@ -21,6 +21,8 @@
 - pkg:maven/org.jboss.spec.javax.faces/jboss-jsf-api_2.3_spec@3.0.0.SP04?classifier=sources
 - pkg:maven/org.jboss.spec.javax.faces/jboss-jsf-api_2.3_spec@3.0.0.SP05
 - pkg:maven/org.jboss.spec.javax.faces/jboss-jsf-api_2.3_spec@3.0.0.SP05?classifier=sources
+- pkg:maven/org.jboss.spec.javax.faces/jboss-jsf-api_2.3_spec@3.0.0.SP06
+- pkg:maven/org.jboss.spec.javax.faces/jboss-jsf-api_2.3_spec@3.0.0.SP06?classifier=sources
 - pkg:maven/org.jboss.spec.javax.faces/jboss-jsf-api_2.3_spec@3.0.0.SP1
 - pkg:maven/org.jboss.spec.javax.faces/jboss-jsf-api_2.3_spec@3.0.0.SP1?classifier=sources
 - pkg:maven/org.jboss.spec.javax.faces/jboss-jsf-api_2.3_spec@3.1.0.SP01

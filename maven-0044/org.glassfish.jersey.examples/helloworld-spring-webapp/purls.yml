@@ -149,6 +149,9 @@
 - pkg:maven/org.glassfish.jersey.examples/helloworld-spring-webapp@2.35?classifier=project-src&type=zip
 - pkg:maven/org.glassfish.jersey.examples/helloworld-spring-webapp@2.35?classifier=sources
 - pkg:maven/org.glassfish.jersey.examples/helloworld-spring-webapp@2.35?type=war
+- pkg:maven/org.glassfish.jersey.examples/helloworld-spring-webapp@2.36?classifier=project-src&type=zip
+- pkg:maven/org.glassfish.jersey.examples/helloworld-spring-webapp@2.36?classifier=sources
+- pkg:maven/org.glassfish.jersey.examples/helloworld-spring-webapp@2.36?type=war
 - pkg:maven/org.glassfish.jersey.examples/helloworld-spring-webapp@2.3?classifier=project-src&type=zip
 - pkg:maven/org.glassfish.jersey.examples/helloworld-spring-webapp@2.3?classifier=sources
 - pkg:maven/org.glassfish.jersey.examples/helloworld-spring-webapp@2.3?type=war

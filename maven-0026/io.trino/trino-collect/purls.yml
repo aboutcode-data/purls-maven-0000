@@ -16,3 +16,17 @@
 - pkg:maven/io.trino/trino-collect@378?classifier=sources
 - pkg:maven/io.trino/trino-collect@379
 - pkg:maven/io.trino/trino-collect@379?classifier=sources
+- pkg:maven/io.trino/trino-collect@380
+- pkg:maven/io.trino/trino-collect@380?classifier=sources
+- pkg:maven/io.trino/trino-collect@381
+- pkg:maven/io.trino/trino-collect@381?classifier=sources
+- pkg:maven/io.trino/trino-collect@382
+- pkg:maven/io.trino/trino-collect@382?classifier=sources
+- pkg:maven/io.trino/trino-collect@383
+- pkg:maven/io.trino/trino-collect@383?classifier=sources
+- pkg:maven/io.trino/trino-collect@384
+- pkg:maven/io.trino/trino-collect@384?classifier=sources
+- pkg:maven/io.trino/trino-collect@385
+- pkg:maven/io.trino/trino-collect@385?classifier=sources
+- pkg:maven/io.trino/trino-collect@386
+- pkg:maven/io.trino/trino-collect@386?classifier=sources

@@ -1,2 +1,4 @@
 - pkg:maven/org.webjars.npm/babel__preset-typescript@7.16.7
 - pkg:maven/org.webjars.npm/babel__preset-typescript@7.16.7?classifier=sources
+- pkg:maven/org.webjars.npm/babel__preset-typescript@7.17.12
+- pkg:maven/org.webjars.npm/babel__preset-typescript@7.17.12?classifier=sources

@@ -22,3 +22,6 @@
 - pkg:maven/cat.rokubun.wals/sdk@1.12.3-6-g515acea?type=aar
 - pkg:maven/cat.rokubun.wals/sdk@1.12.3-7-gb1e1cb7?classifier=sources
 - pkg:maven/cat.rokubun.wals/sdk@1.12.3-8-g0821f8a?classifier=sources
+- pkg:maven/cat.rokubun.wals/sdk@6.6.1-r1?classifier=sources
+- pkg:maven/cat.rokubun.wals/sdk@6.6.14?classifier=sources
+- pkg:maven/cat.rokubun.wals/sdk@6.6.1?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.gerritforge/gatling-git-jgit@1.0.18
+- pkg:maven/com.gerritforge/gatling-git-jgit@1.0.18?classifier=sources

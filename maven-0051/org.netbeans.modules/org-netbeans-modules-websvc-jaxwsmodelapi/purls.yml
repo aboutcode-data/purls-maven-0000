@@ -13,4 +13,5 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-websvc-jaxwsmodelapi@RELEASE125?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-websvc-jaxwsmodelapi@RELEASE126?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-websvc-jaxwsmodelapi@RELEASE130?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-websvc-jaxwsmodelapi@RELEASE140?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-websvc-jaxwsmodelapi@RELEASE90?classifier=sources

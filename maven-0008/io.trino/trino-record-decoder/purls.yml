@@ -56,3 +56,17 @@
 - pkg:maven/io.trino/trino-record-decoder@378?classifier=sources
 - pkg:maven/io.trino/trino-record-decoder@379
 - pkg:maven/io.trino/trino-record-decoder@379?classifier=sources
+- pkg:maven/io.trino/trino-record-decoder@380
+- pkg:maven/io.trino/trino-record-decoder@380?classifier=sources
+- pkg:maven/io.trino/trino-record-decoder@381
+- pkg:maven/io.trino/trino-record-decoder@381?classifier=sources
+- pkg:maven/io.trino/trino-record-decoder@382
+- pkg:maven/io.trino/trino-record-decoder@382?classifier=sources
+- pkg:maven/io.trino/trino-record-decoder@383
+- pkg:maven/io.trino/trino-record-decoder@383?classifier=sources
+- pkg:maven/io.trino/trino-record-decoder@384
+- pkg:maven/io.trino/trino-record-decoder@384?classifier=sources
+- pkg:maven/io.trino/trino-record-decoder@385
+- pkg:maven/io.trino/trino-record-decoder@385?classifier=sources
+- pkg:maven/io.trino/trino-record-decoder@386
+- pkg:maven/io.trino/trino-record-decoder@386?classifier=sources

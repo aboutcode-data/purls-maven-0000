@@ -1,3 +1,7 @@
 - pkg:maven/com.withabound/withabound-java@0.0.1?classifier=sources
 - pkg:maven/com.withabound/withabound-java@0.1.0?classifier=sources
 - pkg:maven/com.withabound/withabound-java@0.1.1?classifier=sources
+- pkg:maven/com.withabound/withabound-java@0.1.2?classifier=sources
+- pkg:maven/com.withabound/withabound-java@0.2.0?classifier=sources
+- pkg:maven/com.withabound/withabound-java@0.3.0?classifier=sources
+- pkg:maven/com.withabound/withabound-java@0.3.1?classifier=sources

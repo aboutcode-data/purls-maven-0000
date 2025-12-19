@@ -13,4 +13,5 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-profiler-oql@RELEASE125?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-profiler-oql@RELEASE126?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-profiler-oql@RELEASE130?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-profiler-oql@RELEASE140?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-profiler-oql@RELEASE90?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/io.github.Owenli0202/fit-split-install-plugin@0.1.0
+- pkg:maven/io.github.Owenli0202/fit-split-install-plugin@0.1.0?classifier=sources

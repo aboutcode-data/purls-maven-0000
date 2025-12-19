@@ -36,3 +36,5 @@
 - pkg:maven/pl.jalokim.propertiestojson/java-properties-to-json@5.2.1?classifier=sources
 - pkg:maven/pl.jalokim.propertiestojson/java-properties-to-json@5.2.2
 - pkg:maven/pl.jalokim.propertiestojson/java-properties-to-json@5.2.2?classifier=sources
+- pkg:maven/pl.jalokim.propertiestojson/java-properties-to-json@5.3.0
+- pkg:maven/pl.jalokim.propertiestojson/java-properties-to-json@5.3.0?classifier=sources

@@ -2,3 +2,4 @@
 - pkg:maven/dev.reformator.stacktracedecoroutinator/stacktrace-decoroutinator-stdlib@2.1.0?classifier=sources
 - pkg:maven/dev.reformator.stacktracedecoroutinator/stacktrace-decoroutinator-stdlib@2.2.0?classifier=sources
 - pkg:maven/dev.reformator.stacktracedecoroutinator/stacktrace-decoroutinator-stdlib@2.2.1?classifier=sources
+- pkg:maven/dev.reformator.stacktracedecoroutinator/stacktrace-decoroutinator-stdlib@2.3.0?classifier=sources

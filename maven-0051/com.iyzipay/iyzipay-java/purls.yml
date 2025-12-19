@@ -102,3 +102,5 @@
 - pkg:maven/com.iyzipay/iyzipay-java@2.0.84?classifier=sources
 - pkg:maven/com.iyzipay/iyzipay-java@2.0.85
 - pkg:maven/com.iyzipay/iyzipay-java@2.0.85?classifier=sources
+- pkg:maven/com.iyzipay/iyzipay-java@2.0.86
+- pkg:maven/com.iyzipay/iyzipay-java@2.0.86?classifier=sources

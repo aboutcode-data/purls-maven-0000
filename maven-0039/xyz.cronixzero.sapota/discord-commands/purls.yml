@@ -1,1 +1,2 @@
 - pkg:maven/xyz.cronixzero.sapota/discord-commands@1.1.0?classifier=sources
+- pkg:maven/xyz.cronixzero.sapota/discord-commands@2.0.0?classifier=sources

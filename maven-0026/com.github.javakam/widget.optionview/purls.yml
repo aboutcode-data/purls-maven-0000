@@ -5,3 +5,5 @@
 - pkg:maven/com.github.javakam/widget.optionview@3.6.0?classifier=sources
 - pkg:maven/com.github.javakam/widget.optionview@3.6.6?classifier=sources
 - pkg:maven/com.github.javakam/widget.optionview@3.7.0?classifier=sources
+- pkg:maven/com.github.javakam/widget.optionview@5.0.0?classifier=sources
+- pkg:maven/com.github.javakam/widget.optionview@5.1.0?classifier=sources
