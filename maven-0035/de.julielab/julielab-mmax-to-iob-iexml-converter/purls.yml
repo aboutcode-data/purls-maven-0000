@@ -1,0 +1,2 @@
+- pkg:maven/de.julielab/julielab-mmax-to-iob-iexml-converter@1.0.2
+- pkg:maven/de.julielab/julielab-mmax-to-iob-iexml-converter@1.0.2?classifier=sources

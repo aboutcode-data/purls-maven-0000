@@ -1,0 +1,6 @@
+- pkg:maven/io.continual/continualMetricsDropWiz@0.2.39
+- pkg:maven/io.continual/continualMetricsDropWiz@0.2.39?classifier=sources
+- pkg:maven/io.continual/continualMetricsDropWiz@0.2.40
+- pkg:maven/io.continual/continualMetricsDropWiz@0.2.40?classifier=sources
+- pkg:maven/io.continual/continualMetricsDropWiz@0.2.41
+- pkg:maven/io.continual/continualMetricsDropWiz@0.2.41?classifier=sources

@@ -71,3 +71,4 @@
 - pkg:maven/io.fabric8/servicecatalog-tests@6.1.0
 - pkg:maven/io.fabric8/servicecatalog-tests@6.1.1
 - pkg:maven/io.fabric8/servicecatalog-tests@6.2.0
+- pkg:maven/io.fabric8/servicecatalog-tests@6.3.0

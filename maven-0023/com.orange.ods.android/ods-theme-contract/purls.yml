@@ -1,0 +1,2 @@
+- pkg:maven/com.orange.ods.android/ods-theme-contract@0.7.0?classifier=sources
+- pkg:maven/com.orange.ods.android/ods-theme-contract@0.8.0?classifier=sources

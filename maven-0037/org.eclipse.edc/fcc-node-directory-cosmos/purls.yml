@@ -1,0 +1,2 @@
+- pkg:maven/org.eclipse.edc/fcc-node-directory-cosmos@%24%7BVERSION%7D?classifier=sources
+- pkg:maven/org.eclipse.edc/fcc-node-directory-cosmos@0.0.1-milestone-7?classifier=sources

@@ -3,6 +3,7 @@
 - pkg:maven/io.sunland/kotlin-uikit@3.13.7-pre.18-kotlin-1.6.20?classifier=sources
 - pkg:maven/io.sunland/kotlin-uikit@3.13.7-pre.19?classifier=sources
 - pkg:maven/io.sunland/kotlin-uikit@3.13.7-pre.20?classifier=sources
+- pkg:maven/io.sunland/kotlin-uikit@3.13.7-pre.21?classifier=sources
 - pkg:maven/io.sunland/kotlin-uikit@3.5.7-pre.11-kotlin-1.5.21?classifier=sources
 - pkg:maven/io.sunland/kotlin-uikit@3.5.7-pre.12-kotlin-1.5.31?classifier=sources
 - pkg:maven/io.sunland/kotlin-uikit@3.7.6-pre.13-kotlin-1.5.31?classifier=sources

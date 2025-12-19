@@ -1,0 +1,2 @@
+- pkg:maven/software.amazon.awscdk/resourceexplorer2@1.182.0
+- pkg:maven/software.amazon.awscdk/resourceexplorer2@1.182.0?classifier=sources

@@ -12,3 +12,7 @@
 - pkg:maven/com.cognitect.aws/proton@822.2.1171.0?classifier=sources
 - pkg:maven/com.cognitect.aws/proton@825.2.1233.0
 - pkg:maven/com.cognitect.aws/proton@825.2.1233.0?classifier=sources
+- pkg:maven/com.cognitect.aws/proton@825.2.1262.0
+- pkg:maven/com.cognitect.aws/proton@825.2.1262.0?classifier=sources
+- pkg:maven/com.cognitect.aws/proton@825.2.1268.0
+- pkg:maven/com.cognitect.aws/proton@825.2.1268.0?classifier=sources

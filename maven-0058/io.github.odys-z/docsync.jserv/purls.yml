@@ -1,0 +1,2 @@
+- pkg:maven/io.github.odys-z/docsync.jserv@0.1.8
+- pkg:maven/io.github.odys-z/docsync.jserv@0.1.8?classifier=sources

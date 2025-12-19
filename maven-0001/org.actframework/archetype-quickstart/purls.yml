@@ -47,3 +47,4 @@
 - pkg:maven/org.actframework/archetype-quickstart@1.9.0.1?classifier=sources
 - pkg:maven/org.actframework/archetype-quickstart@1.9.0.2?classifier=sources
 - pkg:maven/org.actframework/archetype-quickstart@1.9.1.0?classifier=sources
+- pkg:maven/org.actframework/archetype-quickstart@1.9.2.0?classifier=sources

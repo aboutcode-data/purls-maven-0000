@@ -46,3 +46,7 @@
 - pkg:maven/com.aliyun/imm20200930@1.28.6?classifier=sources
 - pkg:maven/com.aliyun/imm20200930@1.28.7
 - pkg:maven/com.aliyun/imm20200930@1.28.7?classifier=sources
+- pkg:maven/com.aliyun/imm20200930@1.28.8
+- pkg:maven/com.aliyun/imm20200930@1.28.8?classifier=sources
+- pkg:maven/com.aliyun/imm20200930@1.28.9
+- pkg:maven/com.aliyun/imm20200930@1.28.9?classifier=sources

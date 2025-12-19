@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/y-protocols@1.0.5
+- pkg:maven/org.webjars.npm/y-protocols@1.0.5?classifier=sources

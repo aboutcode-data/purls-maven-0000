@@ -7,7 +7,10 @@
 - pkg:maven/io.agora.rtc/voice-rtc-basic@3.7.0.3?type=aar
 - pkg:maven/io.agora.rtc/voice-rtc-basic@3.7.0?type=aar
 - pkg:maven/io.agora.rtc/voice-rtc-basic@3.7.1?type=aar
+- pkg:maven/io.agora.rtc/voice-rtc-basic@3.7.2.1?type=aar
+- pkg:maven/io.agora.rtc/voice-rtc-basic@3.7.2?type=aar
 - pkg:maven/io.agora.rtc/voice-rtc-basic@4.0.0-rc.1?type=aar
 - pkg:maven/io.agora.rtc/voice-rtc-basic@4.0.0.3?type=aar
 - pkg:maven/io.agora.rtc/voice-rtc-basic@4.0.0.4?type=aar
+- pkg:maven/io.agora.rtc/voice-rtc-basic@4.0.1.4-ci-test?type=aar
 - pkg:maven/io.agora.rtc/voice-rtc-basic@4.0.1?type=aar

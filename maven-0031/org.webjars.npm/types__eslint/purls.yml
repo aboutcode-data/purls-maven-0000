@@ -1,2 +1,4 @@
 - pkg:maven/org.webjars.npm/types__eslint@7.2.6
 - pkg:maven/org.webjars.npm/types__eslint@7.2.6?classifier=sources
+- pkg:maven/org.webjars.npm/types__eslint@8.4.10
+- pkg:maven/org.webjars.npm/types__eslint@8.4.10?classifier=sources

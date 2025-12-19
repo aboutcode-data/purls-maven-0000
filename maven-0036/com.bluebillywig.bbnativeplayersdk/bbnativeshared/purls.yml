@@ -24,3 +24,5 @@
 - pkg:maven/com.bluebillywig.bbnativeplayersdk/bbnativeshared@7.90.1?classifier=sources
 - pkg:maven/com.bluebillywig.bbnativeplayersdk/bbnativeshared@7.93.0?classifier=sources
 - pkg:maven/com.bluebillywig.bbnativeplayersdk/bbnativeshared@7.94.0?classifier=sources
+- pkg:maven/com.bluebillywig.bbnativeplayersdk/bbnativeshared@7.95.0?classifier=sources
+- pkg:maven/com.bluebillywig.bbnativeplayersdk/bbnativeshared@7.96.0?classifier=sources

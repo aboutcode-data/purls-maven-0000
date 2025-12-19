@@ -8,3 +8,7 @@
 - pkg:maven/com.pulumi/cloudflare@4.12.0?classifier=sources
 - pkg:maven/com.pulumi/cloudflare@4.12.1?classifier=sources
 - pkg:maven/com.pulumi/cloudflare@4.13.0-alpha.1663874578%2Ba38d8a9e?classifier=sources
+- pkg:maven/com.pulumi/cloudflare@4.13.0-alpha.1668643212%2B2d4d4c96?classifier=sources
+- pkg:maven/com.pulumi/cloudflare@4.13.0-alpha.1668644376%2B691633e7?classifier=sources
+- pkg:maven/com.pulumi/cloudflare@4.13.0-alpha.1669660297%2Bbfb000bd?classifier=sources
+- pkg:maven/com.pulumi/cloudflare@4.13.0?classifier=sources

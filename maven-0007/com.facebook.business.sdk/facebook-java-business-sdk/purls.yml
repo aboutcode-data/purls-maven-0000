@@ -12,6 +12,8 @@
 - pkg:maven/com.facebook.business.sdk/facebook-java-business-sdk@13.0.0?classifier=sources
 - pkg:maven/com.facebook.business.sdk/facebook-java-business-sdk@14.0.0
 - pkg:maven/com.facebook.business.sdk/facebook-java-business-sdk@14.0.0?classifier=sources
+- pkg:maven/com.facebook.business.sdk/facebook-java-business-sdk@15.0.0
+- pkg:maven/com.facebook.business.sdk/facebook-java-business-sdk@15.0.0?classifier=sources
 - pkg:maven/com.facebook.business.sdk/facebook-java-business-sdk@2.12.0
 - pkg:maven/com.facebook.business.sdk/facebook-java-business-sdk@2.12.0?classifier=sources
 - pkg:maven/com.facebook.business.sdk/facebook-java-business-sdk@3.0.0

@@ -14,5 +14,11 @@
 - pkg:maven/io.github.xrfzh.cn/xr-common-utils@2.2.3-RELEASE?classifier=sources
 - pkg:maven/io.github.xrfzh.cn/xr-common-utils@2.7.1-RELEASE
 - pkg:maven/io.github.xrfzh.cn/xr-common-utils@2.7.1-RELEASE?classifier=sources
+- pkg:maven/io.github.xrfzh.cn/xr-common-utils@2.7.2-RELEASE
+- pkg:maven/io.github.xrfzh.cn/xr-common-utils@2.7.2-RELEASE?classifier=sources
 - pkg:maven/io.github.xrfzh.cn/xr-common-utils@2.7.4-RELEASE
 - pkg:maven/io.github.xrfzh.cn/xr-common-utils@2.7.4-RELEASE?classifier=sources
+- pkg:maven/io.github.xrfzh.cn/xr-common-utils@2.8.0-RELEASE
+- pkg:maven/io.github.xrfzh.cn/xr-common-utils@2.8.0-RELEASE?classifier=sources
+- pkg:maven/io.github.xrfzh.cn/xr-common-utils@2.8.1-RELEASE
+- pkg:maven/io.github.xrfzh.cn/xr-common-utils@2.8.1-RELEASE?classifier=sources

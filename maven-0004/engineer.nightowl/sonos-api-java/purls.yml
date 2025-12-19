@@ -3,6 +3,8 @@
 - pkg:maven/engineer.nightowl/sonos-api-java@0.0.2
 - pkg:maven/engineer.nightowl/sonos-api-java@0.0.20
 - pkg:maven/engineer.nightowl/sonos-api-java@0.0.20?classifier=sources
+- pkg:maven/engineer.nightowl/sonos-api-java@0.0.22
+- pkg:maven/engineer.nightowl/sonos-api-java@0.0.22?classifier=sources
 - pkg:maven/engineer.nightowl/sonos-api-java@0.0.2?classifier=sources
 - pkg:maven/engineer.nightowl/sonos-api-java@0.0.3
 - pkg:maven/engineer.nightowl/sonos-api-java@0.0.3?classifier=sources

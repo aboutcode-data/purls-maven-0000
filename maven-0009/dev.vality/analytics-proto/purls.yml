@@ -8,3 +8,7 @@
 - pkg:maven/dev.vality/analytics-proto@1.40-3fcf30d?classifier=sources
 - pkg:maven/dev.vality/analytics-proto@1.41-f691834
 - pkg:maven/dev.vality/analytics-proto@1.41-f691834?classifier=sources
+- pkg:maven/dev.vality/analytics-proto@1.42-668efde
+- pkg:maven/dev.vality/analytics-proto@1.42-668efde?classifier=sources
+- pkg:maven/dev.vality/analytics-proto@1.43-2d1fdc2
+- pkg:maven/dev.vality/analytics-proto@1.43-2d1fdc2?classifier=sources

@@ -1,0 +1,3 @@
+- pkg:maven/com.pulumi/wavefront@1.2.0-alpha.1668658682%2B94a55e5d?classifier=sources
+- pkg:maven/com.pulumi/wavefront@1.2.0-alpha.1669657115%2Be49b5ea4?classifier=sources
+- pkg:maven/com.pulumi/wavefront@1.2.0?classifier=sources

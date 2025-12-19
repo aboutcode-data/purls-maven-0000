@@ -1,0 +1,3 @@
+- pkg:maven/aws.sdk.kotlin/scheduler-jvm@0.17.12-beta?classifier=sources
+- pkg:maven/aws.sdk.kotlin/scheduler-jvm@0.18.0-beta?classifier=sources
+- pkg:maven/aws.sdk.kotlin/scheduler-jvm@0.19.0-beta?classifier=sources

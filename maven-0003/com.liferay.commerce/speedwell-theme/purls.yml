@@ -126,6 +126,11 @@
 - pkg:maven/com.liferay.commerce/speedwell-theme@4.0.34?type=war
 - pkg:maven/com.liferay.commerce/speedwell-theme@4.0.35?type=war
 - pkg:maven/com.liferay.commerce/speedwell-theme@4.0.3?type=war
+- pkg:maven/com.liferay.commerce/speedwell-theme@4.0.44?type=war
+- pkg:maven/com.liferay.commerce/speedwell-theme@4.0.45?type=war
+- pkg:maven/com.liferay.commerce/speedwell-theme@4.0.46?type=war
+- pkg:maven/com.liferay.commerce/speedwell-theme@4.0.47?type=war
+- pkg:maven/com.liferay.commerce/speedwell-theme@4.0.48?type=war
 - pkg:maven/com.liferay.commerce/speedwell-theme@4.0.4?type=war
 - pkg:maven/com.liferay.commerce/speedwell-theme@4.0.5?type=war
 - pkg:maven/com.liferay.commerce/speedwell-theme@4.0.6?type=war

@@ -15,3 +15,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-groovy-editor@RELEASE130?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-groovy-editor@RELEASE140?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-groovy-editor@RELEASE150?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-groovy-editor@RELEASE160?classifier=sources

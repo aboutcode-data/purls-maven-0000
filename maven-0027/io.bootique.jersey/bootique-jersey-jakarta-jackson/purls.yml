@@ -1,0 +1,2 @@
+- pkg:maven/io.bootique.jersey/bootique-jersey-jakarta-jackson@3.0.M1
+- pkg:maven/io.bootique.jersey/bootique-jersey-jakarta-jackson@3.0.M1?classifier=sources

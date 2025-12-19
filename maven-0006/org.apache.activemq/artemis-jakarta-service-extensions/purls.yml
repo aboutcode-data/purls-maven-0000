@@ -22,3 +22,7 @@
 - pkg:maven/org.apache.activemq/artemis-jakarta-service-extensions@2.25.0?classifier=sources
 - pkg:maven/org.apache.activemq/artemis-jakarta-service-extensions@2.26.0
 - pkg:maven/org.apache.activemq/artemis-jakarta-service-extensions@2.26.0?classifier=sources
+- pkg:maven/org.apache.activemq/artemis-jakarta-service-extensions@2.27.0
+- pkg:maven/org.apache.activemq/artemis-jakarta-service-extensions@2.27.0?classifier=sources
+- pkg:maven/org.apache.activemq/artemis-jakarta-service-extensions@2.27.1
+- pkg:maven/org.apache.activemq/artemis-jakarta-service-extensions@2.27.1?classifier=sources

@@ -408,3 +408,7 @@
 - pkg:maven/com.hashicorp/cdktf-provider-digitalocean@3.0.8?classifier=sources
 - pkg:maven/com.hashicorp/cdktf-provider-digitalocean@3.0.9
 - pkg:maven/com.hashicorp/cdktf-provider-digitalocean@3.0.9?classifier=sources
+- pkg:maven/com.hashicorp/cdktf-provider-digitalocean@4.0.0
+- pkg:maven/com.hashicorp/cdktf-provider-digitalocean@4.0.0?classifier=sources
+- pkg:maven/com.hashicorp/cdktf-provider-digitalocean@4.0.1
+- pkg:maven/com.hashicorp/cdktf-provider-digitalocean@4.0.1?classifier=sources

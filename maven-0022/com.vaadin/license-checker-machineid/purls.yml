@@ -2,6 +2,12 @@
 - pkg:maven/com.vaadin/license-checker-machineid@1.10.0?classifier=sources
 - pkg:maven/com.vaadin/license-checker-machineid@1.10.1
 - pkg:maven/com.vaadin/license-checker-machineid@1.10.1?classifier=sources
+- pkg:maven/com.vaadin/license-checker-machineid@1.11.0
+- pkg:maven/com.vaadin/license-checker-machineid@1.11.0?classifier=sources
+- pkg:maven/com.vaadin/license-checker-machineid@1.11.1
+- pkg:maven/com.vaadin/license-checker-machineid@1.11.1?classifier=sources
+- pkg:maven/com.vaadin/license-checker-machineid@1.11.2
+- pkg:maven/com.vaadin/license-checker-machineid@1.11.2?classifier=sources
 - pkg:maven/com.vaadin/license-checker-machineid@1.8.0
 - pkg:maven/com.vaadin/license-checker-machineid@1.8.0?classifier=sources
 - pkg:maven/com.vaadin/license-checker-machineid@1.8.1

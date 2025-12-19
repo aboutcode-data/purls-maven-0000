@@ -1,0 +1,7 @@
+- pkg:maven/io.github.kevin4936/kevin-flink-connector-mqtt3_2.12@1.14.4
+- pkg:maven/io.github.kevin4936/kevin-flink-connector-mqtt3_2.12@1.14.4.1
+- pkg:maven/io.github.kevin4936/kevin-flink-connector-mqtt3_2.12@1.14.4.1?classifier=sources
+- pkg:maven/io.github.kevin4936/kevin-flink-connector-mqtt3_2.12@1.14.5
+- pkg:maven/io.github.kevin4936/kevin-flink-connector-mqtt3_2.12@1.14.5?classifier=sources
+- pkg:maven/io.github.kevin4936/kevin-flink-connector-mqtt3_2.12@1.14.6
+- pkg:maven/io.github.kevin4936/kevin-flink-connector-mqtt3_2.12@1.14.6?classifier=sources

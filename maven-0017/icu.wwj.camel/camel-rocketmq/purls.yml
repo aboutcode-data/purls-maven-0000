@@ -1,1 +1,2 @@
 - pkg:maven/icu.wwj.camel/camel-rocketmq@3.2.0-RC1?classifier=sources
+- pkg:maven/icu.wwj.camel/camel-rocketmq@3.2.0?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/info.earty/working-card-jms-client@1.1.0
+- pkg:maven/info.earty/working-card-jms-client@1.1.0?classifier=sources
+- pkg:maven/info.earty/working-card-jms-client@1.1.1
+- pkg:maven/info.earty/working-card-jms-client@1.1.1?classifier=sources

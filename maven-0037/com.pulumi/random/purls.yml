@@ -6,4 +6,6 @@
 - pkg:maven/com.pulumi/random@4.8.2?classifier=sources
 - pkg:maven/com.pulumi/random@4.9.0-alpha.1659029910%2Be3dd1924?classifier=sources
 - pkg:maven/com.pulumi/random@4.9.0-alpha.1660861615%2Bd57bdee1?classifier=sources
+- pkg:maven/com.pulumi/random@4.9.0-alpha.1669657444%2B38c663be?classifier=sources
+- pkg:maven/com.pulumi/random@4.9.0-alpha.1669920049%2B879c9a65?classifier=sources
 - pkg:maven/com.pulumi/random@v4.9.0-alpha.1657285197%2Bfafee1eb?classifier=sources

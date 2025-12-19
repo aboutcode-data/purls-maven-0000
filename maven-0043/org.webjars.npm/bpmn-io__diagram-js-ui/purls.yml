@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/bpmn-io__diagram-js-ui@0.2.1
+- pkg:maven/org.webjars.npm/bpmn-io__diagram-js-ui@0.2.1?classifier=sources

@@ -40,3 +40,5 @@
 - pkg:maven/org.eclipse.jdt/org.eclipse.jdt.debug@3.19.200?classifier=sources
 - pkg:maven/org.eclipse.jdt/org.eclipse.jdt.debug@3.19.300
 - pkg:maven/org.eclipse.jdt/org.eclipse.jdt.debug@3.19.300?classifier=sources
+- pkg:maven/org.eclipse.jdt/org.eclipse.jdt.debug@3.20.0
+- pkg:maven/org.eclipse.jdt/org.eclipse.jdt.debug@3.20.0?classifier=sources

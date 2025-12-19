@@ -114,3 +114,5 @@
 - pkg:maven/net.masterthought/maven-cucumber-reporting@5.7.0?classifier=sources
 - pkg:maven/net.masterthought/maven-cucumber-reporting@5.7.1
 - pkg:maven/net.masterthought/maven-cucumber-reporting@5.7.1?classifier=sources
+- pkg:maven/net.masterthought/maven-cucumber-reporting@5.7.4
+- pkg:maven/net.masterthought/maven-cucumber-reporting@5.7.4?classifier=sources

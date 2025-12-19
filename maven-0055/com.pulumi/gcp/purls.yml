@@ -27,4 +27,10 @@
 - pkg:maven/com.pulumi/gcp@6.40.0?classifier=sources
 - pkg:maven/com.pulumi/gcp@6.41.0-alpha.1666045496%2Bf3d9a4b8?classifier=sources
 - pkg:maven/com.pulumi/gcp@6.41.0?classifier=sources
+- pkg:maven/com.pulumi/gcp@6.42.0-alpha.1667852681%2Bef402a23?classifier=sources
+- pkg:maven/com.pulumi/gcp@6.42.0?classifier=sources
+- pkg:maven/com.pulumi/gcp@6.43.0-alpha.1668519974%2B8dfd6368?classifier=sources
+- pkg:maven/com.pulumi/gcp@6.43.0?classifier=sources
+- pkg:maven/com.pulumi/gcp@6.44.0-alpha.1669662917%2B2df10aeb?classifier=sources
+- pkg:maven/com.pulumi/gcp@6.44.0?classifier=sources
 - pkg:maven/com.pulumi/gcp@v6.31.0-alpha.1657285227%2B6c9897a8?classifier=sources

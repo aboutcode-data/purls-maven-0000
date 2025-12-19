@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/sinonjs__fake-timers@9.1.2
+- pkg:maven/org.webjars.npm/sinonjs__fake-timers@9.1.2?classifier=sources

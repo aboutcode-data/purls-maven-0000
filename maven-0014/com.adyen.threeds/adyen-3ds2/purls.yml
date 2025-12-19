@@ -13,6 +13,7 @@
 - pkg:maven/com.adyen.threeds/adyen-3ds2@2.1.0-rc08?type=aar
 - pkg:maven/com.adyen.threeds/adyen-3ds2@2.1.0-rc09?type=aar
 - pkg:maven/com.adyen.threeds/adyen-3ds2@2.2.0?type=aar
+- pkg:maven/com.adyen.threeds/adyen-3ds2@2.2.10?classifier=sources
 - pkg:maven/com.adyen.threeds/adyen-3ds2@2.2.1?type=aar
 - pkg:maven/com.adyen.threeds/adyen-3ds2@2.2.2?classifier=sources
 - pkg:maven/com.adyen.threeds/adyen-3ds2@2.2.3?classifier=sources

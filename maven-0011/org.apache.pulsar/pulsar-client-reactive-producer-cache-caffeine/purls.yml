@@ -1,0 +1,1 @@
+- pkg:maven/org.apache.pulsar/pulsar-client-reactive-producer-cache-caffeine@0.1.0?classifier=sources

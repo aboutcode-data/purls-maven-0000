@@ -1,0 +1,4 @@
+- pkg:maven/io.github.harveyhaha/mvvmyggd@1.0.22?classifier=sources
+- pkg:maven/io.github.harveyhaha/mvvmyggd@1.0.23?classifier=sources
+- pkg:maven/io.github.harveyhaha/mvvmyggd@1.0.24?classifier=sources
+- pkg:maven/io.github.harveyhaha/mvvmyggd@1.0.25?classifier=sources

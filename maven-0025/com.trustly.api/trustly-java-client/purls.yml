@@ -1,0 +1,2 @@
+- pkg:maven/com.trustly.api/trustly-java-client@0.0.5
+- pkg:maven/com.trustly.api/trustly-java-client@0.0.5?classifier=sources

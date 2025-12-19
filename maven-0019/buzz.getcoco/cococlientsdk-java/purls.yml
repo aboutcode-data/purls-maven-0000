@@ -11,3 +11,5 @@
 - pkg:maven/buzz.getcoco/cococlientsdk-java@0.22.2?classifier=sources
 - pkg:maven/buzz.getcoco/cococlientsdk-java@0.22.3-lite?classifier=sources
 - pkg:maven/buzz.getcoco/cococlientsdk-java@0.22.3?classifier=sources
+- pkg:maven/buzz.getcoco/cococlientsdk-java@0.28.2-lite?classifier=sources
+- pkg:maven/buzz.getcoco/cococlientsdk-java@0.28.2?classifier=sources

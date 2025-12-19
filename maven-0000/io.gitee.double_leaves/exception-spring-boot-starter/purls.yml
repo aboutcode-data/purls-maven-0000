@@ -4,3 +4,5 @@
 - pkg:maven/io.gitee.double_leaves/exception-spring-boot-starter@0.0.2?classifier=sources
 - pkg:maven/io.gitee.double_leaves/exception-spring-boot-starter@0.0.3
 - pkg:maven/io.gitee.double_leaves/exception-spring-boot-starter@0.0.3?classifier=sources
+- pkg:maven/io.gitee.double_leaves/exception-spring-boot-starter@0.0.4
+- pkg:maven/io.gitee.double_leaves/exception-spring-boot-starter@0.0.4?classifier=sources

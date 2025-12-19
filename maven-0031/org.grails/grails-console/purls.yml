@@ -191,3 +191,5 @@
 - pkg:maven/org.grails/grails-console@5.2.2?classifier=sources
 - pkg:maven/org.grails/grails-console@5.2.3?classifier=sources
 - pkg:maven/org.grails/grails-console@5.2.4?classifier=sources
+- pkg:maven/org.grails/grails-console@5.2.5?classifier=sources
+- pkg:maven/org.grails/grails-console@6.0.0-M1?classifier=sources

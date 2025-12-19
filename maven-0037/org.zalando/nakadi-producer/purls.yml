@@ -10,8 +10,16 @@
 - pkg:maven/org.zalando/nakadi-producer@20.3.0?classifier=sources
 - pkg:maven/org.zalando/nakadi-producer@20.3.1
 - pkg:maven/org.zalando/nakadi-producer@20.3.1?classifier=sources
+- pkg:maven/org.zalando/nakadi-producer@20.4.0
+- pkg:maven/org.zalando/nakadi-producer@20.4.0?classifier=sources
 - pkg:maven/org.zalando/nakadi-producer@21.0.0-RC1
 - pkg:maven/org.zalando/nakadi-producer@21.0.0-RC1?classifier=sources
+- pkg:maven/org.zalando/nakadi-producer@21.0.0-RC2
+- pkg:maven/org.zalando/nakadi-producer@21.0.0-RC2?classifier=sources
+- pkg:maven/org.zalando/nakadi-producer@21.0.0-RC3a
+- pkg:maven/org.zalando/nakadi-producer@21.0.0-RC3a?classifier=sources
+- pkg:maven/org.zalando/nakadi-producer@21.0.0-RC3b
+- pkg:maven/org.zalando/nakadi-producer@21.0.0-RC3b?classifier=sources
 - pkg:maven/org.zalando/nakadi-producer@4.0.0
 - pkg:maven/org.zalando/nakadi-producer@4.0.0?classifier=sources
 - pkg:maven/org.zalando/nakadi-producer@4.0.1

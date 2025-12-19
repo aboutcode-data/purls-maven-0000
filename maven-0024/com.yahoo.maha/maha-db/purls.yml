@@ -30,6 +30,16 @@
 - pkg:maven/com.yahoo.maha/maha-db@6.114?classifier=sources
 - pkg:maven/com.yahoo.maha/maha-db@6.115
 - pkg:maven/com.yahoo.maha/maha-db@6.115?classifier=sources
+- pkg:maven/com.yahoo.maha/maha-db@6.116
+- pkg:maven/com.yahoo.maha/maha-db@6.116?classifier=sources
+- pkg:maven/com.yahoo.maha/maha-db@6.117
+- pkg:maven/com.yahoo.maha/maha-db@6.117?classifier=sources
+- pkg:maven/com.yahoo.maha/maha-db@6.118
+- pkg:maven/com.yahoo.maha/maha-db@6.118?classifier=sources
+- pkg:maven/com.yahoo.maha/maha-db@6.119
+- pkg:maven/com.yahoo.maha/maha-db@6.119?classifier=sources
+- pkg:maven/com.yahoo.maha/maha-db@6.120
+- pkg:maven/com.yahoo.maha/maha-db@6.120?classifier=sources
 - pkg:maven/com.yahoo.maha/maha-db@6.53
 - pkg:maven/com.yahoo.maha/maha-db@6.53?classifier=sources
 - pkg:maven/com.yahoo.maha/maha-db@6.54

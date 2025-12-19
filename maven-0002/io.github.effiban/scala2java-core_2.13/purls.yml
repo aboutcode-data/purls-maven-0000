@@ -1,0 +1,2 @@
+- pkg:maven/io.github.effiban/scala2java-core_2.13@2.0.0-alpha?classifier=sources
+- pkg:maven/io.github.effiban/scala2java-core_2.13@2.0.0-beta?classifier=sources

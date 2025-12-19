@@ -1,0 +1,4 @@
+- pkg:maven/ink.siera/siera-utils@alpha
+- pkg:maven/ink.siera/siera-utils@alpha?classifier=sources
+- pkg:maven/ink.siera/siera-utils@beta
+- pkg:maven/ink.siera/siera-utils@beta?classifier=sources

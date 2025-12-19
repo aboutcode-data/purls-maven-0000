@@ -1,0 +1,16 @@
+- pkg:maven/com.amazonaws/aws-java-sdk-omics@1.12.352
+- pkg:maven/com.amazonaws/aws-java-sdk-omics@1.12.352?classifier=sources
+- pkg:maven/com.amazonaws/aws-java-sdk-omics@1.12.353
+- pkg:maven/com.amazonaws/aws-java-sdk-omics@1.12.353?classifier=sources
+- pkg:maven/com.amazonaws/aws-java-sdk-omics@1.12.354
+- pkg:maven/com.amazonaws/aws-java-sdk-omics@1.12.354?classifier=sources
+- pkg:maven/com.amazonaws/aws-java-sdk-omics@1.12.355
+- pkg:maven/com.amazonaws/aws-java-sdk-omics@1.12.355?classifier=sources
+- pkg:maven/com.amazonaws/aws-java-sdk-omics@1.12.356
+- pkg:maven/com.amazonaws/aws-java-sdk-omics@1.12.356?classifier=sources
+- pkg:maven/com.amazonaws/aws-java-sdk-omics@1.12.357
+- pkg:maven/com.amazonaws/aws-java-sdk-omics@1.12.357?classifier=sources
+- pkg:maven/com.amazonaws/aws-java-sdk-omics@1.12.358
+- pkg:maven/com.amazonaws/aws-java-sdk-omics@1.12.358?classifier=sources
+- pkg:maven/com.amazonaws/aws-java-sdk-omics@1.12.359
+- pkg:maven/com.amazonaws/aws-java-sdk-omics@1.12.359?classifier=sources

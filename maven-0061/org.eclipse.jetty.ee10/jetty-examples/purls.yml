@@ -1,3 +1,4 @@
 - pkg:maven/org.eclipse.jetty.ee10/jetty-examples@12.0.0.alpha0
 - pkg:maven/org.eclipse.jetty.ee10/jetty-examples@12.0.0.alpha1
 - pkg:maven/org.eclipse.jetty.ee10/jetty-examples@12.0.0.alpha2
+- pkg:maven/org.eclipse.jetty.ee10/jetty-examples@12.0.0.alpha3

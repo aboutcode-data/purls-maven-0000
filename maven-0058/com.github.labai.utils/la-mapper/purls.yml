@@ -1,0 +1,2 @@
+- pkg:maven/com.github.labai.utils/la-mapper@0.1.0
+- pkg:maven/com.github.labai.utils/la-mapper@0.1.0?classifier=sources
