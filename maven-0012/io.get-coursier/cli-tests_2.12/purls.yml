@@ -1,0 +1,2 @@
+- pkg:maven/io.get-coursier/cli-tests_2.12@2.1.0-M6-44-gc47ecec07
+- pkg:maven/io.get-coursier/cli-tests_2.12@2.1.0-M6-44-gc47ecec07?classifier=sources

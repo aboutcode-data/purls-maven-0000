@@ -4,3 +4,4 @@
 - pkg:maven/com.bloxbean.cardano/cardano-client-backend-gql@0.1.4?classifier=sources
 - pkg:maven/com.bloxbean.cardano/cardano-client-backend-gql@0.2.0-beta3?classifier=sources
 - pkg:maven/com.bloxbean.cardano/cardano-client-backend-gql@0.2.0?classifier=sources
+- pkg:maven/com.bloxbean.cardano/cardano-client-backend-gql@0.3.0-beta1?classifier=sources

@@ -50,5 +50,7 @@
 - pkg:maven/com.microsoft.commondatamodel/objectmodel@1.5.3?classifier=sources
 - pkg:maven/com.microsoft.commondatamodel/objectmodel@1.6.0
 - pkg:maven/com.microsoft.commondatamodel/objectmodel@1.6.0?classifier=sources
+- pkg:maven/com.microsoft.commondatamodel/objectmodel@1.6.1
+- pkg:maven/com.microsoft.commondatamodel/objectmodel@1.6.1?classifier=sources
 - pkg:maven/com.microsoft.commondatamodel/objectmodel@100.0.7
 - pkg:maven/com.microsoft.commondatamodel/objectmodel@100.0.7?classifier=sources

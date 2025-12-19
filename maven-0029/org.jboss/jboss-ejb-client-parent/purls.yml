@@ -1,1 +1,2 @@
 - pkg:maven/org.jboss/jboss-ejb-client-parent@4.0.44.Final?classifier=source-release&type=zip
+- pkg:maven/org.jboss/jboss-ejb-client-parent@4.0.45.Final?classifier=source-release&type=zip

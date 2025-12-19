@@ -6,3 +6,5 @@
 - pkg:maven/com.yyjzy/yyjzy@1.1.2.RELEASE?classifier=sources
 - pkg:maven/com.yyjzy/yyjzy@1.1.3.RELEASE
 - pkg:maven/com.yyjzy/yyjzy@1.1.3.RELEASE?classifier=sources
+- pkg:maven/com.yyjzy/yyjzy@2.0.0.RELEASE
+- pkg:maven/com.yyjzy/yyjzy@2.0.0.RELEASE?classifier=sources

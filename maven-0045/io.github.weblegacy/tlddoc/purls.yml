@@ -1,0 +1,2 @@
+- pkg:maven/io.github.weblegacy/tlddoc@1.4
+- pkg:maven/io.github.weblegacy/tlddoc@1.4?classifier=sources

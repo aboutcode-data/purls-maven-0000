@@ -78,3 +78,5 @@
 - pkg:maven/org.flywaydb.enterprise/flyway-vault-integration@8.5.8?classifier=sources
 - pkg:maven/org.flywaydb.enterprise/flyway-vault-integration@8.5.9
 - pkg:maven/org.flywaydb.enterprise/flyway-vault-integration@8.5.9?classifier=sources
+- pkg:maven/org.flywaydb.enterprise/flyway-vault-integration@9.0.0
+- pkg:maven/org.flywaydb.enterprise/flyway-vault-integration@9.0.0?classifier=sources

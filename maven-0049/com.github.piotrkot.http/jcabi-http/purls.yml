@@ -1,0 +1,2 @@
+- pkg:maven/com.github.piotrkot.http/jcabi-http@1.20.1
+- pkg:maven/com.github.piotrkot.http/jcabi-http@1.20.1?classifier=sources

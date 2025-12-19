@@ -1,0 +1,2 @@
+- pkg:maven/ru.zoommax/MKBecomAPI4j@1.0
+- pkg:maven/ru.zoommax/MKBecomAPI4j@1.0?classifier=sources

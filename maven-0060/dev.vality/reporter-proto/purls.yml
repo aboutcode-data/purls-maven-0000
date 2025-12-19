@@ -10,3 +10,7 @@
 - pkg:maven/dev.vality/reporter-proto@1.15-3e78c76?classifier=sources
 - pkg:maven/dev.vality/reporter-proto@1.16-cc187f5
 - pkg:maven/dev.vality/reporter-proto@1.16-cc187f5?classifier=sources
+- pkg:maven/dev.vality/reporter-proto@1.17-d2513bb
+- pkg:maven/dev.vality/reporter-proto@1.17-d2513bb?classifier=sources
+- pkg:maven/dev.vality/reporter-proto@1.18-d7d9995
+- pkg:maven/dev.vality/reporter-proto@1.18-d7d9995?classifier=sources

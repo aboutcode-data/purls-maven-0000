@@ -37,3 +37,5 @@
 - pkg:maven/com.aliyun.schedulerx/schedulerx2-common@1.4.1?classifier=sources
 - pkg:maven/com.aliyun.schedulerx/schedulerx2-common@1.5.0
 - pkg:maven/com.aliyun.schedulerx/schedulerx2-common@1.5.0?classifier=sources
+- pkg:maven/com.aliyun.schedulerx/schedulerx2-common@1.6.0
+- pkg:maven/com.aliyun.schedulerx/schedulerx2-common@1.6.0?classifier=sources

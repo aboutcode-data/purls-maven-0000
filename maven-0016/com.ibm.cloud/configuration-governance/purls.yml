@@ -144,3 +144,5 @@
 - pkg:maven/com.ibm.cloud/configuration-governance@0.24.3?classifier=sources
 - pkg:maven/com.ibm.cloud/configuration-governance@0.24.4
 - pkg:maven/com.ibm.cloud/configuration-governance@0.24.4?classifier=sources
+- pkg:maven/com.ibm.cloud/configuration-governance@0.25.0
+- pkg:maven/com.ibm.cloud/configuration-governance@0.25.0?classifier=sources

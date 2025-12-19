@@ -5,4 +5,6 @@
 - pkg:maven/com.yzk18/yzk18-net@1.2.1?classifier=sources
 - pkg:maven/com.yzk18/yzk18-net@1.2.2
 - pkg:maven/com.yzk18/yzk18-net@1.2.2?classifier=sources
+- pkg:maven/com.yzk18/yzk18-net@1.2.3
+- pkg:maven/com.yzk18/yzk18-net@1.2.3?classifier=sources
 - pkg:maven/com.yzk18/yzk18-net@1.2?classifier=sources

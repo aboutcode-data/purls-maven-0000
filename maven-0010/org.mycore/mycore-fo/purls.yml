@@ -36,3 +36,5 @@
 - pkg:maven/org.mycore/mycore-fo@2021.11?classifier=sources
 - pkg:maven/org.mycore/mycore-fo@2022.02
 - pkg:maven/org.mycore/mycore-fo@2022.02?classifier=sources
+- pkg:maven/org.mycore/mycore-fo@2022.05
+- pkg:maven/org.mycore/mycore-fo@2022.05?classifier=sources

@@ -8,3 +8,4 @@
 - pkg:maven/com.sbuslab/persistent-stash@1.0.5?classifier=sources
 - pkg:maven/com.sbuslab/persistent-stash@1.0.6
 - pkg:maven/com.sbuslab/persistent-stash@1.0.6?classifier=sources
+- pkg:maven/com.sbuslab/persistent-stash@1.1.14?classifier=sources

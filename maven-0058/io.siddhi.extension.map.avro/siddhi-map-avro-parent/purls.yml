@@ -8,3 +8,4 @@
 - pkg:maven/io.siddhi.extension.map.avro/siddhi-map-avro-parent@2.2.0?classifier=source-release&type=zip
 - pkg:maven/io.siddhi.extension.map.avro/siddhi-map-avro-parent@2.2.1?classifier=source-release&type=zip
 - pkg:maven/io.siddhi.extension.map.avro/siddhi-map-avro-parent@2.2.2?classifier=source-release&type=zip
+- pkg:maven/io.siddhi.extension.map.avro/siddhi-map-avro-parent@2.2.4?classifier=source-release&type=zip

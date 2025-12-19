@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/aws-sdk__client-sso@3.121.0
+- pkg:maven/org.webjars.npm/aws-sdk__client-sso@3.121.0?classifier=sources

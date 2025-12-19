@@ -26,3 +26,5 @@
 - pkg:maven/jp.co.yahoo.api-ads/ads-display-api-lib@1.0.0?classifier=sources
 - pkg:maven/jp.co.yahoo.api-ads/ads-display-api-lib@2.0.0
 - pkg:maven/jp.co.yahoo.api-ads/ads-display-api-lib@2.0.0?classifier=sources
+- pkg:maven/jp.co.yahoo.api-ads/ads-display-api-lib@2.1.0
+- pkg:maven/jp.co.yahoo.api-ads/ads-display-api-lib@2.1.0?classifier=sources

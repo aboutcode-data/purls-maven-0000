@@ -1,1 +1,2 @@
+- pkg:maven/org.ktorm/ktorm-ksp-ext-sequence-batch@1.0.0-RC2?classifier=sources
 - pkg:maven/org.ktorm/ktorm-ksp-ext-sequence-batch@1.0.0-RC?classifier=sources

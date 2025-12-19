@@ -57,6 +57,8 @@
 - pkg:maven/net.corda/corda@4.8
 - pkg:maven/net.corda/corda@4.8?classifier=sources
 - pkg:maven/net.corda/corda@4.9
+- pkg:maven/net.corda/corda@4.9.2
+- pkg:maven/net.corda/corda@4.9.2?classifier=sources
 - pkg:maven/net.corda/corda@4.9?classifier=sources
 - pkg:maven/net.corda/corda@5.0.0-DevPreview
 - pkg:maven/net.corda/corda@5.0.0-DevPreview-1.0

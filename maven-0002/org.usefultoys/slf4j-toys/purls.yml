@@ -8,3 +8,7 @@
 - pkg:maven/org.usefultoys/slf4j-toys@1.6.2?classifier=sources
 - pkg:maven/org.usefultoys/slf4j-toys@1.6.3
 - pkg:maven/org.usefultoys/slf4j-toys@1.6.3?classifier=sources
+- pkg:maven/org.usefultoys/slf4j-toys@1.7.0
+- pkg:maven/org.usefultoys/slf4j-toys@1.7.0?classifier=sources
+- pkg:maven/org.usefultoys/slf4j-toys@1.7.1
+- pkg:maven/org.usefultoys/slf4j-toys@1.7.1?classifier=sources

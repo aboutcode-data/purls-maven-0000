@@ -9,6 +9,8 @@
 - pkg:maven/com.jcabi/jcabi-matchers@1.4
 - pkg:maven/com.jcabi/jcabi-matchers@1.4?classifier=sources
 - pkg:maven/com.jcabi/jcabi-matchers@1.5
+- pkg:maven/com.jcabi/jcabi-matchers@1.5.0
+- pkg:maven/com.jcabi/jcabi-matchers@1.5.0?classifier=sources
 - pkg:maven/com.jcabi/jcabi-matchers@1.5.1
 - pkg:maven/com.jcabi/jcabi-matchers@1.5.1?classifier=sources
 - pkg:maven/com.jcabi/jcabi-matchers@1.5.3

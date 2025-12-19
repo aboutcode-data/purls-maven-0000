@@ -12,3 +12,5 @@
 - pkg:maven/net.openhft/posix@2.22ea7?classifier=sources
 - pkg:maven/net.openhft/posix@2.22ea8
 - pkg:maven/net.openhft/posix@2.22ea8?classifier=sources
+- pkg:maven/net.openhft/posix@2.23ea0
+- pkg:maven/net.openhft/posix@2.23ea0?classifier=sources

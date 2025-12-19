@@ -1,0 +1,2 @@
+- pkg:maven/io.trino/trino-hdfs@393
+- pkg:maven/io.trino/trino-hdfs@393?classifier=sources

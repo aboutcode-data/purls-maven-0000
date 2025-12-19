@@ -48,3 +48,5 @@
 - pkg:maven/com.aliyun/dms_enterprise20181101@1.36.0?classifier=sources
 - pkg:maven/com.aliyun/dms_enterprise20181101@1.37.0
 - pkg:maven/com.aliyun/dms_enterprise20181101@1.37.0?classifier=sources
+- pkg:maven/com.aliyun/dms_enterprise20181101@1.38.0
+- pkg:maven/com.aliyun/dms_enterprise20181101@1.38.0?classifier=sources

@@ -2,3 +2,5 @@
 - pkg:maven/au.com.agilepractices.rules.engine.examples/rules-engine-examples-hmrc-tax@1.0.1?classifier=sources
 - pkg:maven/au.com.agilepractices.rules.engine.examples/rules-engine-examples-hmrc-tax@1.0.2
 - pkg:maven/au.com.agilepractices.rules.engine.examples/rules-engine-examples-hmrc-tax@1.0.2?classifier=sources
+- pkg:maven/au.com.agilepractices.rules.engine.examples/rules-engine-examples-hmrc-tax@1.0.3
+- pkg:maven/au.com.agilepractices.rules.engine.examples/rules-engine-examples-hmrc-tax@1.0.3?classifier=sources

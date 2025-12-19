@@ -3,3 +3,4 @@
 - pkg:maven/io.github.adempiere/wms@3.9.4-develop-1.2?classifier=sources
 - pkg:maven/io.github.adempiere/wms@3.9.4-develop-1.3?classifier=sources
 - pkg:maven/io.github.adempiere/wms@3.9.4-develop-1.4?classifier=sources
+- pkg:maven/io.github.adempiere/wms@3.9.4-develop-1.5?classifier=sources

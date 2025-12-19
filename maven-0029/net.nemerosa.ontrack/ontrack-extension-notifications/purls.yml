@@ -11,7 +11,20 @@
 - pkg:maven/net.nemerosa.ontrack/ontrack-extension-notifications@4.2.19?classifier=sources
 - pkg:maven/net.nemerosa.ontrack/ontrack-extension-notifications@4.2.1?classifier=sources
 - pkg:maven/net.nemerosa.ontrack/ontrack-extension-notifications@4.2.20?classifier=sources
+- pkg:maven/net.nemerosa.ontrack/ontrack-extension-notifications@4.2.21?classifier=sources
+- pkg:maven/net.nemerosa.ontrack/ontrack-extension-notifications@4.2.22?classifier=sources
+- pkg:maven/net.nemerosa.ontrack/ontrack-extension-notifications@4.2.23?classifier=sources
+- pkg:maven/net.nemerosa.ontrack/ontrack-extension-notifications@4.2.24?classifier=sources
+- pkg:maven/net.nemerosa.ontrack/ontrack-extension-notifications@4.2.25?classifier=sources
+- pkg:maven/net.nemerosa.ontrack/ontrack-extension-notifications@4.2.26?classifier=sources
+- pkg:maven/net.nemerosa.ontrack/ontrack-extension-notifications@4.2.27?classifier=sources
+- pkg:maven/net.nemerosa.ontrack/ontrack-extension-notifications@4.2.28?classifier=sources
+- pkg:maven/net.nemerosa.ontrack/ontrack-extension-notifications@4.2.29?classifier=sources
 - pkg:maven/net.nemerosa.ontrack/ontrack-extension-notifications@4.2.2?classifier=sources
+- pkg:maven/net.nemerosa.ontrack/ontrack-extension-notifications@4.2.30?classifier=sources
+- pkg:maven/net.nemerosa.ontrack/ontrack-extension-notifications@4.2.31?classifier=sources
+- pkg:maven/net.nemerosa.ontrack/ontrack-extension-notifications@4.2.32?classifier=sources
+- pkg:maven/net.nemerosa.ontrack/ontrack-extension-notifications@4.2.33?classifier=sources
 - pkg:maven/net.nemerosa.ontrack/ontrack-extension-notifications@4.2.3?classifier=sources
 - pkg:maven/net.nemerosa.ontrack/ontrack-extension-notifications@4.2.4?classifier=sources
 - pkg:maven/net.nemerosa.ontrack/ontrack-extension-notifications@4.2.5?classifier=sources
@@ -19,3 +32,4 @@
 - pkg:maven/net.nemerosa.ontrack/ontrack-extension-notifications@4.2.7?classifier=sources
 - pkg:maven/net.nemerosa.ontrack/ontrack-extension-notifications@4.2.8?classifier=sources
 - pkg:maven/net.nemerosa.ontrack/ontrack-extension-notifications@4.2.9?classifier=sources
+- pkg:maven/net.nemerosa.ontrack/ontrack-extension-notifications@4.3-beta.0?classifier=sources

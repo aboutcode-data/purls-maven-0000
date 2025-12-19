@@ -1,2 +1,6 @@
+- pkg:maven/org.webjars.npm/firebase__analytics-compat@0.1.13
+- pkg:maven/org.webjars.npm/firebase__analytics-compat@0.1.13?classifier=sources
 - pkg:maven/org.webjars.npm/firebase__analytics-compat@0.1.8
 - pkg:maven/org.webjars.npm/firebase__analytics-compat@0.1.8?classifier=sources
+- pkg:maven/org.webjars.npm/firebase__analytics-compat@0.1.9
+- pkg:maven/org.webjars.npm/firebase__analytics-compat@0.1.9?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.okworx.ilcd.validation.profiles/EF-3.0_skipET@3.2.2
+- pkg:maven/com.okworx.ilcd.validation.profiles/EF-3.0_skipET@3.2.2?classifier=sources

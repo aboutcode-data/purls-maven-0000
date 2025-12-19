@@ -70,3 +70,17 @@
 - pkg:maven/io.trino/trino-product-tests@385?classifier=sources
 - pkg:maven/io.trino/trino-product-tests@386
 - pkg:maven/io.trino/trino-product-tests@386?classifier=sources
+- pkg:maven/io.trino/trino-product-tests@387
+- pkg:maven/io.trino/trino-product-tests@387?classifier=sources
+- pkg:maven/io.trino/trino-product-tests@388
+- pkg:maven/io.trino/trino-product-tests@388?classifier=sources
+- pkg:maven/io.trino/trino-product-tests@389
+- pkg:maven/io.trino/trino-product-tests@389?classifier=sources
+- pkg:maven/io.trino/trino-product-tests@390
+- pkg:maven/io.trino/trino-product-tests@390?classifier=sources
+- pkg:maven/io.trino/trino-product-tests@391
+- pkg:maven/io.trino/trino-product-tests@391?classifier=sources
+- pkg:maven/io.trino/trino-product-tests@392
+- pkg:maven/io.trino/trino-product-tests@392?classifier=sources
+- pkg:maven/io.trino/trino-product-tests@393
+- pkg:maven/io.trino/trino-product-tests@393?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/net.silkmc/silk-commands@1.9.0?classifier=sources
+- pkg:maven/net.silkmc/silk-commands@1.9.1?classifier=sources

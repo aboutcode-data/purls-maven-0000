@@ -1,0 +1,2 @@
+- pkg:maven/com.finix/finix-java@0.0.1
+- pkg:maven/com.finix/finix-java@0.0.1?classifier=sources

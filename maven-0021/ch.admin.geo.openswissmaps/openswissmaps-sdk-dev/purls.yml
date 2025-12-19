@@ -49,3 +49,6 @@
 - pkg:maven/ch.admin.geo.openswissmaps/openswissmaps-sdk-dev@1.1.4.56?classifier=sources
 - pkg:maven/ch.admin.geo.openswissmaps/openswissmaps-sdk-dev@1.1.4.57?classifier=sources
 - pkg:maven/ch.admin.geo.openswissmaps/openswissmaps-sdk-dev@1.1.4.58?classifier=sources
+- pkg:maven/ch.admin.geo.openswissmaps/openswissmaps-sdk-dev@1.1.4.59?classifier=sources
+- pkg:maven/ch.admin.geo.openswissmaps/openswissmaps-sdk-dev@1.1.4.60?classifier=sources
+- pkg:maven/ch.admin.geo.openswissmaps/openswissmaps-sdk-dev@1.1.4.61?classifier=sources

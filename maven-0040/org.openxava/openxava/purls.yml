@@ -1,0 +1,2 @@
+- pkg:maven/org.openxava/openxava@7.0-BETA1
+- pkg:maven/org.openxava/openxava@7.0-BETA1?classifier=sources

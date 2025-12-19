@@ -2,3 +2,5 @@
 - pkg:maven/com.bihe0832.android/lib-router-compiler@4.1.0?classifier=sources
 - pkg:maven/com.bihe0832.android/lib-router-compiler@4.15.0
 - pkg:maven/com.bihe0832.android/lib-router-compiler@4.15.0?classifier=sources
+- pkg:maven/com.bihe0832.android/lib-router-compiler@4.20.32
+- pkg:maven/com.bihe0832.android/lib-router-compiler@4.20.32?classifier=sources

@@ -1,3 +1,4 @@
 - pkg:maven/org.polystat/j2ast@0.0.2?classifier=sources
 - pkg:maven/org.polystat/j2ast@0.0.3?classifier=sources
 - pkg:maven/org.polystat/j2ast@0.1.0?classifier=sources
+- pkg:maven/org.polystat/j2ast@0.2.0?classifier=sources

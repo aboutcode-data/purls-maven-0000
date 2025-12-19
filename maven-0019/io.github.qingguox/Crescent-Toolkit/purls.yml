@@ -1,0 +1,8 @@
+- pkg:maven/io.github.qingguox/Crescent-Toolkit@1.0.61-RELEASE
+- pkg:maven/io.github.qingguox/Crescent-Toolkit@1.0.61-RELEASE?classifier=sources
+- pkg:maven/io.github.qingguox/Crescent-Toolkit@1.0.611-RELEASE
+- pkg:maven/io.github.qingguox/Crescent-Toolkit@1.0.611-RELEASE?classifier=sources
+- pkg:maven/io.github.qingguox/Crescent-Toolkit@1.0.62-RELEASE
+- pkg:maven/io.github.qingguox/Crescent-Toolkit@1.0.62-RELEASE?classifier=sources
+- pkg:maven/io.github.qingguox/Crescent-Toolkit@1.0.63-RELEASE
+- pkg:maven/io.github.qingguox/Crescent-Toolkit@1.0.63-RELEASE?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.antiaction/common-datastructures@0.2.0-JWAT
+- pkg:maven/com.antiaction/common-datastructures@0.2.0-JWAT?classifier=sources
