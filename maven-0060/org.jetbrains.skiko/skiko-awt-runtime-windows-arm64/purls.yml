@@ -1,1 +1,2 @@
 - pkg:maven/org.jetbrains.skiko/skiko-awt-runtime-windows-arm64@0.7.50?classifier=sources
+- pkg:maven/org.jetbrains.skiko/skiko-awt-runtime-windows-arm64@0.7.54?classifier=sources

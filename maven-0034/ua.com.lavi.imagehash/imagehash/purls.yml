@@ -1,0 +1,2 @@
+- pkg:maven/ua.com.lavi.imagehash/imagehash@0.1?classifier=sources
+- pkg:maven/ua.com.lavi.imagehash/imagehash@0.2?classifier=sources

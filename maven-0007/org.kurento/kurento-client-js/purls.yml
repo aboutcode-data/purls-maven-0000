@@ -34,3 +34,5 @@
 - pkg:maven/org.kurento/kurento-client-js@6.6.0?classifier=sources
 - pkg:maven/org.kurento/kurento-client-js@6.9.0
 - pkg:maven/org.kurento/kurento-client-js@6.9.0?classifier=sources
+- pkg:maven/org.kurento/kurento-client-js@7.0.0?classifier=sources
+- pkg:maven/org.kurento/kurento-client-js@7.0.0?type=zip

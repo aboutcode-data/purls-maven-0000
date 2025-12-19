@@ -1,0 +1,2 @@
+- pkg:maven/dev.gitlive/firebase-crashlytics-iosx64@1.7.2?classifier=sources
+- pkg:maven/dev.gitlive/firebase-crashlytics-iosx64@1.8.0?classifier=sources

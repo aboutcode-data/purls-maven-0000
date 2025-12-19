@@ -1,0 +1,6 @@
+- pkg:maven/org.wso2.carbon.identity.outbound.auth.hypr/org.wso2.carbon.identity.application.authenticator.hypr.common@1.0.1
+- pkg:maven/org.wso2.carbon.identity.outbound.auth.hypr/org.wso2.carbon.identity.application.authenticator.hypr.common@1.0.1?classifier=sources
+- pkg:maven/org.wso2.carbon.identity.outbound.auth.hypr/org.wso2.carbon.identity.application.authenticator.hypr.common@1.0.2
+- pkg:maven/org.wso2.carbon.identity.outbound.auth.hypr/org.wso2.carbon.identity.application.authenticator.hypr.common@1.0.2?classifier=sources
+- pkg:maven/org.wso2.carbon.identity.outbound.auth.hypr/org.wso2.carbon.identity.application.authenticator.hypr.common@1.0.3
+- pkg:maven/org.wso2.carbon.identity.outbound.auth.hypr/org.wso2.carbon.identity.application.authenticator.hypr.common@1.0.3?classifier=sources

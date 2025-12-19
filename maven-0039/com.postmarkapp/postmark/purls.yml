@@ -1,6 +1,16 @@
+- pkg:maven/com.postmarkapp/postmark@1.10.0
+- pkg:maven/com.postmarkapp/postmark@1.10.0?classifier=sources
+- pkg:maven/com.postmarkapp/postmark@1.10.1
+- pkg:maven/com.postmarkapp/postmark@1.10.1?classifier=sources
+- pkg:maven/com.postmarkapp/postmark@1.10.2
+- pkg:maven/com.postmarkapp/postmark@1.10.21
+- pkg:maven/com.postmarkapp/postmark@1.10.21?classifier=sources
+- pkg:maven/com.postmarkapp/postmark@1.10.2?classifier=sources
 - pkg:maven/com.postmarkapp/postmark@1.9.0
 - pkg:maven/com.postmarkapp/postmark@1.9.0?classifier=sources
 - pkg:maven/com.postmarkapp/postmark@1.9.1
 - pkg:maven/com.postmarkapp/postmark@1.9.11
 - pkg:maven/com.postmarkapp/postmark@1.9.11?classifier=sources
+- pkg:maven/com.postmarkapp/postmark@1.9.12
+- pkg:maven/com.postmarkapp/postmark@1.9.12?classifier=sources
 - pkg:maven/com.postmarkapp/postmark@1.9.1?classifier=sources

@@ -24,6 +24,8 @@
 - pkg:maven/com.aspectran/aspectran-websocket@6.13.9?classifier=sources
 - pkg:maven/com.aspectran/aspectran-websocket@6.14.0
 - pkg:maven/com.aspectran/aspectran-websocket@6.14.0?classifier=sources
+- pkg:maven/com.aspectran/aspectran-websocket@6.15.0
+- pkg:maven/com.aspectran/aspectran-websocket@6.15.0?classifier=sources
 - pkg:maven/com.aspectran/aspectran-websocket@7.0.0
 - pkg:maven/com.aspectran/aspectran-websocket@7.0.0?classifier=sources
 - pkg:maven/com.aspectran/aspectran-websocket@7.0.1
@@ -50,3 +52,5 @@
 - pkg:maven/com.aspectran/aspectran-websocket@7.0.9?classifier=sources
 - pkg:maven/com.aspectran/aspectran-websocket@7.1.0
 - pkg:maven/com.aspectran/aspectran-websocket@7.1.0?classifier=sources
+- pkg:maven/com.aspectran/aspectran-websocket@7.2.0
+- pkg:maven/com.aspectran/aspectran-websocket@7.2.0?classifier=sources

@@ -21,3 +21,15 @@
 - pkg:maven/com.pulumi/cloudflare@4.16.0-alpha.1675065740%2B5ed17b21?classifier=sources
 - pkg:maven/com.pulumi/cloudflare@4.16.0-alpha.1675065807%2B61c8a978?classifier=sources
 - pkg:maven/com.pulumi/cloudflare@4.16.0-alpha.1675756412%2Bdc733fac?classifier=sources
+- pkg:maven/com.pulumi/cloudflare@4.16.0-alpha.1677763628%2B01bfa590?classifier=sources
+- pkg:maven/com.pulumi/cloudflare@4.16.0-alpha.1677782042%2B877ef99d?classifier=sources
+- pkg:maven/com.pulumi/cloudflare@4.16.0-alpha.1678043991%2Bc209dbb4?classifier=sources
+- pkg:maven/com.pulumi/cloudflare@4.16.0-alpha.1678127879%2Beffb9c0c?classifier=sources
+- pkg:maven/com.pulumi/cloudflare@4.16.0-alpha.1678129660%2B59dd327e?classifier=sources
+- pkg:maven/com.pulumi/cloudflare@4.16.0-alpha.1678299547%2Ba035322f?classifier=sources
+- pkg:maven/com.pulumi/cloudflare@4.16.0-alpha.1678376752%2B369eea85?classifier=sources
+- pkg:maven/com.pulumi/cloudflare@4.16.0?classifier=sources
+- pkg:maven/com.pulumi/cloudflare@5.0.0-alpha.1678741462%2B0f77885f?classifier=sources
+- pkg:maven/com.pulumi/cloudflare@5.0.0?classifier=sources
+- pkg:maven/com.pulumi/cloudflare@5.1.0-alpha.1679352776%2B1272da37?classifier=sources
+- pkg:maven/com.pulumi/cloudflare@5.1.0-alpha.1679413174%2B3b136a5f?classifier=sources

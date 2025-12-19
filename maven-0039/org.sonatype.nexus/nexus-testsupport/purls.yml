@@ -69,3 +69,9 @@
 - pkg:maven/org.sonatype.nexus/nexus-testsupport@3.47.0-01?classifier=sources
 - pkg:maven/org.sonatype.nexus/nexus-testsupport@3.47.1-01
 - pkg:maven/org.sonatype.nexus/nexus-testsupport@3.47.1-01?classifier=sources
+- pkg:maven/org.sonatype.nexus/nexus-testsupport@3.48.0-01
+- pkg:maven/org.sonatype.nexus/nexus-testsupport@3.48.0-01?classifier=sources
+- pkg:maven/org.sonatype.nexus/nexus-testsupport@3.49.0-02
+- pkg:maven/org.sonatype.nexus/nexus-testsupport@3.49.0-02?classifier=sources
+- pkg:maven/org.sonatype.nexus/nexus-testsupport@3.50.0-01
+- pkg:maven/org.sonatype.nexus/nexus-testsupport@3.50.0-01?classifier=sources

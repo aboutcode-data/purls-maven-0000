@@ -1,4 +1,5 @@
 - pkg:maven/com.google.appengine/libxmlvalidator_test@2.0.10
 - pkg:maven/com.google.appengine/libxmlvalidator_test@2.0.11
+- pkg:maven/com.google.appengine/libxmlvalidator_test@2.0.12
 - pkg:maven/com.google.appengine/libxmlvalidator_test@2.0.7
 - pkg:maven/com.google.appengine/libxmlvalidator_test@2.0.8

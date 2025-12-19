@@ -48,4 +48,14 @@
 - pkg:maven/com.pulumi/gcp@6.49.0?classifier=sources
 - pkg:maven/com.pulumi/gcp@6.50.0-alpha.1676568693%2Bb8d0d612?classifier=sources
 - pkg:maven/com.pulumi/gcp@6.50.0?classifier=sources
+- pkg:maven/com.pulumi/gcp@6.51.0-alpha.1677686269%2B386974ac?classifier=sources
+- pkg:maven/com.pulumi/gcp@6.51.0-alpha.1678211372%2B691689a8?classifier=sources
+- pkg:maven/com.pulumi/gcp@6.51.0-alpha.1678222158%2B815bd692?classifier=sources
+- pkg:maven/com.pulumi/gcp@6.51.0?classifier=sources
+- pkg:maven/com.pulumi/gcp@6.52.0-alpha.1678978046%2Bc3a2fd03?classifier=sources
+- pkg:maven/com.pulumi/gcp@6.52.0-alpha.1679450807%2Bf3d083a4?classifier=sources
+- pkg:maven/com.pulumi/gcp@6.52.0-alpha.1679521031%2Bd6f2c119?classifier=sources
+- pkg:maven/com.pulumi/gcp@6.52.0?classifier=sources
+- pkg:maven/com.pulumi/gcp@6.53.0-alpha.1679948372%2B0e2c6ccb?classifier=sources
+- pkg:maven/com.pulumi/gcp@6.53.0-alpha.1679952620%2Be970ef2f?classifier=sources
 - pkg:maven/com.pulumi/gcp@v6.31.0-alpha.1657285227%2B6c9897a8?classifier=sources

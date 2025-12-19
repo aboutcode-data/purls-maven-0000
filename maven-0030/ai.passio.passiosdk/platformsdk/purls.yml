@@ -1,1 +1,2 @@
 - pkg:maven/ai.passio.passiosdk/platformsdk@2.2.12?classifier=sources
+- pkg:maven/ai.passio.passiosdk/platformsdk@2.2.15?classifier=sources

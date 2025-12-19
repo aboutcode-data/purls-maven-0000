@@ -107,6 +107,10 @@
 - pkg:maven/com.github.bibsysdev/nva-datamodel-java@0.19.32?classifier=sources
 - pkg:maven/com.github.bibsysdev/nva-datamodel-java@0.19.33?classifier=sources
 - pkg:maven/com.github.bibsysdev/nva-datamodel-java@0.19.34?classifier=sources
+- pkg:maven/com.github.bibsysdev/nva-datamodel-java@0.19.35?classifier=sources
+- pkg:maven/com.github.bibsysdev/nva-datamodel-java@0.19.36?classifier=sources
+- pkg:maven/com.github.bibsysdev/nva-datamodel-java@0.19.37?classifier=sources
+- pkg:maven/com.github.bibsysdev/nva-datamodel-java@0.19.38?classifier=sources
 - pkg:maven/com.github.bibsysdev/nva-datamodel-java@0.19.3?classifier=sources
 - pkg:maven/com.github.bibsysdev/nva-datamodel-java@0.19.4?classifier=sources
 - pkg:maven/com.github.bibsysdev/nva-datamodel-java@0.19.5?classifier=sources

@@ -119,3 +119,11 @@
 - pkg:maven/xin.altitude.cms/ucode-cms-ui@1.6.2.4
 - pkg:maven/xin.altitude.cms/ucode-cms-ui@1.6.2.5
 - pkg:maven/xin.altitude.cms/ucode-cms-ui@1.6.2?classifier=sources
+- pkg:maven/xin.altitude.cms/ucode-cms-ui@1.6.3
+- pkg:maven/xin.altitude.cms/ucode-cms-ui@1.6.3.1-beta
+- pkg:maven/xin.altitude.cms/ucode-cms-ui@1.6.3.1-beta?classifier=sources
+- pkg:maven/xin.altitude.cms/ucode-cms-ui@1.6.3.2-beta
+- pkg:maven/xin.altitude.cms/ucode-cms-ui@1.6.3.2-beta?classifier=sources
+- pkg:maven/xin.altitude.cms/ucode-cms-ui@1.6.3.3-beta
+- pkg:maven/xin.altitude.cms/ucode-cms-ui@1.6.3.3-beta?classifier=sources
+- pkg:maven/xin.altitude.cms/ucode-cms-ui@1.6.3?classifier=sources

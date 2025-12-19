@@ -13,3 +13,4 @@
 - pkg:maven/com.withabound/withabound-java@2.0.0?classifier=sources
 - pkg:maven/com.withabound/withabound-java@2.1.0?classifier=sources
 - pkg:maven/com.withabound/withabound-java@2.2.0?classifier=sources
+- pkg:maven/com.withabound/withabound-java@2.3.0?classifier=sources

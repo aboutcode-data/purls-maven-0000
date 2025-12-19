@@ -28,3 +28,5 @@
 - pkg:maven/com.aliyun.datahub/datahub-client-library@1.1.8-public?classifier=sources
 - pkg:maven/com.aliyun.datahub/datahub-client-library@1.2.0-public
 - pkg:maven/com.aliyun.datahub/datahub-client-library@1.2.0-public?classifier=sources
+- pkg:maven/com.aliyun.datahub/datahub-client-library@1.3.12
+- pkg:maven/com.aliyun.datahub/datahub-client-library@1.3.12?classifier=sources

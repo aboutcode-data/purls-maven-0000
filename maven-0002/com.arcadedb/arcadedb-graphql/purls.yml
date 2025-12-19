@@ -22,3 +22,5 @@
 - pkg:maven/com.arcadedb/arcadedb-graphql@23.1.1?classifier=sources
 - pkg:maven/com.arcadedb/arcadedb-graphql@23.1.2
 - pkg:maven/com.arcadedb/arcadedb-graphql@23.1.2?classifier=sources
+- pkg:maven/com.arcadedb/arcadedb-graphql@23.2.1
+- pkg:maven/com.arcadedb/arcadedb-graphql@23.2.1?classifier=sources

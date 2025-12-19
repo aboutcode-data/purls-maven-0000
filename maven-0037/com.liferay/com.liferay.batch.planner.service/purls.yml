@@ -134,6 +134,9 @@
 - pkg:maven/com.liferay/com.liferay.batch.planner.service@1.0.4?classifier=sources
 - pkg:maven/com.liferay/com.liferay.batch.planner.service@1.0.4?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.batch.planner.service@1.0.5
+- pkg:maven/com.liferay/com.liferay.batch.planner.service@1.0.50
+- pkg:maven/com.liferay/com.liferay.batch.planner.service@1.0.50?classifier=sources
+- pkg:maven/com.liferay/com.liferay.batch.planner.service@1.0.50?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.batch.planner.service@1.0.5?classifier=sources
 - pkg:maven/com.liferay/com.liferay.batch.planner.service@1.0.5?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.batch.planner.service@1.0.6

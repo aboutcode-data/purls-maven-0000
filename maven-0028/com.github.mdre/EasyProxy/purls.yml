@@ -1,1 +1,2 @@
 - pkg:maven/com.github.mdre/EasyProxy@0.5.0?classifier=sources
+- pkg:maven/com.github.mdre/EasyProxy@0.6.0?classifier=sources

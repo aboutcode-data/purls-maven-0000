@@ -7,3 +7,5 @@
 - pkg:maven/org.wildfly.channel/channel-parent@1.0.0.Alpha18?classifier=source-release&type=zip
 - pkg:maven/org.wildfly.channel/channel-parent@1.0.0.Beta1?classifier=source-release&type=zip
 - pkg:maven/org.wildfly.channel/channel-parent@1.0.0.Beta2?classifier=source-release&type=zip
+- pkg:maven/org.wildfly.channel/channel-parent@1.0.0.Beta5?classifier=source-release&type=zip
+- pkg:maven/org.wildfly.channel/channel-parent@1.0.0.Beta6?classifier=source-release&type=zip

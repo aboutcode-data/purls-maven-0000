@@ -1,0 +1,1 @@
+- pkg:maven/com.microsoft.azure/azure-schemaregistry-kafka-json@1.0.0-beta.1?classifier=sources

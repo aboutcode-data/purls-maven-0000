@@ -1,2 +1,3 @@
 - pkg:maven/com.lwohvye/unicorn-code-gen@4.0.0-alpha?classifier=sources
 - pkg:maven/com.lwohvye/unicorn-code-gen@4.0.0-beta?classifier=sources
+- pkg:maven/com.lwohvye/unicorn-code-gen@4.0.0-gamma?classifier=sources

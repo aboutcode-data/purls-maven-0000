@@ -22,3 +22,5 @@
 - pkg:maven/me.ihxq.projects/phone-number-geo@1.0.8-202108?classifier=sources
 - pkg:maven/me.ihxq.projects/phone-number-geo@1.0.9-202108
 - pkg:maven/me.ihxq.projects/phone-number-geo@1.0.9-202108?classifier=sources
+- pkg:maven/me.ihxq.projects/phone-number-geo@1.0.9-202302
+- pkg:maven/me.ihxq.projects/phone-number-geo@1.0.9-202302?classifier=sources

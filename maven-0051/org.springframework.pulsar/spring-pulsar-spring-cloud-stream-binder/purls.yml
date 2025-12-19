@@ -1,0 +1,1 @@
+- pkg:maven/org.springframework.pulsar/spring-pulsar-spring-cloud-stream-binder@0.2.0?classifier=sources

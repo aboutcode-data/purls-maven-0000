@@ -31,9 +31,11 @@
 - pkg:maven/org.opencastproject/opencast-admin-ui-frontend@12.6
 - pkg:maven/org.opencastproject/opencast-admin-ui-frontend@12.7
 - pkg:maven/org.opencastproject/opencast-admin-ui-frontend@12.8
+- pkg:maven/org.opencastproject/opencast-admin-ui-frontend@12.9
 - pkg:maven/org.opencastproject/opencast-admin-ui-frontend@13.0
 - pkg:maven/org.opencastproject/opencast-admin-ui-frontend@13.1
 - pkg:maven/org.opencastproject/opencast-admin-ui-frontend@13.2
+- pkg:maven/org.opencastproject/opencast-admin-ui-frontend@13.4
 - pkg:maven/org.opencastproject/opencast-admin-ui-frontend@9.0
 - pkg:maven/org.opencastproject/opencast-admin-ui-frontend@9.1
 - pkg:maven/org.opencastproject/opencast-admin-ui-frontend@9.10

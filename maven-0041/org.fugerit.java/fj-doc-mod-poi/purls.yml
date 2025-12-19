@@ -222,3 +222,7 @@
 - pkg:maven/org.fugerit.java/fj-doc-mod-poi@0.8.8?classifier=sources
 - pkg:maven/org.fugerit.java/fj-doc-mod-poi@0.8.9
 - pkg:maven/org.fugerit.java/fj-doc-mod-poi@0.8.9?classifier=sources
+- pkg:maven/org.fugerit.java/fj-doc-mod-poi@1.0.0
+- pkg:maven/org.fugerit.java/fj-doc-mod-poi@1.0.0?classifier=sources
+- pkg:maven/org.fugerit.java/fj-doc-mod-poi@1.0.1
+- pkg:maven/org.fugerit.java/fj-doc-mod-poi@1.0.1?classifier=sources

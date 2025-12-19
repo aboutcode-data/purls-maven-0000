@@ -14,6 +14,8 @@
 - pkg:maven/org.webjars.npm/babel__plugin-transform-modules-commonjs@7.19.6?classifier=sources
 - pkg:maven/org.webjars.npm/babel__plugin-transform-modules-commonjs@7.2.0
 - pkg:maven/org.webjars.npm/babel__plugin-transform-modules-commonjs@7.2.0?classifier=sources
+- pkg:maven/org.webjars.npm/babel__plugin-transform-modules-commonjs@7.21.2
+- pkg:maven/org.webjars.npm/babel__plugin-transform-modules-commonjs@7.21.2?classifier=sources
 - pkg:maven/org.webjars.npm/babel__plugin-transform-modules-commonjs@7.4.4
 - pkg:maven/org.webjars.npm/babel__plugin-transform-modules-commonjs@7.4.4?classifier=sources
 - pkg:maven/org.webjars.npm/babel__plugin-transform-modules-commonjs@7.5.0

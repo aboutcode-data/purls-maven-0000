@@ -1,2 +1,8 @@
+- pkg:maven/org.jetbrains.kotlin/kotlin-gradle-plugin-annotations@1.8.20
 - pkg:maven/org.jetbrains.kotlin/kotlin-gradle-plugin-annotations@1.8.20-Beta
 - pkg:maven/org.jetbrains.kotlin/kotlin-gradle-plugin-annotations@1.8.20-Beta?classifier=sources
+- pkg:maven/org.jetbrains.kotlin/kotlin-gradle-plugin-annotations@1.8.20-RC
+- pkg:maven/org.jetbrains.kotlin/kotlin-gradle-plugin-annotations@1.8.20-RC2
+- pkg:maven/org.jetbrains.kotlin/kotlin-gradle-plugin-annotations@1.8.20-RC2?classifier=sources
+- pkg:maven/org.jetbrains.kotlin/kotlin-gradle-plugin-annotations@1.8.20-RC?classifier=sources
+- pkg:maven/org.jetbrains.kotlin/kotlin-gradle-plugin-annotations@1.8.20?classifier=sources

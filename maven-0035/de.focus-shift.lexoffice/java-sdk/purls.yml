@@ -1,2 +1,6 @@
 - pkg:maven/de.focus-shift.lexoffice/java-sdk@0.2.3
 - pkg:maven/de.focus-shift.lexoffice/java-sdk@0.2.3?classifier=sources
+- pkg:maven/de.focus-shift.lexoffice/java-sdk@1.0.0
+- pkg:maven/de.focus-shift.lexoffice/java-sdk@1.0.0?classifier=sources
+- pkg:maven/de.focus-shift.lexoffice/java-sdk@1.0.1
+- pkg:maven/de.focus-shift.lexoffice/java-sdk@1.0.1?classifier=sources

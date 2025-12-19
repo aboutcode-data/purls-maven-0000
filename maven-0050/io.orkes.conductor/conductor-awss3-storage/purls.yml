@@ -3,3 +3,5 @@
 - pkg:maven/io.orkes.conductor/conductor-awss3-storage@3.9.0-orkes-j?classifier=sources
 - pkg:maven/io.orkes.conductor/conductor-awss3-storage@3.9.0-orkes-m?classifier=sources
 - pkg:maven/io.orkes.conductor/conductor-awss3-storage@3.9.0-orkes-n?classifier=sources
+- pkg:maven/io.orkes.conductor/conductor-awss3-storage@3.9.0-orkes-o?classifier=sources
+- pkg:maven/io.orkes.conductor/conductor-awss3-storage@3.9.0-orkes-p-rc?classifier=sources

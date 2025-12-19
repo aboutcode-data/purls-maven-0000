@@ -1,2 +1,4 @@
 - pkg:maven/net.solarnetwork.node/net.solarnetwork.node.datum.price.delimited@2.0.0
 - pkg:maven/net.solarnetwork.node/net.solarnetwork.node.datum.price.delimited@2.0.0?classifier=sources
+- pkg:maven/net.solarnetwork.node/net.solarnetwork.node.datum.price.delimited@3.0.0
+- pkg:maven/net.solarnetwork.node/net.solarnetwork.node.datum.price.delimited@3.0.0?classifier=sources

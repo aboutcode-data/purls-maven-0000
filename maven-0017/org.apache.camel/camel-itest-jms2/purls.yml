@@ -98,11 +98,13 @@
 - pkg:maven/org.apache.camel/camel-itest-jms2@3.18.3
 - pkg:maven/org.apache.camel/camel-itest-jms2@3.18.4
 - pkg:maven/org.apache.camel/camel-itest-jms2@3.18.5
+- pkg:maven/org.apache.camel/camel-itest-jms2@3.18.6
 - pkg:maven/org.apache.camel/camel-itest-jms2@3.19.0
 - pkg:maven/org.apache.camel/camel-itest-jms2@3.2.0
 - pkg:maven/org.apache.camel/camel-itest-jms2@3.20.0
 - pkg:maven/org.apache.camel/camel-itest-jms2@3.20.1
 - pkg:maven/org.apache.camel/camel-itest-jms2@3.20.2
+- pkg:maven/org.apache.camel/camel-itest-jms2@3.20.3
 - pkg:maven/org.apache.camel/camel-itest-jms2@3.3.0
 - pkg:maven/org.apache.camel/camel-itest-jms2@3.4.0
 - pkg:maven/org.apache.camel/camel-itest-jms2@3.4.1
@@ -124,3 +126,4 @@
 - pkg:maven/org.apache.camel/camel-itest-jms2@3.8.0
 - pkg:maven/org.apache.camel/camel-itest-jms2@3.9.0
 - pkg:maven/org.apache.camel/camel-itest-jms2@4.0.0-M1
+- pkg:maven/org.apache.camel/camel-itest-jms2@4.0.0-M2

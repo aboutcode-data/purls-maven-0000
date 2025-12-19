@@ -1,2 +1,4 @@
 - pkg:maven/io.snice.networking/http-stack@0.0.10
 - pkg:maven/io.snice.networking/http-stack@0.0.10?classifier=sources
+- pkg:maven/io.snice.networking/http-stack@0.0.11
+- pkg:maven/io.snice.networking/http-stack@0.0.11?classifier=sources

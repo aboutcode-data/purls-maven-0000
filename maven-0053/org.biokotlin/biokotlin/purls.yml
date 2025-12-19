@@ -4,3 +4,4 @@
 - pkg:maven/org.biokotlin/biokotlin@0.04?classifier=sources
 - pkg:maven/org.biokotlin/biokotlin@0.05.01?classifier=sources
 - pkg:maven/org.biokotlin/biokotlin@0.05?classifier=sources
+- pkg:maven/org.biokotlin/biokotlin@0.06?classifier=sources

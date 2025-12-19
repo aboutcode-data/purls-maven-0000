@@ -2,3 +2,7 @@
 - pkg:maven/net.solarnetwork.node/net.solarnetwork.node.datum.ae.ae250tx@4.0.0?classifier=sources
 - pkg:maven/net.solarnetwork.node/net.solarnetwork.node.datum.ae.ae250tx@4.1.0
 - pkg:maven/net.solarnetwork.node/net.solarnetwork.node.datum.ae.ae250tx@4.1.0?classifier=sources
+- pkg:maven/net.solarnetwork.node/net.solarnetwork.node.datum.ae.ae250tx@5.0.0
+- pkg:maven/net.solarnetwork.node/net.solarnetwork.node.datum.ae.ae250tx@5.0.0?classifier=sources
+- pkg:maven/net.solarnetwork.node/net.solarnetwork.node.datum.ae.ae250tx@5.1.0
+- pkg:maven/net.solarnetwork.node/net.solarnetwork.node.datum.ae.ae250tx@5.1.0?classifier=sources

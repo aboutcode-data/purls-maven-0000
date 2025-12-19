@@ -66,6 +66,8 @@
 - pkg:maven/com.google.apis/google-api-services-eventarc@v1-rev20230113-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-eventarc@v1-rev20230127-2.0.0
 - pkg:maven/com.google.apis/google-api-services-eventarc@v1-rev20230127-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-eventarc@v1-rev20230321-2.0.0
+- pkg:maven/com.google.apis/google-api-services-eventarc@v1-rev20230321-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-eventarc@v1beta1-rev20201015-1.30.10
 - pkg:maven/com.google.apis/google-api-services-eventarc@v1beta1-rev20201015-1.30.10?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-eventarc@v1beta1-rev20201023-1.30.10
@@ -122,3 +124,5 @@
 - pkg:maven/com.google.apis/google-api-services-eventarc@v1beta1-rev20230113-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-eventarc@v1beta1-rev20230127-2.0.0
 - pkg:maven/com.google.apis/google-api-services-eventarc@v1beta1-rev20230127-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-eventarc@v1beta1-rev20230307-2.0.0
+- pkg:maven/com.google.apis/google-api-services-eventarc@v1beta1-rev20230307-2.0.0?classifier=sources

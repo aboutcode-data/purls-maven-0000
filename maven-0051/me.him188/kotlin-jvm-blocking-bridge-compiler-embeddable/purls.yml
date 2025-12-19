@@ -14,3 +14,5 @@
 - pkg:maven/me.him188/kotlin-jvm-blocking-bridge-compiler-embeddable@2.2.0-172.1?classifier=sources
 - pkg:maven/me.him188/kotlin-jvm-blocking-bridge-compiler-embeddable@2.2.0-180.1
 - pkg:maven/me.him188/kotlin-jvm-blocking-bridge-compiler-embeddable@2.2.0-180.1?classifier=sources
+- pkg:maven/me.him188/kotlin-jvm-blocking-bridge-compiler-embeddable@3.0.0-180.1
+- pkg:maven/me.him188/kotlin-jvm-blocking-bridge-compiler-embeddable@3.0.0-180.1?classifier=sources

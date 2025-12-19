@@ -1,0 +1,2 @@
+- pkg:maven/org.taruts.djig.example/example-dynamic-api@1.0.1?classifier=sources
+- pkg:maven/org.taruts.djig.example/example-dynamic-api@1.0.3?classifier=sources

@@ -328,6 +328,14 @@
 - pkg:maven/org.wso2.carbon.identity.governance/identity-governance@1.8.1?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.identity.governance/identity-governance@1.8.20?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.identity.governance/identity-governance@1.8.21?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.identity.governance/identity-governance@1.8.22?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.identity.governance/identity-governance@1.8.23?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.identity.governance/identity-governance@1.8.24?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.identity.governance/identity-governance@1.8.25?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.identity.governance/identity-governance@1.8.26?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.identity.governance/identity-governance@1.8.27?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.identity.governance/identity-governance@1.8.28?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.identity.governance/identity-governance@1.8.29?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.identity.governance/identity-governance@1.8.2?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.identity.governance/identity-governance@1.8.3?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.identity.governance/identity-governance@1.8.4?classifier=source-release&type=zip
@@ -335,3 +343,5 @@
 - pkg:maven/org.wso2.carbon.identity.governance/identity-governance@1.8.6?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.identity.governance/identity-governance@1.8.7?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.identity.governance/identity-governance@1.8.8?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.identity.governance/identity-governance@2.0.0?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.identity.governance/identity-governance@2.0.1?classifier=source-release&type=zip

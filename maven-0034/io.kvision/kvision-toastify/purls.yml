@@ -1,5 +1,6 @@
 - pkg:maven/io.kvision/kvision-toastify@5.18.0?classifier=sources
 - pkg:maven/io.kvision/kvision-toastify@5.18.1?classifier=sources
+- pkg:maven/io.kvision/kvision-toastify@5.18.2?classifier=sources
 - pkg:maven/io.kvision/kvision-toastify@6.0.0-Beta?classifier=sources
 - pkg:maven/io.kvision/kvision-toastify@6.0.0?classifier=sources
 - pkg:maven/io.kvision/kvision-toastify@6.0.1?classifier=sources
@@ -13,3 +14,5 @@
 - pkg:maven/io.kvision/kvision-toastify@6.1.2?classifier=sources
 - pkg:maven/io.kvision/kvision-toastify@6.2.0?classifier=sources
 - pkg:maven/io.kvision/kvision-toastify@6.2.1?classifier=sources
+- pkg:maven/io.kvision/kvision-toastify@6.2.2?classifier=sources
+- pkg:maven/io.kvision/kvision-toastify@6.2.3?classifier=sources

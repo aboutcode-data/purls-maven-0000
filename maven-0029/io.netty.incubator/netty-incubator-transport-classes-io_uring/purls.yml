@@ -14,3 +14,5 @@
 - pkg:maven/io.netty.incubator/netty-incubator-transport-classes-io_uring@0.0.17.Final?classifier=sources
 - pkg:maven/io.netty.incubator/netty-incubator-transport-classes-io_uring@0.0.18.Final
 - pkg:maven/io.netty.incubator/netty-incubator-transport-classes-io_uring@0.0.18.Final?classifier=sources
+- pkg:maven/io.netty.incubator/netty-incubator-transport-classes-io_uring@0.0.19.Final
+- pkg:maven/io.netty.incubator/netty-incubator-transport-classes-io_uring@0.0.19.Final?classifier=sources

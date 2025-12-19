@@ -8,3 +8,4 @@
 - pkg:maven/org.odpi.egeria/data-engine-proxy-services-spring@3.14?classifier=sources
 - pkg:maven/org.odpi.egeria/data-engine-proxy-services-spring@3.15
 - pkg:maven/org.odpi.egeria/data-engine-proxy-services-spring@3.15?classifier=sources
+- pkg:maven/org.odpi.egeria/data-engine-proxy-services-spring@4.0?classifier=sources
