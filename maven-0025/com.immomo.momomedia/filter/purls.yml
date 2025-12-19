@@ -34,3 +34,7 @@
 - pkg:maven/com.immomo.momomedia/filter@3.0.0-2021112901?type=aar
 - pkg:maven/com.immomo.momomedia/filter@3.0.0-2021122901?classifier=sources
 - pkg:maven/com.immomo.momomedia/filter@3.0.0-2021122901?type=aar
+- pkg:maven/com.immomo.momomedia/filter@3.0.0-202202171412?classifier=sources
+- pkg:maven/com.immomo.momomedia/filter@3.0.0-202202171412?type=aar
+- pkg:maven/com.immomo.momomedia/filter@3.0.0-202202171700?classifier=sources
+- pkg:maven/com.immomo.momomedia/filter@3.0.0-202202171700?type=aar

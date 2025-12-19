@@ -2,3 +2,7 @@
 - pkg:maven/club.zhcs/open-api-spring-boot-starter@2.6.2?classifier=sources
 - pkg:maven/club.zhcs/open-api-spring-boot-starter@2.6.3
 - pkg:maven/club.zhcs/open-api-spring-boot-starter@2.6.3?classifier=sources
+- pkg:maven/club.zhcs/open-api-spring-boot-starter@2.6.4
+- pkg:maven/club.zhcs/open-api-spring-boot-starter@2.6.4?classifier=sources
+- pkg:maven/club.zhcs/open-api-spring-boot-starter@2.6.5
+- pkg:maven/club.zhcs/open-api-spring-boot-starter@2.6.5?classifier=sources

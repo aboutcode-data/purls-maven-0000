@@ -2,3 +2,9 @@
 - pkg:maven/dev.vality/reporter-proto@1.10-dc22be9?classifier=sources
 - pkg:maven/dev.vality/reporter-proto@1.12-1b6fbe9
 - pkg:maven/dev.vality/reporter-proto@1.12-1b6fbe9?classifier=sources
+- pkg:maven/dev.vality/reporter-proto@1.13-3e0da07
+- pkg:maven/dev.vality/reporter-proto@1.13-3e0da07?classifier=sources
+- pkg:maven/dev.vality/reporter-proto@1.14-53d317a
+- pkg:maven/dev.vality/reporter-proto@1.14-53d317a?classifier=sources
+- pkg:maven/dev.vality/reporter-proto@1.15-3e78c76
+- pkg:maven/dev.vality/reporter-proto@1.15-3e78c76?classifier=sources

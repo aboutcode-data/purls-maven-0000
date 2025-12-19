@@ -1,0 +1,2 @@
+- pkg:maven/io.smallrye.common/smallrye-common-ref@1.11.0
+- pkg:maven/io.smallrye.common/smallrye-common-ref@1.11.0?classifier=sources

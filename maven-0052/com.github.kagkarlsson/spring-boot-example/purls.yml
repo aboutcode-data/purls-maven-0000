@@ -10,6 +10,8 @@
 - pkg:maven/com.github.kagkarlsson/spring-boot-example@10.4?classifier=sources
 - pkg:maven/com.github.kagkarlsson/spring-boot-example@10.5
 - pkg:maven/com.github.kagkarlsson/spring-boot-example@10.5?classifier=sources
+- pkg:maven/com.github.kagkarlsson/spring-boot-example@11.0
+- pkg:maven/com.github.kagkarlsson/spring-boot-example@11.0?classifier=sources
 - pkg:maven/com.github.kagkarlsson/spring-boot-example@6.0
 - pkg:maven/com.github.kagkarlsson/spring-boot-example@6.0?classifier=sources
 - pkg:maven/com.github.kagkarlsson/spring-boot-example@6.1

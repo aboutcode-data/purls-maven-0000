@@ -58,3 +58,5 @@
 - pkg:maven/org.drools/camel-container-integration-tests@7.63.0.Final
 - pkg:maven/org.drools/camel-container-integration-tests@7.64.0.Final
 - pkg:maven/org.drools/camel-container-integration-tests@7.65.0.Final
+- pkg:maven/org.drools/camel-container-integration-tests@7.66.0.Final
+- pkg:maven/org.drools/camel-container-integration-tests@7.67.0.Final

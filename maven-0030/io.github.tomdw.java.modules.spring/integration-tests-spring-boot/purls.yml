@@ -1,0 +1,2 @@
+- pkg:maven/io.github.tomdw.java.modules.spring/integration-tests-spring-boot@0.0.5
+- pkg:maven/io.github.tomdw.java.modules.spring/integration-tests-spring-boot@0.0.5?classifier=sources

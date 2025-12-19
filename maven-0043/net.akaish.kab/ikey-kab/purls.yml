@@ -32,3 +32,5 @@
 - pkg:maven/net.akaish.kab/ikey-kab@0.9.6?type=aar
 - pkg:maven/net.akaish.kab/ikey-kab@0.9.7?classifier=sources
 - pkg:maven/net.akaish.kab/ikey-kab@0.9.7?type=aar
+- pkg:maven/net.akaish.kab/ikey-kab@0.9.8?classifier=sources
+- pkg:maven/net.akaish.kab/ikey-kab@0.9.8?type=aar

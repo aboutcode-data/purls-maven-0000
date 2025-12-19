@@ -1,2 +1,12 @@
 - pkg:maven/dev.vality/questionary-aggr-proto@1.14-7e6efab
 - pkg:maven/dev.vality/questionary-aggr-proto@1.14-7e6efab?classifier=sources
+- pkg:maven/dev.vality/questionary-aggr-proto@1.15-e718f44
+- pkg:maven/dev.vality/questionary-aggr-proto@1.15-e718f44?classifier=sources
+- pkg:maven/dev.vality/questionary-aggr-proto@1.16-86d7ecf
+- pkg:maven/dev.vality/questionary-aggr-proto@1.16-86d7ecf?classifier=sources
+- pkg:maven/dev.vality/questionary-aggr-proto@1.18-12c55b6
+- pkg:maven/dev.vality/questionary-aggr-proto@1.18-12c55b6?classifier=sources
+- pkg:maven/dev.vality/questionary-aggr-proto@1.19-37de766
+- pkg:maven/dev.vality/questionary-aggr-proto@1.19-37de766?classifier=sources
+- pkg:maven/dev.vality/questionary-aggr-proto@1.20-e26881d
+- pkg:maven/dev.vality/questionary-aggr-proto@1.20-e26881d?classifier=sources

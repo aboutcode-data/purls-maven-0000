@@ -1,3 +1,5 @@
 - pkg:maven/com.xtdb/xtdb-http-client@1.19.0
 - pkg:maven/com.xtdb/xtdb-http-client@1.19.0-beta1
 - pkg:maven/com.xtdb/xtdb-http-client@1.20.0
+- pkg:maven/com.xtdb/xtdb-http-client@1.21.0-beta1
+- pkg:maven/com.xtdb/xtdb-http-client@1.21.0-beta2

@@ -1,0 +1,5 @@
+- pkg:maven/net.guerlab.builder/guerlab-builder-tools@1.0.6
+- pkg:maven/net.guerlab.builder/guerlab-builder-tools@1.0.7
+- pkg:maven/net.guerlab.builder/guerlab-builder-tools@1.0.7?classifier=sources
+- pkg:maven/net.guerlab.builder/guerlab-builder-tools@1.1.0
+- pkg:maven/net.guerlab.builder/guerlab-builder-tools@1.1.0?classifier=sources

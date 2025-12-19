@@ -1,0 +1,2 @@
+- pkg:maven/io.gatling/gatling-recorder-bc-shaded@1.70
+- pkg:maven/io.gatling/gatling-recorder-bc-shaded@1.70?classifier=sources

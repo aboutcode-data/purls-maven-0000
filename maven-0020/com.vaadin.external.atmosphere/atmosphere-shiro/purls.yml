@@ -1,0 +1,2 @@
+- pkg:maven/com.vaadin.external.atmosphere/atmosphere-shiro@Artur--patch-1.slf4jvaadin1
+- pkg:maven/com.vaadin.external.atmosphere/atmosphere-shiro@Artur--patch-1.slf4jvaadin1?classifier=sources

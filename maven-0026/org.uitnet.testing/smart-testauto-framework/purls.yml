@@ -32,3 +32,7 @@
 - pkg:maven/org.uitnet.testing/smart-testauto-framework@2.0.8?classifier=sources
 - pkg:maven/org.uitnet.testing/smart-testauto-framework@2.0.9
 - pkg:maven/org.uitnet.testing/smart-testauto-framework@2.0.9?classifier=sources
+- pkg:maven/org.uitnet.testing/smart-testauto-framework@3.0.0
+- pkg:maven/org.uitnet.testing/smart-testauto-framework@3.0.0?classifier=sources
+- pkg:maven/org.uitnet.testing/smart-testauto-framework@3.0.1
+- pkg:maven/org.uitnet.testing/smart-testauto-framework@3.0.1?classifier=sources

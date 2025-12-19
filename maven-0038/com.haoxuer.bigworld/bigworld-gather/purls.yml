@@ -1,2 +1,4 @@
 - pkg:maven/com.haoxuer.bigworld/bigworld-gather@3.3.13-20220115
 - pkg:maven/com.haoxuer.bigworld/bigworld-gather@3.3.13-20220115?classifier=sources
+- pkg:maven/com.haoxuer.bigworld/bigworld-gather@3.3.14-20220307
+- pkg:maven/com.haoxuer.bigworld/bigworld-gather@3.3.14-20220307?classifier=sources

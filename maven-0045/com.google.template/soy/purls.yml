@@ -56,5 +56,9 @@
 - pkg:maven/com.google.template/soy@2020-08-24?classifier=sources
 - pkg:maven/com.google.template/soy@2021-02-01
 - pkg:maven/com.google.template/soy@2021-02-01?classifier=sources
+- pkg:maven/com.google.template/soy@2022-03-02
+- pkg:maven/com.google.template/soy@2022-03-02?classifier=sources
+- pkg:maven/com.google.template/soy@2022-03-07
+- pkg:maven/com.google.template/soy@2022-03-07?classifier=sources
 - pkg:maven/com.google.template/soy@v20160111
 - pkg:maven/com.google.template/soy@v20160111?classifier=sources

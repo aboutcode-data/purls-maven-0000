@@ -126,3 +126,5 @@
 - pkg:maven/io.github.shaohuizhe/tools@1.9.8
 - pkg:maven/io.github.shaohuizhe/tools@1.9.8?classifier=sources
 - pkg:maven/io.github.shaohuizhe/tools@1.9?classifier=sources
+- pkg:maven/io.github.shaohuizhe/tools@2.0
+- pkg:maven/io.github.shaohuizhe/tools@2.0?classifier=sources

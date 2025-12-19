@@ -94,6 +94,7 @@
 - pkg:maven/com.opentext.ia/infoarchive-configuration@12.4.6?classifier=sources
 - pkg:maven/com.opentext.ia/infoarchive-configuration@12.5.0?classifier=sources
 - pkg:maven/com.opentext.ia/infoarchive-configuration@12.5.1?classifier=sources
+- pkg:maven/com.opentext.ia/infoarchive-configuration@12.5.6?classifier=sources
 - pkg:maven/com.opentext.ia/infoarchive-configuration@9.10.0
 - pkg:maven/com.opentext.ia/infoarchive-configuration@9.10.0?classifier=sources
 - pkg:maven/com.opentext.ia/infoarchive-configuration@9.10.1

@@ -1,0 +1,2 @@
+- pkg:maven/cn.tenmg/flink-jobs-core@1.3.0-rc1
+- pkg:maven/cn.tenmg/flink-jobs-core@1.3.0-rc1?classifier=sources

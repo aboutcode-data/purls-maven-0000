@@ -14,3 +14,4 @@
 - pkg:maven/org.apache.jspwiki/jspwiki-builder@2.11.0.M8?classifier=source-release&type=zip
 - pkg:maven/org.apache.jspwiki/jspwiki-builder@2.11.0?classifier=source-release&type=zip
 - pkg:maven/org.apache.jspwiki/jspwiki-builder@2.11.1?classifier=source-release&type=zip
+- pkg:maven/org.apache.jspwiki/jspwiki-builder@2.11.2?classifier=source-release&type=zip

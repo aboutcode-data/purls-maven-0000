@@ -32,3 +32,5 @@
 - pkg:maven/com.facebook.presto/presto-thrift-spec@0.267?classifier=sources
 - pkg:maven/com.facebook.presto/presto-thrift-spec@0.268?classifier=sources
 - pkg:maven/com.facebook.presto/presto-thrift-spec@0.269?classifier=sources
+- pkg:maven/com.facebook.presto/presto-thrift-spec@0.270?classifier=sources
+- pkg:maven/com.facebook.presto/presto-thrift-spec@0.271?classifier=sources

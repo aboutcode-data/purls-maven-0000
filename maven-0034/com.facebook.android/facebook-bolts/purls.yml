@@ -1,0 +1,2 @@
+- pkg:maven/com.facebook.android/facebook-bolts@13.1.0?classifier=sources
+- pkg:maven/com.facebook.android/facebook-bolts@13.1.0?type=aar

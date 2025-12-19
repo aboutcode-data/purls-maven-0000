@@ -1,0 +1,8 @@
+- pkg:maven/io.trino/trino-collect@371
+- pkg:maven/io.trino/trino-collect@371?classifier=sources
+- pkg:maven/io.trino/trino-collect@372
+- pkg:maven/io.trino/trino-collect@372?classifier=sources
+- pkg:maven/io.trino/trino-collect@373
+- pkg:maven/io.trino/trino-collect@373?classifier=sources
+- pkg:maven/io.trino/trino-collect@374
+- pkg:maven/io.trino/trino-collect@374?classifier=sources

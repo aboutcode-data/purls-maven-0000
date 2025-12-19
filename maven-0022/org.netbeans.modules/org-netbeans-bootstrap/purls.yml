@@ -12,4 +12,5 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-bootstrap@RELEASE124?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-bootstrap@RELEASE125?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-bootstrap@RELEASE126?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-bootstrap@RELEASE130?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-bootstrap@RELEASE90?classifier=sources

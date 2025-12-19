@@ -1,2 +1,4 @@
 - pkg:maven/com.uvic-cfar.swim/worldwind-ui@1.0.0-alpha1
 - pkg:maven/com.uvic-cfar.swim/worldwind-ui@1.0.0-alpha1?classifier=sources
+- pkg:maven/com.uvic-cfar.swim/worldwind-ui@2.0.0-alpha1
+- pkg:maven/com.uvic-cfar.swim/worldwind-ui@2.0.0-alpha1?classifier=sources

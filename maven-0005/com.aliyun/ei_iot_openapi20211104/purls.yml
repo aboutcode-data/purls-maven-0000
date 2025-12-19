@@ -1,0 +1,2 @@
+- pkg:maven/com.aliyun/ei_iot_openapi20211104@1.0.1
+- pkg:maven/com.aliyun/ei_iot_openapi20211104@1.0.1?classifier=sources

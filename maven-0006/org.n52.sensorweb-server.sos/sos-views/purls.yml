@@ -23,3 +23,4 @@
 - pkg:maven/org.n52.sensorweb-server.sos/sos-views@6.0.0-PR.2?type=war
 - pkg:maven/org.n52.sensorweb-server.sos/sos-views@6.0.0-PR.3?type=war
 - pkg:maven/org.n52.sensorweb-server.sos/sos-views@6.0.0-PR.4?type=war
+- pkg:maven/org.n52.sensorweb-server.sos/sos-views@6.0.0-PR.5?type=war

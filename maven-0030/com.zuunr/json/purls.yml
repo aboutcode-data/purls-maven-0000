@@ -55,6 +55,10 @@
 - pkg:maven/com.zuunr/json@0.1.0.M34-6530c75?classifier=sources
 - pkg:maven/com.zuunr/json@0.1.0.M35-d86aceb
 - pkg:maven/com.zuunr/json@0.1.0.M35-d86aceb?classifier=sources
+- pkg:maven/com.zuunr/json@0.1.0.M36-9fac6dd
+- pkg:maven/com.zuunr/json@0.1.0.M36-9fac6dd?classifier=sources
+- pkg:maven/com.zuunr/json@0.1.0.M37-ff6c5fc
+- pkg:maven/com.zuunr/json@0.1.0.M37-ff6c5fc?classifier=sources
 - pkg:maven/com.zuunr/json@0.1.0.M3?classifier=sources
 - pkg:maven/com.zuunr/json@0.1.0.M4
 - pkg:maven/com.zuunr/json@0.1.0.M4?classifier=sources

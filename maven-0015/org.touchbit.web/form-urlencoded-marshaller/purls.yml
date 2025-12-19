@@ -1,0 +1,2 @@
+- pkg:maven/org.touchbit.web/form-urlencoded-marshaller@1.0.0
+- pkg:maven/org.touchbit.web/form-urlencoded-marshaller@1.0.0?classifier=sources

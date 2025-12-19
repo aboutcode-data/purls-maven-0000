@@ -6,3 +6,5 @@
 - pkg:maven/hu.icellmobilsoft.roaster/roaster-common-util@0.5.0?classifier=sources
 - pkg:maven/hu.icellmobilsoft.roaster/roaster-common-util@0.6.0
 - pkg:maven/hu.icellmobilsoft.roaster/roaster-common-util@0.6.0?classifier=sources
+- pkg:maven/hu.icellmobilsoft.roaster/roaster-common-util@0.7.0
+- pkg:maven/hu.icellmobilsoft.roaster/roaster-common-util@0.7.0?classifier=sources

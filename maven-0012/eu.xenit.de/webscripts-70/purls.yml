@@ -1,1 +1,2 @@
 - pkg:maven/eu.xenit.de/webscripts-70@2.1.1?classifier=sources
+- pkg:maven/eu.xenit.de/webscripts-70@2.1.2?classifier=sources

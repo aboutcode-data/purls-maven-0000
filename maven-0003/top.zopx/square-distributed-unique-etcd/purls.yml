@@ -1,2 +1,3 @@
 - pkg:maven/top.zopx/square-distributed-unique-etcd@0.0.1
 - pkg:maven/top.zopx/square-distributed-unique-etcd@0.0.2
+- pkg:maven/top.zopx/square-distributed-unique-etcd@0.1.0

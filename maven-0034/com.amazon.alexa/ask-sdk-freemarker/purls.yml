@@ -80,3 +80,5 @@
 - pkg:maven/com.amazon.alexa/ask-sdk-freemarker@2.42.2?classifier=sources
 - pkg:maven/com.amazon.alexa/ask-sdk-freemarker@2.42.3
 - pkg:maven/com.amazon.alexa/ask-sdk-freemarker@2.42.3?classifier=sources
+- pkg:maven/com.amazon.alexa/ask-sdk-freemarker@2.43.0
+- pkg:maven/com.amazon.alexa/ask-sdk-freemarker@2.43.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.aliyun/alibabacloud-config20190108@1.0.0
+- pkg:maven/com.aliyun/alibabacloud-config20190108@1.0.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/io.dialob/dialob-rule-parser@2.1.2
+- pkg:maven/io.dialob/dialob-rule-parser@2.1.2?classifier=sources

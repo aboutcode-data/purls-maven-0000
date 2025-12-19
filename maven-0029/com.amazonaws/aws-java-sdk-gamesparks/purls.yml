@@ -1,0 +1,6 @@
+- pkg:maven/com.amazonaws/aws-java-sdk-gamesparks@1.12.184
+- pkg:maven/com.amazonaws/aws-java-sdk-gamesparks@1.12.184?classifier=sources
+- pkg:maven/com.amazonaws/aws-java-sdk-gamesparks@1.12.185
+- pkg:maven/com.amazonaws/aws-java-sdk-gamesparks@1.12.185?classifier=sources
+- pkg:maven/com.amazonaws/aws-java-sdk-gamesparks@1.12.186
+- pkg:maven/com.amazonaws/aws-java-sdk-gamesparks@1.12.186?classifier=sources

@@ -12,4 +12,5 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-editor-errorstripe@RELEASE124?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-editor-errorstripe@RELEASE125?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-editor-errorstripe@RELEASE126?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-editor-errorstripe@RELEASE130?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-editor-errorstripe@RELEASE90?classifier=sources

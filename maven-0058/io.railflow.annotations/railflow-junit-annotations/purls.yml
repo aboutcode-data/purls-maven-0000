@@ -1,0 +1,2 @@
+- pkg:maven/io.railflow.annotations/railflow-junit-annotations@0.5
+- pkg:maven/io.railflow.annotations/railflow-junit-annotations@0.5?classifier=sources

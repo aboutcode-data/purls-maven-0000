@@ -1,0 +1,6 @@
+- pkg:maven/io.gitlab.mhammons/j18_3@0.0.0-10-61afc4
+- pkg:maven/io.gitlab.mhammons/j18_3@0.0.0-10-61afc4?classifier=sources
+- pkg:maven/io.gitlab.mhammons/j18_3@0.0.0-11-5746f7
+- pkg:maven/io.gitlab.mhammons/j18_3@0.0.0-11-5746f7?classifier=sources
+- pkg:maven/io.gitlab.mhammons/j18_3@0.0.0-20-d39ce5
+- pkg:maven/io.gitlab.mhammons/j18_3@0.0.0-20-d39ce5?classifier=sources
