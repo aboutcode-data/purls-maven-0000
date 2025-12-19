@@ -8,3 +8,5 @@
 - pkg:maven/com.wizzdi/dynamic-annoatations-service@1.2.0?classifier=sources
 - pkg:maven/com.wizzdi/dynamic-annoatations-service@2.0.0
 - pkg:maven/com.wizzdi/dynamic-annoatations-service@2.0.0?classifier=sources
+- pkg:maven/com.wizzdi/dynamic-annoatations-service@3.0.0
+- pkg:maven/com.wizzdi/dynamic-annoatations-service@3.0.0?classifier=sources

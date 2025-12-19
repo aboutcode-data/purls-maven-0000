@@ -1,3 +1,5 @@
+- pkg:maven/io.agora.rtc/voice-rtc-basic@12-15-ci-test-2?type=aar
+- pkg:maven/io.agora.rtc/voice-rtc-basic@12-15-ci-test?type=aar
 - pkg:maven/io.agora.rtc/voice-rtc-basic@3.6.2.2?type=aar
 - pkg:maven/io.agora.rtc/voice-rtc-basic@3.6.2.3?type=aar
 - pkg:maven/io.agora.rtc/voice-rtc-basic@3.6.2?type=aar
@@ -14,3 +16,4 @@
 - pkg:maven/io.agora.rtc/voice-rtc-basic@4.0.0.4?type=aar
 - pkg:maven/io.agora.rtc/voice-rtc-basic@4.0.1.4-ci-test?type=aar
 - pkg:maven/io.agora.rtc/voice-rtc-basic@4.0.1?type=aar
+- pkg:maven/io.agora.rtc/voice-rtc-basic@4.1.0?type=aar

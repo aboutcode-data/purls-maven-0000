@@ -22,3 +22,7 @@
 - pkg:maven/io.liftwizard/liftwizard-servlet-logging-log4j-map@0.29.0?classifier=sources
 - pkg:maven/io.liftwizard/liftwizard-servlet-logging-log4j-map@0.30.0
 - pkg:maven/io.liftwizard/liftwizard-servlet-logging-log4j-map@0.30.0?classifier=sources
+- pkg:maven/io.liftwizard/liftwizard-servlet-logging-log4j-map@0.31.0
+- pkg:maven/io.liftwizard/liftwizard-servlet-logging-log4j-map@0.31.0?classifier=sources
+- pkg:maven/io.liftwizard/liftwizard-servlet-logging-log4j-map@0.32.0
+- pkg:maven/io.liftwizard/liftwizard-servlet-logging-log4j-map@0.32.0?classifier=sources

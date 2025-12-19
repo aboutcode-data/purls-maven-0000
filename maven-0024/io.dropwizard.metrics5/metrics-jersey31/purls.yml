@@ -1,0 +1,4 @@
+- pkg:maven/io.dropwizard.metrics5/metrics-jersey31@5.0.0-rc14
+- pkg:maven/io.dropwizard.metrics5/metrics-jersey31@5.0.0-rc14?classifier=sources
+- pkg:maven/io.dropwizard.metrics5/metrics-jersey31@5.0.0-rc15
+- pkg:maven/io.dropwizard.metrics5/metrics-jersey31@5.0.0-rc15?classifier=sources

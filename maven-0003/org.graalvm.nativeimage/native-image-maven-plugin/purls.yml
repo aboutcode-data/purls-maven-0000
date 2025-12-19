@@ -21,6 +21,7 @@
 - pkg:maven/org.graalvm.nativeimage/native-image-maven-plugin@20.3.7
 - pkg:maven/org.graalvm.nativeimage/native-image-maven-plugin@20.3.7.1
 - pkg:maven/org.graalvm.nativeimage/native-image-maven-plugin@20.3.8
+- pkg:maven/org.graalvm.nativeimage/native-image-maven-plugin@20.3.9
 - pkg:maven/org.graalvm.nativeimage/native-image-maven-plugin@21.0.0
 - pkg:maven/org.graalvm.nativeimage/native-image-maven-plugin@21.0.0.2
 - pkg:maven/org.graalvm.nativeimage/native-image-maven-plugin@21.1.0

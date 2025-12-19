@@ -1,0 +1,2 @@
+- pkg:maven/org.noear/solon.web.stop@1.12.4
+- pkg:maven/org.noear/solon.web.stop@1.12.4?classifier=sources

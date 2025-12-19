@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/readdir-glob@1.1.2
+- pkg:maven/org.webjars.npm/readdir-glob@1.1.2?classifier=sources

@@ -1,3 +1,5 @@
+- pkg:maven/io.rxmicro/rxmicro-annotation-processor-config@0.11
+- pkg:maven/io.rxmicro/rxmicro-annotation-processor-config@0.11?classifier=sources
 - pkg:maven/io.rxmicro/rxmicro-annotation-processor-config@0.7.2
 - pkg:maven/io.rxmicro/rxmicro-annotation-processor-config@0.7.2?classifier=sources
 - pkg:maven/io.rxmicro/rxmicro-annotation-processor-config@0.7.3

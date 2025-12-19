@@ -1,1 +1,2 @@
 - pkg:maven/org.wso2.orbit.com.hazelcast/hazelcast@4.2.4.wso2v1
+- pkg:maven/org.wso2.orbit.com.hazelcast/hazelcast@4.2.6.wso2v1

@@ -111,3 +111,6 @@
 - pkg:maven/com.tradplusad/tradplus-chartboostx@15.8.8.0.1?type=aar
 - pkg:maven/com.tradplusad/tradplus-chartboostx@15.8.9.0.1?type=aar
 - pkg:maven/com.tradplusad/tradplus-chartboostx@15.8.9.10.1?type=aar
+- pkg:maven/com.tradplusad/tradplus-chartboostx@15.9.0.0.1?type=aar
+- pkg:maven/com.tradplusad/tradplus-chartboostx@15.9.1.0.1?type=aar
+- pkg:maven/com.tradplusad/tradplus-chartboostx@15.9.1.10.1?type=aar

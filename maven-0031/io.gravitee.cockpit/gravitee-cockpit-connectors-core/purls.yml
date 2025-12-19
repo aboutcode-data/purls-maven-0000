@@ -84,3 +84,5 @@
 - pkg:maven/io.gravitee.cockpit/gravitee-cockpit-connectors-core@3.0.0-alpha.4
 - pkg:maven/io.gravitee.cockpit/gravitee-cockpit-connectors-core@3.0.0-alpha.4?classifier=sources
 - pkg:maven/io.gravitee.cockpit/gravitee-cockpit-connectors-core@3.0.0?classifier=sources
+- pkg:maven/io.gravitee.cockpit/gravitee-cockpit-connectors-core@3.0.1
+- pkg:maven/io.gravitee.cockpit/gravitee-cockpit-connectors-core@3.0.1?classifier=sources

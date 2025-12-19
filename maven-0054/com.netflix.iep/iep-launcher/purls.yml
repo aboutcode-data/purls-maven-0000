@@ -106,3 +106,5 @@
 - pkg:maven/com.netflix.iep/iep-launcher@4.0.3?classifier=sources
 - pkg:maven/com.netflix.iep/iep-launcher@4.0.4
 - pkg:maven/com.netflix.iep/iep-launcher@4.0.4?classifier=sources
+- pkg:maven/com.netflix.iep/iep-launcher@4.1.0
+- pkg:maven/com.netflix.iep/iep-launcher@4.1.0?classifier=sources

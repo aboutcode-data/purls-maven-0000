@@ -4,3 +4,4 @@
 - pkg:maven/org.calypsonet.terminal/calypsonet-terminal-reader-java-api@1.0.0-rc4?classifier=sources
 - pkg:maven/org.calypsonet.terminal/calypsonet-terminal-reader-java-api@1.0.0?classifier=sources
 - pkg:maven/org.calypsonet.terminal/calypsonet-terminal-reader-java-api@1.1.0?classifier=sources
+- pkg:maven/org.calypsonet.terminal/calypsonet-terminal-reader-java-api@1.2.0?classifier=sources

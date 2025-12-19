@@ -7,3 +7,5 @@
 - pkg:maven/com.applovin.mediation/huawei-adapter@13.4.54.300.0?classifier=sources
 - pkg:maven/com.applovin.mediation/huawei-adapter@13.4.54.300.1?classifier=sources
 - pkg:maven/com.applovin.mediation/huawei-adapter@13.4.54.300.2?classifier=sources
+- pkg:maven/com.applovin.mediation/huawei-adapter@13.4.54.300.3?classifier=sources
+- pkg:maven/com.applovin.mediation/huawei-adapter@13.4.61.300.0?classifier=sources

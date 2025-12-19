@@ -50,6 +50,8 @@
 - pkg:maven/org.wso2.maven/vscode-car-plugin@5.2.39
 - pkg:maven/org.wso2.maven/vscode-car-plugin@5.2.39?classifier=sources
 - pkg:maven/org.wso2.maven/vscode-car-plugin@5.2.3?classifier=sources
+- pkg:maven/org.wso2.maven/vscode-car-plugin@5.2.41
+- pkg:maven/org.wso2.maven/vscode-car-plugin@5.2.41?classifier=sources
 - pkg:maven/org.wso2.maven/vscode-car-plugin@5.2.7
 - pkg:maven/org.wso2.maven/vscode-car-plugin@5.2.7?classifier=sources
 - pkg:maven/org.wso2.maven/vscode-car-plugin@5.2.8

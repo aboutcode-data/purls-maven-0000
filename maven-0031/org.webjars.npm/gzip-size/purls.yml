@@ -10,3 +10,5 @@
 - pkg:maven/org.webjars.npm/gzip-size@5.1.1?classifier=sources
 - pkg:maven/org.webjars.npm/gzip-size@6.0.0
 - pkg:maven/org.webjars.npm/gzip-size@6.0.0?classifier=sources
+- pkg:maven/org.webjars.npm/gzip-size@7.0.0
+- pkg:maven/org.webjars.npm/gzip-size@7.0.0?classifier=sources

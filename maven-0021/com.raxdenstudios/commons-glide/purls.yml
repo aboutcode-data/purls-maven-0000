@@ -8,6 +8,11 @@
 - pkg:maven/com.raxdenstudios/commons-glide@4.16.4?classifier=sources
 - pkg:maven/com.raxdenstudios/commons-glide@4.17.2?classifier=sources
 - pkg:maven/com.raxdenstudios/commons-glide@4.18.0?classifier=sources
+- pkg:maven/com.raxdenstudios/commons-glide@4.29.0?classifier=sources
+- pkg:maven/com.raxdenstudios/commons-glide@4.30.0?classifier=sources
+- pkg:maven/com.raxdenstudios/commons-glide@4.32.0?classifier=sources
+- pkg:maven/com.raxdenstudios/commons-glide@4.33.0?classifier=sources
+- pkg:maven/com.raxdenstudios/commons-glide@4.34.0?classifier=sources
 - pkg:maven/com.raxdenstudios/commons-glide@4.5.0?classifier=sources
 - pkg:maven/com.raxdenstudios/commons-glide@4.6.0?classifier=sources
 - pkg:maven/com.raxdenstudios/commons-glide@4.9.1?classifier=sources

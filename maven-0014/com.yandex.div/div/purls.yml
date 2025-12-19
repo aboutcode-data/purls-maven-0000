@@ -8,6 +8,7 @@
 - pkg:maven/com.yandex.div/div@17.0.0?classifier=sources
 - pkg:maven/com.yandex.div/div@18.0.0?classifier=sources
 - pkg:maven/com.yandex.div/div@19.0.0?classifier=sources
+- pkg:maven/com.yandex.div/div@20.0.0?classifier=sources
 - pkg:maven/com.yandex.div/div@5.0.0?classifier=sources
 - pkg:maven/com.yandex.div/div@6.0.0?classifier=sources
 - pkg:maven/com.yandex.div/div@7.0.0?classifier=sources

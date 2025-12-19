@@ -6,3 +6,5 @@
 - pkg:maven/com.ing.data/cassandra-jdbc-wrapper@4.6.0?classifier=sources
 - pkg:maven/com.ing.data/cassandra-jdbc-wrapper@4.7.0
 - pkg:maven/com.ing.data/cassandra-jdbc-wrapper@4.7.0?classifier=sources
+- pkg:maven/com.ing.data/cassandra-jdbc-wrapper@4.8.0
+- pkg:maven/com.ing.data/cassandra-jdbc-wrapper@4.8.0?classifier=sources

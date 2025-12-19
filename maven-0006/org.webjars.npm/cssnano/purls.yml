@@ -4,3 +4,5 @@
 - pkg:maven/org.webjars.npm/cssnano@4.0.0-rc.2?classifier=sources
 - pkg:maven/org.webjars.npm/cssnano@4.1.10
 - pkg:maven/org.webjars.npm/cssnano@4.1.10?classifier=sources
+- pkg:maven/org.webjars.npm/cssnano@5.1.14
+- pkg:maven/org.webjars.npm/cssnano@5.1.14?classifier=sources

@@ -6,4 +6,7 @@
 - pkg:maven/org.cip4.lib.jdf/JDFLibJ-JSON@1.1.007?classifier=sources
 - pkg:maven/org.cip4.lib.jdf/JDFLibJ-JSON@1.1.008?classifier=sources
 - pkg:maven/org.cip4.lib.jdf/JDFLibJ-JSON@1.1.009?classifier=sources
+- pkg:maven/org.cip4.lib.jdf/JDFLibJ-JSON@1.1.010?classifier=sources
+- pkg:maven/org.cip4.lib.jdf/JDFLibJ-JSON@1.1.011?classifier=sources
+- pkg:maven/org.cip4.lib.jdf/JDFLibJ-JSON@1.1.012?classifier=sources
 - pkg:maven/org.cip4.lib.jdf/JDFLibJ-JSON@1.1.0?classifier=sources

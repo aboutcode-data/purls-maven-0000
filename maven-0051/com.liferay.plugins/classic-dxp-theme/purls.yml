@@ -3,4 +3,5 @@
 - pkg:maven/com.liferay.plugins/classic-dxp-theme@1.0.102?type=war
 - pkg:maven/com.liferay.plugins/classic-dxp-theme@1.0.103?type=war
 - pkg:maven/com.liferay.plugins/classic-dxp-theme@1.0.104?type=war
+- pkg:maven/com.liferay.plugins/classic-dxp-theme@1.0.105?type=war
 - pkg:maven/com.liferay.plugins/classic-dxp-theme@1.0.99?type=war

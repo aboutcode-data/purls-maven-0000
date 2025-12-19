@@ -2,4 +2,9 @@
 - pkg:maven/net.asere.omni.mvi/mvi-override@1.0?classifier=sources
 - pkg:maven/net.asere.omni.mvi/mvi-override@1.1.0?classifier=sources
 - pkg:maven/net.asere.omni.mvi/mvi-override@1.1.2?classifier=sources
+- pkg:maven/net.asere.omni.mvi/mvi-override@1.2.0?classifier=sources
+- pkg:maven/net.asere.omni.mvi/mvi-override@1.2.1?classifier=sources
+- pkg:maven/net.asere.omni.mvi/mvi-override@1.2.2?classifier=sources
+- pkg:maven/net.asere.omni.mvi/mvi-override@1.2.3?classifier=sources
+- pkg:maven/net.asere.omni.mvi/mvi-override@1.2.4?classifier=sources
 - pkg:maven/net.asere.omni.mvi/mvi-override@unspecified?classifier=sources

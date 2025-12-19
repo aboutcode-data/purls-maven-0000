@@ -196,6 +196,8 @@
 - pkg:maven/com.yahoo.elide/elide-standalone@6.1.0
 - pkg:maven/com.yahoo.elide/elide-standalone@6.1.0?classifier=sources
 - pkg:maven/com.yahoo.elide/elide-standalone@6.1.1
+- pkg:maven/com.yahoo.elide/elide-standalone@6.1.10
+- pkg:maven/com.yahoo.elide/elide-standalone@6.1.10?classifier=sources
 - pkg:maven/com.yahoo.elide/elide-standalone@6.1.1?classifier=sources
 - pkg:maven/com.yahoo.elide/elide-standalone@6.1.2
 - pkg:maven/com.yahoo.elide/elide-standalone@6.1.2?classifier=sources
@@ -213,3 +215,5 @@
 - pkg:maven/com.yahoo.elide/elide-standalone@6.1.8?classifier=sources
 - pkg:maven/com.yahoo.elide/elide-standalone@6.1.9
 - pkg:maven/com.yahoo.elide/elide-standalone@6.1.9?classifier=sources
+- pkg:maven/com.yahoo.elide/elide-standalone@7.0.0-pr2
+- pkg:maven/com.yahoo.elide/elide-standalone@7.0.0-pr2?classifier=sources

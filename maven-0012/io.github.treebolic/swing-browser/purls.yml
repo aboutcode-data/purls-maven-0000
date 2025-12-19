@@ -1,0 +1,2 @@
+- pkg:maven/io.github.treebolic/swing-browser@4.0-0
+- pkg:maven/io.github.treebolic/swing-browser@4.0-0?classifier=sources

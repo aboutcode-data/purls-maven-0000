@@ -44,3 +44,5 @@
 - pkg:maven/de.bausdorf.simracing/ir-data-api-client@2.6.2?classifier=sources
 - pkg:maven/de.bausdorf.simracing/ir-data-api-client@2.7.0
 - pkg:maven/de.bausdorf.simracing/ir-data-api-client@2.7.0?classifier=sources
+- pkg:maven/de.bausdorf.simracing/ir-data-api-client@2.8.0
+- pkg:maven/de.bausdorf.simracing/ir-data-api-client@2.8.0?classifier=sources

@@ -12,6 +12,7 @@
 - pkg:maven/com.icegreen/greenmail-docker-standalone@1.6.1
 - pkg:maven/com.icegreen/greenmail-docker-standalone@1.6.10
 - pkg:maven/com.icegreen/greenmail-docker-standalone@1.6.11
+- pkg:maven/com.icegreen/greenmail-docker-standalone@1.6.12
 - pkg:maven/com.icegreen/greenmail-docker-standalone@1.6.2
 - pkg:maven/com.icegreen/greenmail-docker-standalone@1.6.3
 - pkg:maven/com.icegreen/greenmail-docker-standalone@1.6.4
@@ -22,3 +23,4 @@
 - pkg:maven/com.icegreen/greenmail-docker-standalone@1.6.9
 - pkg:maven/com.icegreen/greenmail-docker-standalone@2.0.0-alpha-1
 - pkg:maven/com.icegreen/greenmail-docker-standalone@2.0.0-alpha-2
+- pkg:maven/com.icegreen/greenmail-docker-standalone@2.0.0-alpha-3

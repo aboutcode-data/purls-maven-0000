@@ -1,1 +1,2 @@
 - pkg:maven/io.github.jbock-java/parmigiano@1.01?classifier=sources
+- pkg:maven/io.github.jbock-java/parmigiano@1.02?classifier=sources

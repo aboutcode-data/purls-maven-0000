@@ -46,3 +46,5 @@
 - pkg:maven/io.holunda.polyflow/polyflow-view-mongo@3.5.0?classifier=sources
 - pkg:maven/io.holunda.polyflow/polyflow-view-mongo@3.6.0
 - pkg:maven/io.holunda.polyflow/polyflow-view-mongo@3.6.0?classifier=sources
+- pkg:maven/io.holunda.polyflow/polyflow-view-mongo@3.7.0
+- pkg:maven/io.holunda.polyflow/polyflow-view-mongo@3.7.0?classifier=sources

@@ -275,6 +275,12 @@
 - pkg:maven/com.liferay/com.liferay.portal.search.elasticsearch@2.1.84
 - pkg:maven/com.liferay/com.liferay.portal.search.elasticsearch@2.1.84?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.search.elasticsearch@2.1.84?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.search.elasticsearch@2.1.85
+- pkg:maven/com.liferay/com.liferay.portal.search.elasticsearch@2.1.85?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.search.elasticsearch@2.1.85?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.search.elasticsearch@2.1.86
+- pkg:maven/com.liferay/com.liferay.portal.search.elasticsearch@2.1.86?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.search.elasticsearch@2.1.86?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.search.elasticsearch@2.1.87
 - pkg:maven/com.liferay/com.liferay.portal.search.elasticsearch@2.1.87?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.search.elasticsearch@2.1.87?classifier=sources-commercial

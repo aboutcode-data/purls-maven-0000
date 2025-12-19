@@ -1,0 +1,10 @@
+- pkg:maven/ch.epfl.scala/bloop-maven-plugin@2.0.0
+- pkg:maven/ch.epfl.scala/bloop-maven-plugin@2.0.0-M2
+- pkg:maven/ch.epfl.scala/bloop-maven-plugin@2.0.0-M2?classifier=sources
+- pkg:maven/ch.epfl.scala/bloop-maven-plugin@2.0.0-M3
+- pkg:maven/ch.epfl.scala/bloop-maven-plugin@2.0.0-M3?classifier=sources
+- pkg:maven/ch.epfl.scala/bloop-maven-plugin@2.0.0-RC3
+- pkg:maven/ch.epfl.scala/bloop-maven-plugin@2.0.0-RC3?classifier=sources
+- pkg:maven/ch.epfl.scala/bloop-maven-plugin@2.0.0-RC4
+- pkg:maven/ch.epfl.scala/bloop-maven-plugin@2.0.0-RC4?classifier=sources
+- pkg:maven/ch.epfl.scala/bloop-maven-plugin@2.0.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.cqfn/reportwine@0.1
+- pkg:maven/org.cqfn/reportwine@0.1?classifier=sources

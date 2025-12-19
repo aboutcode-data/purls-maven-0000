@@ -29,6 +29,8 @@
 - pkg:maven/com.solacesystems/sol-common@10.15.0?classifier=sources
 - pkg:maven/com.solacesystems/sol-common@10.16.0
 - pkg:maven/com.solacesystems/sol-common@10.16.0?classifier=sources
+- pkg:maven/com.solacesystems/sol-common@10.17.0
+- pkg:maven/com.solacesystems/sol-common@10.17.0?classifier=sources
 - pkg:maven/com.solacesystems/sol-common@10.2.0
 - pkg:maven/com.solacesystems/sol-common@10.2.0?classifier=sources
 - pkg:maven/com.solacesystems/sol-common@10.2.1

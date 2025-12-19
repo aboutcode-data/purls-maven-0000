@@ -10,6 +10,8 @@
 - pkg:maven/net.oneandone.maven/embedded@3.12.1?classifier=sources
 - pkg:maven/net.oneandone.maven/embedded@3.12.2
 - pkg:maven/net.oneandone.maven/embedded@3.12.2?classifier=sources
+- pkg:maven/net.oneandone.maven/embedded@3.13.0
+- pkg:maven/net.oneandone.maven/embedded@3.13.0?classifier=sources
 - pkg:maven/net.oneandone.maven/embedded@3.8.0
 - pkg:maven/net.oneandone.maven/embedded@3.8.0?classifier=sources
 - pkg:maven/net.oneandone.maven/embedded@3.9.0

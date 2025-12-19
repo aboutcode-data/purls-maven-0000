@@ -8,3 +8,7 @@
 - pkg:maven/com.wavefront/wavefront-spring-boot-starter@2.3.0
 - pkg:maven/com.wavefront/wavefront-spring-boot-starter@2.3.1
 - pkg:maven/com.wavefront/wavefront-spring-boot-starter@2.3.2
+- pkg:maven/com.wavefront/wavefront-spring-boot-starter@2.3.3
+- pkg:maven/com.wavefront/wavefront-spring-boot-starter@2.3.4
+- pkg:maven/com.wavefront/wavefront-spring-boot-starter@3.0.0
+- pkg:maven/com.wavefront/wavefront-spring-boot-starter@3.0.1

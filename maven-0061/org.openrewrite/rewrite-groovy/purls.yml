@@ -38,3 +38,7 @@
 - pkg:maven/org.openrewrite/rewrite-groovy@7.32.1?classifier=sources
 - pkg:maven/org.openrewrite/rewrite-groovy@7.33.0?classifier=sources
 - pkg:maven/org.openrewrite/rewrite-groovy@7.34.0?classifier=sources
+- pkg:maven/org.openrewrite/rewrite-groovy@7.34.1?classifier=sources
+- pkg:maven/org.openrewrite/rewrite-groovy@7.34.2?classifier=sources
+- pkg:maven/org.openrewrite/rewrite-groovy@7.34.3?classifier=sources
+- pkg:maven/org.openrewrite/rewrite-groovy@7.35.0?classifier=sources

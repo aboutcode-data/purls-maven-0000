@@ -31,3 +31,4 @@
 - pkg:maven/com.ringcentral/ringcentral@2.8.5?classifier=sources
 - pkg:maven/com.ringcentral/ringcentral@2.8.6?classifier=sources
 - pkg:maven/com.ringcentral/ringcentral@2.9.0?classifier=sources
+- pkg:maven/com.ringcentral/ringcentral@3.0.0-beta1?classifier=sources

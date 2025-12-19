@@ -4,3 +4,5 @@
 - pkg:maven/com.alibaba.ververica/flink-cep@1.15-vvr-6.0.2-api
 - pkg:maven/com.alibaba.ververica/flink-cep@1.15-vvr-6.0.2-api?classifier=sources
 - pkg:maven/com.alibaba.ververica/flink-cep@1.15-vvr-6.0.2?classifier=sources
+- pkg:maven/com.alibaba.ververica/flink-cep@1.15-vvr-6.0.4
+- pkg:maven/com.alibaba.ververica/flink-cep@1.15-vvr-6.0.4?classifier=sources
