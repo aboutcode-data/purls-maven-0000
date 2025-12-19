@@ -12,3 +12,4 @@
 - pkg:maven/com.jashmore/local-sqs-async-client@4.4.0?classifier=sources
 - pkg:maven/com.jashmore/local-sqs-async-client@5.0.0?classifier=sources
 - pkg:maven/com.jashmore/local-sqs-async-client@5.1.0?classifier=sources
+- pkg:maven/com.jashmore/local-sqs-async-client@6.0.0?classifier=sources

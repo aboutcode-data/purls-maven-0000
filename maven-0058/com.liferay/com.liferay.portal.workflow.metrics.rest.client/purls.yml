@@ -49,6 +49,8 @@
 - pkg:maven/com.liferay/com.liferay.portal.workflow.metrics.rest.client@1.0.26
 - pkg:maven/com.liferay/com.liferay.portal.workflow.metrics.rest.client@1.0.26?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.workflow.metrics.rest.client@1.0.26?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.workflow.metrics.rest.client@1.0.27
+- pkg:maven/com.liferay/com.liferay.portal.workflow.metrics.rest.client@1.0.27?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.workflow.metrics.rest.client@2.0.10
 - pkg:maven/com.liferay/com.liferay.portal.workflow.metrics.rest.client@2.0.10?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.workflow.metrics.rest.client@2.0.10?classifier=sources-commercial
@@ -103,6 +105,8 @@
 - pkg:maven/com.liferay/com.liferay.portal.workflow.metrics.rest.client@2.0.27
 - pkg:maven/com.liferay/com.liferay.portal.workflow.metrics.rest.client@2.0.27?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.workflow.metrics.rest.client@2.0.27?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.workflow.metrics.rest.client@2.0.28
+- pkg:maven/com.liferay/com.liferay.portal.workflow.metrics.rest.client@2.0.28?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.workflow.metrics.rest.client@2.0.4
 - pkg:maven/com.liferay/com.liferay.portal.workflow.metrics.rest.client@2.0.4?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.workflow.metrics.rest.client@2.0.4?classifier=sources-commercial
@@ -170,6 +174,8 @@
 - pkg:maven/com.liferay/com.liferay.portal.workflow.metrics.rest.client@3.0.24
 - pkg:maven/com.liferay/com.liferay.portal.workflow.metrics.rest.client@3.0.24?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.workflow.metrics.rest.client@3.0.24?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.workflow.metrics.rest.client@3.0.25
+- pkg:maven/com.liferay/com.liferay.portal.workflow.metrics.rest.client@3.0.25?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.workflow.metrics.rest.client@3.0.2?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.workflow.metrics.rest.client@3.0.2?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.workflow.metrics.rest.client@3.0.3

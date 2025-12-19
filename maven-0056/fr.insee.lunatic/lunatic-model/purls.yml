@@ -1,0 +1,4 @@
+- pkg:maven/fr.insee.lunatic/lunatic-model@2.3.3
+- pkg:maven/fr.insee.lunatic/lunatic-model@2.3.3?classifier=sources
+- pkg:maven/fr.insee.lunatic/lunatic-model@2.3.4
+- pkg:maven/fr.insee.lunatic/lunatic-model@2.3.4?classifier=sources

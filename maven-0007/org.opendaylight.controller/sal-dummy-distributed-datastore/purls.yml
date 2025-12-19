@@ -198,5 +198,6 @@
 - pkg:maven/org.opendaylight.controller/sal-dummy-distributed-datastore@7.0.7
 - pkg:maven/org.opendaylight.controller/sal-dummy-distributed-datastore@7.0.7?classifier=sources
 - pkg:maven/org.opendaylight.controller/sal-dummy-distributed-datastore@7.0.8?classifier=sources
+- pkg:maven/org.opendaylight.controller/sal-dummy-distributed-datastore@7.0.9?classifier=sources
 - pkg:maven/org.opendaylight.controller/sal-dummy-distributed-datastore@8.0.0
 - pkg:maven/org.opendaylight.controller/sal-dummy-distributed-datastore@8.0.0?classifier=sources

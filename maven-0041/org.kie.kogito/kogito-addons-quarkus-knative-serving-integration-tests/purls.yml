@@ -1,0 +1,2 @@
+- pkg:maven/org.kie.kogito/kogito-addons-quarkus-knative-serving-integration-tests@1.43.0.Final
+- pkg:maven/org.kie.kogito/kogito-addons-quarkus-knative-serving-integration-tests@1.43.0.Final?classifier=sources

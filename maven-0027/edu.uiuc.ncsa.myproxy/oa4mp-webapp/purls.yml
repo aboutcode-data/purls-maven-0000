@@ -36,3 +36,5 @@
 - pkg:maven/edu.uiuc.ncsa.myproxy/oa4mp-webapp@4.1?type=war
 - pkg:maven/edu.uiuc.ncsa.myproxy/oa4mp-webapp@4.3?classifier=sources
 - pkg:maven/edu.uiuc.ncsa.myproxy/oa4mp-webapp@4.3?type=war
+- pkg:maven/edu.uiuc.ncsa.myproxy/oa4mp-webapp@5.3.5?classifier=sources
+- pkg:maven/edu.uiuc.ncsa.myproxy/oa4mp-webapp@5.3.5?type=war

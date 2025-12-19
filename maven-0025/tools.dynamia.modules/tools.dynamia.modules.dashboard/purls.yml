@@ -12,3 +12,5 @@
 - pkg:maven/tools.dynamia.modules/tools.dynamia.modules.dashboard@1.7.0?classifier=sources
 - pkg:maven/tools.dynamia.modules/tools.dynamia.modules.dashboard@2.0.0
 - pkg:maven/tools.dynamia.modules/tools.dynamia.modules.dashboard@2.0.0?classifier=sources
+- pkg:maven/tools.dynamia.modules/tools.dynamia.modules.dashboard@2.0.1
+- pkg:maven/tools.dynamia.modules/tools.dynamia.modules.dashboard@2.0.1?classifier=sources

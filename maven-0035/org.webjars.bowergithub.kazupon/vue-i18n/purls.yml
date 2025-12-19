@@ -1,2 +1,4 @@
+- pkg:maven/org.webjars.bowergithub.kazupon/vue-i18n@8.27.2
+- pkg:maven/org.webjars.bowergithub.kazupon/vue-i18n@8.27.2?classifier=sources
 - pkg:maven/org.webjars.bowergithub.kazupon/vue-i18n@8.28.2
 - pkg:maven/org.webjars.bowergithub.kazupon/vue-i18n@8.28.2?classifier=sources

@@ -6,3 +6,5 @@
 - pkg:maven/com.konfigthis.dojah/dojah-java-sdk@3.0.0?classifier=sources
 - pkg:maven/com.konfigthis.dojah/dojah-java-sdk@4.0.0
 - pkg:maven/com.konfigthis.dojah/dojah-java-sdk@4.0.0?classifier=sources
+- pkg:maven/com.konfigthis.dojah/dojah-java-sdk@4.1.0
+- pkg:maven/com.konfigthis.dojah/dojah-java-sdk@4.1.0?classifier=sources

@@ -40,3 +40,7 @@
 - pkg:maven/ch.ifocusit.livingdoc/livingdoc-maven-plugin@1.9?classifier=sources
 - pkg:maven/ch.ifocusit.livingdoc/livingdoc-maven-plugin@2.0
 - pkg:maven/ch.ifocusit.livingdoc/livingdoc-maven-plugin@2.0?classifier=sources
+- pkg:maven/ch.ifocusit.livingdoc/livingdoc-maven-plugin@2.1
+- pkg:maven/ch.ifocusit.livingdoc/livingdoc-maven-plugin@2.1?classifier=sources
+- pkg:maven/ch.ifocusit.livingdoc/livingdoc-maven-plugin@2.2
+- pkg:maven/ch.ifocusit.livingdoc/livingdoc-maven-plugin@2.2?classifier=sources

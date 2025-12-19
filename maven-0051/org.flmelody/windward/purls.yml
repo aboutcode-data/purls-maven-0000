@@ -4,3 +4,13 @@
 - pkg:maven/org.flmelody/windward@1.1-RELEASE?classifier=sources
 - pkg:maven/org.flmelody/windward@1.2-RELEASE
 - pkg:maven/org.flmelody/windward@1.2-RELEASE?classifier=sources
+- pkg:maven/org.flmelody/windward@1.3-RELEASE
+- pkg:maven/org.flmelody/windward@1.3-RELEASE?classifier=sources
+- pkg:maven/org.flmelody/windward@1.4-RELEASE
+- pkg:maven/org.flmelody/windward@1.4-RELEASE?classifier=sources
+- pkg:maven/org.flmelody/windward@1.4.1-RELEASE
+- pkg:maven/org.flmelody/windward@1.4.1-RELEASE?classifier=sources
+- pkg:maven/org.flmelody/windward@1.4.2-RELEASE
+- pkg:maven/org.flmelody/windward@1.4.2-RELEASE?classifier=sources
+- pkg:maven/org.flmelody/windward@1.4.3-RELEASE
+- pkg:maven/org.flmelody/windward@1.4.3-RELEASE?classifier=sources

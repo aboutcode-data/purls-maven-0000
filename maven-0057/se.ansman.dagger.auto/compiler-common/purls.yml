@@ -1,0 +1,2 @@
+- pkg:maven/se.ansman.dagger.auto/compiler-common@0.7.0?classifier=sources
+- pkg:maven/se.ansman.dagger.auto/compiler-common@0.8.0?classifier=sources

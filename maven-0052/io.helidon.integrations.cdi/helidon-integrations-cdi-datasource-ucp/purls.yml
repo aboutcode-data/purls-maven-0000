@@ -134,3 +134,5 @@
 - pkg:maven/io.helidon.integrations.cdi/helidon-integrations-cdi-datasource-ucp@4.0.0-ALPHA5?classifier=sources
 - pkg:maven/io.helidon.integrations.cdi/helidon-integrations-cdi-datasource-ucp@4.0.0-ALPHA6
 - pkg:maven/io.helidon.integrations.cdi/helidon-integrations-cdi-datasource-ucp@4.0.0-ALPHA6?classifier=sources
+- pkg:maven/io.helidon.integrations.cdi/helidon-integrations-cdi-datasource-ucp@4.0.0-M1
+- pkg:maven/io.helidon.integrations.cdi/helidon-integrations-cdi-datasource-ucp@4.0.0-M1?classifier=sources

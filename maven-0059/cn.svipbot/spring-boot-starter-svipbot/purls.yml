@@ -1,1 +1,2 @@
 - pkg:maven/cn.svipbot/spring-boot-starter-svipbot@0.0.1
+- pkg:maven/cn.svipbot/spring-boot-starter-svipbot@0.0.11

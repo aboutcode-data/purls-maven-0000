@@ -168,3 +168,17 @@
 - pkg:maven/com.amazon.alexa/ask-sdk-freemarker@2.78.0?classifier=sources
 - pkg:maven/com.amazon.alexa/ask-sdk-freemarker@2.79.0
 - pkg:maven/com.amazon.alexa/ask-sdk-freemarker@2.79.0?classifier=sources
+- pkg:maven/com.amazon.alexa/ask-sdk-freemarker@2.80.0
+- pkg:maven/com.amazon.alexa/ask-sdk-freemarker@2.80.0?classifier=sources
+- pkg:maven/com.amazon.alexa/ask-sdk-freemarker@2.81.0
+- pkg:maven/com.amazon.alexa/ask-sdk-freemarker@2.81.0?classifier=sources
+- pkg:maven/com.amazon.alexa/ask-sdk-freemarker@2.82.0
+- pkg:maven/com.amazon.alexa/ask-sdk-freemarker@2.82.0?classifier=sources
+- pkg:maven/com.amazon.alexa/ask-sdk-freemarker@2.83.0
+- pkg:maven/com.amazon.alexa/ask-sdk-freemarker@2.83.0?classifier=sources
+- pkg:maven/com.amazon.alexa/ask-sdk-freemarker@2.84.0
+- pkg:maven/com.amazon.alexa/ask-sdk-freemarker@2.84.0?classifier=sources
+- pkg:maven/com.amazon.alexa/ask-sdk-freemarker@2.85.0
+- pkg:maven/com.amazon.alexa/ask-sdk-freemarker@2.85.0?classifier=sources
+- pkg:maven/com.amazon.alexa/ask-sdk-freemarker@2.86.0
+- pkg:maven/com.amazon.alexa/ask-sdk-freemarker@2.86.0?classifier=sources

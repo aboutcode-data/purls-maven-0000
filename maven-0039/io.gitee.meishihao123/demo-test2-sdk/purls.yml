@@ -1,0 +1,2 @@
+- pkg:maven/io.gitee.meishihao123/demo-test2-sdk@1.0.0
+- pkg:maven/io.gitee.meishihao123/demo-test2-sdk@1.0.0?classifier=sources

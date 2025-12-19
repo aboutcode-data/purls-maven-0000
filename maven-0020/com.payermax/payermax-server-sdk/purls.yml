@@ -16,3 +16,5 @@
 - pkg:maven/com.payermax/payermax-server-sdk@1.0.7-20221110-SPECIAL-3149
 - pkg:maven/com.payermax/payermax-server-sdk@1.0.7-20221110-SPECIAL-3149?classifier=sources
 - pkg:maven/com.payermax/payermax-server-sdk@1.0.7?classifier=sources
+- pkg:maven/com.payermax/payermax-server-sdk@1.0.8
+- pkg:maven/com.payermax/payermax-server-sdk@1.0.8?classifier=sources

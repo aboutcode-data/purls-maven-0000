@@ -99,6 +99,10 @@
 - pkg:maven/cn.com.antcloud.api/antcloud-api-riskplus@1.16.33?classifier=sources
 - pkg:maven/cn.com.antcloud.api/antcloud-api-riskplus@1.16.36
 - pkg:maven/cn.com.antcloud.api/antcloud-api-riskplus@1.16.36?classifier=sources
+- pkg:maven/cn.com.antcloud.api/antcloud-api-riskplus@1.16.38
+- pkg:maven/cn.com.antcloud.api/antcloud-api-riskplus@1.16.38?classifier=sources
+- pkg:maven/cn.com.antcloud.api/antcloud-api-riskplus@1.16.39
+- pkg:maven/cn.com.antcloud.api/antcloud-api-riskplus@1.16.39?classifier=sources
 - pkg:maven/cn.com.antcloud.api/antcloud-api-riskplus@1.16.3?classifier=sources
 - pkg:maven/cn.com.antcloud.api/antcloud-api-riskplus@1.16.4
 - pkg:maven/cn.com.antcloud.api/antcloud-api-riskplus@1.16.4?classifier=sources

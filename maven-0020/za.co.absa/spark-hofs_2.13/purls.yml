@@ -1,0 +1,2 @@
+- pkg:maven/za.co.absa/spark-hofs_2.13@0.5.0
+- pkg:maven/za.co.absa/spark-hofs_2.13@0.5.0?classifier=sources

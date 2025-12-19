@@ -70,6 +70,10 @@
 - pkg:maven/com.sap.cloud.security/java-security@2.13.8?classifier=sources
 - pkg:maven/com.sap.cloud.security/java-security@2.13.9
 - pkg:maven/com.sap.cloud.security/java-security@2.13.9?classifier=sources
+- pkg:maven/com.sap.cloud.security/java-security@2.14.0
+- pkg:maven/com.sap.cloud.security/java-security@2.14.0?classifier=sources
+- pkg:maven/com.sap.cloud.security/java-security@2.14.1
+- pkg:maven/com.sap.cloud.security/java-security@2.14.1?classifier=sources
 - pkg:maven/com.sap.cloud.security/java-security@2.4.4
 - pkg:maven/com.sap.cloud.security/java-security@2.4.4?classifier=sources
 - pkg:maven/com.sap.cloud.security/java-security@2.4.5
@@ -136,3 +140,9 @@
 - pkg:maven/com.sap.cloud.security/java-security@3.0.0?classifier=sources
 - pkg:maven/com.sap.cloud.security/java-security@3.0.1
 - pkg:maven/com.sap.cloud.security/java-security@3.0.1?classifier=sources
+- pkg:maven/com.sap.cloud.security/java-security@3.1.0
+- pkg:maven/com.sap.cloud.security/java-security@3.1.0?classifier=sources
+- pkg:maven/com.sap.cloud.security/java-security@3.1.1
+- pkg:maven/com.sap.cloud.security/java-security@3.1.1?classifier=sources
+- pkg:maven/com.sap.cloud.security/java-security@3.1.2
+- pkg:maven/com.sap.cloud.security/java-security@3.1.2?classifier=sources

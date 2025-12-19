@@ -150,3 +150,5 @@
 - pkg:maven/cz.cvut.kbss.jopa/jopa-owlapi-utils@0.9.9?classifier=sources
 - pkg:maven/cz.cvut.kbss.jopa/jopa-owlapi-utils@1.0.0
 - pkg:maven/cz.cvut.kbss.jopa/jopa-owlapi-utils@1.0.0?classifier=sources
+- pkg:maven/cz.cvut.kbss.jopa/jopa-owlapi-utils@1.1.0
+- pkg:maven/cz.cvut.kbss.jopa/jopa-owlapi-utils@1.1.0?classifier=sources

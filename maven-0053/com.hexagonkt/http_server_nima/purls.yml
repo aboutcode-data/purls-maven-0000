@@ -1,1 +1,4 @@
 - pkg:maven/com.hexagonkt/http_server_nima@3.0.0-B8?classifier=sources
+- pkg:maven/com.hexagonkt/http_server_nima@3.0.0-B9?classifier=sources
+- pkg:maven/com.hexagonkt/http_server_nima@3.0.0?classifier=sources
+- pkg:maven/com.hexagonkt/http_server_nima@3.0.1?classifier=sources

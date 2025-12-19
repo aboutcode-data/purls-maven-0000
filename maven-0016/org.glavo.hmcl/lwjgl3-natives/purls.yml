@@ -1,3 +1,4 @@
+- pkg:maven/org.glavo.hmcl/lwjgl3-natives@3.3.1-rc1-linux-loongarch64?classifier=sources
 - pkg:maven/org.glavo.hmcl/lwjgl3-natives@3.3.1-rc1-linux-loongarch64_ow?classifier=sources
 - pkg:maven/org.glavo.hmcl/lwjgl3-natives@3.3.1-rc1-linux-mips64el?classifier=sources
 - pkg:maven/org.glavo.hmcl/lwjgl3-natives@3.3.1-rc1-linux-riscv64?classifier=sources

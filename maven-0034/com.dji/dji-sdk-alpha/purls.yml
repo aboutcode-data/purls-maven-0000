@@ -1,1 +1,2 @@
 - pkg:maven/com.dji/dji-sdk-alpha@4.16.5-a1?type=aar
+- pkg:maven/com.dji/dji-sdk-alpha@4.17-a1?type=aar

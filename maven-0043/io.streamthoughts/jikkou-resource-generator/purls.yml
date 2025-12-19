@@ -8,3 +8,5 @@
 - pkg:maven/io.streamthoughts/jikkou-resource-generator@0.22.0?classifier=sources
 - pkg:maven/io.streamthoughts/jikkou-resource-generator@0.23.0
 - pkg:maven/io.streamthoughts/jikkou-resource-generator@0.23.0?classifier=sources
+- pkg:maven/io.streamthoughts/jikkou-resource-generator@0.24.0
+- pkg:maven/io.streamthoughts/jikkou-resource-generator@0.24.0?classifier=sources

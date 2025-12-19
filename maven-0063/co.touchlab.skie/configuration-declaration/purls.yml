@@ -1,0 +1,5 @@
+- pkg:maven/co.touchlab.skie/configuration-declaration@0.4.13?classifier=sources
+- pkg:maven/co.touchlab.skie/configuration-declaration@0.4.14?classifier=sources
+- pkg:maven/co.touchlab.skie/configuration-declaration@0.4.15-preview?classifier=sources
+- pkg:maven/co.touchlab.skie/configuration-declaration@0.4.15?classifier=sources
+- pkg:maven/co.touchlab.skie/configuration-declaration@0.4.16?classifier=sources

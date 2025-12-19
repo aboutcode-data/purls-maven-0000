@@ -1,0 +1,4 @@
+- pkg:maven/io.mvnpm/esbuild-java@1.0.0
+- pkg:maven/io.mvnpm/esbuild-java@1.0.0-alpha16
+- pkg:maven/io.mvnpm/esbuild-java@1.0.0-alpha16?classifier=sources
+- pkg:maven/io.mvnpm/esbuild-java@1.0.0?classifier=sources

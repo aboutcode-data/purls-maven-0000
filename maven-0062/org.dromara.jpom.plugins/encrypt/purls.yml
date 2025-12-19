@@ -20,3 +20,7 @@
 - pkg:maven/org.dromara.jpom.plugins/encrypt@2.10.42.1?classifier=sources
 - pkg:maven/org.dromara.jpom.plugins/encrypt@2.10.42.2
 - pkg:maven/org.dromara.jpom.plugins/encrypt@2.10.42.2?classifier=sources
+- pkg:maven/org.dromara.jpom.plugins/encrypt@2.10.42.3
+- pkg:maven/org.dromara.jpom.plugins/encrypt@2.10.42.3?classifier=sources
+- pkg:maven/org.dromara.jpom.plugins/encrypt@2.10.42.4
+- pkg:maven/org.dromara.jpom.plugins/encrypt@2.10.42.4?classifier=sources

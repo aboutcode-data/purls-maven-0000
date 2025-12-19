@@ -14,5 +14,7 @@
 - pkg:maven/com.shzcloud/net@17.1.0?classifier=sources
 - pkg:maven/com.shzcloud/net@2.0.0
 - pkg:maven/com.shzcloud/net@2.0.0?classifier=sources
+- pkg:maven/com.shzcloud/net@2023.1.0
+- pkg:maven/com.shzcloud/net@2023.1.0?classifier=sources
 - pkg:maven/com.shzcloud/net@8.0.0
 - pkg:maven/com.shzcloud/net@8.0.0?classifier=sources

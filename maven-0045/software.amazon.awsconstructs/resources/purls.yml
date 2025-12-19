@@ -1,0 +1,2 @@
+- pkg:maven/software.amazon.awsconstructs/resources@2.42.0
+- pkg:maven/software.amazon.awsconstructs/resources@2.42.0?classifier=sources

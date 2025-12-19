@@ -3,3 +3,6 @@
 - pkg:maven/com.metaeffekt.artifact.analysis/ae-tmd-packaging-plugin@0.69.0
 - pkg:maven/com.metaeffekt.artifact.analysis/ae-tmd-packaging-plugin@0.70.0
 - pkg:maven/com.metaeffekt.artifact.analysis/ae-tmd-packaging-plugin@0.71.0
+- pkg:maven/com.metaeffekt.artifact.analysis/ae-tmd-packaging-plugin@0.72.0
+- pkg:maven/com.metaeffekt.artifact.analysis/ae-tmd-packaging-plugin@0.73.0
+- pkg:maven/com.metaeffekt.artifact.analysis/ae-tmd-packaging-plugin@0.74.0

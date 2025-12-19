@@ -49,3 +49,8 @@
 - pkg:maven/com.rangotec.utils/AndroidUtils@3.5.5005?classifier=sources
 - pkg:maven/com.rangotec.utils/AndroidUtils@3.5.5007?classifier=sources
 - pkg:maven/com.rangotec.utils/AndroidUtils@3.5.5009?classifier=sources
+- pkg:maven/com.rangotec.utils/AndroidUtils@3.5.5066?classifier=sources
+- pkg:maven/com.rangotec.utils/AndroidUtils@3.5.5071?classifier=sources
+- pkg:maven/com.rangotec.utils/AndroidUtils@3.5.5073?classifier=sources
+- pkg:maven/com.rangotec.utils/AndroidUtils@3.5.5077?classifier=sources
+- pkg:maven/com.rangotec.utils/AndroidUtils@3.5.5078?classifier=sources

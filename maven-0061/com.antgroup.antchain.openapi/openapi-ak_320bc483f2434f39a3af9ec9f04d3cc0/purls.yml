@@ -1,0 +1,4 @@
+- pkg:maven/com.antgroup.antchain.openapi/openapi-ak_320bc483f2434f39a3af9ec9f04d3cc0@1.0.0
+- pkg:maven/com.antgroup.antchain.openapi/openapi-ak_320bc483f2434f39a3af9ec9f04d3cc0@1.0.0?classifier=sources
+- pkg:maven/com.antgroup.antchain.openapi/openapi-ak_320bc483f2434f39a3af9ec9f04d3cc0@1.1.0
+- pkg:maven/com.antgroup.antchain.openapi/openapi-ak_320bc483f2434f39a3af9ec9f04d3cc0@1.1.0?classifier=sources

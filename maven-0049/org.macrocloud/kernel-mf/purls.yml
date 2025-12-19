@@ -1,0 +1,2 @@
+- pkg:maven/org.macrocloud/kernel-mf@1.0.2-RELEASE
+- pkg:maven/org.macrocloud/kernel-mf@1.0.2-RELEASE?classifier=sources

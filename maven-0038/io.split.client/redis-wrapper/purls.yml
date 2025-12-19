@@ -18,3 +18,5 @@
 - pkg:maven/io.split.client/redis-wrapper@3.0.0-rc
 - pkg:maven/io.split.client/redis-wrapper@3.0.0-rc?classifier=sources
 - pkg:maven/io.split.client/redis-wrapper@3.0.0?classifier=sources
+- pkg:maven/io.split.client/redis-wrapper@3.0.1
+- pkg:maven/io.split.client/redis-wrapper@3.0.1?classifier=sources

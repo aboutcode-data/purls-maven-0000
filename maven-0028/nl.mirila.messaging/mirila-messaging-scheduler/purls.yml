@@ -1,0 +1,4 @@
+- pkg:maven/nl.mirila.messaging/mirila-messaging-scheduler@2.3.0
+- pkg:maven/nl.mirila.messaging/mirila-messaging-scheduler@2.3.0?classifier=sources
+- pkg:maven/nl.mirila.messaging/mirila-messaging-scheduler@2.3.1
+- pkg:maven/nl.mirila.messaging/mirila-messaging-scheduler@2.3.1?classifier=sources

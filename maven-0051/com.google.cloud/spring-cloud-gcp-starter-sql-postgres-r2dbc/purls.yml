@@ -17,6 +17,11 @@
 - pkg:maven/com.google.cloud/spring-cloud-gcp-starter-sql-postgres-r2dbc@3.5.2
 - pkg:maven/com.google.cloud/spring-cloud-gcp-starter-sql-postgres-r2dbc@3.5.3
 - pkg:maven/com.google.cloud/spring-cloud-gcp-starter-sql-postgres-r2dbc@3.5.4
+- pkg:maven/com.google.cloud/spring-cloud-gcp-starter-sql-postgres-r2dbc@3.5.5
+- pkg:maven/com.google.cloud/spring-cloud-gcp-starter-sql-postgres-r2dbc@3.6.0
+- pkg:maven/com.google.cloud/spring-cloud-gcp-starter-sql-postgres-r2dbc@3.6.1
+- pkg:maven/com.google.cloud/spring-cloud-gcp-starter-sql-postgres-r2dbc@3.6.2
+- pkg:maven/com.google.cloud/spring-cloud-gcp-starter-sql-postgres-r2dbc@3.6.3
 - pkg:maven/com.google.cloud/spring-cloud-gcp-starter-sql-postgres-r2dbc@4.0.0
 - pkg:maven/com.google.cloud/spring-cloud-gcp-starter-sql-postgres-r2dbc@4.1.0
 - pkg:maven/com.google.cloud/spring-cloud-gcp-starter-sql-postgres-r2dbc@4.1.1
@@ -29,3 +34,7 @@
 - pkg:maven/com.google.cloud/spring-cloud-gcp-starter-sql-postgres-r2dbc@4.4.0
 - pkg:maven/com.google.cloud/spring-cloud-gcp-starter-sql-postgres-r2dbc@4.5.0
 - pkg:maven/com.google.cloud/spring-cloud-gcp-starter-sql-postgres-r2dbc@4.5.1
+- pkg:maven/com.google.cloud/spring-cloud-gcp-starter-sql-postgres-r2dbc@4.6.0
+- pkg:maven/com.google.cloud/spring-cloud-gcp-starter-sql-postgres-r2dbc@4.7.0
+- pkg:maven/com.google.cloud/spring-cloud-gcp-starter-sql-postgres-r2dbc@4.7.1
+- pkg:maven/com.google.cloud/spring-cloud-gcp-starter-sql-postgres-r2dbc@4.7.2

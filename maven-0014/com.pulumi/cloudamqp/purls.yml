@@ -43,5 +43,9 @@
 - pkg:maven/com.pulumi/cloudamqp@3.16.0-alpha.1687050374%2B43ef2021?classifier=sources
 - pkg:maven/com.pulumi/cloudamqp@3.16.0-alpha.1687670414%2Bc81fcf46?classifier=sources
 - pkg:maven/com.pulumi/cloudamqp@3.16.0-alpha.1689312060%2Bb3e9f324?classifier=sources
+- pkg:maven/com.pulumi/cloudamqp@3.16.0-alpha.1690262339%2Bd4137d8f?classifier=sources
+- pkg:maven/com.pulumi/cloudamqp@3.16.0-alpha.1691040042%2B0ce8d924?classifier=sources
+- pkg:maven/com.pulumi/cloudamqp@3.16.0-alpha.1691127156%2B7ca2d3b9?classifier=sources
+- pkg:maven/com.pulumi/cloudamqp@3.16.0-alpha.1691731487%2Bed5c7b78?classifier=sources
 - pkg:maven/com.pulumi/cloudamqp@3.9.1?classifier=sources
 - pkg:maven/com.pulumi/cloudamqp@3.9.2?classifier=sources

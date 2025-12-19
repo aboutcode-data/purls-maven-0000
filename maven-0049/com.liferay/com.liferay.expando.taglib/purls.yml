@@ -128,6 +128,8 @@
 - pkg:maven/com.liferay/com.liferay.expando.taglib@2.1.4
 - pkg:maven/com.liferay/com.liferay.expando.taglib@2.1.4?classifier=sources
 - pkg:maven/com.liferay/com.liferay.expando.taglib@2.1.4?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.expando.taglib@2.1.5
+- pkg:maven/com.liferay/com.liferay.expando.taglib@2.1.5?classifier=sources
 - pkg:maven/com.liferay/com.liferay.expando.taglib@3.0.0
 - pkg:maven/com.liferay/com.liferay.expando.taglib@3.0.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.expando.taglib@3.0.0?classifier=sources-commercial
@@ -194,6 +196,8 @@
 - pkg:maven/com.liferay/com.liferay.expando.taglib@3.1.7
 - pkg:maven/com.liferay/com.liferay.expando.taglib@3.1.7?classifier=sources
 - pkg:maven/com.liferay/com.liferay.expando.taglib@3.1.7?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.expando.taglib@3.1.8
+- pkg:maven/com.liferay/com.liferay.expando.taglib@3.1.8?classifier=sources
 - pkg:maven/com.liferay/com.liferay.expando.taglib@4.0.0
 - pkg:maven/com.liferay/com.liferay.expando.taglib@4.0.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.expando.taglib@4.0.0?classifier=sources-commercial
@@ -219,6 +223,8 @@
 - pkg:maven/com.liferay/com.liferay.expando.taglib@4.1.14
 - pkg:maven/com.liferay/com.liferay.expando.taglib@4.1.14?classifier=sources
 - pkg:maven/com.liferay/com.liferay.expando.taglib@4.1.14?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.expando.taglib@4.1.15
+- pkg:maven/com.liferay/com.liferay.expando.taglib@4.1.15?classifier=sources
 - pkg:maven/com.liferay/com.liferay.expando.taglib@4.1.1?classifier=sources
 - pkg:maven/com.liferay/com.liferay.expando.taglib@4.1.1?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.expando.taglib@4.1.2
@@ -303,6 +309,8 @@
 - pkg:maven/com.liferay/com.liferay.expando.taglib@5.0.26
 - pkg:maven/com.liferay/com.liferay.expando.taglib@5.0.26?classifier=sources
 - pkg:maven/com.liferay/com.liferay.expando.taglib@5.0.26?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.expando.taglib@5.0.27
+- pkg:maven/com.liferay/com.liferay.expando.taglib@5.0.27?classifier=sources
 - pkg:maven/com.liferay/com.liferay.expando.taglib@5.0.2?classifier=sources
 - pkg:maven/com.liferay/com.liferay.expando.taglib@5.0.2?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.expando.taglib@5.0.3
