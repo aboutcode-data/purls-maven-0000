@@ -11,6 +11,7 @@
 - pkg:maven/pl.decerto/hyperon-runtime-spring-boot-starter@2.1.9?classifier=sources
 - pkg:maven/pl.decerto/hyperon-runtime-spring-boot-starter@2.2.0?classifier=sources
 - pkg:maven/pl.decerto/hyperon-runtime-spring-boot-starter@2.2.10?classifier=sources
+- pkg:maven/pl.decerto/hyperon-runtime-spring-boot-starter@2.2.11?classifier=sources
 - pkg:maven/pl.decerto/hyperon-runtime-spring-boot-starter@2.2.1?classifier=sources
 - pkg:maven/pl.decerto/hyperon-runtime-spring-boot-starter@2.2.2?classifier=sources
 - pkg:maven/pl.decerto/hyperon-runtime-spring-boot-starter@2.2.3?classifier=sources

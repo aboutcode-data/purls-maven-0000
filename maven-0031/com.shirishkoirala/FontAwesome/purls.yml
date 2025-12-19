@@ -1,0 +1,2 @@
+- pkg:maven/com.shirishkoirala/FontAwesome@0.1?classifier=sources
+- pkg:maven/com.shirishkoirala/FontAwesome@0.2.0?classifier=sources

@@ -544,6 +544,8 @@
 - pkg:maven/org.hpccsystems/commons-hpcc@8.10.52-1?classifier=sources
 - pkg:maven/org.hpccsystems/commons-hpcc@8.10.54-1
 - pkg:maven/org.hpccsystems/commons-hpcc@8.10.54-1?classifier=sources
+- pkg:maven/org.hpccsystems/commons-hpcc@8.10.56-1
+- pkg:maven/org.hpccsystems/commons-hpcc@8.10.56-1?classifier=sources
 - pkg:maven/org.hpccsystems/commons-hpcc@8.10.6-1
 - pkg:maven/org.hpccsystems/commons-hpcc@8.10.6-1?classifier=sources
 - pkg:maven/org.hpccsystems/commons-hpcc@8.10.8-1
@@ -576,6 +578,8 @@
 - pkg:maven/org.hpccsystems/commons-hpcc@8.12.30-1?classifier=sources
 - pkg:maven/org.hpccsystems/commons-hpcc@8.12.32-1
 - pkg:maven/org.hpccsystems/commons-hpcc@8.12.32-1?classifier=sources
+- pkg:maven/org.hpccsystems/commons-hpcc@8.12.34-1
+- pkg:maven/org.hpccsystems/commons-hpcc@8.12.34-1?classifier=sources
 - pkg:maven/org.hpccsystems/commons-hpcc@8.12.4-1
 - pkg:maven/org.hpccsystems/commons-hpcc@8.12.4-1?classifier=sources
 - pkg:maven/org.hpccsystems/commons-hpcc@8.12.6-1
@@ -884,9 +888,17 @@
 - pkg:maven/org.hpccsystems/commons-hpcc@9.0.2-1?classifier=sources
 - pkg:maven/org.hpccsystems/commons-hpcc@9.0.20-1
 - pkg:maven/org.hpccsystems/commons-hpcc@9.0.20-1?classifier=sources
+- pkg:maven/org.hpccsystems/commons-hpcc@9.0.22-1
+- pkg:maven/org.hpccsystems/commons-hpcc@9.0.22-1?classifier=sources
+- pkg:maven/org.hpccsystems/commons-hpcc@9.0.24-1
+- pkg:maven/org.hpccsystems/commons-hpcc@9.0.24-1?classifier=sources
 - pkg:maven/org.hpccsystems/commons-hpcc@9.0.4-1
 - pkg:maven/org.hpccsystems/commons-hpcc@9.0.4-1?classifier=sources
 - pkg:maven/org.hpccsystems/commons-hpcc@9.0.6-1
 - pkg:maven/org.hpccsystems/commons-hpcc@9.0.6-1?classifier=sources
 - pkg:maven/org.hpccsystems/commons-hpcc@9.0.8-1
 - pkg:maven/org.hpccsystems/commons-hpcc@9.0.8-1?classifier=sources
+- pkg:maven/org.hpccsystems/commons-hpcc@9.2.0-1
+- pkg:maven/org.hpccsystems/commons-hpcc@9.2.0-1?classifier=sources
+- pkg:maven/org.hpccsystems/commons-hpcc@9.2.2-1
+- pkg:maven/org.hpccsystems/commons-hpcc@9.2.2-1?classifier=sources

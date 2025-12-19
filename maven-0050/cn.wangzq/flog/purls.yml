@@ -3,3 +3,5 @@
 - pkg:maven/cn.wangzq/flog@2.2.2?classifier=sources
 - pkg:maven/cn.wangzq/flog@2.2.2?type=aar
 - pkg:maven/cn.wangzq/flog@2.3.0?classifier=sources
+- pkg:maven/cn.wangzq/flog@3.0.0?classifier=sources
+- pkg:maven/cn.wangzq/flog@3.0.1?classifier=sources

@@ -1,3 +1,4 @@
 - pkg:maven/io.quarkiverse.certmanager/quarkus-certmanager-docs@0.0.1
 - pkg:maven/io.quarkiverse.certmanager/quarkus-certmanager-docs@0.0.2
 - pkg:maven/io.quarkiverse.certmanager/quarkus-certmanager-docs@1.0.0
+- pkg:maven/io.quarkiverse.certmanager/quarkus-certmanager-docs@1.0.1

@@ -200,6 +200,9 @@
 - pkg:maven/com.liferay/com.liferay.rss.web@3.0.52
 - pkg:maven/com.liferay/com.liferay.rss.web@3.0.52?classifier=sources
 - pkg:maven/com.liferay/com.liferay.rss.web@3.0.52?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.rss.web@3.0.53
+- pkg:maven/com.liferay/com.liferay.rss.web@3.0.53?classifier=sources
+- pkg:maven/com.liferay/com.liferay.rss.web@3.0.53?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.rss.web@3.0.5?classifier=sources
 - pkg:maven/com.liferay/com.liferay.rss.web@3.0.5?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.rss.web@3.0.6
@@ -365,6 +368,9 @@
 - pkg:maven/com.liferay/com.liferay.rss.web@4.0.54
 - pkg:maven/com.liferay/com.liferay.rss.web@4.0.54?classifier=sources
 - pkg:maven/com.liferay/com.liferay.rss.web@4.0.54?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.rss.web@4.0.55
+- pkg:maven/com.liferay/com.liferay.rss.web@4.0.55?classifier=sources
+- pkg:maven/com.liferay/com.liferay.rss.web@4.0.55?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.rss.web@4.0.5?classifier=sources
 - pkg:maven/com.liferay/com.liferay.rss.web@4.0.5?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.rss.web@4.0.6
@@ -518,6 +524,9 @@
 - pkg:maven/com.liferay/com.liferay.rss.web@5.0.50
 - pkg:maven/com.liferay/com.liferay.rss.web@5.0.50?classifier=sources
 - pkg:maven/com.liferay/com.liferay.rss.web@5.0.50?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.rss.web@5.0.51
+- pkg:maven/com.liferay/com.liferay.rss.web@5.0.51?classifier=sources
+- pkg:maven/com.liferay/com.liferay.rss.web@5.0.51?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.rss.web@5.0.5?classifier=sources
 - pkg:maven/com.liferay/com.liferay.rss.web@5.0.5?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.rss.web@5.0.6
@@ -650,6 +659,9 @@
 - pkg:maven/com.liferay/com.liferay.rss.web@6.0.44
 - pkg:maven/com.liferay/com.liferay.rss.web@6.0.44?classifier=sources
 - pkg:maven/com.liferay/com.liferay.rss.web@6.0.44?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.rss.web@6.0.45
+- pkg:maven/com.liferay/com.liferay.rss.web@6.0.45?classifier=sources
+- pkg:maven/com.liferay/com.liferay.rss.web@6.0.45?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.rss.web@6.0.4?classifier=sources
 - pkg:maven/com.liferay/com.liferay.rss.web@6.0.4?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.rss.web@6.0.5
@@ -770,6 +782,9 @@
 - pkg:maven/com.liferay/com.liferay.rss.web@7.0.3?classifier=sources
 - pkg:maven/com.liferay/com.liferay.rss.web@7.0.3?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.rss.web@7.0.4
+- pkg:maven/com.liferay/com.liferay.rss.web@7.0.40
+- pkg:maven/com.liferay/com.liferay.rss.web@7.0.40?classifier=sources
+- pkg:maven/com.liferay/com.liferay.rss.web@7.0.40?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.rss.web@7.0.4?classifier=sources
 - pkg:maven/com.liferay/com.liferay.rss.web@7.0.4?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.rss.web@7.0.5

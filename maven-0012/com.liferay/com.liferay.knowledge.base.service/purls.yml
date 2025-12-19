@@ -420,6 +420,9 @@
 - pkg:maven/com.liferay/com.liferay.knowledge.base.service@1.4.62
 - pkg:maven/com.liferay/com.liferay.knowledge.base.service@1.4.62?classifier=sources
 - pkg:maven/com.liferay/com.liferay.knowledge.base.service@1.4.62?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.knowledge.base.service@1.4.63
+- pkg:maven/com.liferay/com.liferay.knowledge.base.service@1.4.63?classifier=sources
+- pkg:maven/com.liferay/com.liferay.knowledge.base.service@1.4.63?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.knowledge.base.service@1.4.6?classifier=sources
 - pkg:maven/com.liferay/com.liferay.knowledge.base.service@1.4.6?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.knowledge.base.service@1.4.7
@@ -651,6 +654,9 @@
 - pkg:maven/com.liferay/com.liferay.knowledge.base.service@2.0.75
 - pkg:maven/com.liferay/com.liferay.knowledge.base.service@2.0.75?classifier=sources
 - pkg:maven/com.liferay/com.liferay.knowledge.base.service@2.0.75?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.knowledge.base.service@2.0.76
+- pkg:maven/com.liferay/com.liferay.knowledge.base.service@2.0.76?classifier=sources
+- pkg:maven/com.liferay/com.liferay.knowledge.base.service@2.0.76?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.knowledge.base.service@2.0.7?classifier=sources
 - pkg:maven/com.liferay/com.liferay.knowledge.base.service@2.0.7?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.knowledge.base.service@2.0.8
@@ -846,6 +852,9 @@
 - pkg:maven/com.liferay/com.liferay.knowledge.base.service@3.0.65
 - pkg:maven/com.liferay/com.liferay.knowledge.base.service@3.0.65?classifier=sources
 - pkg:maven/com.liferay/com.liferay.knowledge.base.service@3.0.65?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.knowledge.base.service@3.0.66
+- pkg:maven/com.liferay/com.liferay.knowledge.base.service@3.0.66?classifier=sources
+- pkg:maven/com.liferay/com.liferay.knowledge.base.service@3.0.66?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.knowledge.base.service@3.0.6?classifier=sources
 - pkg:maven/com.liferay/com.liferay.knowledge.base.service@3.0.6?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.knowledge.base.service@3.0.7
@@ -1212,6 +1221,12 @@
 - pkg:maven/com.liferay/com.liferay.knowledge.base.service@5.0.71
 - pkg:maven/com.liferay/com.liferay.knowledge.base.service@5.0.71?classifier=sources
 - pkg:maven/com.liferay/com.liferay.knowledge.base.service@5.0.71?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.knowledge.base.service@5.0.72
+- pkg:maven/com.liferay/com.liferay.knowledge.base.service@5.0.72?classifier=sources
+- pkg:maven/com.liferay/com.liferay.knowledge.base.service@5.0.72?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.knowledge.base.service@5.0.73
+- pkg:maven/com.liferay/com.liferay.knowledge.base.service@5.0.73?classifier=sources
+- pkg:maven/com.liferay/com.liferay.knowledge.base.service@5.0.73?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.knowledge.base.service@5.0.7?classifier=sources
 - pkg:maven/com.liferay/com.liferay.knowledge.base.service@5.0.7?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.knowledge.base.service@5.0.8

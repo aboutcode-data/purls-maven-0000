@@ -4,5 +4,9 @@
 - pkg:maven/club.zhcs/lina-apm@2.7.11?classifier=sources
 - pkg:maven/club.zhcs/lina-apm@2.7.12
 - pkg:maven/club.zhcs/lina-apm@2.7.12?classifier=sources
+- pkg:maven/club.zhcs/lina-apm@2.7.13
+- pkg:maven/club.zhcs/lina-apm@2.7.13?classifier=sources
 - pkg:maven/club.zhcs/lina-apm@3.1.0
 - pkg:maven/club.zhcs/lina-apm@3.1.0?classifier=sources
+- pkg:maven/club.zhcs/lina-apm@3.1.1
+- pkg:maven/club.zhcs/lina-apm@3.1.1?classifier=sources

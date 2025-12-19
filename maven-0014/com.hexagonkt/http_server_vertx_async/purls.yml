@@ -1,0 +1,2 @@
+- pkg:maven/com.hexagonkt/http_server_vertx_async@3.0.0-B1?classifier=sources
+- pkg:maven/com.hexagonkt/http_server_vertx_async@3.0.0-B2?classifier=sources

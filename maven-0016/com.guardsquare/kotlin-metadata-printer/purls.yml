@@ -1,1 +1,2 @@
 - pkg:maven/com.guardsquare/kotlin-metadata-printer@1.1.7?classifier=sources
+- pkg:maven/com.guardsquare/kotlin-metadata-printer@1.1.8?classifier=sources

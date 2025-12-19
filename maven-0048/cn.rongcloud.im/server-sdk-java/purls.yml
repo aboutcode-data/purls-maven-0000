@@ -126,3 +126,5 @@
 - pkg:maven/cn.rongcloud.im/server-sdk-java@3.2.8?classifier=sources
 - pkg:maven/cn.rongcloud.im/server-sdk-java@3.2.9
 - pkg:maven/cn.rongcloud.im/server-sdk-java@3.2.9?classifier=sources
+- pkg:maven/cn.rongcloud.im/server-sdk-java@3.3.0
+- pkg:maven/cn.rongcloud.im/server-sdk-java@3.3.0?classifier=sources

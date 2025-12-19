@@ -1,0 +1,6 @@
+- pkg:maven/io.trino/trino-filesystem-azure@420
+- pkg:maven/io.trino/trino-filesystem-azure@420?classifier=sources
+- pkg:maven/io.trino/trino-filesystem-azure@421
+- pkg:maven/io.trino/trino-filesystem-azure@421?classifier=sources
+- pkg:maven/io.trino/trino-filesystem-azure@422
+- pkg:maven/io.trino/trino-filesystem-azure@422?classifier=sources

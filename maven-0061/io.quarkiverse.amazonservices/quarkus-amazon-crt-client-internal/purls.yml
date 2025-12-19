@@ -1,0 +1,2 @@
+- pkg:maven/io.quarkiverse.amazonservices/quarkus-amazon-crt-client-internal@2.4.0
+- pkg:maven/io.quarkiverse.amazonservices/quarkus-amazon-crt-client-internal@2.4.1

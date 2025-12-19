@@ -1,0 +1,2 @@
+- pkg:maven/com.networknt/proxy-handler@2.1.23
+- pkg:maven/com.networknt/proxy-handler@2.1.23?classifier=sources

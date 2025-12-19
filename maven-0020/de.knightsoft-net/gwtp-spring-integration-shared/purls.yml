@@ -89,6 +89,8 @@
 - pkg:maven/de.knightsoft-net/gwtp-spring-integration-shared@1.11.15?classifier=sources
 - pkg:maven/de.knightsoft-net/gwtp-spring-integration-shared@1.11.16
 - pkg:maven/de.knightsoft-net/gwtp-spring-integration-shared@1.11.16?classifier=sources
+- pkg:maven/de.knightsoft-net/gwtp-spring-integration-shared@1.11.17
+- pkg:maven/de.knightsoft-net/gwtp-spring-integration-shared@1.11.17?classifier=sources
 - pkg:maven/de.knightsoft-net/gwtp-spring-integration-shared@1.11.1?classifier=sources
 - pkg:maven/de.knightsoft-net/gwtp-spring-integration-shared@1.11.2
 - pkg:maven/de.knightsoft-net/gwtp-spring-integration-shared@1.11.2?classifier=sources
@@ -212,3 +214,5 @@
 - pkg:maven/de.knightsoft-net/gwtp-spring-integration-shared@2.0.7?classifier=sources
 - pkg:maven/de.knightsoft-net/gwtp-spring-integration-shared@2.0.8
 - pkg:maven/de.knightsoft-net/gwtp-spring-integration-shared@2.0.8?classifier=sources
+- pkg:maven/de.knightsoft-net/gwtp-spring-integration-shared@2.0.9
+- pkg:maven/de.knightsoft-net/gwtp-spring-integration-shared@2.0.9?classifier=sources

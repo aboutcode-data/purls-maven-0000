@@ -3,3 +3,4 @@
 - pkg:maven/com.valtech.aapm/aapm.core@1.0.0
 - pkg:maven/com.valtech.aapm/aapm.core@1.0.0?classifier=sources
 - pkg:maven/com.valtech.aapm/aapm.core@1.0.2?classifier=sources
+- pkg:maven/com.valtech.aapm/aapm.core@1.0.5?classifier=sources

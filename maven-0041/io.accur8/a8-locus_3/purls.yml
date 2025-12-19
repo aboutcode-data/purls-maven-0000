@@ -12,3 +12,5 @@
 - pkg:maven/io.accur8/a8-locus_3@0.1.0-20230429_1924_glenziohttp?classifier=sources
 - pkg:maven/io.accur8/a8-locus_3@0.1.0-20230502_0740_glenziohttp
 - pkg:maven/io.accur8/a8-locus_3@0.1.0-20230502_0740_glenziohttp?classifier=sources
+- pkg:maven/io.accur8/a8-locus_3@0.1.0-20230606_1345_main
+- pkg:maven/io.accur8/a8-locus_3@0.1.0-20230606_1345_main?classifier=sources

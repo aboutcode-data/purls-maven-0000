@@ -27,3 +27,4 @@
 - pkg:maven/org.opencypher/tck@1.0.0-M20
 - pkg:maven/org.opencypher/tck@1.0.0-M21
 - pkg:maven/org.opencypher/tck@1.0.0-M22
+- pkg:maven/org.opencypher/tck@1.0.0-M23

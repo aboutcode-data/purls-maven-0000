@@ -1,0 +1,4 @@
+- pkg:maven/com.gccloud/xxl-job-admin@1.0.0.2023070301.Alpha
+- pkg:maven/com.gccloud/xxl-job-admin@1.0.0.2023070301.Alpha?classifier=sources
+- pkg:maven/com.gccloud/xxl-job-admin@1.0.0.2023071001.Alpha
+- pkg:maven/com.gccloud/xxl-job-admin@1.0.0.2023071001.Alpha?classifier=sources

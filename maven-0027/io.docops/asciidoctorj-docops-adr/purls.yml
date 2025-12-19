@@ -46,3 +46,5 @@
 - pkg:maven/io.docops/asciidoctorj-docops-adr@2023.11?classifier=sources
 - pkg:maven/io.docops/asciidoctorj-docops-adr@2023.12
 - pkg:maven/io.docops/asciidoctorj-docops-adr@2023.12?classifier=sources
+- pkg:maven/io.docops/asciidoctorj-docops-adr@2023.13
+- pkg:maven/io.docops/asciidoctorj-docops-adr@2023.13?classifier=sources

@@ -9,3 +9,4 @@
 - pkg:maven/com.himanshoe/charty@1.1.3-alpha03?classifier=sources
 - pkg:maven/com.himanshoe/charty@1.1.3-alpha04?classifier=sources
 - pkg:maven/com.himanshoe/charty@1.1.3-alpha05?classifier=sources
+- pkg:maven/com.himanshoe/charty@2.0.0-alpha01?classifier=sources

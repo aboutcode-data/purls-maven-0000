@@ -1,0 +1,2 @@
+- pkg:maven/io.github.milobotdev/discord-oauth2-api@1.0-alpha.2
+- pkg:maven/io.github.milobotdev/discord-oauth2-api@1.0-alpha.2?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.netease.nim/camellia-redis-proxy-hot-key-monitor-plugin@1.2.10
+- pkg:maven/com.netease.nim/camellia-redis-proxy-hot-key-monitor-plugin@1.2.10?classifier=sources

@@ -31,6 +31,10 @@
 - pkg:maven/me.proton.core/key-domain@10.6.0?classifier=sources
 - pkg:maven/me.proton.core/key-domain@10.7.0?classifier=sources
 - pkg:maven/me.proton.core/key-domain@10.7.1?classifier=sources
+- pkg:maven/me.proton.core/key-domain@11.0.0?classifier=sources
+- pkg:maven/me.proton.core/key-domain@12.0.0?classifier=sources
+- pkg:maven/me.proton.core/key-domain@13.0.0?classifier=sources
+- pkg:maven/me.proton.core/key-domain@13.0.1?classifier=sources
 - pkg:maven/me.proton.core/key-domain@2.0.0-alpha01?classifier=sources
 - pkg:maven/me.proton.core/key-domain@2.0.0?classifier=sources
 - pkg:maven/me.proton.core/key-domain@3.0.0?classifier=sources

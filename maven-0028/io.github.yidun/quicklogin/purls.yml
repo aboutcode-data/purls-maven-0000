@@ -57,3 +57,6 @@
 - pkg:maven/io.github.yidun/quicklogin@3.3.0?classifier=sources
 - pkg:maven/io.github.yidun/quicklogin@3.3.1?classifier=sources
 - pkg:maven/io.github.yidun/quicklogin@3.3.2?classifier=sources
+- pkg:maven/io.github.yidun/quicklogin@3.3.3.1?classifier=sources
+- pkg:maven/io.github.yidun/quicklogin@3.3.3?classifier=sources
+- pkg:maven/io.github.yidun/quicklogin@3.3.4?classifier=sources

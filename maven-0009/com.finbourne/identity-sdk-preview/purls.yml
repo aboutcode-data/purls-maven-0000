@@ -1,0 +1,2 @@
+- pkg:maven/com.finbourne/identity-sdk-preview@0.0.2450
+- pkg:maven/com.finbourne/identity-sdk-preview@0.0.2450?classifier=sources

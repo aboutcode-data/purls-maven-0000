@@ -1,0 +1,2 @@
+- pkg:maven/com.discord4j/discord4j-oauth2@3.2.5?classifier=sources
+- pkg:maven/com.discord4j/discord4j-oauth2@3.3.0-M2?classifier=sources

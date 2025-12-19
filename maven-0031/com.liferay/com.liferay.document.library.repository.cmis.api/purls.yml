@@ -108,6 +108,9 @@
 - pkg:maven/com.liferay/com.liferay.document.library.repository.cmis.api@1.1.40
 - pkg:maven/com.liferay/com.liferay.document.library.repository.cmis.api@1.1.40?classifier=sources
 - pkg:maven/com.liferay/com.liferay.document.library.repository.cmis.api@1.1.40?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.document.library.repository.cmis.api@1.1.41
+- pkg:maven/com.liferay/com.liferay.document.library.repository.cmis.api@1.1.41?classifier=sources
+- pkg:maven/com.liferay/com.liferay.document.library.repository.cmis.api@1.1.41?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.document.library.repository.cmis.api@1.1.4?classifier=sources
 - pkg:maven/com.liferay/com.liferay.document.library.repository.cmis.api@1.1.4?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.document.library.repository.cmis.api@1.1.5
@@ -198,6 +201,9 @@
 - pkg:maven/com.liferay/com.liferay.document.library.repository.cmis.api@2.0.30
 - pkg:maven/com.liferay/com.liferay.document.library.repository.cmis.api@2.0.30?classifier=sources
 - pkg:maven/com.liferay/com.liferay.document.library.repository.cmis.api@2.0.30?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.document.library.repository.cmis.api@2.0.31
+- pkg:maven/com.liferay/com.liferay.document.library.repository.cmis.api@2.0.31?classifier=sources
+- pkg:maven/com.liferay/com.liferay.document.library.repository.cmis.api@2.0.31?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.document.library.repository.cmis.api@2.0.3?classifier=sources
 - pkg:maven/com.liferay/com.liferay.document.library.repository.cmis.api@2.0.3?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.document.library.repository.cmis.api@2.0.4
@@ -297,6 +303,9 @@
 - pkg:maven/com.liferay/com.liferay.document.library.repository.cmis.api@3.0.32
 - pkg:maven/com.liferay/com.liferay.document.library.repository.cmis.api@3.0.32?classifier=sources
 - pkg:maven/com.liferay/com.liferay.document.library.repository.cmis.api@3.0.32?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.document.library.repository.cmis.api@3.0.33
+- pkg:maven/com.liferay/com.liferay.document.library.repository.cmis.api@3.0.33?classifier=sources
+- pkg:maven/com.liferay/com.liferay.document.library.repository.cmis.api@3.0.33?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.document.library.repository.cmis.api@3.0.3?classifier=sources
 - pkg:maven/com.liferay/com.liferay.document.library.repository.cmis.api@3.0.3?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.document.library.repository.cmis.api@3.0.4
@@ -387,6 +396,9 @@
 - pkg:maven/com.liferay/com.liferay.document.library.repository.cmis.api@4.0.2?classifier=sources
 - pkg:maven/com.liferay/com.liferay.document.library.repository.cmis.api@4.0.2?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.document.library.repository.cmis.api@4.0.3
+- pkg:maven/com.liferay/com.liferay.document.library.repository.cmis.api@4.0.30
+- pkg:maven/com.liferay/com.liferay.document.library.repository.cmis.api@4.0.30?classifier=sources
+- pkg:maven/com.liferay/com.liferay.document.library.repository.cmis.api@4.0.30?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.document.library.repository.cmis.api@4.0.3?classifier=sources
 - pkg:maven/com.liferay/com.liferay.document.library.repository.cmis.api@4.0.3?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.document.library.repository.cmis.api@4.0.4

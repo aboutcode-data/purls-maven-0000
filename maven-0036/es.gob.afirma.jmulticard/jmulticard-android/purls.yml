@@ -2,3 +2,5 @@
 - pkg:maven/es.gob.afirma.jmulticard/jmulticard-android@1.5?type=aar
 - pkg:maven/es.gob.afirma.jmulticard/jmulticard-android@1.7?classifier=sources
 - pkg:maven/es.gob.afirma.jmulticard/jmulticard-android@1.7?type=aar
+- pkg:maven/es.gob.afirma.jmulticard/jmulticard-android@1.8?classifier=sources
+- pkg:maven/es.gob.afirma.jmulticard/jmulticard-android@1.8?type=aar

@@ -1,2 +1,8 @@
 - pkg:maven/me.hsgamer/uni-hologram-spigot-cmi@1.6.0
 - pkg:maven/me.hsgamer/uni-hologram-spigot-cmi@1.6.0?classifier=sources
+- pkg:maven/me.hsgamer/uni-hologram-spigot-cmi@2.0.0
+- pkg:maven/me.hsgamer/uni-hologram-spigot-cmi@2.0.0?classifier=sources
+- pkg:maven/me.hsgamer/uni-hologram-spigot-cmi@2.1.0
+- pkg:maven/me.hsgamer/uni-hologram-spigot-cmi@2.1.0?classifier=sources
+- pkg:maven/me.hsgamer/uni-hologram-spigot-cmi@2.1.1
+- pkg:maven/me.hsgamer/uni-hologram-spigot-cmi@2.1.1?classifier=sources
