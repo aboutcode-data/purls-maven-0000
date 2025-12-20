@@ -89,6 +89,8 @@
 - pkg:maven/com.pulumi/cloudamqp@3.17.0-alpha.1703010898%2Bb2454ae8?classifier=sources
 - pkg:maven/com.pulumi/cloudamqp@3.17.0?classifier=sources
 - pkg:maven/com.pulumi/cloudamqp@3.17.1?classifier=sources
+- pkg:maven/com.pulumi/cloudamqp@3.17.2?classifier=sources
+- pkg:maven/com.pulumi/cloudamqp@3.17.3?classifier=sources
 - pkg:maven/com.pulumi/cloudamqp@3.18.0-alpha.1703039845%2B199af0d2?classifier=sources
 - pkg:maven/com.pulumi/cloudamqp@3.18.0-alpha.1703136255%2B658b8116?classifier=sources
 - pkg:maven/com.pulumi/cloudamqp@3.18.0-alpha.1703266508%2B69365eba?classifier=sources
@@ -97,5 +99,17 @@
 - pkg:maven/com.pulumi/cloudamqp@3.18.0-alpha.1704211695%2B75e98c85?classifier=sources
 - pkg:maven/com.pulumi/cloudamqp@3.18.0-alpha.1704259539%2Bd33b9638?classifier=sources
 - pkg:maven/com.pulumi/cloudamqp@3.18.0-alpha.1704345914%2B7dfdacec?classifier=sources
+- pkg:maven/com.pulumi/cloudamqp@3.18.0-alpha.1705200348%2Bbbdb3a40?classifier=sources
+- pkg:maven/com.pulumi/cloudamqp@3.18.0-alpha.1705470056%2Bca9e9236?classifier=sources
+- pkg:maven/com.pulumi/cloudamqp@3.18.0-alpha.1705602074%2Ba54f603a?classifier=sources
+- pkg:maven/com.pulumi/cloudamqp@3.18.0-alpha.1705642762%2Be2b44f98?classifier=sources
+- pkg:maven/com.pulumi/cloudamqp@3.18.0-alpha.1705988383%2Bb5d8d366?classifier=sources
+- pkg:maven/com.pulumi/cloudamqp@3.18.0-alpha.1706307074%2B5617a4f2?classifier=sources
+- pkg:maven/com.pulumi/cloudamqp@3.18.0-alpha.1706523434%2Bd0de8bfa?classifier=sources
+- pkg:maven/com.pulumi/cloudamqp@3.18.0-alpha.1706745082%2B0ce62b01?classifier=sources
+- pkg:maven/com.pulumi/cloudamqp@3.18.0-alpha.1706811711%2Bebbae88a?classifier=sources
+- pkg:maven/com.pulumi/cloudamqp@3.18.0-alpha.1706827164%2B9593d392?classifier=sources
+- pkg:maven/com.pulumi/cloudamqp@3.18.0-alpha.1707284716%2Bd47c4192?classifier=sources
+- pkg:maven/com.pulumi/cloudamqp@3.18.0-alpha.1707543808%2B6908658a?classifier=sources
 - pkg:maven/com.pulumi/cloudamqp@3.9.1?classifier=sources
 - pkg:maven/com.pulumi/cloudamqp@3.9.2?classifier=sources

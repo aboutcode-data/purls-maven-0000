@@ -6,3 +6,5 @@
 - pkg:maven/info.vizierdb/vizier_2.12@2.0.0-rc3?classifier=sources
 - pkg:maven/info.vizierdb/vizier_2.12@2.1.0-b1
 - pkg:maven/info.vizierdb/vizier_2.12@2.1.0-b1?classifier=sources
+- pkg:maven/info.vizierdb/vizier_2.12@2.1.0-b3
+- pkg:maven/info.vizierdb/vizier_2.12@2.1.0-b3?classifier=sources

@@ -1,0 +1,13 @@
+- pkg:maven/asia.hombre/kyber@0.2.4?classifier=sources
+- pkg:maven/asia.hombre/kyber@0.2.5?classifier=sources
+- pkg:maven/asia.hombre/kyber@0.2.6?classifier=sources
+- pkg:maven/asia.hombre/kyber@0.3.0-standard?classifier=sources
+- pkg:maven/asia.hombre/kyber@0.3.1-standard?classifier=sources
+- pkg:maven/asia.hombre/kyber@0.4.0?classifier=sources
+- pkg:maven/asia.hombre/kyber@0.4.1?classifier=sources
+- pkg:maven/asia.hombre/kyber@0.4.2?classifier=sources
+- pkg:maven/asia.hombre/kyber@0.4.3?classifier=sources
+- pkg:maven/asia.hombre/kyber@0.4.4?classifier=sources
+- pkg:maven/asia.hombre/kyber@0.4.5?classifier=sources
+- pkg:maven/asia.hombre/kyber@0.4.6?classifier=sources
+- pkg:maven/asia.hombre/kyber@0.4.7?classifier=sources

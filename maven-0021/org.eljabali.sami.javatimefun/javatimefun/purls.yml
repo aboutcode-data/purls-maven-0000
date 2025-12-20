@@ -1,0 +1,5 @@
+- pkg:maven/org.eljabali.sami.javatimefun/javatimefun@0.5?classifier=sources
+- pkg:maven/org.eljabali.sami.javatimefun/javatimefun@0.6?classifier=sources
+- pkg:maven/org.eljabali.sami.javatimefun/javatimefun@0.7?classifier=sources
+- pkg:maven/org.eljabali.sami.javatimefun/javatimefun@1.0.0?classifier=sources
+- pkg:maven/org.eljabali.sami.javatimefun/javatimefun@2.0.0?classifier=sources

@@ -1,3 +1,5 @@
+- pkg:maven/com.fhs-opensource/easy-trans-mybatis-flex-extend@2.2.10
+- pkg:maven/com.fhs-opensource/easy-trans-mybatis-flex-extend@2.2.10?classifier=sources
 - pkg:maven/com.fhs-opensource/easy-trans-mybatis-flex-extend@2.2.4
 - pkg:maven/com.fhs-opensource/easy-trans-mybatis-flex-extend@2.2.4?classifier=sources
 - pkg:maven/com.fhs-opensource/easy-trans-mybatis-flex-extend@2.2.5

@@ -24,3 +24,4 @@
 - pkg:maven/pl.decerto/hyperon-runtime-spring-boot-starter@2.3.0?classifier=sources
 - pkg:maven/pl.decerto/hyperon-runtime-spring-boot-starter@2.3.1?classifier=sources
 - pkg:maven/pl.decerto/hyperon-runtime-spring-boot-starter@2.3.2?classifier=sources
+- pkg:maven/pl.decerto/hyperon-runtime-spring-boot-starter@2.3.4?classifier=sources

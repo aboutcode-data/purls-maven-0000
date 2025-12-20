@@ -38,6 +38,10 @@
 - pkg:maven/com.google.apis/google-api-services-playdeveloperreporting@v1alpha1-rev20230803-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-playdeveloperreporting@v1alpha1-rev20231207-2.0.0
 - pkg:maven/com.google.apis/google-api-services-playdeveloperreporting@v1alpha1-rev20231207-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-playdeveloperreporting@v1alpha1-rev20240101-2.0.0
+- pkg:maven/com.google.apis/google-api-services-playdeveloperreporting@v1alpha1-rev20240101-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-playdeveloperreporting@v1alpha1-rev20240201-2.0.0
+- pkg:maven/com.google.apis/google-api-services-playdeveloperreporting@v1alpha1-rev20240201-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-playdeveloperreporting@v1beta1-rev20220308-1.32.1
 - pkg:maven/com.google.apis/google-api-services-playdeveloperreporting@v1beta1-rev20220308-1.32.1?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-playdeveloperreporting@v1beta1-rev20220522-1.32.1
@@ -76,3 +80,7 @@
 - pkg:maven/com.google.apis/google-api-services-playdeveloperreporting@v1beta1-rev20230803-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-playdeveloperreporting@v1beta1-rev20231207-2.0.0
 - pkg:maven/com.google.apis/google-api-services-playdeveloperreporting@v1beta1-rev20231207-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-playdeveloperreporting@v1beta1-rev20240101-2.0.0
+- pkg:maven/com.google.apis/google-api-services-playdeveloperreporting@v1beta1-rev20240101-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-playdeveloperreporting@v1beta1-rev20240201-2.0.0
+- pkg:maven/com.google.apis/google-api-services-playdeveloperreporting@v1beta1-rev20240201-2.0.0?classifier=sources

@@ -1,3 +1,5 @@
 - pkg:maven/com.legyver/utils.ruffles@3.4.0?classifier=sources
 - pkg:maven/com.legyver/utils.ruffles@3.4.1?classifier=sources
 - pkg:maven/com.legyver/utils.ruffles@3.5.0?classifier=sources
+- pkg:maven/com.legyver/utils.ruffles@3.5.1?classifier=sources
+- pkg:maven/com.legyver/utils.ruffles@3.5.2?classifier=sources

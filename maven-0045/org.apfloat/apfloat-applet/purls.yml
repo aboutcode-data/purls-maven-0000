@@ -6,6 +6,8 @@
 - pkg:maven/org.apfloat/apfloat-applet@1.11.0?classifier=sources
 - pkg:maven/org.apfloat/apfloat-applet@1.12.0
 - pkg:maven/org.apfloat/apfloat-applet@1.12.0?classifier=sources
+- pkg:maven/org.apfloat/apfloat-applet@1.13.0
+- pkg:maven/org.apfloat/apfloat-applet@1.13.0?classifier=sources
 - pkg:maven/org.apfloat/apfloat-applet@1.6.3
 - pkg:maven/org.apfloat/apfloat-applet@1.6.3?classifier=sources
 - pkg:maven/org.apfloat/apfloat-applet@1.7.0

@@ -82,6 +82,14 @@
 - pkg:maven/com.pulumi/random@4.16.0-alpha.1703139191%2B4a2e1b4f?classifier=sources
 - pkg:maven/com.pulumi/random@4.16.0-alpha.1703657229%2B73ec75c3?classifier=sources
 - pkg:maven/com.pulumi/random@4.16.0-alpha.1704348778%2B5d958ec6?classifier=sources
+- pkg:maven/com.pulumi/random@4.16.0-alpha.1705991523%2B88f31e6b?classifier=sources
+- pkg:maven/com.pulumi/random@4.16.0-alpha.1706309088%2Bd98e05e5?classifier=sources
+- pkg:maven/com.pulumi/random@4.16.0-alpha.1706749350%2B3852245d?classifier=sources
+- pkg:maven/com.pulumi/random@4.16.0-alpha.1706813880%2B90b1432a?classifier=sources
+- pkg:maven/com.pulumi/random@4.16.0-alpha.1706830956%2Bc81e055d?classifier=sources
+- pkg:maven/com.pulumi/random@4.16.0-alpha.1707288361%2Bff992a55?classifier=sources
+- pkg:maven/com.pulumi/random@4.16.0-alpha.1707498242%2B8d6a42f8?classifier=sources
+- pkg:maven/com.pulumi/random@4.16.0-alpha.1707547521%2Bf0804703?classifier=sources
 - pkg:maven/com.pulumi/random@4.5.0?classifier=sources
 - pkg:maven/com.pulumi/random@4.6.0?classifier=sources
 - pkg:maven/com.pulumi/random@4.7.0-alpha.1657304919%2B1d411918?classifier=sources

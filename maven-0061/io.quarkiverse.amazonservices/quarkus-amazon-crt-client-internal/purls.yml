@@ -1,3 +1,6 @@
+- pkg:maven/io.quarkiverse.amazonservices/quarkus-amazon-crt-client-internal@2.10.0
+- pkg:maven/io.quarkiverse.amazonservices/quarkus-amazon-crt-client-internal@2.10.1
+- pkg:maven/io.quarkiverse.amazonservices/quarkus-amazon-crt-client-internal@2.11.0
 - pkg:maven/io.quarkiverse.amazonservices/quarkus-amazon-crt-client-internal@2.4.0
 - pkg:maven/io.quarkiverse.amazonservices/quarkus-amazon-crt-client-internal@2.4.1
 - pkg:maven/io.quarkiverse.amazonservices/quarkus-amazon-crt-client-internal@2.4.2
@@ -15,3 +18,4 @@
 - pkg:maven/io.quarkiverse.amazonservices/quarkus-amazon-crt-client-internal@2.7.3
 - pkg:maven/io.quarkiverse.amazonservices/quarkus-amazon-crt-client-internal@2.8.0
 - pkg:maven/io.quarkiverse.amazonservices/quarkus-amazon-crt-client-internal@2.9.0
+- pkg:maven/io.quarkiverse.amazonservices/quarkus-amazon-crt-client-internal@2.9.1

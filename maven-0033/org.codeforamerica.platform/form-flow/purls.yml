@@ -16,3 +16,4 @@
 - pkg:maven/org.codeforamerica.platform/form-flow@0.0.9?classifier=sources
 - pkg:maven/org.codeforamerica.platform/form-flow@0.1.0?classifier=sources
 - pkg:maven/org.codeforamerica.platform/form-flow@1.0.0?classifier=sources
+- pkg:maven/org.codeforamerica.platform/form-flow@1.1.0?classifier=sources

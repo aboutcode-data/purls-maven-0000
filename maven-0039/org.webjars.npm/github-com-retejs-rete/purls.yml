@@ -1,2 +1,4 @@
 - pkg:maven/org.webjars.npm/github-com-retejs-rete@1.0.0-alpha.6
 - pkg:maven/org.webjars.npm/github-com-retejs-rete@1.0.0-alpha.6?classifier=sources
+- pkg:maven/org.webjars.npm/github-com-retejs-rete@2.0.2
+- pkg:maven/org.webjars.npm/github-com-retejs-rete@2.0.2?classifier=sources

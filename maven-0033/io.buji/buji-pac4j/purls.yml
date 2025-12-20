@@ -52,3 +52,5 @@
 - pkg:maven/io.buji/buji-pac4j@8.0.0?classifier=sources
 - pkg:maven/io.buji/buji-pac4j@8.1.0
 - pkg:maven/io.buji/buji-pac4j@8.1.0?classifier=sources
+- pkg:maven/io.buji/buji-pac4j@9.0.0
+- pkg:maven/io.buji/buji-pac4j@9.0.0?classifier=sources

@@ -42,6 +42,8 @@
 - pkg:maven/com.iyzipay/iyzipay-java@2.0.121?classifier=sources
 - pkg:maven/com.iyzipay/iyzipay-java@2.0.122
 - pkg:maven/com.iyzipay/iyzipay-java@2.0.122?classifier=sources
+- pkg:maven/com.iyzipay/iyzipay-java@2.0.123
+- pkg:maven/com.iyzipay/iyzipay-java@2.0.123?classifier=sources
 - pkg:maven/com.iyzipay/iyzipay-java@2.0.21
 - pkg:maven/com.iyzipay/iyzipay-java@2.0.21?classifier=sources
 - pkg:maven/com.iyzipay/iyzipay-java@2.0.22

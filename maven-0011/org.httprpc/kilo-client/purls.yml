@@ -81,3 +81,4 @@
 - pkg:maven/org.httprpc/kilo-client@2.8.2?classifier=sources
 - pkg:maven/org.httprpc/kilo-client@2.8.3?classifier=sources
 - pkg:maven/org.httprpc/kilo-client@2.8?classifier=sources
+- pkg:maven/org.httprpc/kilo-client@2.9?classifier=sources

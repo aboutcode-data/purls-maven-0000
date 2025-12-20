@@ -2,3 +2,4 @@
 - pkg:maven/com.skillw.fightsystem/FightSystem@1.0.2-15?classifier=sources
 - pkg:maven/com.skillw.fightsystem/FightSystem@1.0.3-16?classifier=sources
 - pkg:maven/com.skillw.fightsystem/FightSystem@1.0.3-17?classifier=sources
+- pkg:maven/com.skillw.fightsystem/FightSystem@1.0.4-beta-21?classifier=sources

@@ -14,3 +14,5 @@
 - pkg:maven/io.fares.bind.xjc.plugins/jaxb-substitution-plugin@0.0.7?classifier=sources
 - pkg:maven/io.fares.bind.xjc.plugins/jaxb-substitution-plugin@0.0.8
 - pkg:maven/io.fares.bind.xjc.plugins/jaxb-substitution-plugin@0.0.8?classifier=sources
+- pkg:maven/io.fares.bind.xjc.plugins/jaxb-substitution-plugin@1.0.0
+- pkg:maven/io.fares.bind.xjc.plugins/jaxb-substitution-plugin@1.0.0?classifier=sources

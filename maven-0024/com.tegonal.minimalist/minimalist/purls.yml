@@ -1,1 +1,2 @@
 - pkg:maven/com.tegonal.minimalist/minimalist@1.0.0?classifier=sources
+- pkg:maven/com.tegonal.minimalist/minimalist@1.1.0?classifier=sources

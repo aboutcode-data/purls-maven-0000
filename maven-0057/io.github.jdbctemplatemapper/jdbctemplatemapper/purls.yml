@@ -44,3 +44,5 @@
 - pkg:maven/io.github.jdbctemplatemapper/jdbctemplatemapper@2.5.0?classifier=sources
 - pkg:maven/io.github.jdbctemplatemapper/jdbctemplatemapper@2.6.0
 - pkg:maven/io.github.jdbctemplatemapper/jdbctemplatemapper@2.6.0?classifier=sources
+- pkg:maven/io.github.jdbctemplatemapper/jdbctemplatemapper@3.0.0
+- pkg:maven/io.github.jdbctemplatemapper/jdbctemplatemapper@3.0.0?classifier=sources

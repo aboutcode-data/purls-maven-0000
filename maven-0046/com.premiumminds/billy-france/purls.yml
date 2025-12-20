@@ -54,3 +54,9 @@
 - pkg:maven/com.premiumminds/billy-france@9.1.1?classifier=sources
 - pkg:maven/com.premiumminds/billy-france@9.2.0
 - pkg:maven/com.premiumminds/billy-france@9.2.0?classifier=sources
+- pkg:maven/com.premiumminds/billy-france@9.3.0
+- pkg:maven/com.premiumminds/billy-france@9.3.0?classifier=sources
+- pkg:maven/com.premiumminds/billy-france@9.3.1
+- pkg:maven/com.premiumminds/billy-france@9.3.1?classifier=sources
+- pkg:maven/com.premiumminds/billy-france@9.4.0
+- pkg:maven/com.premiumminds/billy-france@9.4.0?classifier=sources

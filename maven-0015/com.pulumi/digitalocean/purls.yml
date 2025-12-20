@@ -98,3 +98,10 @@
 - pkg:maven/com.pulumi/digitalocean@4.26.0-alpha.1703608751%2B819671f8?classifier=sources
 - pkg:maven/com.pulumi/digitalocean@4.26.0-alpha.1703655398%2Bed76c737?classifier=sources
 - pkg:maven/com.pulumi/digitalocean@4.26.0-alpha.1703828795%2Bfa930e55?classifier=sources
+- pkg:maven/com.pulumi/digitalocean@4.26.0-alpha.1705435826%2Bb2d0e37f?classifier=sources
+- pkg:maven/com.pulumi/digitalocean@4.26.0-alpha.1705989120%2Bf7674225?classifier=sources
+- pkg:maven/com.pulumi/digitalocean@4.26.0-alpha.1706307687%2B967e1579?classifier=sources
+- pkg:maven/com.pulumi/digitalocean@4.26.0-alpha.1706745973%2Bcdfaeccb?classifier=sources
+- pkg:maven/com.pulumi/digitalocean@4.26.0-alpha.1706812120%2B79019e62?classifier=sources
+- pkg:maven/com.pulumi/digitalocean@4.26.0-alpha.1706828354%2B13134ce4?classifier=sources
+- pkg:maven/com.pulumi/digitalocean@4.26.0-alpha.1707285577%2Bd29b9b51?classifier=sources

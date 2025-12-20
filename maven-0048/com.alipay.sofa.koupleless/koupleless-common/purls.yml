@@ -1,0 +1,4 @@
+- pkg:maven/com.alipay.sofa.koupleless/koupleless-common@1.0.0
+- pkg:maven/com.alipay.sofa.koupleless/koupleless-common@1.0.0?classifier=sources
+- pkg:maven/com.alipay.sofa.koupleless/koupleless-common@2.0.0
+- pkg:maven/com.alipay.sofa.koupleless/koupleless-common@2.0.0?classifier=sources

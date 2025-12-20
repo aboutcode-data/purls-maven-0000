@@ -1,3 +1,7 @@
 - pkg:maven/org.victorrobotics.bluealliance/blue-alliance-api@2023-beta-2?classifier=sources
 - pkg:maven/org.victorrobotics.bluealliance/blue-alliance-api@2023-beta-3?classifier=sources
+- pkg:maven/org.victorrobotics.bluealliance/blue-alliance-api@2023-beta-4?classifier=sources
+- pkg:maven/org.victorrobotics.bluealliance/blue-alliance-api@2023-beta-5?classifier=sources
 - pkg:maven/org.victorrobotics.bluealliance/blue-alliance-api@2023-beta?classifier=sources
+- pkg:maven/org.victorrobotics.bluealliance/blue-alliance-api@2024.0.0?classifier=sources
+- pkg:maven/org.victorrobotics.bluealliance/blue-alliance-api@2024.0.1?classifier=sources

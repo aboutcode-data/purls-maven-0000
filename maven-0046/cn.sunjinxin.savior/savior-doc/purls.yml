@@ -1,0 +1,4 @@
+- pkg:maven/cn.sunjinxin.savior/savior-doc@1.0.8-savior
+- pkg:maven/cn.sunjinxin.savior/savior-doc@1.0.8-savior?classifier=sources
+- pkg:maven/cn.sunjinxin.savior/savior-doc@1.0.9-savior
+- pkg:maven/cn.sunjinxin.savior/savior-doc@1.0.9-savior?classifier=sources

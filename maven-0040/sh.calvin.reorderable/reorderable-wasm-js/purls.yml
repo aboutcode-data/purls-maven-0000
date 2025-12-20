@@ -1,0 +1,2 @@
+- pkg:maven/sh.calvin.reorderable/reorderable-wasm-js@1.4.0-beta01?classifier=sources
+- pkg:maven/sh.calvin.reorderable/reorderable-wasm-js@1.4.0-beta02?classifier=sources

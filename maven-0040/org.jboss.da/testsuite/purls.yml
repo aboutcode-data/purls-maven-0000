@@ -12,3 +12,5 @@
 - pkg:maven/org.jboss.da/testsuite@2.4.6
 - pkg:maven/org.jboss.da/testsuite@2.5.1
 - pkg:maven/org.jboss.da/testsuite@2.6.3
+- pkg:maven/org.jboss.da/testsuite@2.6.4
+- pkg:maven/org.jboss.da/testsuite@2.6.5

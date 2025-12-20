@@ -1,1 +1,2 @@
 - pkg:maven/hu.perit.spvitamin/spvitamin-json-time@3.1.5-1-RELEASE?classifier=sources
+- pkg:maven/hu.perit.spvitamin/spvitamin-json-time@3.1.5-2-RELEASE?classifier=sources

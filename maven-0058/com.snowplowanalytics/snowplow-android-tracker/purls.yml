@@ -60,3 +60,4 @@
 - pkg:maven/com.snowplowanalytics/snowplow-android-tracker@5.5.0-beta.2?classifier=sources
 - pkg:maven/com.snowplowanalytics/snowplow-android-tracker@5.5.0?classifier=sources
 - pkg:maven/com.snowplowanalytics/snowplow-android-tracker@5.6.0?classifier=sources
+- pkg:maven/com.snowplowanalytics/snowplow-android-tracker@6.0.0?classifier=sources

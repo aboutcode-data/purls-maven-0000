@@ -13,6 +13,8 @@
 - pkg:maven/org.webjars.npm/jridgewell__trace-mapping@0.3.2
 - pkg:maven/org.webjars.npm/jridgewell__trace-mapping@0.3.20
 - pkg:maven/org.webjars.npm/jridgewell__trace-mapping@0.3.20?classifier=sources
+- pkg:maven/org.webjars.npm/jridgewell__trace-mapping@0.3.22
+- pkg:maven/org.webjars.npm/jridgewell__trace-mapping@0.3.22?classifier=sources
 - pkg:maven/org.webjars.npm/jridgewell__trace-mapping@0.3.2?classifier=sources
 - pkg:maven/org.webjars.npm/jridgewell__trace-mapping@0.3.9
 - pkg:maven/org.webjars.npm/jridgewell__trace-mapping@0.3.9?classifier=sources
