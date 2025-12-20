@@ -44,3 +44,5 @@
 - pkg:maven/tv.hd3g.commons/jsconfig@19.0.0?classifier=sources
 - pkg:maven/tv.hd3g.commons/jsconfig@20.0.0
 - pkg:maven/tv.hd3g.commons/jsconfig@20.0.0?classifier=sources
+- pkg:maven/tv.hd3g.commons/jsconfig@21.0.0
+- pkg:maven/tv.hd3g.commons/jsconfig@21.0.0?classifier=sources

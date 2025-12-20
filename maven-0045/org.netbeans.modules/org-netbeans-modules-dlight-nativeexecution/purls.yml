@@ -21,4 +21,5 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-dlight-nativeexecution@RELEASE190?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-dlight-nativeexecution@RELEASE200?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-dlight-nativeexecution@RELEASE210?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-dlight-nativeexecution@RELEASE220?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-dlight-nativeexecution@RELEASE90?classifier=sources

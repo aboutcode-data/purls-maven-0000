@@ -29,4 +29,5 @@
 - pkg:maven/io.codemodder/codemodder-plugin-maven@0.74.1?classifier=sources
 - pkg:maven/io.codemodder/codemodder-plugin-maven@0.75.1?classifier=sources
 - pkg:maven/io.codemodder/codemodder-plugin-maven@0.76.0?classifier=sources
+- pkg:maven/io.codemodder/codemodder-plugin-maven@0.77.0?classifier=sources
 - pkg:maven/io.codemodder/codemodder-plugin-maven@v0.72.2?classifier=sources

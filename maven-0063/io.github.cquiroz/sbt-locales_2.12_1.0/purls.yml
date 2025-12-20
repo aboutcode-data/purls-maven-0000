@@ -1,4 +1,8 @@
+- pkg:maven/io.github.cquiroz/sbt-locales_2.12_1.0@0.4.5
+- pkg:maven/io.github.cquiroz/sbt-locales_2.12_1.0@0.4.5?classifier=sources
 - pkg:maven/io.github.cquiroz/sbt-locales_2.12_1.0@4.3.0
 - pkg:maven/io.github.cquiroz/sbt-locales_2.12_1.0@4.3.0?classifier=sources
 - pkg:maven/io.github.cquiroz/sbt-locales_2.12_1.0@4.4.0
 - pkg:maven/io.github.cquiroz/sbt-locales_2.12_1.0@4.4.0?classifier=sources
+- pkg:maven/io.github.cquiroz/sbt-locales_2.12_1.0@4.5.0
+- pkg:maven/io.github.cquiroz/sbt-locales_2.12_1.0@4.5.0?classifier=sources

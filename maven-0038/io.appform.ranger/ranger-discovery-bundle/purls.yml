@@ -4,5 +4,9 @@
 - pkg:maven/io.appform.ranger/ranger-discovery-bundle@1.0-RC16?classifier=sources
 - pkg:maven/io.appform.ranger/ranger-discovery-bundle@1.0-RC17
 - pkg:maven/io.appform.ranger/ranger-discovery-bundle@1.0-RC17?classifier=sources
+- pkg:maven/io.appform.ranger/ranger-discovery-bundle@1.0-RC18
+- pkg:maven/io.appform.ranger/ranger-discovery-bundle@1.0-RC18?classifier=sources
 - pkg:maven/io.appform.ranger/ranger-discovery-bundle@1.0-dw3-RC17
 - pkg:maven/io.appform.ranger/ranger-discovery-bundle@1.0-dw3-RC17?classifier=sources
+- pkg:maven/io.appform.ranger/ranger-discovery-bundle@1.1-RC1
+- pkg:maven/io.appform.ranger/ranger-discovery-bundle@1.1-RC1?classifier=sources

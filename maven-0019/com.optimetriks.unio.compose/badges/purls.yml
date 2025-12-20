@@ -3,3 +3,4 @@
 - pkg:maven/com.optimetriks.unio.compose/badges@4?classifier=sources
 - pkg:maven/com.optimetriks.unio.compose/badges@6?classifier=sources
 - pkg:maven/com.optimetriks.unio.compose/badges@7?classifier=sources
+- pkg:maven/com.optimetriks.unio.compose/badges@8?classifier=sources

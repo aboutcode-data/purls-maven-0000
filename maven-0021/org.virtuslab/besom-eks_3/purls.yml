@@ -2,3 +2,5 @@
 - pkg:maven/org.virtuslab/besom-eks_3@2.2.1-core.0.2?classifier=sources
 - pkg:maven/org.virtuslab/besom-eks_3@2.3.0-core.0.3
 - pkg:maven/org.virtuslab/besom-eks_3@2.3.0-core.0.3?classifier=sources
+- pkg:maven/org.virtuslab/besom-eks_3@2.6.0-core.0.3
+- pkg:maven/org.virtuslab/besom-eks_3@2.6.0-core.0.3?classifier=sources

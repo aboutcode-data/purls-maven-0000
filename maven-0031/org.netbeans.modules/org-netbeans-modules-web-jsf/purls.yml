@@ -20,3 +20,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-web-jsf@RELEASE190?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-web-jsf@RELEASE200?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-web-jsf@RELEASE210?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-web-jsf@RELEASE220?classifier=sources

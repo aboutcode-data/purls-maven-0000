@@ -1,4 +1,8 @@
 - pkg:maven/org.wso2.km.ext.azure/azure.key.manager@1.0.0
 - pkg:maven/org.wso2.km.ext.azure/azure.key.manager@1.0.0?classifier=sources
 - pkg:maven/org.wso2.km.ext.azure/azure.key.manager@1.0.1
+- pkg:maven/org.wso2.km.ext.azure/azure.key.manager@1.0.10
+- pkg:maven/org.wso2.km.ext.azure/azure.key.manager@1.0.10?classifier=sources
+- pkg:maven/org.wso2.km.ext.azure/azure.key.manager@1.0.11
+- pkg:maven/org.wso2.km.ext.azure/azure.key.manager@1.0.11?classifier=sources
 - pkg:maven/org.wso2.km.ext.azure/azure.key.manager@1.0.1?classifier=sources

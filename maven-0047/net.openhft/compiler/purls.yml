@@ -38,6 +38,8 @@
 - pkg:maven/net.openhft/compiler@2.25ea2?classifier=sources
 - pkg:maven/net.openhft/compiler@2.25ea3
 - pkg:maven/net.openhft/compiler@2.25ea3?classifier=sources
+- pkg:maven/net.openhft/compiler@2.26ea0
+- pkg:maven/net.openhft/compiler@2.26ea0?classifier=sources
 - pkg:maven/net.openhft/compiler@2.3.0
 - pkg:maven/net.openhft/compiler@2.3.0?classifier=sources
 - pkg:maven/net.openhft/compiler@2.3.1

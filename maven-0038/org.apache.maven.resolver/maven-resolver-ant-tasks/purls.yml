@@ -16,3 +16,6 @@
 - pkg:maven/org.apache.maven.resolver/maven-resolver-ant-tasks@1.5.0
 - pkg:maven/org.apache.maven.resolver/maven-resolver-ant-tasks@1.5.0?classifier=source-release&type=zip
 - pkg:maven/org.apache.maven.resolver/maven-resolver-ant-tasks@1.5.0?classifier=sources
+- pkg:maven/org.apache.maven.resolver/maven-resolver-ant-tasks@1.5.1
+- pkg:maven/org.apache.maven.resolver/maven-resolver-ant-tasks@1.5.1?classifier=source-release&type=zip
+- pkg:maven/org.apache.maven.resolver/maven-resolver-ant-tasks@1.5.1?classifier=sources

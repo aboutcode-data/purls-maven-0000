@@ -98,3 +98,5 @@
 - pkg:maven/cloud.piranha.resource/piranha-resource-api@24.4.0?classifier=sources
 - pkg:maven/cloud.piranha.resource/piranha-resource-api@24.5.0
 - pkg:maven/cloud.piranha.resource/piranha-resource-api@24.5.0?classifier=sources
+- pkg:maven/cloud.piranha.resource/piranha-resource-api@24.6.0
+- pkg:maven/cloud.piranha.resource/piranha-resource-api@24.6.0?classifier=sources

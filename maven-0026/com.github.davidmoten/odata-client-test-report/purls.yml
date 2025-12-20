@@ -84,3 +84,4 @@
 - pkg:maven/com.github.davidmoten/odata-client-test-report@0.1.94
 - pkg:maven/com.github.davidmoten/odata-client-test-report@0.1.95
 - pkg:maven/com.github.davidmoten/odata-client-test-report@0.1.97
+- pkg:maven/com.github.davidmoten/odata-client-test-report@0.2.0

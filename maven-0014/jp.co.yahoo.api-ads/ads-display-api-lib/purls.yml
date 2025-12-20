@@ -60,3 +60,7 @@
 - pkg:maven/jp.co.yahoo.api-ads/ads-display-api-lib@7.1.0-spring5
 - pkg:maven/jp.co.yahoo.api-ads/ads-display-api-lib@7.1.0-spring5?classifier=sources
 - pkg:maven/jp.co.yahoo.api-ads/ads-display-api-lib@7.1.0?classifier=sources
+- pkg:maven/jp.co.yahoo.api-ads/ads-display-api-lib@8.0.0
+- pkg:maven/jp.co.yahoo.api-ads/ads-display-api-lib@8.0.0-spring5
+- pkg:maven/jp.co.yahoo.api-ads/ads-display-api-lib@8.0.0-spring5?classifier=sources
+- pkg:maven/jp.co.yahoo.api-ads/ads-display-api-lib@8.0.0?classifier=sources

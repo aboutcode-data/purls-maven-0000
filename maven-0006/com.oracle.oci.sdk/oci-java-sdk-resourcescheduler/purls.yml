@@ -2,3 +2,9 @@
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-resourcescheduler@2.72.0?classifier=sources
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-resourcescheduler@3.41.3
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-resourcescheduler@3.41.3?classifier=sources
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-resourcescheduler@3.42.0
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-resourcescheduler@3.42.0?classifier=sources
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-resourcescheduler@3.43.0
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-resourcescheduler@3.43.0?classifier=sources
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-resourcescheduler@3.43.1
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-resourcescheduler@3.43.1?classifier=sources

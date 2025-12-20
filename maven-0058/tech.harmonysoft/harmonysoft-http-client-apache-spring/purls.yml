@@ -93,3 +93,5 @@
 - pkg:maven/tech.harmonysoft/harmonysoft-http-client-apache-spring@3.1.0?classifier=sources
 - pkg:maven/tech.harmonysoft/harmonysoft-http-client-apache-spring@3.2.0?classifier=sources
 - pkg:maven/tech.harmonysoft/harmonysoft-http-client-apache-spring@3.3.0?classifier=sources
+- pkg:maven/tech.harmonysoft/harmonysoft-http-client-apache-spring@3.4.0?classifier=sources
+- pkg:maven/tech.harmonysoft/harmonysoft-http-client-apache-spring@3.5.0?classifier=sources

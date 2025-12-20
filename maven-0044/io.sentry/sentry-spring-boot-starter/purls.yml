@@ -316,6 +316,8 @@
 - pkg:maven/io.sentry/sentry-spring-boot-starter@7.0.0?classifier=sources
 - pkg:maven/io.sentry/sentry-spring-boot-starter@7.1.0
 - pkg:maven/io.sentry/sentry-spring-boot-starter@7.1.0?classifier=sources
+- pkg:maven/io.sentry/sentry-spring-boot-starter@7.10.0?classifier=sources
+- pkg:maven/io.sentry/sentry-spring-boot-starter@7.11.0-alpha.2?classifier=sources
 - pkg:maven/io.sentry/sentry-spring-boot-starter@7.2.0
 - pkg:maven/io.sentry/sentry-spring-boot-starter@7.2.0?classifier=sources
 - pkg:maven/io.sentry/sentry-spring-boot-starter@7.3.0

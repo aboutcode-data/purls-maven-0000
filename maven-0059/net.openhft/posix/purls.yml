@@ -34,3 +34,5 @@
 - pkg:maven/net.openhft/posix@2.24ea6?classifier=sources
 - pkg:maven/net.openhft/posix@2.25ea0
 - pkg:maven/net.openhft/posix@2.25ea0?classifier=sources
+- pkg:maven/net.openhft/posix@2.26ea0
+- pkg:maven/net.openhft/posix@2.26ea0?classifier=sources

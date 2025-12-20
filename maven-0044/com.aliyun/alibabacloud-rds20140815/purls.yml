@@ -142,3 +142,5 @@
 - pkg:maven/com.aliyun/alibabacloud-rds20140815@3.0.5?classifier=sources
 - pkg:maven/com.aliyun/alibabacloud-rds20140815@4.0.0
 - pkg:maven/com.aliyun/alibabacloud-rds20140815@4.0.0?classifier=sources
+- pkg:maven/com.aliyun/alibabacloud-rds20140815@4.0.1
+- pkg:maven/com.aliyun/alibabacloud-rds20140815@4.0.1?classifier=sources

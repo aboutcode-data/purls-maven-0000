@@ -1,0 +1,2 @@
+- pkg:maven/org.knowm.xchange/xchange-gateio-v4@5.2.0
+- pkg:maven/org.knowm.xchange/xchange-gateio-v4@5.2.0?classifier=sources

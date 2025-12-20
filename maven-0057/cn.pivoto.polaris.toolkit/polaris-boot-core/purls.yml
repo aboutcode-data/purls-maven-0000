@@ -1,0 +1,2 @@
+- pkg:maven/cn.pivoto.polaris.toolkit/polaris-boot-core@3.1.43
+- pkg:maven/cn.pivoto.polaris.toolkit/polaris-boot-core@3.1.43?classifier=sources

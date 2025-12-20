@@ -14,3 +14,5 @@
 - pkg:maven/net.sf.sprtool/sprtool-record-event-postgres@1.5.0?classifier=sources
 - pkg:maven/net.sf.sprtool/sprtool-record-event-postgres@1.6.0
 - pkg:maven/net.sf.sprtool/sprtool-record-event-postgres@1.6.0?classifier=sources
+- pkg:maven/net.sf.sprtool/sprtool-record-event-postgres@1.7.0
+- pkg:maven/net.sf.sprtool/sprtool-record-event-postgres@1.7.0?classifier=sources

@@ -1,5 +1,6 @@
 - pkg:maven/com.mikepenz/octicons-typeface@11.1.0.0-kotlin?classifier=sources
 - pkg:maven/com.mikepenz/octicons-typeface@11.1.0.0-kotlin?type=aar
+- pkg:maven/com.mikepenz/octicons-typeface@11.1.0.9-kotlin?classifier=sources
 - pkg:maven/com.mikepenz/octicons-typeface@2.2.0?classifier=sources
 - pkg:maven/com.mikepenz/octicons-typeface@2.2.0?type=aar
 - pkg:maven/com.mikepenz/octicons-typeface@2.2.1?classifier=sources

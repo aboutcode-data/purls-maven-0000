@@ -1,0 +1,2 @@
+- pkg:maven/org.sentrysoftware/metricshub-sql-h2-source-extension@0.9.04
+- pkg:maven/org.sentrysoftware/metricshub-sql-h2-source-extension@0.9.04?classifier=sources

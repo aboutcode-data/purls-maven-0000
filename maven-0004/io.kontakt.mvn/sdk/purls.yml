@@ -94,3 +94,4 @@
 - pkg:maven/io.kontakt.mvn/sdk@7.1.9-beta02?classifier=sources
 - pkg:maven/io.kontakt.mvn/sdk@7.1.9-beta03?classifier=sources
 - pkg:maven/io.kontakt.mvn/sdk@7.1.9?classifier=sources
+- pkg:maven/io.kontakt.mvn/sdk@7.2.0?classifier=sources

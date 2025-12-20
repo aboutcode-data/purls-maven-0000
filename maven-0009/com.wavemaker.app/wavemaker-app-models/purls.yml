@@ -17,3 +17,7 @@
 - pkg:maven/com.wavemaker.app/wavemaker-app-models@11.6.2?classifier=sources
 - pkg:maven/com.wavemaker.app/wavemaker-app-models@11.7.0.ee?classifier=sources
 - pkg:maven/com.wavemaker.app/wavemaker-app-models@11.7.0?classifier=sources
+- pkg:maven/com.wavemaker.app/wavemaker-app-models@11.7.1.ee?classifier=sources
+- pkg:maven/com.wavemaker.app/wavemaker-app-models@11.7.1?classifier=sources
+- pkg:maven/com.wavemaker.app/wavemaker-app-models@11.7.2.ee?classifier=sources
+- pkg:maven/com.wavemaker.app/wavemaker-app-models@11.7.2?classifier=sources

@@ -1,3 +1,4 @@
 - pkg:maven/org.sonarsource.git.blame/git-files-blame@1.0.1.169?classifier=sources
 - pkg:maven/org.sonarsource.git.blame/git-files-blame@1.0.1.272?classifier=sources
 - pkg:maven/org.sonarsource.git.blame/git-files-blame@1.0.2.275?classifier=sources
+- pkg:maven/org.sonarsource.git.blame/git-files-blame@1.0.3.1673?classifier=sources
