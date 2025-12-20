@@ -7,3 +7,4 @@
 - pkg:maven/io.github.wqr503/lp-export-maven-common@1.2.5-SPRING3.FINAL?classifier=sources
 - pkg:maven/io.github.wqr503/lp-export-maven-common@1.2.5.FINAL?classifier=sources
 - pkg:maven/io.github.wqr503/lp-export-maven-common@1.2.6.FINAL?classifier=sources
+- pkg:maven/io.github.wqr503/lp-export-maven-common@1.3.0.FINAL?classifier=sources

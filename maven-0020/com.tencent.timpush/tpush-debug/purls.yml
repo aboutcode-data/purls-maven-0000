@@ -1,1 +1,2 @@
 - pkg:maven/com.tencent.timpush/tpush-debug@8.0.6896?classifier=sources
+- pkg:maven/com.tencent.timpush/tpush-debug@8.0.6897?classifier=sources

@@ -4,3 +4,5 @@
 - pkg:maven/live.ditto/dittodatabrowser@0.0.5?classifier=sources
 - pkg:maven/live.ditto/dittodatabrowser@1.0.0?classifier=sources
 - pkg:maven/live.ditto/dittodatabrowser@1.1.0?classifier=sources
+- pkg:maven/live.ditto/dittodatabrowser@2.0.0?classifier=sources
+- pkg:maven/live.ditto/dittodatabrowser@2.1.0?classifier=sources

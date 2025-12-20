@@ -1,0 +1,5 @@
+- pkg:maven/io.quarkus.qe/examples-external-applications@1.4.9
+- pkg:maven/io.quarkus.qe/examples-external-applications@1.5.0.Beta10
+- pkg:maven/io.quarkus.qe/examples-external-applications@1.5.0.Beta11
+- pkg:maven/io.quarkus.qe/examples-external-applications@1.5.0.Beta12
+- pkg:maven/io.quarkus.qe/examples-external-applications@1.5.0.Beta13

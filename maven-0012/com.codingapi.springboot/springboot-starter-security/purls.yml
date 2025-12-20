@@ -8,6 +8,8 @@
 - pkg:maven/com.codingapi.springboot/springboot-starter-security@2.8.3?classifier=sources
 - pkg:maven/com.codingapi.springboot/springboot-starter-security@2.8.4
 - pkg:maven/com.codingapi.springboot/springboot-starter-security@2.8.4?classifier=sources
+- pkg:maven/com.codingapi.springboot/springboot-starter-security@2.8.5
+- pkg:maven/com.codingapi.springboot/springboot-starter-security@2.8.5?classifier=sources
 - pkg:maven/com.codingapi.springboot/springboot-starter-security@3.2.0
 - pkg:maven/com.codingapi.springboot/springboot-starter-security@3.2.0.dev
 - pkg:maven/com.codingapi.springboot/springboot-starter-security@3.2.0.dev?classifier=sources
@@ -18,3 +20,5 @@
 - pkg:maven/com.codingapi.springboot/springboot-starter-security@3.2.2?classifier=sources
 - pkg:maven/com.codingapi.springboot/springboot-starter-security@3.2.3
 - pkg:maven/com.codingapi.springboot/springboot-starter-security@3.2.3?classifier=sources
+- pkg:maven/com.codingapi.springboot/springboot-starter-security@3.2.4
+- pkg:maven/com.codingapi.springboot/springboot-starter-security@3.2.4?classifier=sources

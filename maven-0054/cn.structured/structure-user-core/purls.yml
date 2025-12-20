@@ -1,0 +1,2 @@
+- pkg:maven/cn.structured/structure-user-core@1.0.1
+- pkg:maven/cn.structured/structure-user-core@1.0.1?classifier=sources

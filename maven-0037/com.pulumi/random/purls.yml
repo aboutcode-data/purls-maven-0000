@@ -142,6 +142,8 @@
 - pkg:maven/com.pulumi/random@4.17.0-alpha.1718259105?classifier=sources
 - pkg:maven/com.pulumi/random@4.17.0-alpha.1718345441?classifier=sources
 - pkg:maven/com.pulumi/random@4.17.0-alpha.1718431865?classifier=sources
+- pkg:maven/com.pulumi/random@4.17.0-alpha.1722061629?classifier=sources
+- pkg:maven/com.pulumi/random@4.17.0-alpha.1723010172?classifier=sources
 - pkg:maven/com.pulumi/random@4.5.0?classifier=sources
 - pkg:maven/com.pulumi/random@4.6.0?classifier=sources
 - pkg:maven/com.pulumi/random@4.7.0-alpha.1657304919%2B1d411918?classifier=sources

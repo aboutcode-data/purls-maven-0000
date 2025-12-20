@@ -1,0 +1,2 @@
+- pkg:maven/com.uroria.curepur/curepur-api@1.21-R0.1
+- pkg:maven/com.uroria.curepur/curepur-api@1.21-R0.1?classifier=sources

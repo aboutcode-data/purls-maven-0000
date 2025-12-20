@@ -58,3 +58,5 @@
 - pkg:maven/org.openrewrite.recipe/rewrite-circleci@2.5.2?classifier=sources
 - pkg:maven/org.openrewrite.recipe/rewrite-circleci@2.6.0?classifier=sources
 - pkg:maven/org.openrewrite.recipe/rewrite-circleci@2.6.1?classifier=sources
+- pkg:maven/org.openrewrite.recipe/rewrite-circleci@2.6.2?classifier=sources
+- pkg:maven/org.openrewrite.recipe/rewrite-circleci@2.6.3?classifier=sources

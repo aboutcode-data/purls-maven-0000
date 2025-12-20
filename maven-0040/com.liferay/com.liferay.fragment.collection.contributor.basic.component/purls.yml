@@ -419,6 +419,7 @@
 - pkg:maven/com.liferay/com.liferay.fragment.collection.contributor.basic.component@2.0.75?classifier=sources
 - pkg:maven/com.liferay/com.liferay.fragment.collection.contributor.basic.component@2.0.76?classifier=sources
 - pkg:maven/com.liferay/com.liferay.fragment.collection.contributor.basic.component@2.0.77?classifier=sources
+- pkg:maven/com.liferay/com.liferay.fragment.collection.contributor.basic.component@2.0.78?classifier=sources
 - pkg:maven/com.liferay/com.liferay.fragment.collection.contributor.basic.component@2.0.7?classifier=sources
 - pkg:maven/com.liferay/com.liferay.fragment.collection.contributor.basic.component@2.0.7?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.fragment.collection.contributor.basic.component@2.0.8
@@ -520,6 +521,7 @@
 - pkg:maven/com.liferay/com.liferay.fragment.collection.contributor.basic.component@3.0.40?classifier=sources
 - pkg:maven/com.liferay/com.liferay.fragment.collection.contributor.basic.component@3.0.41?classifier=sources
 - pkg:maven/com.liferay/com.liferay.fragment.collection.contributor.basic.component@3.0.42?classifier=sources
+- pkg:maven/com.liferay/com.liferay.fragment.collection.contributor.basic.component@3.0.43?classifier=sources
 - pkg:maven/com.liferay/com.liferay.fragment.collection.contributor.basic.component@3.0.4?classifier=sources
 - pkg:maven/com.liferay/com.liferay.fragment.collection.contributor.basic.component@3.0.4?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.fragment.collection.contributor.basic.component@3.0.5

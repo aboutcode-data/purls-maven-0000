@@ -11,3 +11,4 @@
 - pkg:maven/cc.rabbitcontrol/rcp@0.3.36?classifier=sources
 - pkg:maven/cc.rabbitcontrol/rcp@0.3.37?classifier=sources
 - pkg:maven/cc.rabbitcontrol/rcp@0.3.38?classifier=sources
+- pkg:maven/cc.rabbitcontrol/rcp@0.3.39?classifier=sources

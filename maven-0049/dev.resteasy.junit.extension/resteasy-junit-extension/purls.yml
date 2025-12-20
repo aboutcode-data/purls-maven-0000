@@ -1,0 +1,2 @@
+- pkg:maven/dev.resteasy.junit.extension/resteasy-junit-extension@1.0.0.Alpha1
+- pkg:maven/dev.resteasy.junit.extension/resteasy-junit-extension@1.0.0.Alpha1?classifier=sources

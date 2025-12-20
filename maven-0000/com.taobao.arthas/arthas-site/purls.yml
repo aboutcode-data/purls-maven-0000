@@ -51,3 +51,4 @@
 - pkg:maven/com.taobao.arthas/arthas-site@3.7.0
 - pkg:maven/com.taobao.arthas/arthas-site@3.7.1
 - pkg:maven/com.taobao.arthas/arthas-site@3.7.2
+- pkg:maven/com.taobao.arthas/arthas-site@4.0.0

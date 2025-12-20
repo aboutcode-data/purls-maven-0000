@@ -1,2 +1,8 @@
+- pkg:maven/dev.ikm.jpms/jgit@6.10.0.202406032230-r-r4
+- pkg:maven/dev.ikm.jpms/jgit@6.10.0.202406032230-r-r4?classifier=sources
+- pkg:maven/dev.ikm.jpms/jgit@6.10.0.202406032230-r-r5
+- pkg:maven/dev.ikm.jpms/jgit@6.10.0.202406032230-r-r5?classifier=sources
 - pkg:maven/dev.ikm.jpms/jgit@6.7.0.202309050840-r-r2
 - pkg:maven/dev.ikm.jpms/jgit@6.7.0.202309050840-r-r2?classifier=sources
+- pkg:maven/dev.ikm.jpms/jgit@6.7.0.202309050840-r-r3
+- pkg:maven/dev.ikm.jpms/jgit@6.7.0.202309050840-r-r3?classifier=sources

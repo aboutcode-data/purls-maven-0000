@@ -24,3 +24,5 @@
 - pkg:maven/com.palantir.sls-packaging/gradle-sls-packaging-api@7.58.0?classifier=sources
 - pkg:maven/com.palantir.sls-packaging/gradle-sls-packaging-api@7.59.0?classifier=sources
 - pkg:maven/com.palantir.sls-packaging/gradle-sls-packaging-api@7.60.0?classifier=sources
+- pkg:maven/com.palantir.sls-packaging/gradle-sls-packaging-api@7.63.0?classifier=sources
+- pkg:maven/com.palantir.sls-packaging/gradle-sls-packaging-api@7.64.0?classifier=sources

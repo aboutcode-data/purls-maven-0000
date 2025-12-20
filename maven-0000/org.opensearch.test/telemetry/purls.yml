@@ -5,4 +5,5 @@
 - pkg:maven/org.opensearch.test/telemetry@2.13.0?classifier=sources
 - pkg:maven/org.opensearch.test/telemetry@2.14.0?classifier=sources
 - pkg:maven/org.opensearch.test/telemetry@2.15.0?classifier=sources
+- pkg:maven/org.opensearch.test/telemetry@2.16.0?classifier=sources
 - pkg:maven/org.opensearch.test/telemetry@2.9.0?classifier=sources

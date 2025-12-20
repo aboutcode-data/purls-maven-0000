@@ -79,3 +79,4 @@
 - pkg:maven/org.bitcoinj/bitcoinj-core@0.17-alpha3?classifier=sources
 - pkg:maven/org.bitcoinj/bitcoinj-core@0.17-alpha4?classifier=sources
 - pkg:maven/org.bitcoinj/bitcoinj-core@0.17-alpha5?classifier=sources
+- pkg:maven/org.bitcoinj/bitcoinj-core@0.17-beta1?classifier=sources

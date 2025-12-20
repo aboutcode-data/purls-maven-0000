@@ -25,6 +25,7 @@
 - pkg:maven/dev.galasa/galasa-boot@0.30.0?classifier=sources
 - pkg:maven/dev.galasa/galasa-boot@0.31.0?classifier=sources
 - pkg:maven/dev.galasa/galasa-boot@0.34.0?classifier=sources
+- pkg:maven/dev.galasa/galasa-boot@0.36.0?classifier=sources
 - pkg:maven/dev.galasa/galasa-boot@0.4.0
 - pkg:maven/dev.galasa/galasa-boot@0.4.0?classifier=sources
 - pkg:maven/dev.galasa/galasa-boot@0.5.0

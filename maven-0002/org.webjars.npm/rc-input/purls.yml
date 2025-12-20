@@ -4,3 +4,4 @@
 - pkg:maven/org.webjars.npm/rc-input@0.2.2?classifier=sources
 - pkg:maven/org.webjars.npm/rc-input@1.0.4
 - pkg:maven/org.webjars.npm/rc-input@1.0.4?classifier=sources
+- pkg:maven/org.webjars.npm/rc-input@1.6.3

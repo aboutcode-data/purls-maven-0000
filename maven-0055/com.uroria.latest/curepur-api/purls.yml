@@ -1,0 +1,4 @@
+- pkg:maven/com.uroria.latest/curepur-api@1.21-R0.1
+- pkg:maven/com.uroria.latest/curepur-api@1.21-R0.1-2d776710d6
+- pkg:maven/com.uroria.latest/curepur-api@1.21-R0.1-2d776710d6?classifier=sources
+- pkg:maven/com.uroria.latest/curepur-api@1.21-R0.1?classifier=sources

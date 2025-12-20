@@ -1,0 +1,6 @@
+- pkg:maven/com.poly-gamma/pg-ogm-core@0.4.0-beta?classifier=sources
+- pkg:maven/com.poly-gamma/pg-ogm-core@0.4.2-beta?classifier=sources
+- pkg:maven/com.poly-gamma/pg-ogm-core@0.4.3?classifier=sources
+- pkg:maven/com.poly-gamma/pg-ogm-core@0.4.4-nomod?classifier=sources
+- pkg:maven/com.poly-gamma/pg-ogm-core@0.4.4?classifier=sources
+- pkg:maven/com.poly-gamma/pg-ogm-core@0.4.5?classifier=sources

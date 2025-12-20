@@ -1,0 +1,2 @@
+- pkg:maven/io.github.hemisphire.twitter/twittered@2.24
+- pkg:maven/io.github.hemisphire.twitter/twittered@2.24?classifier=sources

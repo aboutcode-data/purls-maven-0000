@@ -1,1 +1,2 @@
 - pkg:maven/cool.scx/scx-web@3.0.0?classifier=sources
+- pkg:maven/cool.scx/scx-web@3.0.1?classifier=sources

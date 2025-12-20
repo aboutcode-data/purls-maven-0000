@@ -14,3 +14,7 @@
 - pkg:maven/net.optionfactory.spring/pem@13.8?classifier=sources
 - pkg:maven/net.optionfactory.spring/pem@14.0
 - pkg:maven/net.optionfactory.spring/pem@14.0?classifier=sources
+- pkg:maven/net.optionfactory.spring/pem@15.0
+- pkg:maven/net.optionfactory.spring/pem@15.0?classifier=sources
+- pkg:maven/net.optionfactory.spring/pem@16.0
+- pkg:maven/net.optionfactory.spring/pem@16.0?classifier=sources

@@ -20,3 +20,4 @@
 - pkg:maven/org.thepalaceproject.r2/org.librarysimplified.r2.views@5.0.0?classifier=sources
 - pkg:maven/org.thepalaceproject.r2/org.librarysimplified.r2.views@5.1.0?classifier=sources
 - pkg:maven/org.thepalaceproject.r2/org.librarysimplified.r2.views@6.0.0?classifier=sources
+- pkg:maven/org.thepalaceproject.r2/org.librarysimplified.r2.views@6.1.0?classifier=sources

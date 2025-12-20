@@ -34,6 +34,12 @@
 - pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-lighthouse@3.1.1046?classifier=sources
 - pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-lighthouse@3.1.1058
 - pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-lighthouse@3.1.1058?classifier=sources
+- pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-lighthouse@3.1.1063
+- pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-lighthouse@3.1.1063?classifier=sources
+- pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-lighthouse@3.1.1075
+- pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-lighthouse@3.1.1075?classifier=sources
+- pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-lighthouse@3.1.1083
+- pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-lighthouse@3.1.1083?classifier=sources
 - pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-lighthouse@3.1.179
 - pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-lighthouse@3.1.179?classifier=sources
 - pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-lighthouse@3.1.180

@@ -50,6 +50,8 @@
 - pkg:maven/com.slack.gradle/sgp@0.17.0-alpha02?classifier=sources
 - pkg:maven/com.slack.gradle/sgp@0.17.0.1?classifier=sources
 - pkg:maven/com.slack.gradle/sgp@0.17.0.2?classifier=sources
+- pkg:maven/com.slack.gradle/sgp@0.17.0.3?classifier=sources
+- pkg:maven/com.slack.gradle/sgp@0.17.0.4?classifier=sources
 - pkg:maven/com.slack.gradle/sgp@0.17.0?classifier=sources
 - pkg:maven/com.slack.gradle/sgp@0.17.1?classifier=sources
 - pkg:maven/com.slack.gradle/sgp@0.17.2?classifier=sources
@@ -57,6 +59,10 @@
 - pkg:maven/com.slack.gradle/sgp@0.18.0-alpha02?classifier=sources
 - pkg:maven/com.slack.gradle/sgp@0.18.0-alpha03?classifier=sources
 - pkg:maven/com.slack.gradle/sgp@0.18.0?classifier=sources
+- pkg:maven/com.slack.gradle/sgp@0.18.1?classifier=sources
+- pkg:maven/com.slack.gradle/sgp@0.18.2?classifier=sources
+- pkg:maven/com.slack.gradle/sgp@0.18.3?classifier=sources
+- pkg:maven/com.slack.gradle/sgp@0.18.4?classifier=sources
 - pkg:maven/com.slack.gradle/sgp@0.2.0?classifier=sources
 - pkg:maven/com.slack.gradle/sgp@0.2.1?classifier=sources
 - pkg:maven/com.slack.gradle/sgp@0.2.2?classifier=sources

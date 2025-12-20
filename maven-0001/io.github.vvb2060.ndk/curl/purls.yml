@@ -17,3 +17,5 @@
 - pkg:maven/io.github.vvb2060.ndk/curl@8.5.0?classifier=sources
 - pkg:maven/io.github.vvb2060.ndk/curl@8.6.0?classifier=sources
 - pkg:maven/io.github.vvb2060.ndk/curl@8.8.0?classifier=sources
+- pkg:maven/io.github.vvb2060.ndk/curl@8.9.1-lto-ndk27?classifier=sources
+- pkg:maven/io.github.vvb2060.ndk/curl@8.9.1?classifier=sources

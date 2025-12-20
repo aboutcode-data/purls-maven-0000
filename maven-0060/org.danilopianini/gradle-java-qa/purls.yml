@@ -111,6 +111,7 @@
 - pkg:maven/org.danilopianini/gradle-java-qa@1.60.0?classifier=sources
 - pkg:maven/org.danilopianini/gradle-java-qa@1.60.1?classifier=sources
 - pkg:maven/org.danilopianini/gradle-java-qa@1.60.2?classifier=sources
+- pkg:maven/org.danilopianini/gradle-java-qa@1.61.0?classifier=sources
 - pkg:maven/org.danilopianini/gradle-java-qa@1.7.0?classifier=sources
 - pkg:maven/org.danilopianini/gradle-java-qa@1.8.0?classifier=sources
 - pkg:maven/org.danilopianini/gradle-java-qa@1.9.0?classifier=sources

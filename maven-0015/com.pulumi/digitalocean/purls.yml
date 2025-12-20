@@ -164,3 +164,9 @@
 - pkg:maven/com.pulumi/digitalocean@4.31.0-alpha.1718083899?classifier=sources
 - pkg:maven/com.pulumi/digitalocean@4.31.0-alpha.1718170234?classifier=sources
 - pkg:maven/com.pulumi/digitalocean@4.31.0-alpha.1718429393?classifier=sources
+- pkg:maven/com.pulumi/digitalocean@4.31.0-alpha.1722058369?classifier=sources
+- pkg:maven/com.pulumi/digitalocean@4.31.0-alpha.1722859071?classifier=sources
+- pkg:maven/com.pulumi/digitalocean@4.31.0?classifier=sources
+- pkg:maven/com.pulumi/digitalocean@4.32.0-alpha.1722922401?classifier=sources
+- pkg:maven/com.pulumi/digitalocean@4.32.0-alpha.1723008751?classifier=sources
+- pkg:maven/com.pulumi/digitalocean@4.32.0-alpha.1723037936?classifier=sources

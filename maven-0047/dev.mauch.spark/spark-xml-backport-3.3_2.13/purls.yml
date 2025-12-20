@@ -1,2 +1,8 @@
 - pkg:maven/dev.mauch.spark/spark-xml-backport-3.3_2.13@0.0.1
 - pkg:maven/dev.mauch.spark/spark-xml-backport-3.3_2.13@0.0.1?classifier=sources
+- pkg:maven/dev.mauch.spark/spark-xml-backport-3.3_2.13@0.0.2
+- pkg:maven/dev.mauch.spark/spark-xml-backport-3.3_2.13@0.0.2?classifier=sources
+- pkg:maven/dev.mauch.spark/spark-xml-backport-3.3_2.13@0.1.0
+- pkg:maven/dev.mauch.spark/spark-xml-backport-3.3_2.13@0.1.0?classifier=sources
+- pkg:maven/dev.mauch.spark/spark-xml-backport-3.3_2.13@0.1.4
+- pkg:maven/dev.mauch.spark/spark-xml-backport-3.3_2.13@0.1.4?classifier=sources

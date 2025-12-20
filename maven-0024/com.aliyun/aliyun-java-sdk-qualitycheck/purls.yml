@@ -103,6 +103,12 @@
 - pkg:maven/com.aliyun/aliyun-java-sdk-qualitycheck@4.7.0
 - pkg:maven/com.aliyun/aliyun-java-sdk-qualitycheck@4.7.0?classifier=sources
 - pkg:maven/com.aliyun/aliyun-java-sdk-qualitycheck@4.7.1
+- pkg:maven/com.aliyun/aliyun-java-sdk-qualitycheck@4.7.10
+- pkg:maven/com.aliyun/aliyun-java-sdk-qualitycheck@4.7.10?classifier=sources
+- pkg:maven/com.aliyun/aliyun-java-sdk-qualitycheck@4.7.11
+- pkg:maven/com.aliyun/aliyun-java-sdk-qualitycheck@4.7.11?classifier=sources
+- pkg:maven/com.aliyun/aliyun-java-sdk-qualitycheck@4.7.12
+- pkg:maven/com.aliyun/aliyun-java-sdk-qualitycheck@4.7.12?classifier=sources
 - pkg:maven/com.aliyun/aliyun-java-sdk-qualitycheck@4.7.1?classifier=sources
 - pkg:maven/com.aliyun/aliyun-java-sdk-qualitycheck@4.7.3
 - pkg:maven/com.aliyun/aliyun-java-sdk-qualitycheck@4.7.3?classifier=sources

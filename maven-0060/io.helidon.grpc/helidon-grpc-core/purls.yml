@@ -164,3 +164,5 @@
 - pkg:maven/io.helidon.grpc/helidon-grpc-core@4.0.0-ALPHA5?classifier=sources
 - pkg:maven/io.helidon.grpc/helidon-grpc-core@4.0.0-ALPHA6
 - pkg:maven/io.helidon.grpc/helidon-grpc-core@4.0.0-ALPHA6?classifier=sources
+- pkg:maven/io.helidon.grpc/helidon-grpc-core@4.1.0
+- pkg:maven/io.helidon.grpc/helidon-grpc-core@4.1.0?classifier=sources

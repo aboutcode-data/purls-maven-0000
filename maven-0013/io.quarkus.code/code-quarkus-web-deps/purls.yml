@@ -26,3 +26,7 @@
 - pkg:maven/io.quarkus.code/code-quarkus-web-deps@29?classifier=sources
 - pkg:maven/io.quarkus.code/code-quarkus-web-deps@30
 - pkg:maven/io.quarkus.code/code-quarkus-web-deps@30?classifier=sources
+- pkg:maven/io.quarkus.code/code-quarkus-web-deps@31
+- pkg:maven/io.quarkus.code/code-quarkus-web-deps@31?classifier=sources
+- pkg:maven/io.quarkus.code/code-quarkus-web-deps@32
+- pkg:maven/io.quarkus.code/code-quarkus-web-deps@32?classifier=sources

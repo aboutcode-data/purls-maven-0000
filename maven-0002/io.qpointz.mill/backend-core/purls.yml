@@ -1,0 +1,3 @@
+- pkg:maven/io.qpointz.mill/backend-core@-V0-2-0?classifier=sources
+- pkg:maven/io.qpointz.mill/backend-core@0.2.0-rc.3?classifier=sources
+- pkg:maven/io.qpointz.mill/backend-core@0.2.0?classifier=sources

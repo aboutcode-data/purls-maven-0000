@@ -10,3 +10,4 @@
 - pkg:maven/org.webjars.npm/bin-links@2.2.1?classifier=sources
 - pkg:maven/org.webjars.npm/bin-links@2.3.0
 - pkg:maven/org.webjars.npm/bin-links@2.3.0?classifier=sources
+- pkg:maven/org.webjars.npm/bin-links@4.0.4

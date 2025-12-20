@@ -534,3 +534,17 @@
 - pkg:maven/uk.gov.service.payments/queue@1.0.20240729105128?classifier=sources
 - pkg:maven/uk.gov.service.payments/queue@1.0.20240729105658
 - pkg:maven/uk.gov.service.payments/queue@1.0.20240729105658?classifier=sources
+- pkg:maven/uk.gov.service.payments/queue@1.0.20240805105428
+- pkg:maven/uk.gov.service.payments/queue@1.0.20240805105428?classifier=sources
+- pkg:maven/uk.gov.service.payments/queue@1.0.20240805105956
+- pkg:maven/uk.gov.service.payments/queue@1.0.20240805105956?classifier=sources
+- pkg:maven/uk.gov.service.payments/queue@1.0.20240805110617
+- pkg:maven/uk.gov.service.payments/queue@1.0.20240805110617?classifier=sources
+- pkg:maven/uk.gov.service.payments/queue@1.0.20240819113151
+- pkg:maven/uk.gov.service.payments/queue@1.0.20240819113151?classifier=sources
+- pkg:maven/uk.gov.service.payments/queue@1.0.20240819115215
+- pkg:maven/uk.gov.service.payments/queue@1.0.20240819115215?classifier=sources
+- pkg:maven/uk.gov.service.payments/queue@1.0.20240819120013
+- pkg:maven/uk.gov.service.payments/queue@1.0.20240819120013?classifier=sources
+- pkg:maven/uk.gov.service.payments/queue@1.0.20240819121210
+- pkg:maven/uk.gov.service.payments/queue@1.0.20240819121210?classifier=sources

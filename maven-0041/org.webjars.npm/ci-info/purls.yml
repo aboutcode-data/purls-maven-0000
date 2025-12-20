@@ -20,3 +20,4 @@
 - pkg:maven/org.webjars.npm/ci-info@3.8.0?classifier=sources
 - pkg:maven/org.webjars.npm/ci-info@3.9.0
 - pkg:maven/org.webjars.npm/ci-info@3.9.0?classifier=sources
+- pkg:maven/org.webjars.npm/ci-info@4.0.0

@@ -20,6 +20,7 @@
 - pkg:maven/com.mapp.sdk/intelligence-android@5.1.1-beta1?classifier=sources
 - pkg:maven/com.mapp.sdk/intelligence-android@5.1.1-beta2?classifier=sources
 - pkg:maven/com.mapp.sdk/intelligence-android@5.1.1-beta3?classifier=sources
+- pkg:maven/com.mapp.sdk/intelligence-android@5.1.10?classifier=sources
 - pkg:maven/com.mapp.sdk/intelligence-android@5.1.1?classifier=sources
 - pkg:maven/com.mapp.sdk/intelligence-android@5.1.2-rc02?classifier=sources
 - pkg:maven/com.mapp.sdk/intelligence-android@5.1.2-rc1?classifier=sources

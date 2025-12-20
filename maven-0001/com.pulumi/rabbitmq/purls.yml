@@ -125,3 +125,5 @@
 - pkg:maven/com.pulumi/rabbitmq@3.4.0-alpha.1718258937?classifier=sources
 - pkg:maven/com.pulumi/rabbitmq@3.4.0-alpha.1718345334?classifier=sources
 - pkg:maven/com.pulumi/rabbitmq@3.4.0-alpha.1718431668?classifier=sources
+- pkg:maven/com.pulumi/rabbitmq@3.4.0-alpha.1722061423?classifier=sources
+- pkg:maven/com.pulumi/rabbitmq@3.4.0-alpha.1723010011?classifier=sources
