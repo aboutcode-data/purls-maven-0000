@@ -3,3 +3,5 @@
 - pkg:maven/org.eljabali.sami.javatimefun/javatimefun@0.7?classifier=sources
 - pkg:maven/org.eljabali.sami.javatimefun/javatimefun@1.0.0?classifier=sources
 - pkg:maven/org.eljabali.sami.javatimefun/javatimefun@2.0.0?classifier=sources
+- pkg:maven/org.eljabali.sami.javatimefun/javatimefun@2.1.0?classifier=sources
+- pkg:maven/org.eljabali.sami.javatimefun/javatimefun@3.0.0?classifier=sources

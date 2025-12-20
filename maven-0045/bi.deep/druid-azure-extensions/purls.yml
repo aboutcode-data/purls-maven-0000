@@ -1,0 +1,4 @@
+- pkg:maven/bi.deep/druid-azure-extensions@27.0.0
+- pkg:maven/bi.deep/druid-azure-extensions@27.0.0?classifier=sources
+- pkg:maven/bi.deep/druid-azure-extensions@28.0.0
+- pkg:maven/bi.deep/druid-azure-extensions@28.0.0?classifier=sources

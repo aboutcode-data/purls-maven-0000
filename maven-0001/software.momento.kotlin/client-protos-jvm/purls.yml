@@ -9,3 +9,9 @@
 - pkg:maven/software.momento.kotlin/client-protos-jvm@0.105.3?classifier=sources
 - pkg:maven/software.momento.kotlin/client-protos-jvm@0.106.0?classifier=sources
 - pkg:maven/software.momento.kotlin/client-protos-jvm@0.106.1?classifier=sources
+- pkg:maven/software.momento.kotlin/client-protos-jvm@0.106.2?classifier=sources
+- pkg:maven/software.momento.kotlin/client-protos-jvm@0.107.0?classifier=sources
+- pkg:maven/software.momento.kotlin/client-protos-jvm@0.107.1?classifier=sources
+- pkg:maven/software.momento.kotlin/client-protos-jvm@0.107.2?classifier=sources
+- pkg:maven/software.momento.kotlin/client-protos-jvm@0.107.3?classifier=sources
+- pkg:maven/software.momento.kotlin/client-protos-jvm@0.107.4?classifier=sources

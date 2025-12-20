@@ -1,0 +1,1 @@
+- pkg:maven/me.proton.core/test-rule@21.2.0?classifier=sources

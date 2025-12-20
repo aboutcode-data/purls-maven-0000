@@ -59,6 +59,7 @@
 - pkg:maven/com.liferay/com.liferay.portal.search.similar.results.web@1.0.33?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.search.similar.results.web@1.0.34?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.search.similar.results.web@1.0.35?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.search.similar.results.web@1.0.36?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.search.similar.results.web@2.0.19
 - pkg:maven/com.liferay/com.liferay.portal.search.similar.results.web@2.0.19?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.search.similar.results.web@2.0.19?classifier=sources-commercial
@@ -152,6 +153,7 @@
 - pkg:maven/com.liferay/com.liferay.portal.search.similar.results.web@2.0.50?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.search.similar.results.web@2.0.51?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.search.similar.results.web@2.0.52?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.search.similar.results.web@2.0.53?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.search.similar.results.web@3.0.0
 - pkg:maven/com.liferay/com.liferay.portal.search.similar.results.web@3.0.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.search.similar.results.web@3.0.0?classifier=sources-commercial
@@ -263,6 +265,8 @@
 - pkg:maven/com.liferay/com.liferay.portal.search.similar.results.web@3.0.42?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.search.similar.results.web@3.0.43?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.search.similar.results.web@3.0.44?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.search.similar.results.web@3.0.45?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.search.similar.results.web@3.0.46?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.search.similar.results.web@3.0.4?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.search.similar.results.web@3.0.4?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.search.similar.results.web@3.0.5

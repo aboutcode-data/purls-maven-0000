@@ -6,3 +6,5 @@
 - pkg:maven/ro.ghionoiu/queue-cli-tool@0.1.20?classifier=sources
 - pkg:maven/ro.ghionoiu/queue-cli-tool@0.1.21?classifier=sources
 - pkg:maven/ro.ghionoiu/queue-cli-tool@0.1.22?classifier=sources
+- pkg:maven/ro.ghionoiu/queue-cli-tool@0.1.25?classifier=sources
+- pkg:maven/ro.ghionoiu/queue-cli-tool@0.1.26?classifier=sources

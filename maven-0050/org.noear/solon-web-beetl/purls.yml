@@ -146,3 +146,6 @@
 - pkg:maven/org.noear/solon-web-beetl@2.7.1
 - pkg:maven/org.noear/solon-web-beetl@2.7.1-M1
 - pkg:maven/org.noear/solon-web-beetl@2.7.1-M2
+- pkg:maven/org.noear/solon-web-beetl@2.7.2
+- pkg:maven/org.noear/solon-web-beetl@2.7.2-M1
+- pkg:maven/org.noear/solon-web-beetl@2.7.2-M2

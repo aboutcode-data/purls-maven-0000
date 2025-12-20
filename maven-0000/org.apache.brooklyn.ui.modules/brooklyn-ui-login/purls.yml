@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.brooklyn.ui.modules/brooklyn-ui-login@1.1.0?classifier=sources
+- pkg:maven/org.apache.brooklyn.ui.modules/brooklyn-ui-login@1.1.0?type=war

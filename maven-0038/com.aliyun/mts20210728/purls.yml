@@ -10,6 +10,8 @@
 - pkg:maven/com.aliyun/mts20210728@3.3.10?classifier=sources
 - pkg:maven/com.aliyun/mts20210728@3.3.11
 - pkg:maven/com.aliyun/mts20210728@3.3.11?classifier=sources
+- pkg:maven/com.aliyun/mts20210728@3.3.12
+- pkg:maven/com.aliyun/mts20210728@3.3.12?classifier=sources
 - pkg:maven/com.aliyun/mts20210728@3.3.31
 - pkg:maven/com.aliyun/mts20210728@3.3.31?classifier=sources
 - pkg:maven/com.aliyun/mts20210728@3.3.32

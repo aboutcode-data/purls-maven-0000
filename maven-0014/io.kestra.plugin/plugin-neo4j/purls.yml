@@ -3,6 +3,7 @@
 - pkg:maven/io.kestra.plugin/plugin-neo4j@0.12.0?classifier=sources
 - pkg:maven/io.kestra.plugin/plugin-neo4j@0.13.0?classifier=sources
 - pkg:maven/io.kestra.plugin/plugin-neo4j@0.14.0?classifier=sources
+- pkg:maven/io.kestra.plugin/plugin-neo4j@0.15.0?classifier=sources
 - pkg:maven/io.kestra.plugin/plugin-neo4j@0.6.0?classifier=sources
 - pkg:maven/io.kestra.plugin/plugin-neo4j@0.8.0?classifier=sources
 - pkg:maven/io.kestra.plugin/plugin-neo4j@0.9.0?classifier=sources

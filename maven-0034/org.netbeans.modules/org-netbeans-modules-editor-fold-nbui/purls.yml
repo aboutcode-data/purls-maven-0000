@@ -20,4 +20,5 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-editor-fold-nbui@RELEASE180?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-editor-fold-nbui@RELEASE190?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-editor-fold-nbui@RELEASE200?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-editor-fold-nbui@RELEASE210?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-editor-fold-nbui@RELEASE90?classifier=sources

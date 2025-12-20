@@ -11,6 +11,10 @@
 - pkg:maven/org.ossreviewtoolkit.plugins.packagecurationproviders/package-curation-provider-api@15.2.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.packagecurationproviders/package-curation-provider-api@15.3.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.packagecurationproviders/package-curation-provider-api@16.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.packagecurationproviders/package-curation-provider-api@17.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.packagecurationproviders/package-curation-provider-api@17.0.1?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.packagecurationproviders/package-curation-provider-api@17.1.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.packagecurationproviders/package-curation-provider-api@18.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.packagecurationproviders/package-curation-provider-api@2.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.packagecurationproviders/package-curation-provider-api@3.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.packagecurationproviders/package-curation-provider-api@4.0.0?classifier=sources

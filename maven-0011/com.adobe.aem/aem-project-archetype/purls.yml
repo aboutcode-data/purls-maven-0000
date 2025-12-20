@@ -21,3 +21,4 @@
 - pkg:maven/com.adobe.aem/aem-project-archetype@45?classifier=sources
 - pkg:maven/com.adobe.aem/aem-project-archetype@46?classifier=sources
 - pkg:maven/com.adobe.aem/aem-project-archetype@47?classifier=sources
+- pkg:maven/com.adobe.aem/aem-project-archetype@48?classifier=sources

@@ -11,8 +11,10 @@
 - pkg:maven/com.nablarch.profile/nablarch-all-in-one@5u20
 - pkg:maven/com.nablarch.profile/nablarch-all-in-one@5u22
 - pkg:maven/com.nablarch.profile/nablarch-all-in-one@5u23
+- pkg:maven/com.nablarch.profile/nablarch-all-in-one@5u24
 - pkg:maven/com.nablarch.profile/nablarch-all-in-one@5u6
 - pkg:maven/com.nablarch.profile/nablarch-all-in-one@5u7
 - pkg:maven/com.nablarch.profile/nablarch-all-in-one@5u8
 - pkg:maven/com.nablarch.profile/nablarch-all-in-one@5u9
 - pkg:maven/com.nablarch.profile/nablarch-all-in-one@6
+- pkg:maven/com.nablarch.profile/nablarch-all-in-one@6u1

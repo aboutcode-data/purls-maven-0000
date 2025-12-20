@@ -112,3 +112,5 @@
 - pkg:maven/com.uyatu.sdk/uyatu-spring-boot-starter@1.0.7?classifier=sources
 - pkg:maven/com.uyatu.sdk/uyatu-spring-boot-starter@1.1.0
 - pkg:maven/com.uyatu.sdk/uyatu-spring-boot-starter@1.1.0?classifier=sources
+- pkg:maven/com.uyatu.sdk/uyatu-spring-boot-starter@1.1.1
+- pkg:maven/com.uyatu.sdk/uyatu-spring-boot-starter@1.1.1?classifier=sources

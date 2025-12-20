@@ -64,3 +64,5 @@
 - pkg:maven/com.aliyun/bssopenapi20171214@1.8.6?classifier=sources
 - pkg:maven/com.aliyun/bssopenapi20171214@1.9.0
 - pkg:maven/com.aliyun/bssopenapi20171214@1.9.0?classifier=sources
+- pkg:maven/com.aliyun/bssopenapi20171214@2.0.0
+- pkg:maven/com.aliyun/bssopenapi20171214@2.0.0?classifier=sources

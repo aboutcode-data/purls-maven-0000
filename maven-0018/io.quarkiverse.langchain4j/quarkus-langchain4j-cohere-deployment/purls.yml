@@ -1,0 +1,2 @@
+- pkg:maven/io.quarkiverse.langchain4j/quarkus-langchain4j-cohere-deployment@0.9.1
+- pkg:maven/io.quarkiverse.langchain4j/quarkus-langchain4j-cohere-deployment@0.9.1?classifier=sources

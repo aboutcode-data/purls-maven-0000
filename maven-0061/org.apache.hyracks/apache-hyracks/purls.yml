@@ -9,4 +9,6 @@
 - pkg:maven/org.apache.hyracks/apache-hyracks@0.3.7.1?classifier=source-release&type=zip
 - pkg:maven/org.apache.hyracks/apache-hyracks@0.3.7?classifier=source-release&type=zip
 - pkg:maven/org.apache.hyracks/apache-hyracks@0.3.8.1?classifier=source-release&type=zip
+- pkg:maven/org.apache.hyracks/apache-hyracks@0.3.8.2?classifier=source-release&type=zip
 - pkg:maven/org.apache.hyracks/apache-hyracks@0.3.8?classifier=source-release&type=zip
+- pkg:maven/org.apache.hyracks/apache-hyracks@0.3.9?classifier=source-release&type=zip

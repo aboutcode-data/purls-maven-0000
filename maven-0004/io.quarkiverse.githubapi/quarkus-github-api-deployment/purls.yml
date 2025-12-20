@@ -64,3 +64,5 @@
 - pkg:maven/io.quarkiverse.githubapi/quarkus-github-api-deployment@1.316.0?classifier=sources
 - pkg:maven/io.quarkiverse.githubapi/quarkus-github-api-deployment@1.318.0
 - pkg:maven/io.quarkiverse.githubapi/quarkus-github-api-deployment@1.318.0?classifier=sources
+- pkg:maven/io.quarkiverse.githubapi/quarkus-github-api-deployment@1.319.0
+- pkg:maven/io.quarkiverse.githubapi/quarkus-github-api-deployment@1.319.0?classifier=sources

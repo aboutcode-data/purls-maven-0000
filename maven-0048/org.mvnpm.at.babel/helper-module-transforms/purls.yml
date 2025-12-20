@@ -4,3 +4,4 @@
 - pkg:maven/org.mvnpm.at.babel/helper-module-transforms@7.22.19?classifier=sources
 - pkg:maven/org.mvnpm.at.babel/helper-module-transforms@7.22.20?classifier=sources
 - pkg:maven/org.mvnpm.at.babel/helper-module-transforms@7.23.0?classifier=sources
+- pkg:maven/org.mvnpm.at.babel/helper-module-transforms@7.23.3?classifier=sources

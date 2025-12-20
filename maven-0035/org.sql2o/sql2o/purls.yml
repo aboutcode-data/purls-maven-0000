@@ -28,3 +28,5 @@
 - pkg:maven/org.sql2o/sql2o@1.6.0-RC3
 - pkg:maven/org.sql2o/sql2o@1.6.0-RC3?classifier=sources
 - pkg:maven/org.sql2o/sql2o@1.6.0?classifier=sources
+- pkg:maven/org.sql2o/sql2o@1.7.0
+- pkg:maven/org.sql2o/sql2o@1.7.0?classifier=sources

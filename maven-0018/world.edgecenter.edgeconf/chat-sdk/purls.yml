@@ -1,0 +1,2 @@
+- pkg:maven/world.edgecenter.edgeconf/chat-sdk@1.0.0?classifier=sources
+- pkg:maven/world.edgecenter.edgeconf/chat-sdk@1.0.0?type=aar

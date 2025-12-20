@@ -36,3 +36,5 @@
 - pkg:maven/org.eclipse.platform/org.eclipse.equinox.http.servlet@1.7.400?classifier=sources
 - pkg:maven/org.eclipse.platform/org.eclipse.equinox.http.servlet@1.8.0
 - pkg:maven/org.eclipse.platform/org.eclipse.equinox.http.servlet@1.8.0?classifier=sources
+- pkg:maven/org.eclipse.platform/org.eclipse.equinox.http.servlet@1.8.100
+- pkg:maven/org.eclipse.platform/org.eclipse.equinox.http.servlet@1.8.100?classifier=sources

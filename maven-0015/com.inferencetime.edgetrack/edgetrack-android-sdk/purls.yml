@@ -1,3 +1,4 @@
+- pkg:maven/com.inferencetime.edgetrack/edgetrack-android-sdk@0.0.2?classifier=sources
 - pkg:maven/com.inferencetime.edgetrack/edgetrack-android-sdk@0.0.3?classifier=sources
 - pkg:maven/com.inferencetime.edgetrack/edgetrack-android-sdk@0.0.4?classifier=sources
 - pkg:maven/com.inferencetime.edgetrack/edgetrack-android-sdk@0.0.5?classifier=sources
@@ -5,3 +6,4 @@
 - pkg:maven/com.inferencetime.edgetrack/edgetrack-android-sdk@0.0.7?classifier=sources
 - pkg:maven/com.inferencetime.edgetrack/edgetrack-android-sdk@0.0.9?classifier=sources
 - pkg:maven/com.inferencetime.edgetrack/edgetrack-android-sdk@0.1.1?classifier=sources
+- pkg:maven/com.inferencetime.edgetrack/edgetrack-android-sdk@1.0.0?classifier=sources

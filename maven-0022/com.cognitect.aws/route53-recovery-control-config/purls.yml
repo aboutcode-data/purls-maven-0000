@@ -8,3 +8,5 @@
 - pkg:maven/com.cognitect.aws/route53-recovery-control-config@828.2.1290.0?classifier=sources
 - pkg:maven/com.cognitect.aws/route53-recovery-control-config@847.2.1365.0
 - pkg:maven/com.cognitect.aws/route53-recovery-control-config@847.2.1365.0?classifier=sources
+- pkg:maven/com.cognitect.aws/route53-recovery-control-config@857.2.1574.0
+- pkg:maven/com.cognitect.aws/route53-recovery-control-config@857.2.1574.0?classifier=sources

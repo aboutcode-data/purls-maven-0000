@@ -183,6 +183,7 @@
 - pkg:maven/com.liferay/com.liferay.dynamic.data.mapping.form.renderer@2.1.63?classifier=sources
 - pkg:maven/com.liferay/com.liferay.dynamic.data.mapping.form.renderer@2.1.63?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.dynamic.data.mapping.form.renderer@2.1.64?classifier=sources
+- pkg:maven/com.liferay/com.liferay.dynamic.data.mapping.form.renderer@2.1.65?classifier=sources
 - pkg:maven/com.liferay/com.liferay.dynamic.data.mapping.form.renderer@2.1.6?classifier=sources
 - pkg:maven/com.liferay/com.liferay.dynamic.data.mapping.form.renderer@2.1.7
 - pkg:maven/com.liferay/com.liferay.dynamic.data.mapping.form.renderer@2.1.7?classifier=sources
@@ -807,6 +808,7 @@
 - pkg:maven/com.liferay/com.liferay.dynamic.data.mapping.form.renderer@5.0.7
 - pkg:maven/com.liferay/com.liferay.dynamic.data.mapping.form.renderer@5.0.70?classifier=sources
 - pkg:maven/com.liferay/com.liferay.dynamic.data.mapping.form.renderer@5.0.71?classifier=sources
+- pkg:maven/com.liferay/com.liferay.dynamic.data.mapping.form.renderer@5.0.72?classifier=sources
 - pkg:maven/com.liferay/com.liferay.dynamic.data.mapping.form.renderer@5.0.7?classifier=sources
 - pkg:maven/com.liferay/com.liferay.dynamic.data.mapping.form.renderer@5.0.7?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.dynamic.data.mapping.form.renderer@5.0.8
@@ -988,6 +990,7 @@
 - pkg:maven/com.liferay/com.liferay.dynamic.data.mapping.form.renderer@6.0.62?classifier=sources
 - pkg:maven/com.liferay/com.liferay.dynamic.data.mapping.form.renderer@6.0.63?classifier=sources
 - pkg:maven/com.liferay/com.liferay.dynamic.data.mapping.form.renderer@6.0.64?classifier=sources
+- pkg:maven/com.liferay/com.liferay.dynamic.data.mapping.form.renderer@6.0.65?classifier=sources
 - pkg:maven/com.liferay/com.liferay.dynamic.data.mapping.form.renderer@6.0.6?classifier=sources
 - pkg:maven/com.liferay/com.liferay.dynamic.data.mapping.form.renderer@6.0.6?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.dynamic.data.mapping.form.renderer@6.0.7

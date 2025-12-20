@@ -1,5 +1,6 @@
 - pkg:maven/org.apache.wicket/wicket-parent@10.0.0-M1?classifier=source-release&type=zip
 - pkg:maven/org.apache.wicket/wicket-parent@10.0.0-M2?classifier=source-release&type=zip
+- pkg:maven/org.apache.wicket/wicket-parent@10.0.0?classifier=source-release&type=zip
 - pkg:maven/org.apache.wicket/wicket-parent@6.0.0-beta2?classifier=source-release&type=zip
 - pkg:maven/org.apache.wicket/wicket-parent@6.0.0-beta3?classifier=source-release&type=zip
 - pkg:maven/org.apache.wicket/wicket-parent@6.0.0?classifier=source-release&type=zip

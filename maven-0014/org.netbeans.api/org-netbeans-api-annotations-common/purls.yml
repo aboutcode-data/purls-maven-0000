@@ -20,4 +20,5 @@
 - pkg:maven/org.netbeans.api/org-netbeans-api-annotations-common@RELEASE180?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-api-annotations-common@RELEASE190?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-api-annotations-common@RELEASE200?classifier=sources
+- pkg:maven/org.netbeans.api/org-netbeans-api-annotations-common@RELEASE210?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-api-annotations-common@RELEASE90?classifier=sources

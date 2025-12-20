@@ -1,0 +1,2 @@
+- pkg:maven/cn.sparrowmini/sparrow-common-restapi@0.3.0
+- pkg:maven/cn.sparrowmini/sparrow-common-restapi@0.3.0?classifier=sources

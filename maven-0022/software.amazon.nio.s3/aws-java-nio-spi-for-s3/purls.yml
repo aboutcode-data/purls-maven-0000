@@ -4,3 +4,5 @@
 - pkg:maven/software.amazon.nio.s3/aws-java-nio-spi-for-s3@1.2.2?classifier=sources
 - pkg:maven/software.amazon.nio.s3/aws-java-nio-spi-for-s3@1.2.3?classifier=sources
 - pkg:maven/software.amazon.nio.s3/aws-java-nio-spi-for-s3@1.2.4?classifier=sources
+- pkg:maven/software.amazon.nio.s3/aws-java-nio-spi-for-s3@2.0.0-rc-2?classifier=sources
+- pkg:maven/software.amazon.nio.s3/aws-java-nio-spi-for-s3@2.0.0-rc1?classifier=sources

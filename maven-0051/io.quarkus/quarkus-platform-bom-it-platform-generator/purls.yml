@@ -1,6 +1,7 @@
 - pkg:maven/io.quarkus/quarkus-platform-bom-it-platform-generator@0.0.100
 - pkg:maven/io.quarkus/quarkus-platform-bom-it-platform-generator@0.0.101
 - pkg:maven/io.quarkus/quarkus-platform-bom-it-platform-generator@0.0.102
+- pkg:maven/io.quarkus/quarkus-platform-bom-it-platform-generator@0.0.103
 - pkg:maven/io.quarkus/quarkus-platform-bom-it-platform-generator@0.0.93
 - pkg:maven/io.quarkus/quarkus-platform-bom-it-platform-generator@0.0.94
 - pkg:maven/io.quarkus/quarkus-platform-bom-it-platform-generator@0.0.95

@@ -16,3 +16,4 @@
 - pkg:maven/org.opennms.features.distributed/org.opennms.features.distributed.dao-api@32.0.6
 - pkg:maven/org.opennms.features.distributed/org.opennms.features.distributed.dao-api@33.0.0
 - pkg:maven/org.opennms.features.distributed/org.opennms.features.distributed.dao-api@33.0.1
+- pkg:maven/org.opennms.features.distributed/org.opennms.features.distributed.dao-api@33.0.2

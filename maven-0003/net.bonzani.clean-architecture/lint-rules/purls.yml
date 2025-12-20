@@ -1,0 +1,6 @@
+- pkg:maven/net.bonzani.clean-architecture/lint-rules@1.0.0-alpha.36
+- pkg:maven/net.bonzani.clean-architecture/lint-rules@1.0.0-alpha.36?classifier=sources
+- pkg:maven/net.bonzani.clean-architecture/lint-rules@1.0.0-beta.34
+- pkg:maven/net.bonzani.clean-architecture/lint-rules@1.0.0-beta.34?classifier=sources
+- pkg:maven/net.bonzani.clean-architecture/lint-rules@1.0.1
+- pkg:maven/net.bonzani.clean-architecture/lint-rules@1.0.1?classifier=sources

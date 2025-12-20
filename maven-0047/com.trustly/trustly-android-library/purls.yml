@@ -1,2 +1,3 @@
 - pkg:maven/com.trustly/trustly-android-library@3.0.1?classifier=sources
 - pkg:maven/com.trustly/trustly-android-library@4.0.0?classifier=sources
+- pkg:maven/com.trustly/trustly-android-library@4.0.1?classifier=sources

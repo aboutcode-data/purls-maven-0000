@@ -3,3 +3,4 @@
 - pkg:maven/io.seats/seatsio-android@12.2.0?classifier=sources
 - pkg:maven/io.seats/seatsio-android@12.3.0?classifier=sources
 - pkg:maven/io.seats/seatsio-android@12.4.0?classifier=sources
+- pkg:maven/io.seats/seatsio-android@12.5.0?classifier=sources

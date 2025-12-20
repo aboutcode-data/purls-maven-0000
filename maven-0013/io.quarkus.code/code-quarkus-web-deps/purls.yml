@@ -1,1 +1,4 @@
 - pkg:maven/io.quarkus.code/code-quarkus-web-deps@16
+- pkg:maven/io.quarkus.code/code-quarkus-web-deps@17
+- pkg:maven/io.quarkus.code/code-quarkus-web-deps@18
+- pkg:maven/io.quarkus.code/code-quarkus-web-deps@18?classifier=sources

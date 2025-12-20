@@ -1,0 +1,2 @@
+- pkg:maven/io.github.quickmsg/smqttx-solon-plugin@2.0.12
+- pkg:maven/io.github.quickmsg/smqttx-solon-plugin@2.0.12?classifier=sources

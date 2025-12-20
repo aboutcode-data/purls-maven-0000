@@ -9,4 +9,8 @@
 - pkg:maven/de.larsgrefer.sass/sass-embedded-spring5@3.3.1?classifier=sources
 - pkg:maven/de.larsgrefer.sass/sass-embedded-spring5@3.3.2?classifier=sources
 - pkg:maven/de.larsgrefer.sass/sass-embedded-spring5@3.4.0?classifier=sources
+- pkg:maven/de.larsgrefer.sass/sass-embedded-spring5@3.4.2?classifier=sources
+- pkg:maven/de.larsgrefer.sass/sass-embedded-spring5@3.5.0?classifier=sources
+- pkg:maven/de.larsgrefer.sass/sass-embedded-spring5@3.5.1?classifier=sources
+- pkg:maven/de.larsgrefer.sass/sass-embedded-spring5@3.6.0?classifier=sources
 - pkg:maven/de.larsgrefer.sass/sass-embedded-spring5@unspecified?classifier=sources

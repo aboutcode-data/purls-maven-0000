@@ -6,3 +6,5 @@
 - pkg:maven/com.github.rebue.wheel/wheel-vertx@2.2.12?classifier=sources
 - pkg:maven/com.github.rebue.wheel/wheel-vertx@2.2.9
 - pkg:maven/com.github.rebue.wheel/wheel-vertx@2.2.9?classifier=sources
+- pkg:maven/com.github.rebue.wheel/wheel-vertx@3.0.14
+- pkg:maven/com.github.rebue.wheel/wheel-vertx@3.0.14?classifier=sources
