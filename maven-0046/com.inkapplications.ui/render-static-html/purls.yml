@@ -1,0 +1,3 @@
+- pkg:maven/com.inkapplications.ui/render-static-html@0.10.0?classifier=sources
+- pkg:maven/com.inkapplications.ui/render-static-html@0.9.0?classifier=sources
+- pkg:maven/com.inkapplications.ui/render-static-html@0.9.1?classifier=sources

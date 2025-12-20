@@ -10,6 +10,8 @@
 - pkg:maven/tech.deepdreams/worker-cmr-impl@0.0.2-RELEASE?classifier=sources
 - pkg:maven/tech.deepdreams/worker-cmr-impl@0.0.20-RELEASE
 - pkg:maven/tech.deepdreams/worker-cmr-impl@0.0.20-RELEASE?classifier=sources
+- pkg:maven/tech.deepdreams/worker-cmr-impl@0.0.21-RELEASE
+- pkg:maven/tech.deepdreams/worker-cmr-impl@0.0.21-RELEASE?classifier=sources
 - pkg:maven/tech.deepdreams/worker-cmr-impl@0.0.3-RELEASE
 - pkg:maven/tech.deepdreams/worker-cmr-impl@0.0.3-RELEASE?classifier=sources
 - pkg:maven/tech.deepdreams/worker-cmr-impl@0.0.4-RELEASE
@@ -20,3 +22,7 @@
 - pkg:maven/tech.deepdreams/worker-cmr-impl@0.0.6-RELEASE?classifier=sources
 - pkg:maven/tech.deepdreams/worker-cmr-impl@0.0.7-RELEASE
 - pkg:maven/tech.deepdreams/worker-cmr-impl@0.0.7-RELEASE?classifier=sources
+- pkg:maven/tech.deepdreams/worker-cmr-impl@0.1.0-RELEASE
+- pkg:maven/tech.deepdreams/worker-cmr-impl@0.1.0-RELEASE?classifier=sources
+- pkg:maven/tech.deepdreams/worker-cmr-impl@0.1.1-RELEASE
+- pkg:maven/tech.deepdreams/worker-cmr-impl@0.1.1-RELEASE?classifier=sources

@@ -1,0 +1,1 @@
+- pkg:maven/org.openrewrite.recipe/rewrite-gitlab@0.1.0?classifier=sources

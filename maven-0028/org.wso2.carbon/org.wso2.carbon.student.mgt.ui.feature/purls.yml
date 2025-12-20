@@ -3,6 +3,7 @@
 - pkg:maven/org.wso2.carbon/org.wso2.carbon.student.mgt.ui.feature@4.10.13?classifier=sources
 - pkg:maven/org.wso2.carbon/org.wso2.carbon.student.mgt.ui.feature@4.10.15?classifier=sources
 - pkg:maven/org.wso2.carbon/org.wso2.carbon.student.mgt.ui.feature@4.10.21?classifier=sources
+- pkg:maven/org.wso2.carbon/org.wso2.carbon.student.mgt.ui.feature@4.10.22?classifier=sources
 - pkg:maven/org.wso2.carbon/org.wso2.carbon.student.mgt.ui.feature@4.10.2?classifier=sources
 - pkg:maven/org.wso2.carbon/org.wso2.carbon.student.mgt.ui.feature@4.4.19?classifier=sources
 - pkg:maven/org.wso2.carbon/org.wso2.carbon.student.mgt.ui.feature@4.4.20?classifier=sources
@@ -92,4 +93,5 @@
 - pkg:maven/org.wso2.carbon/org.wso2.carbon.student.mgt.ui.feature@4.9.22?classifier=sources
 - pkg:maven/org.wso2.carbon/org.wso2.carbon.student.mgt.ui.feature@4.9.26-alpha3?classifier=sources
 - pkg:maven/org.wso2.carbon/org.wso2.carbon.student.mgt.ui.feature@4.9.26-alpha?classifier=sources
+- pkg:maven/org.wso2.carbon/org.wso2.carbon.student.mgt.ui.feature@4.9.27-alpha?classifier=sources
 - pkg:maven/org.wso2.carbon/org.wso2.carbon.student.mgt.ui.feature@4.9.3?classifier=sources

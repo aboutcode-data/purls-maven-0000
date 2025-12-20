@@ -25,3 +25,6 @@
 - pkg:maven/net.rk4z/beacon@1.4.3?classifier=sources
 - pkg:maven/net.rk4z/beacon@1.4.4?classifier=sources
 - pkg:maven/net.rk4z/beacon@1.4.5?classifier=sources
+- pkg:maven/net.rk4z/beacon@1.4.6?classifier=sources
+- pkg:maven/net.rk4z/beacon@1.4.7?classifier=sources
+- pkg:maven/net.rk4z/beacon@1.4.8?classifier=sources

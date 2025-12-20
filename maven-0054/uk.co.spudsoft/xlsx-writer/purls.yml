@@ -18,3 +18,5 @@
 - pkg:maven/uk.co.spudsoft/xlsx-writer@0.0.18?classifier=sources
 - pkg:maven/uk.co.spudsoft/xlsx-writer@0.0.21
 - pkg:maven/uk.co.spudsoft/xlsx-writer@0.0.21?classifier=sources
+- pkg:maven/uk.co.spudsoft/xlsx-writer@0.0.22
+- pkg:maven/uk.co.spudsoft/xlsx-writer@0.0.22?classifier=sources

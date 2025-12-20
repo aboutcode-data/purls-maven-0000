@@ -12,6 +12,8 @@
 - pkg:maven/com.starrocks/starrocks-bdb-je@18.3.18?classifier=sources
 - pkg:maven/com.starrocks/starrocks-bdb-je@18.3.19
 - pkg:maven/com.starrocks/starrocks-bdb-je@18.3.19?classifier=sources
+- pkg:maven/com.starrocks/starrocks-bdb-je@18.3.20
+- pkg:maven/com.starrocks/starrocks-bdb-je@18.3.20?classifier=sources
 - pkg:maven/com.starrocks/starrocks-bdb-je@7.3.8
 - pkg:maven/com.starrocks/starrocks-bdb-je@7.3.8?classifier=sources
 - pkg:maven/com.starrocks/starrocks-bdb-je@7.5.17

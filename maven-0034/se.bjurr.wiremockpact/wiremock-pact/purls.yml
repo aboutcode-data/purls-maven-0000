@@ -6,3 +6,4 @@
 - pkg:maven/se.bjurr.wiremockpact/wiremock-pact@0.5.1?classifier=sources
 - pkg:maven/se.bjurr.wiremockpact/wiremock-pact@0.6.0?classifier=sources
 - pkg:maven/se.bjurr.wiremockpact/wiremock-pact@0.6.1?classifier=sources
+- pkg:maven/se.bjurr.wiremockpact/wiremock-pact@0.7.0?classifier=sources

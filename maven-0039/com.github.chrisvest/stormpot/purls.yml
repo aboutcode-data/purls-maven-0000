@@ -24,3 +24,5 @@
 - pkg:maven/com.github.chrisvest/stormpot@3.1?classifier=sources
 - pkg:maven/com.github.chrisvest/stormpot@3.2
 - pkg:maven/com.github.chrisvest/stormpot@3.2?classifier=sources
+- pkg:maven/com.github.chrisvest/stormpot@4.0
+- pkg:maven/com.github.chrisvest/stormpot@4.0?classifier=sources

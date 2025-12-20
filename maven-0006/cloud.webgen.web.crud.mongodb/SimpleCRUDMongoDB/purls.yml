@@ -1,2 +1,3 @@
 - pkg:maven/cloud.webgen.web.crud.mongodb/SimpleCRUDMongoDB@1.0.0?classifier=sources
 - pkg:maven/cloud.webgen.web.crud.mongodb/SimpleCRUDMongoDB@1.0.2?classifier=sources
+- pkg:maven/cloud.webgen.web.crud.mongodb/SimpleCRUDMongoDB@1.0.4?classifier=sources

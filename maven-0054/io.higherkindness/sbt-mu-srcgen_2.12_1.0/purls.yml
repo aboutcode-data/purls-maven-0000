@@ -6,3 +6,5 @@
 - pkg:maven/io.higherkindness/sbt-mu-srcgen_2.12_1.0@0.31.2?classifier=sources
 - pkg:maven/io.higherkindness/sbt-mu-srcgen_2.12_1.0@0.32.0
 - pkg:maven/io.higherkindness/sbt-mu-srcgen_2.12_1.0@0.32.0?classifier=sources
+- pkg:maven/io.higherkindness/sbt-mu-srcgen_2.12_1.0@0.32.1
+- pkg:maven/io.higherkindness/sbt-mu-srcgen_2.12_1.0@0.32.1?classifier=sources

@@ -2,3 +2,7 @@
 - pkg:maven/gr.cite/logging@1.0.0?classifier=sources
 - pkg:maven/gr.cite/logging@2.1.0
 - pkg:maven/gr.cite/logging@2.1.0?classifier=sources
+- pkg:maven/gr.cite/logging@2.2.0
+- pkg:maven/gr.cite/logging@2.2.0?classifier=sources
+- pkg:maven/gr.cite/logging@2.2.1
+- pkg:maven/gr.cite/logging@2.2.1?classifier=sources

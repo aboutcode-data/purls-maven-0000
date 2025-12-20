@@ -12,3 +12,5 @@
 - pkg:maven/com.rovio.ingest/rovio-ingest@1.0.5_spark_3.0.1?classifier=sources
 - pkg:maven/com.rovio.ingest/rovio-ingest@1.0.6_spark_3.0.1
 - pkg:maven/com.rovio.ingest/rovio-ingest@1.0.6_spark_3.0.1?classifier=sources
+- pkg:maven/com.rovio.ingest/rovio-ingest@1.0.7_spark_3.4.1
+- pkg:maven/com.rovio.ingest/rovio-ingest@1.0.7_spark_3.4.1?classifier=sources

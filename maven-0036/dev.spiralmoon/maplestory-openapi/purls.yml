@@ -16,3 +16,4 @@
 - pkg:maven/dev.spiralmoon/maplestory-openapi@2.6.1?classifier=sources
 - pkg:maven/dev.spiralmoon/maplestory-openapi@2.7.0?classifier=sources
 - pkg:maven/dev.spiralmoon/maplestory-openapi@2.7.1?classifier=sources
+- pkg:maven/dev.spiralmoon/maplestory-openapi@2.7.2?classifier=sources

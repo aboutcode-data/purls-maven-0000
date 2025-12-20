@@ -10,3 +10,4 @@
 - pkg:maven/org.webjars.npm/unocss__preset-attributify@0.52.7?classifier=sources
 - pkg:maven/org.webjars.npm/unocss__preset-attributify@0.53.0
 - pkg:maven/org.webjars.npm/unocss__preset-attributify@0.53.0?classifier=sources
+- pkg:maven/org.webjars.npm/unocss__preset-attributify@0.63.3

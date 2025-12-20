@@ -58,6 +58,12 @@
 - pkg:maven/com.databricks/databricks-sdk-java@0.31.0?classifier=sources
 - pkg:maven/com.databricks/databricks-sdk-java@0.31.1
 - pkg:maven/com.databricks/databricks-sdk-java@0.31.1?classifier=sources
+- pkg:maven/com.databricks/databricks-sdk-java@0.32.0
+- pkg:maven/com.databricks/databricks-sdk-java@0.32.0?classifier=sources
+- pkg:maven/com.databricks/databricks-sdk-java@0.32.1
+- pkg:maven/com.databricks/databricks-sdk-java@0.32.1?classifier=sources
+- pkg:maven/com.databricks/databricks-sdk-java@0.32.2
+- pkg:maven/com.databricks/databricks-sdk-java@0.32.2?classifier=sources
 - pkg:maven/com.databricks/databricks-sdk-java@0.4.0
 - pkg:maven/com.databricks/databricks-sdk-java@0.4.0?classifier=sources
 - pkg:maven/com.databricks/databricks-sdk-java@0.5.0

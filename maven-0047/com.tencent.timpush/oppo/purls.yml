@@ -12,3 +12,4 @@
 - pkg:maven/com.tencent.timpush/oppo@8.1.6109?classifier=sources
 - pkg:maven/com.tencent.timpush/oppo@8.1.6902?classifier=sources
 - pkg:maven/com.tencent.timpush/oppo@8.1.6906?classifier=sources
+- pkg:maven/com.tencent.timpush/oppo@8.2.6325?classifier=sources

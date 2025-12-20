@@ -1,1 +1,3 @@
 - pkg:maven/ai.timefold.solver/jpyinterpreter@1.13.0?classifier=sources
+- pkg:maven/ai.timefold.solver/jpyinterpreter@1.14.0?classifier=sources
+- pkg:maven/ai.timefold.solver/jpyinterpreter@1.15.0?classifier=sources

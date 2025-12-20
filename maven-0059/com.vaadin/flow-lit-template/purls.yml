@@ -299,6 +299,8 @@
 - pkg:maven/com.vaadin/flow-lit-template@23.5.4?classifier=sources
 - pkg:maven/com.vaadin/flow-lit-template@23.5.5
 - pkg:maven/com.vaadin/flow-lit-template@23.5.5?classifier=sources
+- pkg:maven/com.vaadin/flow-lit-template@23.5.6
+- pkg:maven/com.vaadin/flow-lit-template@23.5.6?classifier=sources
 - pkg:maven/com.vaadin/flow-lit-template@24.0.0
 - pkg:maven/com.vaadin/flow-lit-template@24.0.0?classifier=sources
 - pkg:maven/com.vaadin/flow-lit-template@24.0.1
@@ -422,6 +424,8 @@
 - pkg:maven/com.vaadin/flow-lit-template@24.3.16?classifier=sources
 - pkg:maven/com.vaadin/flow-lit-template@24.3.17
 - pkg:maven/com.vaadin/flow-lit-template@24.3.17?classifier=sources
+- pkg:maven/com.vaadin/flow-lit-template@24.3.18
+- pkg:maven/com.vaadin/flow-lit-template@24.3.18?classifier=sources
 - pkg:maven/com.vaadin/flow-lit-template@24.3.1?classifier=sources
 - pkg:maven/com.vaadin/flow-lit-template@24.3.2
 - pkg:maven/com.vaadin/flow-lit-template@24.3.2?classifier=sources
@@ -457,6 +461,8 @@
 - pkg:maven/com.vaadin/flow-lit-template@24.4.7?classifier=sources
 - pkg:maven/com.vaadin/flow-lit-template@24.4.8
 - pkg:maven/com.vaadin/flow-lit-template@24.4.8?classifier=sources
+- pkg:maven/com.vaadin/flow-lit-template@24.4.9
+- pkg:maven/com.vaadin/flow-lit-template@24.4.9?classifier=sources
 - pkg:maven/com.vaadin/flow-lit-template@5.0.0
 - pkg:maven/com.vaadin/flow-lit-template@5.0.0?classifier=sources
 - pkg:maven/com.vaadin/flow-lit-template@5.0.1

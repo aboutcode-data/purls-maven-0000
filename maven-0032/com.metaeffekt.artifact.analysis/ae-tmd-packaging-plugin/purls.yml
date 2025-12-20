@@ -36,6 +36,10 @@
 - pkg:maven/com.metaeffekt.artifact.analysis/ae-tmd-packaging-plugin@0.119.0?classifier=sources
 - pkg:maven/com.metaeffekt.artifact.analysis/ae-tmd-packaging-plugin@0.120.0
 - pkg:maven/com.metaeffekt.artifact.analysis/ae-tmd-packaging-plugin@0.120.0?classifier=sources
+- pkg:maven/com.metaeffekt.artifact.analysis/ae-tmd-packaging-plugin@0.121.0
+- pkg:maven/com.metaeffekt.artifact.analysis/ae-tmd-packaging-plugin@0.121.0?classifier=sources
+- pkg:maven/com.metaeffekt.artifact.analysis/ae-tmd-packaging-plugin@0.122.0
+- pkg:maven/com.metaeffekt.artifact.analysis/ae-tmd-packaging-plugin@0.122.0?classifier=sources
 - pkg:maven/com.metaeffekt.artifact.analysis/ae-tmd-packaging-plugin@0.67.0
 - pkg:maven/com.metaeffekt.artifact.analysis/ae-tmd-packaging-plugin@0.68.0
 - pkg:maven/com.metaeffekt.artifact.analysis/ae-tmd-packaging-plugin@0.69.0

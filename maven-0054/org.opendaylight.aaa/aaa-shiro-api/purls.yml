@@ -139,6 +139,8 @@
 - pkg:maven/org.opendaylight.aaa/aaa-shiro-api@0.20.0
 - pkg:maven/org.opendaylight.aaa/aaa-shiro-api@0.20.0?classifier=sources
 - pkg:maven/org.opendaylight.aaa/aaa-shiro-api@0.20.1?classifier=sources
+- pkg:maven/org.opendaylight.aaa/aaa-shiro-api@0.20.2
+- pkg:maven/org.opendaylight.aaa/aaa-shiro-api@0.20.2?classifier=sources
 - pkg:maven/org.opendaylight.aaa/aaa-shiro-api@0.5.0-Carbon
 - pkg:maven/org.opendaylight.aaa/aaa-shiro-api@0.5.0-Carbon?classifier=sources
 - pkg:maven/org.opendaylight.aaa/aaa-shiro-api@0.5.1-Carbon

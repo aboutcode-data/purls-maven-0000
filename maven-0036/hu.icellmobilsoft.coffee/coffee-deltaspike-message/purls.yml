@@ -16,3 +16,5 @@
 - pkg:maven/hu.icellmobilsoft.coffee/coffee-deltaspike-message@2.7.0?classifier=sources
 - pkg:maven/hu.icellmobilsoft.coffee/coffee-deltaspike-message@2.8.0
 - pkg:maven/hu.icellmobilsoft.coffee/coffee-deltaspike-message@2.8.0?classifier=sources
+- pkg:maven/hu.icellmobilsoft.coffee/coffee-deltaspike-message@2.9.0
+- pkg:maven/hu.icellmobilsoft.coffee/coffee-deltaspike-message@2.9.0?classifier=sources

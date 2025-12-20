@@ -1,0 +1,2 @@
+- pkg:maven/io.github.redteamobile/test-deploy-to-stn@1.0.0
+- pkg:maven/io.github.redteamobile/test-deploy-to-stn@1.0.0?classifier=sources

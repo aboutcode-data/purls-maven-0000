@@ -3,4 +3,5 @@
 - pkg:maven/com.lmco.ptolemaeus/math@1.0.2?classifier=sources
 - pkg:maven/com.lmco.ptolemaeus/math@1.1.0?classifier=sources
 - pkg:maven/com.lmco.ptolemaeus/math@2.0.0?classifier=sources
+- pkg:maven/com.lmco.ptolemaeus/math@3.0.0?classifier=sources
 - pkg:maven/com.lmco.ptolemaeus/math@unspecified?classifier=sources

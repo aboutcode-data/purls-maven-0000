@@ -2,3 +2,4 @@
 - pkg:maven/org.webjars.npm/videojs-playlist-ui@3.5.2?classifier=sources
 - pkg:maven/org.webjars.npm/videojs-playlist-ui@3.8.0
 - pkg:maven/org.webjars.npm/videojs-playlist-ui@3.8.0?classifier=sources
+- pkg:maven/org.webjars.npm/videojs-playlist-ui@5.0.0

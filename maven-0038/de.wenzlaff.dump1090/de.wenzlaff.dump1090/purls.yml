@@ -16,3 +16,4 @@
 - pkg:maven/de.wenzlaff.dump1090/de.wenzlaff.dump1090@0.0.8?classifier=sources
 - pkg:maven/de.wenzlaff.dump1090/de.wenzlaff.dump1090@0.0.9
 - pkg:maven/de.wenzlaff.dump1090/de.wenzlaff.dump1090@0.0.9?classifier=sources
+- pkg:maven/de.wenzlaff.dump1090/de.wenzlaff.dump1090@0.1.0?classifier=sources

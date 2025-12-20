@@ -8,3 +8,4 @@
 - pkg:maven/com.gitee.easy4use/hub-link-extension@1.0.9?classifier=sources
 - pkg:maven/com.gitee.easy4use/hub-link-extension@3.5.2.0?classifier=sources
 - pkg:maven/com.gitee.easy4use/hub-link-extension@3.5.2.1?classifier=sources
+- pkg:maven/com.gitee.easy4use/hub-link-extension@3.5.2.2?classifier=sources

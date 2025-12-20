@@ -1,0 +1,2 @@
+- pkg:maven/com.evolvedbinary.thirdparty.xerces/xercesImpl@2.12.2.1
+- pkg:maven/com.evolvedbinary.thirdparty.xerces/xercesImpl@2.12.2.1?classifier=sources
