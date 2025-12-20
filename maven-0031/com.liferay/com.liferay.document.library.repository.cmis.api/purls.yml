@@ -488,3 +488,4 @@
 - pkg:maven/com.liferay/com.liferay.document.library.repository.cmis.api@8.0.2?classifier=sources
 - pkg:maven/com.liferay/com.liferay.document.library.repository.cmis.api@8.0.3?classifier=sources
 - pkg:maven/com.liferay/com.liferay.document.library.repository.cmis.api@9.0.0?classifier=sources
+- pkg:maven/com.liferay/com.liferay.document.library.repository.cmis.api@9.1.0?classifier=sources

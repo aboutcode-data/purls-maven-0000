@@ -38,3 +38,4 @@
 - pkg:maven/com.mapp.sdk/intelligence-android@5.1.7.2?classifier=sources
 - pkg:maven/com.mapp.sdk/intelligence-android@5.1.7?classifier=sources
 - pkg:maven/com.mapp.sdk/intelligence-android@5.1.8?classifier=sources
+- pkg:maven/com.mapp.sdk/intelligence-android@5.1.9?classifier=sources

@@ -3,3 +3,4 @@
 - pkg:maven/dev.mccue/jlayer@0.0.3?classifier=sources
 - pkg:maven/dev.mccue/jlayer@0.0.4?classifier=sources
 - pkg:maven/dev.mccue/jlayer@0.0.7?classifier=sources
+- pkg:maven/dev.mccue/jlayer@2024.04.19?classifier=sources

@@ -46,8 +46,12 @@
 - pkg:maven/io.netty/netty-resolver@4.1.107.Final?classifier=sources
 - pkg:maven/io.netty/netty-resolver@4.1.108.Final
 - pkg:maven/io.netty/netty-resolver@4.1.108.Final?classifier=sources
+- pkg:maven/io.netty/netty-resolver@4.1.109.Final
+- pkg:maven/io.netty/netty-resolver@4.1.109.Final?classifier=sources
 - pkg:maven/io.netty/netty-resolver@4.1.11.Final
 - pkg:maven/io.netty/netty-resolver@4.1.11.Final?classifier=sources
+- pkg:maven/io.netty/netty-resolver@4.1.110.Final
+- pkg:maven/io.netty/netty-resolver@4.1.110.Final?classifier=sources
 - pkg:maven/io.netty/netty-resolver@4.1.12.Final
 - pkg:maven/io.netty/netty-resolver@4.1.12.Final?classifier=sources
 - pkg:maven/io.netty/netty-resolver@4.1.13.Final

@@ -2,3 +2,5 @@
 - pkg:maven/tech.testnx.cah/at-dashboard@0.0.1?classifier=sources
 - pkg:maven/tech.testnx.cah/at-dashboard@1.2.0
 - pkg:maven/tech.testnx.cah/at-dashboard@1.2.0?classifier=sources
+- pkg:maven/tech.testnx.cah/at-dashboard@1.4.0
+- pkg:maven/tech.testnx.cah/at-dashboard@1.4.0?classifier=sources

@@ -88,6 +88,7 @@
 - pkg:maven/com.pulumi/wavefront@3.1.0-alpha.1704219685%2B6ff1e961?classifier=sources
 - pkg:maven/com.pulumi/wavefront@3.1.0?classifier=sources
 - pkg:maven/com.pulumi/wavefront@3.1.1?classifier=sources
+- pkg:maven/com.pulumi/wavefront@3.1.2?classifier=sources
 - pkg:maven/com.pulumi/wavefront@3.2.0-alpha.1704349634%2Bbfbf1a24?classifier=sources
 - pkg:maven/com.pulumi/wavefront@3.2.0-alpha.1704430622%2B781dbe9d?classifier=sources
 - pkg:maven/com.pulumi/wavefront@3.2.0-alpha.1705436835%2B28803814?classifier=sources
@@ -120,3 +121,18 @@
 - pkg:maven/com.pulumi/wavefront@3.2.0-alpha.1712403270%2B1b5a7feb?classifier=sources
 - pkg:maven/com.pulumi/wavefront@3.2.0-alpha.1712470960%2Bae4c2919?classifier=sources
 - pkg:maven/com.pulumi/wavefront@3.2.0-alpha.1712732616%2B9ae5c78c?classifier=sources
+- pkg:maven/com.pulumi/wavefront@3.2.0-alpha.1712991666%2B4cfcddaf?classifier=sources
+- pkg:maven/com.pulumi/wavefront@3.2.0-alpha.1713340678%2B054239a8?classifier=sources
+- pkg:maven/com.pulumi/wavefront@3.2.0-alpha.1713526439%2B00d3478e?classifier=sources
+- pkg:maven/com.pulumi/wavefront@3.2.0-alpha.1713905403%2B49dbfded?classifier=sources
+- pkg:maven/com.pulumi/wavefront@3.2.0-alpha.1714114403%2Bb38b5f3c?classifier=sources
+- pkg:maven/com.pulumi/wavefront@3.2.0-alpha.1714459430%2Bf5a50625?classifier=sources
+- pkg:maven/com.pulumi/wavefront@3.2.0-alpha.1714545022%2B0b3e686?classifier=sources
+- pkg:maven/com.pulumi/wavefront@3.2.0-alpha.1714566250%2B40f4994?classifier=sources
+- pkg:maven/com.pulumi/wavefront@3.2.0-alpha.1715064249%2B99cdcc0?classifier=sources
+- pkg:maven/com.pulumi/wavefront@3.2.0-alpha.1715229970%2B4e280f8?classifier=sources
+- pkg:maven/com.pulumi/wavefront@3.2.0-alpha.1715237486%2B2712fe5?classifier=sources
+- pkg:maven/com.pulumi/wavefront@3.2.0-alpha.1715307330%2B345944b?classifier=sources
+- pkg:maven/com.pulumi/wavefront@3.2.0-alpha.1715339880%2B4a7d8ec?classifier=sources
+- pkg:maven/com.pulumi/wavefront@3.2.0-alpha.1715766625%2B503e979?classifier=sources
+- pkg:maven/com.pulumi/wavefront@3.2.0-alpha.1715929422?classifier=sources

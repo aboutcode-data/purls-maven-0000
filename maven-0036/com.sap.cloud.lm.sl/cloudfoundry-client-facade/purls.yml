@@ -121,6 +121,12 @@
 - pkg:maven/com.sap.cloud.lm.sl/cloudfoundry-client-facade@2.40.1?classifier=sources
 - pkg:maven/com.sap.cloud.lm.sl/cloudfoundry-client-facade@2.41.0
 - pkg:maven/com.sap.cloud.lm.sl/cloudfoundry-client-facade@2.41.0?classifier=sources
+- pkg:maven/com.sap.cloud.lm.sl/cloudfoundry-client-facade@2.42.0
+- pkg:maven/com.sap.cloud.lm.sl/cloudfoundry-client-facade@2.42.0?classifier=sources
+- pkg:maven/com.sap.cloud.lm.sl/cloudfoundry-client-facade@2.43.0
+- pkg:maven/com.sap.cloud.lm.sl/cloudfoundry-client-facade@2.43.0?classifier=sources
+- pkg:maven/com.sap.cloud.lm.sl/cloudfoundry-client-facade@2.44.0
+- pkg:maven/com.sap.cloud.lm.sl/cloudfoundry-client-facade@2.44.0?classifier=sources
 - pkg:maven/com.sap.cloud.lm.sl/cloudfoundry-client-facade@2.5.0
 - pkg:maven/com.sap.cloud.lm.sl/cloudfoundry-client-facade@2.5.0?classifier=sources
 - pkg:maven/com.sap.cloud.lm.sl/cloudfoundry-client-facade@2.6.0

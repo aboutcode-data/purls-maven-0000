@@ -334,6 +334,10 @@
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-dlp-v2@3.44.0?classifier=sources
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-dlp-v2@3.45.0
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-dlp-v2@3.45.0?classifier=sources
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-dlp-v2@3.46.0
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-dlp-v2@3.46.0?classifier=sources
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-dlp-v2@3.47.0
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-dlp-v2@3.47.0?classifier=sources
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-dlp-v2@3.5.0
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-dlp-v2@3.5.0?classifier=sources
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-dlp-v2@3.6.0

@@ -1,0 +1,3 @@
+- pkg:maven/com.sumologic.cdktf/lib@1.0.2.29.0?classifier=sources
+- pkg:maven/com.sumologic.cdktf/lib@2.0.2.29.0?classifier=sources
+- pkg:maven/com.sumologic.cdktf/lib@3.0.2.29.0?classifier=sources

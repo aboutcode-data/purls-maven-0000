@@ -1,0 +1,2 @@
+- pkg:maven/com.xxsword.xitem/mybatis-actable-upgrade@1.5.2?classifier=sources
+- pkg:maven/com.xxsword.xitem/mybatis-actable-upgrade@1.6.0?classifier=sources

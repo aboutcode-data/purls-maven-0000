@@ -1,0 +1,2 @@
+- pkg:maven/edu.stanford.protege/webprotege-event-history-service@1.0.2
+- pkg:maven/edu.stanford.protege/webprotege-event-history-service@1.0.2?classifier=sources

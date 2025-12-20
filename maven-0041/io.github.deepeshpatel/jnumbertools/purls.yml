@@ -10,3 +10,5 @@
 - pkg:maven/io.github.deepeshpatel/jnumbertools@1.0.4?classifier=sources
 - pkg:maven/io.github.deepeshpatel/jnumbertools@1.0.5
 - pkg:maven/io.github.deepeshpatel/jnumbertools@1.0.5?classifier=sources
+- pkg:maven/io.github.deepeshpatel/jnumbertools@2.0.0
+- pkg:maven/io.github.deepeshpatel/jnumbertools@2.0.0?classifier=sources

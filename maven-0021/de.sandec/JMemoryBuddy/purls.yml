@@ -27,3 +27,4 @@
 - pkg:maven/de.sandec/JMemoryBuddy@0.5.2?classifier=sources
 - pkg:maven/de.sandec/JMemoryBuddy@0.5.3-TEST2?classifier=sources
 - pkg:maven/de.sandec/JMemoryBuddy@0.5.3?classifier=sources
+- pkg:maven/de.sandec/JMemoryBuddy@0.5.4?classifier=sources

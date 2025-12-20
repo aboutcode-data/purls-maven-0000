@@ -25,3 +25,4 @@
 - pkg:maven/com.growingio.android/oaid@4.0.0?classifier=sources
 - pkg:maven/com.growingio.android/oaid@4.1.0?classifier=sources
 - pkg:maven/com.growingio.android/oaid@4.2.0?classifier=sources
+- pkg:maven/com.growingio.android/oaid@4.3.0?classifier=sources

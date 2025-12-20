@@ -28,3 +28,5 @@
 - pkg:maven/com.limemojito.oss.aws/aws-cleaner@5.2.7?classifier=sources
 - pkg:maven/com.limemojito.oss.aws/aws-cleaner@5.2.9
 - pkg:maven/com.limemojito.oss.aws/aws-cleaner@5.2.9?classifier=sources
+- pkg:maven/com.limemojito.oss.aws/aws-cleaner@6.0.0
+- pkg:maven/com.limemojito.oss.aws/aws-cleaner@6.0.0?classifier=sources

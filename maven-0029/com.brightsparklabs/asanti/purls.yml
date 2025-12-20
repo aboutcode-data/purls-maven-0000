@@ -26,3 +26,6 @@
 - pkg:maven/com.brightsparklabs/asanti@4.3.0?classifier=sources
 - pkg:maven/com.brightsparklabs/asanti@4.4.0?classifier=sources
 - pkg:maven/com.brightsparklabs/asanti@4.5.0?classifier=sources
+- pkg:maven/com.brightsparklabs/asanti@4.6.0?classifier=sources
+- pkg:maven/com.brightsparklabs/asanti@4.6.1-1-g13b2c44?classifier=sources
+- pkg:maven/com.brightsparklabs/asanti@4.6.1?classifier=sources

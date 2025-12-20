@@ -12,3 +12,5 @@
 - pkg:maven/com.thoughtworks.sbt-scala-js-map/sbt-scala-js-map_2.12_1.0@4.1.1%2B157-316ae920?classifier=sources
 - pkg:maven/com.thoughtworks.sbt-scala-js-map/sbt-scala-js-map_2.12_1.0@4.1.1%2B158-c28aba65
 - pkg:maven/com.thoughtworks.sbt-scala-js-map/sbt-scala-js-map_2.12_1.0@4.1.1%2B158-c28aba65?classifier=sources
+- pkg:maven/com.thoughtworks.sbt-scala-js-map/sbt-scala-js-map_2.12_1.0@4.1.1%2B159-4da053d2
+- pkg:maven/com.thoughtworks.sbt-scala-js-map/sbt-scala-js-map_2.12_1.0@4.1.1%2B159-4da053d2?classifier=sources

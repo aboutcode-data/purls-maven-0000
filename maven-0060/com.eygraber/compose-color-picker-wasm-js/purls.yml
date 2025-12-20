@@ -1,0 +1,2 @@
+- pkg:maven/com.eygraber/compose-color-picker-wasm-js@0.0.18?classifier=sources
+- pkg:maven/com.eygraber/compose-color-picker-wasm-js@0.0.19?classifier=sources

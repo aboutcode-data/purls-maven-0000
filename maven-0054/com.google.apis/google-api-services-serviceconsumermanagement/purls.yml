@@ -952,6 +952,10 @@
 - pkg:maven/com.google.apis/google-api-services-serviceconsumermanagement@v1-rev20231128-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-serviceconsumermanagement@v1-rev20231217-2.0.0
 - pkg:maven/com.google.apis/google-api-services-serviceconsumermanagement@v1-rev20231217-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-serviceconsumermanagement@v1-rev20240414-2.0.0
+- pkg:maven/com.google.apis/google-api-services-serviceconsumermanagement@v1-rev20240414-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-serviceconsumermanagement@v1-rev20240429-2.0.0
+- pkg:maven/com.google.apis/google-api-services-serviceconsumermanagement@v1-rev20240429-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-serviceconsumermanagement@v1-rev21-1.18.0-rc
 - pkg:maven/com.google.apis/google-api-services-serviceconsumermanagement@v1-rev21-1.18.0-rc?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-serviceconsumermanagement@v1-rev21-1.21.0
@@ -2030,6 +2034,12 @@
 - pkg:maven/com.google.apis/google-api-services-serviceconsumermanagement@v1beta1-rev20240102-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-serviceconsumermanagement@v1beta1-rev20240317-2.0.0
 - pkg:maven/com.google.apis/google-api-services-serviceconsumermanagement@v1beta1-rev20240317-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-serviceconsumermanagement@v1beta1-rev20240414-2.0.0
+- pkg:maven/com.google.apis/google-api-services-serviceconsumermanagement@v1beta1-rev20240414-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-serviceconsumermanagement@v1beta1-rev20240429-2.0.0
+- pkg:maven/com.google.apis/google-api-services-serviceconsumermanagement@v1beta1-rev20240429-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-serviceconsumermanagement@v1beta1-rev20240512-2.0.0
+- pkg:maven/com.google.apis/google-api-services-serviceconsumermanagement@v1beta1-rev20240512-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-serviceconsumermanagement@v1beta1-rev3-1.18.0-rc
 - pkg:maven/com.google.apis/google-api-services-serviceconsumermanagement@v1beta1-rev3-1.18.0-rc?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-serviceconsumermanagement@v1beta1-rev3-1.25.0

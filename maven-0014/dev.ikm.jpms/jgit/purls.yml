@@ -1,0 +1,2 @@
+- pkg:maven/dev.ikm.jpms/jgit@6.7.0.202309050840-r-r2
+- pkg:maven/dev.ikm.jpms/jgit@6.7.0.202309050840-r-r2?classifier=sources

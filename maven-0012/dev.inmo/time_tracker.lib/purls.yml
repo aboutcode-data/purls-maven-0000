@@ -1,0 +1,2 @@
+- pkg:maven/dev.inmo/time_tracker.lib@0.0.2?classifier=sources
+- pkg:maven/dev.inmo/time_tracker.lib@0.0.4?classifier=sources

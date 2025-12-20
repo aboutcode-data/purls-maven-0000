@@ -1,0 +1,2 @@
+- pkg:maven/be.personify/ipersonic-model@1.0.0.RELEASE
+- pkg:maven/be.personify/ipersonic-model@1.0.0.RELEASE?classifier=sources

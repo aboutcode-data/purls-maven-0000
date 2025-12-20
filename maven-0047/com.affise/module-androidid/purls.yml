@@ -1,0 +1,2 @@
+- pkg:maven/com.affise/module-androidid@1.6.31?classifier=sources
+- pkg:maven/com.affise/module-androidid@1.6.32?classifier=sources

@@ -93,3 +93,5 @@
 - pkg:maven/com.permutive.android/core@1.9.2?classifier=sources
 - pkg:maven/com.permutive.android/core@1.9.3-DEBUG?classifier=sources
 - pkg:maven/com.permutive.android/core@1.9.3?classifier=sources
+- pkg:maven/com.permutive.android/core@1.9.4-DEBUG?classifier=sources
+- pkg:maven/com.permutive.android/core@1.9.4?classifier=sources

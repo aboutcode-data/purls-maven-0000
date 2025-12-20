@@ -1,0 +1,2 @@
+- pkg:maven/cl.emilym.compose/errorwidget@1.0.0?classifier=sources
+- pkg:maven/cl.emilym.compose/errorwidget@1.0.0?type=aar

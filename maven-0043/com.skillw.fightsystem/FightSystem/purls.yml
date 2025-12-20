@@ -6,3 +6,5 @@
 - pkg:maven/com.skillw.fightsystem/FightSystem@1.0.4-beta-25?classifier=sources
 - pkg:maven/com.skillw.fightsystem/FightSystem@1.0.4-beta-26?classifier=sources
 - pkg:maven/com.skillw.fightsystem/FightSystem@1.0.5-beta-29?classifier=sources
+- pkg:maven/com.skillw.fightsystem/FightSystem@1.0.5-beta-32?classifier=sources
+- pkg:maven/com.skillw.fightsystem/FightSystem@1.0.5-beta-33?classifier=sources

@@ -1,0 +1,1 @@
+- pkg:maven/com.scalar-labs/scalardb-analytics-spark-scalardb-shaded@3.12.0?classifier=sources

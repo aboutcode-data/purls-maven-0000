@@ -123,6 +123,7 @@
 - pkg:maven/org.apache.camel/camel-itest-jms2@3.21.4
 - pkg:maven/org.apache.camel/camel-itest-jms2@3.22.0
 - pkg:maven/org.apache.camel/camel-itest-jms2@3.22.1
+- pkg:maven/org.apache.camel/camel-itest-jms2@3.22.2
 - pkg:maven/org.apache.camel/camel-itest-jms2@3.3.0
 - pkg:maven/org.apache.camel/camel-itest-jms2@3.4.0
 - pkg:maven/org.apache.camel/camel-itest-jms2@3.4.1

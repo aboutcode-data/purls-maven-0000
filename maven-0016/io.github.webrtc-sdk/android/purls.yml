@@ -15,3 +15,4 @@
 - pkg:maven/io.github.webrtc-sdk/android@114.5735.08?classifier=sources
 - pkg:maven/io.github.webrtc-sdk/android@114.5735.09?classifier=sources
 - pkg:maven/io.github.webrtc-sdk/android@114.5735.10?classifier=sources
+- pkg:maven/io.github.webrtc-sdk/android@114.5735.11?classifier=sources

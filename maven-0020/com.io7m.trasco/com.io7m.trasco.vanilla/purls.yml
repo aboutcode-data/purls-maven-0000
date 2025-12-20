@@ -20,3 +20,5 @@
 - pkg:maven/com.io7m.trasco/com.io7m.trasco.vanilla@1.0.0?classifier=sources
 - pkg:maven/com.io7m.trasco/com.io7m.trasco.vanilla@1.1.0
 - pkg:maven/com.io7m.trasco/com.io7m.trasco.vanilla@1.1.0?classifier=sources
+- pkg:maven/com.io7m.trasco/com.io7m.trasco.vanilla@2.0.0
+- pkg:maven/com.io7m.trasco/com.io7m.trasco.vanilla@2.0.0?classifier=sources

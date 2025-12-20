@@ -4,4 +4,5 @@
 - pkg:maven/com.openmobilehub.android/omh-core@1.0.4-beta?classifier=sources
 - pkg:maven/com.openmobilehub.android/omh-core@1.0?classifier=sources
 - pkg:maven/com.openmobilehub.android/omh-core@2.0.0-beta?classifier=sources
+- pkg:maven/com.openmobilehub.android/omh-core@2.0.0?classifier=sources
 - pkg:maven/com.openmobilehub.android/omh-core@2.0.1-beta?classifier=sources

@@ -1,0 +1,6 @@
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-marketplaceprivateoffer@2.72.0
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-marketplaceprivateoffer@2.72.0?classifier=sources
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-marketplaceprivateoffer@3.41.2
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-marketplaceprivateoffer@3.41.2?classifier=sources
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-marketplaceprivateoffer@3.41.3
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-marketplaceprivateoffer@3.41.3?classifier=sources

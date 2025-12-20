@@ -40,3 +40,5 @@
 - pkg:maven/io.falu/falu-android@2.6.6?classifier=sources
 - pkg:maven/io.falu/falu-android@2.6.7?classifier=sources
 - pkg:maven/io.falu/falu-android@2.6.8?classifier=sources
+- pkg:maven/io.falu/falu-android@2.6.9?classifier=sources
+- pkg:maven/io.falu/falu-android@2.7.0?classifier=sources

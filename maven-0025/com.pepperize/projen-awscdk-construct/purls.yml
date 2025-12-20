@@ -1126,3 +1126,9 @@
 - pkg:maven/com.pepperize/projen-awscdk-construct@0.0.725?classifier=sources
 - pkg:maven/com.pepperize/projen-awscdk-construct@0.0.726
 - pkg:maven/com.pepperize/projen-awscdk-construct@0.0.726?classifier=sources
+- pkg:maven/com.pepperize/projen-awscdk-construct@0.0.727
+- pkg:maven/com.pepperize/projen-awscdk-construct@0.0.727?classifier=sources
+- pkg:maven/com.pepperize/projen-awscdk-construct@0.0.728
+- pkg:maven/com.pepperize/projen-awscdk-construct@0.0.728?classifier=sources
+- pkg:maven/com.pepperize/projen-awscdk-construct@0.0.729
+- pkg:maven/com.pepperize/projen-awscdk-construct@0.0.729?classifier=sources
