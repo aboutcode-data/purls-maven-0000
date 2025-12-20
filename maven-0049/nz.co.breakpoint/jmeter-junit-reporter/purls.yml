@@ -1,0 +1,2 @@
+- pkg:maven/nz.co.breakpoint/jmeter-junit-reporter@1.1
+- pkg:maven/nz.co.breakpoint/jmeter-junit-reporter@1.1?classifier=sources

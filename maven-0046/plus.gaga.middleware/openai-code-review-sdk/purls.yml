@@ -1,0 +1,2 @@
+- pkg:maven/plus.gaga.middleware/openai-code-review-sdk@1.0
+- pkg:maven/plus.gaga.middleware/openai-code-review-sdk@1.0?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/software.amazon.awsconstructs/apigatewayv2websocketsqs@2.63.0
+- pkg:maven/software.amazon.awsconstructs/apigatewayv2websocketsqs@2.63.0?classifier=sources
+- pkg:maven/software.amazon.awsconstructs/apigatewayv2websocketsqs@2.64.0
+- pkg:maven/software.amazon.awsconstructs/apigatewayv2websocketsqs@2.64.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/de.acosix.alfresco.utility/de.acosix.alfresco.utility.core.repo.common@1.4.0
+- pkg:maven/de.acosix.alfresco.utility/de.acosix.alfresco.utility.core.repo.common@1.4.0?classifier=sources

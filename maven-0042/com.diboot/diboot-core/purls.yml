@@ -24,6 +24,8 @@
 - pkg:maven/com.diboot/diboot-core@2.1.2?classifier=sources
 - pkg:maven/com.diboot/diboot-core@2.10.0
 - pkg:maven/com.diboot/diboot-core@2.10.0?classifier=sources
+- pkg:maven/com.diboot/diboot-core@2.11.0
+- pkg:maven/com.diboot/diboot-core@2.11.0?classifier=sources
 - pkg:maven/com.diboot/diboot-core@2.2.0
 - pkg:maven/com.diboot/diboot-core@2.2.0?classifier=sources
 - pkg:maven/com.diboot/diboot-core@2.2.1
@@ -62,3 +64,5 @@
 - pkg:maven/com.diboot/diboot-core@3.3.0?classifier=sources
 - pkg:maven/com.diboot/diboot-core@3.3.1
 - pkg:maven/com.diboot/diboot-core@3.3.1?classifier=sources
+- pkg:maven/com.diboot/diboot-core@3.4.0
+- pkg:maven/com.diboot/diboot-core@3.4.0?classifier=sources

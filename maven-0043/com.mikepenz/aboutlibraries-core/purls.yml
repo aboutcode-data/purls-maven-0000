@@ -61,6 +61,7 @@
 - pkg:maven/com.mikepenz/aboutlibraries-core@11.2.0-a01?classifier=sources
 - pkg:maven/com.mikepenz/aboutlibraries-core@11.2.0?classifier=sources
 - pkg:maven/com.mikepenz/aboutlibraries-core@11.2.1?classifier=sources
+- pkg:maven/com.mikepenz/aboutlibraries-core@11.2.2?classifier=sources
 - pkg:maven/com.mikepenz/aboutlibraries-core@7.1.0?classifier=sources
 - pkg:maven/com.mikepenz/aboutlibraries-core@7.1.0?type=aar
 - pkg:maven/com.mikepenz/aboutlibraries-core@8.0.0-a02?classifier=sources

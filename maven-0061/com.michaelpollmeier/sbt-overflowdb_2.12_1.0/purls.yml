@@ -1,0 +1,4 @@
+- pkg:maven/com.michaelpollmeier/sbt-overflowdb_2.12_1.0@2.108a
+- pkg:maven/com.michaelpollmeier/sbt-overflowdb_2.12_1.0@2.108a?classifier=sources
+- pkg:maven/com.michaelpollmeier/sbt-overflowdb_2.12_1.0@2.110
+- pkg:maven/com.michaelpollmeier/sbt-overflowdb_2.12_1.0@2.110?classifier=sources

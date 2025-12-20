@@ -23,3 +23,5 @@
 - pkg:maven/dev.kosrat/muslimdata@2.1.0?classifier=sources
 - pkg:maven/dev.kosrat/muslimdata@2.1.1?classifier=sources
 - pkg:maven/dev.kosrat/muslimdata@2.1.2?classifier=sources
+- pkg:maven/dev.kosrat/muslimdata@2.2.0?classifier=sources
+- pkg:maven/dev.kosrat/muslimdata@2.3.0?classifier=sources

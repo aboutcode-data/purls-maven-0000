@@ -44,3 +44,11 @@
 - pkg:maven/software.amazon.awsconstructs/resources@2.59.0?classifier=sources
 - pkg:maven/software.amazon.awsconstructs/resources@2.60.0
 - pkg:maven/software.amazon.awsconstructs/resources@2.60.0?classifier=sources
+- pkg:maven/software.amazon.awsconstructs/resources@2.61.0
+- pkg:maven/software.amazon.awsconstructs/resources@2.61.0?classifier=sources
+- pkg:maven/software.amazon.awsconstructs/resources@2.62.0
+- pkg:maven/software.amazon.awsconstructs/resources@2.62.0?classifier=sources
+- pkg:maven/software.amazon.awsconstructs/resources@2.63.0
+- pkg:maven/software.amazon.awsconstructs/resources@2.63.0?classifier=sources
+- pkg:maven/software.amazon.awsconstructs/resources@2.64.0
+- pkg:maven/software.amazon.awsconstructs/resources@2.64.0?classifier=sources

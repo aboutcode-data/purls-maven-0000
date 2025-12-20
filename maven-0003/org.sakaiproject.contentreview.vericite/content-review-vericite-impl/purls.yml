@@ -64,3 +64,5 @@
 - pkg:maven/org.sakaiproject.contentreview.vericite/content-review-vericite-impl@22.3?classifier=sources
 - pkg:maven/org.sakaiproject.contentreview.vericite/content-review-vericite-impl@22.4
 - pkg:maven/org.sakaiproject.contentreview.vericite/content-review-vericite-impl@22.4?classifier=sources
+- pkg:maven/org.sakaiproject.contentreview.vericite/content-review-vericite-impl@22.5
+- pkg:maven/org.sakaiproject.contentreview.vericite/content-review-vericite-impl@22.5?classifier=sources

@@ -1,0 +1,3 @@
+- pkg:maven/net.truej/sql@0.0.1?classifier=sources
+- pkg:maven/net.truej/sql@0.0.2?classifier=sources
+- pkg:maven/net.truej/sql@3.0.0-beta1?classifier=sources

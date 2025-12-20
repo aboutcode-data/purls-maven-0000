@@ -2,6 +2,8 @@
 - pkg:maven/org.pageseeder.flint/pso-flint@5.2.21?classifier=sources
 - pkg:maven/org.pageseeder.flint/pso-flint@5.2.22?classifier=sources
 - pkg:maven/org.pageseeder.flint/pso-flint@5.2.23?classifier=sources
+- pkg:maven/org.pageseeder.flint/pso-flint@9.11.1?classifier=sources
+- pkg:maven/org.pageseeder.flint/pso-flint@9.11.2?classifier=sources
 - pkg:maven/org.pageseeder.flint/pso-flint@9.2.0?classifier=sources
 - pkg:maven/org.pageseeder.flint/pso-flint@9.2.1?classifier=sources
 - pkg:maven/org.pageseeder.flint/pso-flint@9.2.2?classifier=sources

@@ -531,6 +531,7 @@
 - pkg:maven/com.liferay/com.liferay.gradle.plugins.rest.builder@1.1.231?classifier=sources
 - pkg:maven/com.liferay/com.liferay.gradle.plugins.rest.builder@1.1.232?classifier=sources
 - pkg:maven/com.liferay/com.liferay.gradle.plugins.rest.builder@1.1.233?classifier=sources
+- pkg:maven/com.liferay/com.liferay.gradle.plugins.rest.builder@1.1.234?classifier=sources
 - pkg:maven/com.liferay/com.liferay.gradle.plugins.rest.builder@1.1.23?classifier=sources
 - pkg:maven/com.liferay/com.liferay.gradle.plugins.rest.builder@1.1.24
 - pkg:maven/com.liferay/com.liferay.gradle.plugins.rest.builder@1.1.24?classifier=sources

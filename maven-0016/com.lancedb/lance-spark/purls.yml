@@ -1,0 +1,1 @@
+- pkg:maven/com.lancedb/lance-spark@0.0.4?classifier=sources

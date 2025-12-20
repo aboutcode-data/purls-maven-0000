@@ -2,3 +2,4 @@
 - pkg:maven/com.tencent.timpush/timpush-debug@7.7.5283?classifier=sources
 - pkg:maven/com.tencent.timpush/timpush-debug@7.8.1126?classifier=sources
 - pkg:maven/com.tencent.timpush/timpush-debug@7.8.1127?classifier=sources
+- pkg:maven/com.tencent.timpush/timpush-debug@8.0.5885?classifier=sources

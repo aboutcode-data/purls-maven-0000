@@ -2,3 +2,6 @@
 - pkg:maven/com.palantir.gradle.jdks/gradle-jdks-json@0.36.0?classifier=sources
 - pkg:maven/com.palantir.gradle.jdks/gradle-jdks-json@0.37.0?classifier=sources
 - pkg:maven/com.palantir.gradle.jdks/gradle-jdks-json@0.38.0?classifier=sources
+- pkg:maven/com.palantir.gradle.jdks/gradle-jdks-json@0.39.0?classifier=sources
+- pkg:maven/com.palantir.gradle.jdks/gradle-jdks-json@0.40.0?classifier=sources
+- pkg:maven/com.palantir.gradle.jdks/gradle-jdks-json@0.41.0?classifier=sources

@@ -4,6 +4,8 @@
 - pkg:maven/tech.mgl/mgl-utils@2024.4.3?classifier=sources
 - pkg:maven/tech.mgl/mgl-utils@2024.4.4
 - pkg:maven/tech.mgl/mgl-utils@2024.4.4?classifier=sources
+- pkg:maven/tech.mgl/mgl-utils@2024.5.19
+- pkg:maven/tech.mgl/mgl-utils@2024.5.19?classifier=sources
 - pkg:maven/tech.mgl/mgl-utils@2024.5.8
 - pkg:maven/tech.mgl/mgl-utils@2024.5.8?classifier=sources
 - pkg:maven/tech.mgl/mgl-utils@2024.5.9

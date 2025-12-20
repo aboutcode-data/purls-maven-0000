@@ -1,0 +1,4 @@
+- pkg:maven/com.fhs-opensource/easy-trans-easy-query-extend@2.2.16
+- pkg:maven/com.fhs-opensource/easy-trans-easy-query-extend@2.2.16?classifier=sources
+- pkg:maven/com.fhs-opensource/easy-trans-easy-query-extend@3.0.5
+- pkg:maven/com.fhs-opensource/easy-trans-easy-query-extend@3.0.5?classifier=sources

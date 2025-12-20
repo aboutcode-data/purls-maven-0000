@@ -10,6 +10,8 @@
 - pkg:maven/com.fhs-opensource/easy-trans-mybatis-flex-extend@2.2.14?classifier=sources
 - pkg:maven/com.fhs-opensource/easy-trans-mybatis-flex-extend@2.2.15
 - pkg:maven/com.fhs-opensource/easy-trans-mybatis-flex-extend@2.2.15?classifier=sources
+- pkg:maven/com.fhs-opensource/easy-trans-mybatis-flex-extend@2.2.16
+- pkg:maven/com.fhs-opensource/easy-trans-mybatis-flex-extend@2.2.16?classifier=sources
 - pkg:maven/com.fhs-opensource/easy-trans-mybatis-flex-extend@2.2.4
 - pkg:maven/com.fhs-opensource/easy-trans-mybatis-flex-extend@2.2.4?classifier=sources
 - pkg:maven/com.fhs-opensource/easy-trans-mybatis-flex-extend@2.2.5
@@ -32,3 +34,5 @@
 - pkg:maven/com.fhs-opensource/easy-trans-mybatis-flex-extend@3.0.3?classifier=sources
 - pkg:maven/com.fhs-opensource/easy-trans-mybatis-flex-extend@3.0.4
 - pkg:maven/com.fhs-opensource/easy-trans-mybatis-flex-extend@3.0.4?classifier=sources
+- pkg:maven/com.fhs-opensource/easy-trans-mybatis-flex-extend@3.0.5
+- pkg:maven/com.fhs-opensource/easy-trans-mybatis-flex-extend@3.0.5?classifier=sources

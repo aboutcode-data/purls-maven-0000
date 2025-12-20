@@ -1,0 +1,2 @@
+- pkg:maven/org.jeecgframework.boot/jeecg-boot-starter-rabbitmq-20240627@3.7.0
+- pkg:maven/org.jeecgframework.boot/jeecg-boot-starter-rabbitmq-20240627@3.7.0?classifier=sources

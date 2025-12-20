@@ -1,0 +1,2 @@
+- pkg:maven/no.nordicsemi.android.wifi/domain@1.1.0?classifier=sources
+- pkg:maven/no.nordicsemi.android.wifi/domain@1.1.1?classifier=sources

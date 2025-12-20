@@ -1,4 +1,5 @@
 - pkg:maven/org.webjars.npm/daybrush__utils@1.10.0
 - pkg:maven/org.webjars.npm/daybrush__utils@1.10.0?classifier=sources
+- pkg:maven/org.webjars.npm/daybrush__utils@1.13.0
 - pkg:maven/org.webjars.npm/daybrush__utils@1.9.1
 - pkg:maven/org.webjars.npm/daybrush__utils@1.9.1?classifier=sources

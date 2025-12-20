@@ -7,3 +7,4 @@
 - pkg:maven/cn.javaer.jany/jany-jooq@0.5.0?classifier=sources
 - pkg:maven/cn.javaer.jany/jany-jooq@1.0.0?classifier=sources
 - pkg:maven/cn.javaer.jany/jany-jooq@1.1.0?classifier=sources
+- pkg:maven/cn.javaer.jany/jany-jooq@1.2.0?classifier=sources

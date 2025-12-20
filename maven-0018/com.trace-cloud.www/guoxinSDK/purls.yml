@@ -1,2 +1,4 @@
 - pkg:maven/com.trace-cloud.www/guoxinSDK@0.0.1?classifier=sources
 - pkg:maven/com.trace-cloud.www/guoxinSDK@1.0.0?classifier=sources
+- pkg:maven/com.trace-cloud.www/guoxinSDK@1.0.1?classifier=sources
+- pkg:maven/com.trace-cloud.www/guoxinSDK@1.0.2?classifier=sources

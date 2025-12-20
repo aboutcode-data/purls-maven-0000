@@ -14,3 +14,4 @@
 - pkg:maven/org.webjars.npm/videojs__vhs-utils@4.0.0?classifier=sources
 - pkg:maven/org.webjars.npm/videojs__vhs-utils@4.1.0
 - pkg:maven/org.webjars.npm/videojs__vhs-utils@4.1.0?classifier=sources
+- pkg:maven/org.webjars.npm/videojs__vhs-utils@4.1.1

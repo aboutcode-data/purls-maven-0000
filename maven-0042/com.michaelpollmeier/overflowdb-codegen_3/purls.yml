@@ -1,0 +1,4 @@
+- pkg:maven/com.michaelpollmeier/overflowdb-codegen_3@2.108a
+- pkg:maven/com.michaelpollmeier/overflowdb-codegen_3@2.108a?classifier=sources
+- pkg:maven/com.michaelpollmeier/overflowdb-codegen_3@2.110
+- pkg:maven/com.michaelpollmeier/overflowdb-codegen_3@2.110?classifier=sources

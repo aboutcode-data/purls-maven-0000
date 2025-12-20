@@ -1,0 +1,4 @@
+- pkg:maven/io.telicent.smart-caches/cli-probe-server@0.21.0
+- pkg:maven/io.telicent.smart-caches/cli-probe-server@0.21.0?classifier=sources
+- pkg:maven/io.telicent.smart-caches/cli-probe-server@0.21.1
+- pkg:maven/io.telicent.smart-caches/cli-probe-server@0.21.1?classifier=sources

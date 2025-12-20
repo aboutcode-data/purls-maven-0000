@@ -4,3 +4,5 @@
 - pkg:maven/org.imixs.workflow/imixs-adapters-odf@2.3.3?classifier=sources
 - pkg:maven/org.imixs.workflow/imixs-adapters-odf@3.0.0
 - pkg:maven/org.imixs.workflow/imixs-adapters-odf@3.0.0?classifier=sources
+- pkg:maven/org.imixs.workflow/imixs-adapters-odf@3.0.1
+- pkg:maven/org.imixs.workflow/imixs-adapters-odf@3.0.1?classifier=sources

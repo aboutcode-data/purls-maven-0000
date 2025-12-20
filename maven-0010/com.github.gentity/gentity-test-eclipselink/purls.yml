@@ -3,3 +3,4 @@
 - pkg:maven/com.github.gentity/gentity-test-eclipselink@0.25
 - pkg:maven/com.github.gentity/gentity-test-eclipselink@0.26
 - pkg:maven/com.github.gentity/gentity-test-eclipselink@0.27
+- pkg:maven/com.github.gentity/gentity-test-eclipselink@1.0.0

@@ -104,6 +104,8 @@
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-addons-graalvm@2.66.0?classifier=sources
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-addons-graalvm@2.72.0
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-addons-graalvm@2.72.0?classifier=sources
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-addons-graalvm@2.73.0
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-addons-graalvm@2.73.0?classifier=sources
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-addons-graalvm@3.0.0
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-addons-graalvm@3.0.0-beta1
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-addons-graalvm@3.0.0-beta1?classifier=sources

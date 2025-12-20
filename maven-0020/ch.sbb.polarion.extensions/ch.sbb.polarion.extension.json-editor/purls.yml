@@ -1,0 +1,2 @@
+- pkg:maven/ch.sbb.polarion.extensions/ch.sbb.polarion.extension.json-editor@1.6.0
+- pkg:maven/ch.sbb.polarion.extensions/ch.sbb.polarion.extension.json-editor@1.6.0?classifier=sources

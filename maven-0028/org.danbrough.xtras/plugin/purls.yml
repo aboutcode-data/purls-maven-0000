@@ -1,1 +1,2 @@
 - pkg:maven/org.danbrough.xtras/plugin@0.0.1-alpha01?classifier=sources
+- pkg:maven/org.danbrough.xtras/plugin@0.0.1-alpha04?classifier=sources

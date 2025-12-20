@@ -28,3 +28,5 @@
 - pkg:maven/org.scalameta/metac_2.13.12@4.8.9?classifier=sources
 - pkg:maven/org.scalameta/metac_2.13.12@4.9.0
 - pkg:maven/org.scalameta/metac_2.13.12@4.9.0?classifier=sources
+- pkg:maven/org.scalameta/metac_2.13.12@4.9.9
+- pkg:maven/org.scalameta/metac_2.13.12@4.9.9?classifier=sources
