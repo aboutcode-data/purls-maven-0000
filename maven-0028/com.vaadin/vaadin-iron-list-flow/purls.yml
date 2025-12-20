@@ -30,6 +30,10 @@
 - pkg:maven/com.vaadin/vaadin-iron-list-flow@14.10.4?classifier=sources
 - pkg:maven/com.vaadin/vaadin-iron-list-flow@14.10.5
 - pkg:maven/com.vaadin/vaadin-iron-list-flow@14.10.5?classifier=sources
+- pkg:maven/com.vaadin/vaadin-iron-list-flow@14.10.6
+- pkg:maven/com.vaadin/vaadin-iron-list-flow@14.10.6?classifier=sources
+- pkg:maven/com.vaadin/vaadin-iron-list-flow@14.10.7
+- pkg:maven/com.vaadin/vaadin-iron-list-flow@14.10.7?classifier=sources
 - pkg:maven/com.vaadin/vaadin-iron-list-flow@14.5.0
 - pkg:maven/com.vaadin/vaadin-iron-list-flow@14.5.0?classifier=sources
 - pkg:maven/com.vaadin/vaadin-iron-list-flow@14.5.1
@@ -419,6 +423,12 @@
 - pkg:maven/com.vaadin/vaadin-iron-list-flow@23.3.20?classifier=sources
 - pkg:maven/com.vaadin/vaadin-iron-list-flow@23.3.21
 - pkg:maven/com.vaadin/vaadin-iron-list-flow@23.3.21?classifier=sources
+- pkg:maven/com.vaadin/vaadin-iron-list-flow@23.3.22
+- pkg:maven/com.vaadin/vaadin-iron-list-flow@23.3.22?classifier=sources
+- pkg:maven/com.vaadin/vaadin-iron-list-flow@23.3.23
+- pkg:maven/com.vaadin/vaadin-iron-list-flow@23.3.23?classifier=sources
+- pkg:maven/com.vaadin/vaadin-iron-list-flow@23.3.24
+- pkg:maven/com.vaadin/vaadin-iron-list-flow@23.3.24?classifier=sources
 - pkg:maven/com.vaadin/vaadin-iron-list-flow@23.3.2?classifier=sources
 - pkg:maven/com.vaadin/vaadin-iron-list-flow@23.3.3
 - pkg:maven/com.vaadin/vaadin-iron-list-flow@23.3.3?classifier=sources

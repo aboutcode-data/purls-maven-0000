@@ -128,6 +128,12 @@
 - pkg:maven/software.amazon.awsconstructs/fargatesecretsmanager@2.41.0?classifier=sources
 - pkg:maven/software.amazon.awsconstructs/fargatesecretsmanager@2.42.0
 - pkg:maven/software.amazon.awsconstructs/fargatesecretsmanager@2.42.0?classifier=sources
+- pkg:maven/software.amazon.awsconstructs/fargatesecretsmanager@2.43.0
+- pkg:maven/software.amazon.awsconstructs/fargatesecretsmanager@2.43.0?classifier=sources
+- pkg:maven/software.amazon.awsconstructs/fargatesecretsmanager@2.43.1
+- pkg:maven/software.amazon.awsconstructs/fargatesecretsmanager@2.43.1?classifier=sources
+- pkg:maven/software.amazon.awsconstructs/fargatesecretsmanager@2.44.0
+- pkg:maven/software.amazon.awsconstructs/fargatesecretsmanager@2.44.0?classifier=sources
 - pkg:maven/software.amazon.awsconstructs/fargatesecretsmanager@2.6.0
 - pkg:maven/software.amazon.awsconstructs/fargatesecretsmanager@2.6.0?classifier=sources
 - pkg:maven/software.amazon.awsconstructs/fargatesecretsmanager@2.7.0

@@ -1,0 +1,4 @@
+- pkg:maven/io.github.i4xx/for-sql@1.0.0
+- pkg:maven/io.github.i4xx/for-sql@1.0.0?classifier=sources
+- pkg:maven/io.github.i4xx/for-sql@1.1.0
+- pkg:maven/io.github.i4xx/for-sql@1.1.0?classifier=sources

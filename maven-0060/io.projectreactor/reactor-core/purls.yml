@@ -180,6 +180,7 @@
 - pkg:maven/io.projectreactor/reactor-core@3.4.8?classifier=sources
 - pkg:maven/io.projectreactor/reactor-core@3.4.9?classifier=sources
 - pkg:maven/io.projectreactor/reactor-core@3.5.0?classifier=sources
+- pkg:maven/io.projectreactor/reactor-core@3.5.10?classifier=sources
 - pkg:maven/io.projectreactor/reactor-core@3.5.1?classifier=sources
 - pkg:maven/io.projectreactor/reactor-core@3.5.2?classifier=sources
 - pkg:maven/io.projectreactor/reactor-core@3.5.3?classifier=sources

@@ -30,3 +30,5 @@
 - pkg:maven/com.microfocus.adm.almoctane.sdk.extension/sdk-extension-usage-examples@16.1.100?classifier=sources
 - pkg:maven/com.microfocus.adm.almoctane.sdk.extension/sdk-extension-usage-examples@23.3.0
 - pkg:maven/com.microfocus.adm.almoctane.sdk.extension/sdk-extension-usage-examples@23.3.0?classifier=sources
+- pkg:maven/com.microfocus.adm.almoctane.sdk.extension/sdk-extension-usage-examples@23.3.1
+- pkg:maven/com.microfocus.adm.almoctane.sdk.extension/sdk-extension-usage-examples@23.3.1?classifier=sources

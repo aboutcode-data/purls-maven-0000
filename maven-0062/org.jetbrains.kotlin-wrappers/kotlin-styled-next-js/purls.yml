@@ -159,3 +159,9 @@
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-styled-next-js@1.2.3-pre.619?classifier=sources
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-styled-next-js@1.2.3-pre.620?classifier=sources
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-styled-next-js@1.2.3-pre.621?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-styled-next-js@1.2.3-pre.622?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-styled-next-js@1.2.3-pre.623?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-styled-next-js@1.2.3-pre.624?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-styled-next-js@1.2.3-pre.625?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-styled-next-js@1.2.3-pre.626?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-styled-next-js@1.2.3-pre.627?classifier=sources

@@ -24,3 +24,4 @@
 - pkg:maven/dev.hotwire/turbo@7.0.0-rc7?classifier=sources
 - pkg:maven/dev.hotwire/turbo@7.0.0-rc8?classifier=sources
 - pkg:maven/dev.hotwire/turbo@7.0.0-rc9?classifier=sources
+- pkg:maven/dev.hotwire/turbo@7.0.0?classifier=sources

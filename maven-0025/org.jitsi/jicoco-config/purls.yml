@@ -50,6 +50,8 @@
 - pkg:maven/org.jitsi/jicoco-config@1.1-124-g0fba0a5?classifier=sources
 - pkg:maven/org.jitsi/jicoco-config@1.1-125-g805c0d8
 - pkg:maven/org.jitsi/jicoco-config@1.1-125-g805c0d8?classifier=sources
+- pkg:maven/org.jitsi/jicoco-config@1.1-126-g1f776be
+- pkg:maven/org.jitsi/jicoco-config@1.1-126-g1f776be?classifier=sources
 - pkg:maven/org.jitsi/jicoco-config@1.1-73-gf8e9405
 - pkg:maven/org.jitsi/jicoco-config@1.1-73-gf8e9405?classifier=sources
 - pkg:maven/org.jitsi/jicoco-config@1.1-74-g58d24ab

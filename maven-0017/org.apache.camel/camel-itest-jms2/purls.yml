@@ -139,3 +139,4 @@
 - pkg:maven/org.apache.camel/camel-itest-jms2@4.0.0-M3
 - pkg:maven/org.apache.camel/camel-itest-jms2@4.0.0-RC1
 - pkg:maven/org.apache.camel/camel-itest-jms2@4.0.0-RC2
+- pkg:maven/org.apache.camel/camel-itest-jms2@4.0.1

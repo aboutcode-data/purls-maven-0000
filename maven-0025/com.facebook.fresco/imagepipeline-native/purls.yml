@@ -3,3 +3,4 @@
 - pkg:maven/com.facebook.fresco/imagepipeline-native@2.5.0?classifier=sources
 - pkg:maven/com.facebook.fresco/imagepipeline-native@2.6.0?classifier=sources
 - pkg:maven/com.facebook.fresco/imagepipeline-native@3.0.0?classifier=sources
+- pkg:maven/com.facebook.fresco/imagepipeline-native@3.1.0?classifier=sources

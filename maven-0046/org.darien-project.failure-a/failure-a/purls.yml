@@ -1,0 +1,2 @@
+- pkg:maven/org.darien-project.failure-a/failure-a@1.0.0
+- pkg:maven/org.darien-project.failure-a/failure-a@1.0.0?classifier=sources

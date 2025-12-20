@@ -195,8 +195,12 @@
 - pkg:maven/de.knightsoft-net/mt-bean-validators@1.11.17?classifier=sources
 - pkg:maven/de.knightsoft-net/mt-bean-validators@1.11.18
 - pkg:maven/de.knightsoft-net/mt-bean-validators@1.11.18?classifier=sources
+- pkg:maven/de.knightsoft-net/mt-bean-validators@1.11.19
+- pkg:maven/de.knightsoft-net/mt-bean-validators@1.11.19?classifier=sources
 - pkg:maven/de.knightsoft-net/mt-bean-validators@1.11.1?classifier=sources
 - pkg:maven/de.knightsoft-net/mt-bean-validators@1.11.2
+- pkg:maven/de.knightsoft-net/mt-bean-validators@1.11.20
+- pkg:maven/de.knightsoft-net/mt-bean-validators@1.11.20?classifier=sources
 - pkg:maven/de.knightsoft-net/mt-bean-validators@1.11.2?classifier=sources
 - pkg:maven/de.knightsoft-net/mt-bean-validators@1.11.3
 - pkg:maven/de.knightsoft-net/mt-bean-validators@1.11.3?classifier=sources
@@ -305,6 +309,10 @@
 - pkg:maven/de.knightsoft-net/mt-bean-validators@2.0.1
 - pkg:maven/de.knightsoft-net/mt-bean-validators@2.0.10
 - pkg:maven/de.knightsoft-net/mt-bean-validators@2.0.10?classifier=sources
+- pkg:maven/de.knightsoft-net/mt-bean-validators@2.0.11
+- pkg:maven/de.knightsoft-net/mt-bean-validators@2.0.11?classifier=sources
+- pkg:maven/de.knightsoft-net/mt-bean-validators@2.0.12
+- pkg:maven/de.knightsoft-net/mt-bean-validators@2.0.12?classifier=sources
 - pkg:maven/de.knightsoft-net/mt-bean-validators@2.0.1?classifier=sources
 - pkg:maven/de.knightsoft-net/mt-bean-validators@2.0.2
 - pkg:maven/de.knightsoft-net/mt-bean-validators@2.0.2?classifier=sources

@@ -29,4 +29,6 @@
 - pkg:maven/com.iussoft/iussoft-rpc-core@3.3.23082208?classifier=sources
 - pkg:maven/com.iussoft/iussoft-rpc-core@3.3.23082309
 - pkg:maven/com.iussoft/iussoft-rpc-core@3.3.23082309?classifier=sources
+- pkg:maven/com.iussoft/iussoft-rpc-core@3.3.23082819
+- pkg:maven/com.iussoft/iussoft-rpc-core@3.3.23082819?classifier=sources
 - pkg:maven/com.iussoft/iussoft-rpc-core@3.3.2?classifier=sources

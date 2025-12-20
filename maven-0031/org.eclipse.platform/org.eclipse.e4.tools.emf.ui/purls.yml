@@ -10,3 +10,5 @@
 - pkg:maven/org.eclipse.platform/org.eclipse.e4.tools.emf.ui@4.7.500?classifier=sources
 - pkg:maven/org.eclipse.platform/org.eclipse.e4.tools.emf.ui@4.8.0
 - pkg:maven/org.eclipse.platform/org.eclipse.e4.tools.emf.ui@4.8.0?classifier=sources
+- pkg:maven/org.eclipse.platform/org.eclipse.e4.tools.emf.ui@4.8.100
+- pkg:maven/org.eclipse.platform/org.eclipse.e4.tools.emf.ui@4.8.100?classifier=sources

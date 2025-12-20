@@ -129,6 +129,10 @@
 - pkg:maven/com.liferay/com.liferay.layout.taglib@15.0.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.layout.taglib@15.0.1?classifier=sources
 - pkg:maven/com.liferay/com.liferay.layout.taglib@15.0.2?classifier=sources
+- pkg:maven/com.liferay/com.liferay.layout.taglib@15.0.3?classifier=sources
+- pkg:maven/com.liferay/com.liferay.layout.taglib@16.0.0?classifier=sources
+- pkg:maven/com.liferay/com.liferay.layout.taglib@16.1.0?classifier=sources
+- pkg:maven/com.liferay/com.liferay.layout.taglib@16.1.1?classifier=sources
 - pkg:maven/com.liferay/com.liferay.layout.taglib@2.0.0
 - pkg:maven/com.liferay/com.liferay.layout.taglib@2.0.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.layout.taglib@2.0.1

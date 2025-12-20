@@ -67,6 +67,10 @@
 - pkg:maven/aws.sdk.kotlin/nimble@0.29.1-beta?classifier=sources
 - pkg:maven/aws.sdk.kotlin/nimble@0.30.0-beta?classifier=sources
 - pkg:maven/aws.sdk.kotlin/nimble@0.30.1-beta?classifier=sources
+- pkg:maven/aws.sdk.kotlin/nimble@0.31.0-beta?classifier=sources
+- pkg:maven/aws.sdk.kotlin/nimble@0.32.0-beta?classifier=sources
+- pkg:maven/aws.sdk.kotlin/nimble@0.32.1-beta?classifier=sources
+- pkg:maven/aws.sdk.kotlin/nimble@0.32.2-beta?classifier=sources
 - pkg:maven/aws.sdk.kotlin/nimble@0.4.0-alpha?classifier=sources
 - pkg:maven/aws.sdk.kotlin/nimble@0.5.0-alpha?classifier=sources
 - pkg:maven/aws.sdk.kotlin/nimble@0.6.0-alpha?classifier=sources

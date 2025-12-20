@@ -116,3 +116,5 @@
 - pkg:maven/org.apache.camel/camel-test-infra-aws-v2@4.0.0-RC2
 - pkg:maven/org.apache.camel/camel-test-infra-aws-v2@4.0.0-RC2?classifier=sources
 - pkg:maven/org.apache.camel/camel-test-infra-aws-v2@4.0.0?classifier=sources
+- pkg:maven/org.apache.camel/camel-test-infra-aws-v2@4.0.1
+- pkg:maven/org.apache.camel/camel-test-infra-aws-v2@4.0.1?classifier=sources

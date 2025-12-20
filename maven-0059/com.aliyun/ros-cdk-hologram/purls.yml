@@ -1,0 +1,2 @@
+- pkg:maven/com.aliyun/ros-cdk-hologram@1.0.19
+- pkg:maven/com.aliyun/ros-cdk-hologram@1.0.19?classifier=sources

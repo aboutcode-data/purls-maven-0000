@@ -1,4 +1,5 @@
 - pkg:maven/de.telekom.smartcredentials/identityprovider@6.5.10?classifier=sources
+- pkg:maven/de.telekom.smartcredentials/identityprovider@6.5.11?classifier=sources
 - pkg:maven/de.telekom.smartcredentials/identityprovider@6.5.7?classifier=sources
 - pkg:maven/de.telekom.smartcredentials/identityprovider@6.5.8?classifier=sources
 - pkg:maven/de.telekom.smartcredentials/identityprovider@6.5.9?classifier=sources

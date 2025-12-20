@@ -283,6 +283,12 @@
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-tanstack-query-core@4.33.0-pre.619?classifier=sources
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-tanstack-query-core@4.33.0-pre.620?classifier=sources
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-tanstack-query-core@4.33.0-pre.621?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-tanstack-query-core@4.33.0-pre.622?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-tanstack-query-core@4.33.0-pre.623?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-tanstack-query-core@4.35.0-pre.624?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-tanstack-query-core@4.35.3-pre.625?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-tanstack-query-core@4.35.3-pre.626?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-tanstack-query-core@4.35.3-pre.627?classifier=sources
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-tanstack-query-core@4.6.0-pre.391?classifier=sources
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-tanstack-query-core@4.6.1-pre.392?classifier=sources
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-tanstack-query-core@4.7.2-pre.393?classifier=sources

@@ -12,3 +12,6 @@
 - pkg:maven/me.proton.core/key-transparency-data@14.0.0?classifier=sources
 - pkg:maven/me.proton.core/key-transparency-data@14.0.1?classifier=sources
 - pkg:maven/me.proton.core/key-transparency-data@14.1.0?classifier=sources
+- pkg:maven/me.proton.core/key-transparency-data@15.0.0?classifier=sources
+- pkg:maven/me.proton.core/key-transparency-data@15.1.0?classifier=sources
+- pkg:maven/me.proton.core/key-transparency-data@16.0.0?classifier=sources

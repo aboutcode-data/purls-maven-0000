@@ -1,0 +1,2 @@
+- pkg:maven/io.github.uspyt/n5pos@1.0?classifier=sources
+- pkg:maven/io.github.uspyt/n5pos@1.2?classifier=sources

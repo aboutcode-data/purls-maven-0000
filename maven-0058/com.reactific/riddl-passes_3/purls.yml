@@ -1,0 +1,2 @@
+- pkg:maven/com.reactific/riddl-passes_3@0.24.1
+- pkg:maven/com.reactific/riddl-passes_3@0.24.1?classifier=sources

@@ -48,7 +48,11 @@
 - pkg:maven/com.gitee.wenbo0/mybatis-plus-wrapper@1.0.10
 - pkg:maven/com.gitee.wenbo0/mybatis-plus-wrapper@1.0.10?classifier=sources
 - pkg:maven/com.gitee.wenbo0/mybatis-plus-wrapper@1.0.11
+- pkg:maven/com.gitee.wenbo0/mybatis-plus-wrapper@1.0.11.debug
+- pkg:maven/com.gitee.wenbo0/mybatis-plus-wrapper@1.0.11.debug?classifier=sources
 - pkg:maven/com.gitee.wenbo0/mybatis-plus-wrapper@1.0.11?classifier=sources
+- pkg:maven/com.gitee.wenbo0/mybatis-plus-wrapper@1.0.12
+- pkg:maven/com.gitee.wenbo0/mybatis-plus-wrapper@1.0.12?classifier=sources
 - pkg:maven/com.gitee.wenbo0/mybatis-plus-wrapper@1.0.1?classifier=sources
 - pkg:maven/com.gitee.wenbo0/mybatis-plus-wrapper@1.0.2
 - pkg:maven/com.gitee.wenbo0/mybatis-plus-wrapper@1.0.2?classifier=sources

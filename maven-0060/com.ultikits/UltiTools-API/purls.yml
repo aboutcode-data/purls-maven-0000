@@ -13,4 +13,6 @@
 - pkg:maven/com.ultikits/UltiTools-API@6.0.0.202308090100?classifier=sources
 - pkg:maven/com.ultikits/UltiTools-API@6.0.0.202308112144
 - pkg:maven/com.ultikits/UltiTools-API@6.0.0.202308112144?classifier=sources
+- pkg:maven/com.ultikits/UltiTools-API@6.0.0.202308170020
+- pkg:maven/com.ultikits/UltiTools-API@6.0.0.202308170020?classifier=sources
 - pkg:maven/com.ultikits/UltiTools-API@6.0.0?classifier=sources

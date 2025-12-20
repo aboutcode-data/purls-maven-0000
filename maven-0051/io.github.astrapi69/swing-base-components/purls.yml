@@ -11,3 +11,6 @@
 - pkg:maven/io.github.astrapi69/swing-base-components@2.6?classifier=sources
 - pkg:maven/io.github.astrapi69/swing-base-components@2.7?classifier=sources
 - pkg:maven/io.github.astrapi69/swing-base-components@2?classifier=sources
+- pkg:maven/io.github.astrapi69/swing-base-components@3?classifier=sources
+- pkg:maven/io.github.astrapi69/swing-base-components@4.1?classifier=sources
+- pkg:maven/io.github.astrapi69/swing-base-components@4?classifier=sources

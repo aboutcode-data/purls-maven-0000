@@ -1,0 +1,2 @@
+- pkg:maven/com.github.jtidy/jtidy-java6@1.0.4
+- pkg:maven/com.github.jtidy/jtidy-java6@1.0.4?classifier=sources

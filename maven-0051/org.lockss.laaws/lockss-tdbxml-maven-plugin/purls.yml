@@ -12,3 +12,5 @@
 - pkg:maven/org.lockss.laaws/lockss-tdbxml-maven-plugin@1.6.0?classifier=sources
 - pkg:maven/org.lockss.laaws/lockss-tdbxml-maven-plugin@1.7.0
 - pkg:maven/org.lockss.laaws/lockss-tdbxml-maven-plugin@1.7.0?classifier=sources
+- pkg:maven/org.lockss.laaws/lockss-tdbxml-maven-plugin@1.8.0
+- pkg:maven/org.lockss.laaws/lockss-tdbxml-maven-plugin@1.8.0?classifier=sources

@@ -12,3 +12,5 @@
 - pkg:maven/io.github.silencelwy/jf-sms-send-sdk@1.0.3.2-RELEASE?classifier=sources
 - pkg:maven/io.github.silencelwy/jf-sms-send-sdk@1.0.3.3-RELEASE
 - pkg:maven/io.github.silencelwy/jf-sms-send-sdk@1.0.3.3-RELEASE?classifier=sources
+- pkg:maven/io.github.silencelwy/jf-sms-send-sdk@1.0.3.4-RELEASE
+- pkg:maven/io.github.silencelwy/jf-sms-send-sdk@1.0.3.4-RELEASE?classifier=sources

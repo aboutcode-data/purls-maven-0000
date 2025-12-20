@@ -1,2 +1,4 @@
 - pkg:maven/io.funkode/web3-transactions-crawler_3@0.1.0
 - pkg:maven/io.funkode/web3-transactions-crawler_3@0.1.0?classifier=sources
+- pkg:maven/io.funkode/web3-transactions-crawler_3@1.0.0
+- pkg:maven/io.funkode/web3-transactions-crawler_3@1.0.0?classifier=sources

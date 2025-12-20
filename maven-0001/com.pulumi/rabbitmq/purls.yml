@@ -27,3 +27,8 @@
 - pkg:maven/com.pulumi/rabbitmq@3.4.0-alpha.1691043773%2B9f571849?classifier=sources
 - pkg:maven/com.pulumi/rabbitmq@3.4.0-alpha.1691648179%2B13779b4e?classifier=sources
 - pkg:maven/com.pulumi/rabbitmq@3.4.0-alpha.1691734436%2Bc4aadba8?classifier=sources
+- pkg:maven/com.pulumi/rabbitmq@3.4.0-alpha.1692858084%2Bf3f78f2d?classifier=sources
+- pkg:maven/com.pulumi/rabbitmq@3.4.0-alpha.1693029923%2B0f33006f?classifier=sources
+- pkg:maven/com.pulumi/rabbitmq@3.4.0-alpha.1693466186%2Bb0954e8f?classifier=sources
+- pkg:maven/com.pulumi/rabbitmq@3.4.0-alpha.1693980609%2B6be0dcfb?classifier=sources
+- pkg:maven/com.pulumi/rabbitmq@3.4.0-alpha.1694638627%2B103ef2e8?classifier=sources

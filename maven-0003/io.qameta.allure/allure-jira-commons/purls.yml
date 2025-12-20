@@ -48,6 +48,7 @@
 - pkg:maven/io.qameta.allure/allure-jira-commons@2.22.4?classifier=sources
 - pkg:maven/io.qameta.allure/allure-jira-commons@2.23.0?classifier=sources
 - pkg:maven/io.qameta.allure/allure-jira-commons@2.23.1?classifier=sources
+- pkg:maven/io.qameta.allure/allure-jira-commons@2.24.0?classifier=sources
 - pkg:maven/io.qameta.allure/allure-jira-commons@2.8.0
 - pkg:maven/io.qameta.allure/allure-jira-commons@2.8.0?classifier=sources
 - pkg:maven/io.qameta.allure/allure-jira-commons@2.8.1

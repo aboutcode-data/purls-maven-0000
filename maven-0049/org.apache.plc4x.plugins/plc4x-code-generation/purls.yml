@@ -1,1 +1,2 @@
 - pkg:maven/org.apache.plc4x.plugins/plc4x-code-generation@1.6.0?classifier=source-release&type=zip
+- pkg:maven/org.apache.plc4x.plugins/plc4x-code-generation@1.7.0?classifier=source-release&type=zip

@@ -478,6 +478,9 @@
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.pricing.web@4.0.83?classifier=sources-commercial
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.pricing.web@4.0.84
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.pricing.web@4.0.84?classifier=sources
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.pricing.web@4.0.85?classifier=sources
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.pricing.web@4.0.86?classifier=sources
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.pricing.web@4.0.87?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.pricing.web@4.0.8?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.pricing.web@4.0.8?classifier=sources-commercial
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.pricing.web@4.0.9

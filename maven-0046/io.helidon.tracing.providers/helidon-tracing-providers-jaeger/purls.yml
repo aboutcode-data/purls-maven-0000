@@ -1,0 +1,2 @@
+- pkg:maven/io.helidon.tracing.providers/helidon-tracing-providers-jaeger@4.0.0-M2
+- pkg:maven/io.helidon.tracing.providers/helidon-tracing-providers-jaeger@4.0.0-M2?classifier=sources

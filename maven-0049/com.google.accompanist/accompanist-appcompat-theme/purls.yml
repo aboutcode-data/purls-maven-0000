@@ -63,6 +63,8 @@
 - pkg:maven/com.google.accompanist/accompanist-appcompat-theme@0.31.6-rc?classifier=sources
 - pkg:maven/com.google.accompanist/accompanist-appcompat-theme@0.32.0?classifier=sources
 - pkg:maven/com.google.accompanist/accompanist-appcompat-theme@0.33.0-alpha?classifier=sources
+- pkg:maven/com.google.accompanist/accompanist-appcompat-theme@0.33.1-alpha?classifier=sources
+- pkg:maven/com.google.accompanist/accompanist-appcompat-theme@0.33.2-alpha?classifier=sources
 - pkg:maven/com.google.accompanist/accompanist-appcompat-theme@0.6.2?classifier=sources
 - pkg:maven/com.google.accompanist/accompanist-appcompat-theme@0.7.0?classifier=sources
 - pkg:maven/com.google.accompanist/accompanist-appcompat-theme@0.7.1?classifier=sources

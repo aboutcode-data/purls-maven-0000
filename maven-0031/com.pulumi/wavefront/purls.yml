@@ -39,3 +39,8 @@
 - pkg:maven/com.pulumi/wavefront@2.1.0?classifier=sources
 - pkg:maven/com.pulumi/wavefront@3.0.0-alpha.1692133443%2B985b8bfd?classifier=sources
 - pkg:maven/com.pulumi/wavefront@3.1.0-alpha.1692165542%2B30bdf9ae?classifier=sources
+- pkg:maven/com.pulumi/wavefront@3.1.0-alpha.1692859347%2B435ec5e9?classifier=sources
+- pkg:maven/com.pulumi/wavefront@3.1.0-alpha.1693031287%2Be7479222?classifier=sources
+- pkg:maven/com.pulumi/wavefront@3.1.0-alpha.1693466232%2Bd1efa18e?classifier=sources
+- pkg:maven/com.pulumi/wavefront@3.1.0-alpha.1693983336%2B1f59a03c?classifier=sources
+- pkg:maven/com.pulumi/wavefront@3.1.0-alpha.1694706746%2Bf2436858?classifier=sources

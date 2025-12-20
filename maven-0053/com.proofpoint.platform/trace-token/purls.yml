@@ -458,3 +458,15 @@
 - pkg:maven/com.proofpoint.platform/trace-token@2.94?classifier=sources
 - pkg:maven/com.proofpoint.platform/trace-token@2.95
 - pkg:maven/com.proofpoint.platform/trace-token@2.95?classifier=sources
+- pkg:maven/com.proofpoint.platform/trace-token@2.96
+- pkg:maven/com.proofpoint.platform/trace-token@2.96?classifier=sources
+- pkg:maven/com.proofpoint.platform/trace-token@2.97
+- pkg:maven/com.proofpoint.platform/trace-token@2.97?classifier=sources
+- pkg:maven/com.proofpoint.platform/trace-token@2.98
+- pkg:maven/com.proofpoint.platform/trace-token@2.98?classifier=sources
+- pkg:maven/com.proofpoint.platform/trace-token@2.99
+- pkg:maven/com.proofpoint.platform/trace-token@2.99?classifier=sources
+- pkg:maven/com.proofpoint.platform/trace-token@3.00
+- pkg:maven/com.proofpoint.platform/trace-token@3.00?classifier=sources
+- pkg:maven/com.proofpoint.platform/trace-token@3.01
+- pkg:maven/com.proofpoint.platform/trace-token@3.01?classifier=sources

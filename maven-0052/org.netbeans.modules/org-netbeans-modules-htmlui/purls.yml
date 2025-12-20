@@ -4,3 +4,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-htmlui@RELEASE160?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-htmlui@RELEASE170?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-htmlui@RELEASE180?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-htmlui@RELEASE190?classifier=sources
