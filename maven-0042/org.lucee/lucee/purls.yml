@@ -256,6 +256,7 @@
 - pkg:maven/org.lucee/lucee@6.0.2.41-RC?classifier=sources
 - pkg:maven/org.lucee/lucee@6.0.2.45?classifier=sources
 - pkg:maven/org.lucee/lucee@6.0.3.1?classifier=sources
+- pkg:maven/org.lucee/lucee@6.0.4.10?classifier=sources
 - pkg:maven/org.lucee/lucee@6.1.0.100-BETA?classifier=sources
 - pkg:maven/org.lucee/lucee@6.1.0.148-BETA?classifier=sources
 - pkg:maven/org.lucee/lucee@6.1.0.175-BETA?classifier=sources
@@ -265,8 +266,12 @@
 - pkg:maven/org.lucee/lucee@6.1.0.241-RC?classifier=sources
 - pkg:maven/org.lucee/lucee@6.1.0.243?classifier=sources
 - pkg:maven/org.lucee/lucee@6.1.1.100-RC?classifier=sources
+- pkg:maven/org.lucee/lucee@6.1.1.106-RC?classifier=sources
+- pkg:maven/org.lucee/lucee@6.1.1.109-RC?classifier=sources
+- pkg:maven/org.lucee/lucee@6.1.1.118?classifier=sources
 - pkg:maven/org.lucee/lucee@6.1.1.51-BETA?classifier=sources
 - pkg:maven/org.lucee/lucee@6.1.1.77-BETA?classifier=sources
 - pkg:maven/org.lucee/lucee@6.1.1.78-RC?classifier=sources
 - pkg:maven/org.lucee/lucee@6.1.1.79-RC?classifier=sources
 - pkg:maven/org.lucee/lucee@6.1.1.88-RC?classifier=sources
+- pkg:maven/org.lucee/lucee@6.2.0.164-RC?classifier=sources

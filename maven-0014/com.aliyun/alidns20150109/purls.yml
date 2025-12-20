@@ -40,3 +40,5 @@
 - pkg:maven/com.aliyun/alidns20150109@3.4.3?classifier=sources
 - pkg:maven/com.aliyun/alidns20150109@3.4.4
 - pkg:maven/com.aliyun/alidns20150109@3.4.4?classifier=sources
+- pkg:maven/com.aliyun/alidns20150109@3.4.5
+- pkg:maven/com.aliyun/alidns20150109@3.4.5?classifier=sources

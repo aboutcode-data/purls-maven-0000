@@ -1,3 +1,4 @@
+- pkg:maven/org.projectnessie.nessie/nessie-azurite-testcontainer@0.100.0?classifier=sources
 - pkg:maven/org.projectnessie.nessie/nessie-azurite-testcontainer@0.74.0?classifier=sources
 - pkg:maven/org.projectnessie.nessie/nessie-azurite-testcontainer@0.75.0?classifier=sources
 - pkg:maven/org.projectnessie.nessie/nessie-azurite-testcontainer@0.76.0?classifier=sources

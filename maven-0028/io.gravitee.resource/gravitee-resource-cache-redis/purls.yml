@@ -7,3 +7,4 @@
 - pkg:maven/io.gravitee.resource/gravitee-resource-cache-redis@1.4.0?classifier=sources
 - pkg:maven/io.gravitee.resource/gravitee-resource-cache-redis@1.5.0?classifier=sources
 - pkg:maven/io.gravitee.resource/gravitee-resource-cache-redis@2.0.0?classifier=sources
+- pkg:maven/io.gravitee.resource/gravitee-resource-cache-redis@3.0.0-alpha.1?classifier=sources

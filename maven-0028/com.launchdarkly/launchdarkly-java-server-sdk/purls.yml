@@ -172,3 +172,5 @@
 - pkg:maven/com.launchdarkly/launchdarkly-java-server-sdk@7.4.1?classifier=sources
 - pkg:maven/com.launchdarkly/launchdarkly-java-server-sdk@7.5.0
 - pkg:maven/com.launchdarkly/launchdarkly-java-server-sdk@7.5.0?classifier=sources
+- pkg:maven/com.launchdarkly/launchdarkly-java-server-sdk@7.6.0
+- pkg:maven/com.launchdarkly/launchdarkly-java-server-sdk@7.6.0?classifier=sources

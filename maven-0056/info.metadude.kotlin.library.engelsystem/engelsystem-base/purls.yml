@@ -24,3 +24,4 @@
 - pkg:maven/info.metadude.kotlin.library.engelsystem/engelsystem-base@8.1.0?classifier=sources
 - pkg:maven/info.metadude.kotlin.library.engelsystem/engelsystem-base@9.0.0?classifier=sources
 - pkg:maven/info.metadude.kotlin.library.engelsystem/engelsystem-base@9.1.0?classifier=sources
+- pkg:maven/info.metadude.kotlin.library.engelsystem/engelsystem-base@9.2.0?classifier=sources

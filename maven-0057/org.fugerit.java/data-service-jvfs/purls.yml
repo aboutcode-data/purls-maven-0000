@@ -36,3 +36,5 @@
 - pkg:maven/org.fugerit.java/data-service-jvfs@1.4.2?classifier=sources
 - pkg:maven/org.fugerit.java/data-service-jvfs@1.4.3
 - pkg:maven/org.fugerit.java/data-service-jvfs@1.4.3?classifier=sources
+- pkg:maven/org.fugerit.java/data-service-jvfs@1.4.4
+- pkg:maven/org.fugerit.java/data-service-jvfs@1.4.4?classifier=sources

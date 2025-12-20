@@ -284,6 +284,8 @@
 - pkg:maven/com.liferay/com.liferay.layout.page.template.api@26.0.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.layout.page.template.api@26.1.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.layout.page.template.api@27.0.0?classifier=sources
+- pkg:maven/com.liferay/com.liferay.layout.page.template.api@28.0.0?classifier=sources
+- pkg:maven/com.liferay/com.liferay.layout.page.template.api@29.0.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.layout.page.template.api@3.0.0
 - pkg:maven/com.liferay/com.liferay.layout.page.template.api@3.0.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.layout.page.template.api@3.0.0?classifier=sources-commercial

@@ -401,3 +401,11 @@
 - pkg:maven/io.airlift/jaxrs@274?classifier=sources
 - pkg:maven/io.airlift/jaxrs@275?classifier=sources
 - pkg:maven/io.airlift/jaxrs@276?classifier=sources
+- pkg:maven/io.airlift/jaxrs@277?classifier=sources
+- pkg:maven/io.airlift/jaxrs@278?classifier=sources
+- pkg:maven/io.airlift/jaxrs@279?classifier=sources
+- pkg:maven/io.airlift/jaxrs@280?classifier=sources
+- pkg:maven/io.airlift/jaxrs@281?classifier=sources
+- pkg:maven/io.airlift/jaxrs@282?classifier=sources
+- pkg:maven/io.airlift/jaxrs@283?classifier=sources
+- pkg:maven/io.airlift/jaxrs@284?classifier=sources

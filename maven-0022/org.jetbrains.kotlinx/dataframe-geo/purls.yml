@@ -1,2 +1,4 @@
 - pkg:maven/org.jetbrains.kotlinx/dataframe-geo@0.14.0-dev-4392?classifier=sources
 - pkg:maven/org.jetbrains.kotlinx/dataframe-geo@0.15.0-dev-4398?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx/dataframe-geo@0.15.0-dev-4822?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx/dataframe-geo@0.15.0-dev-4948?classifier=sources

@@ -14,3 +14,4 @@
 - pkg:maven/org.webjars.npm/is-mobile@2.2.2?classifier=sources
 - pkg:maven/org.webjars.npm/is-mobile@3.1.1
 - pkg:maven/org.webjars.npm/is-mobile@3.1.1?classifier=sources
+- pkg:maven/org.webjars.npm/is-mobile@4.0.0

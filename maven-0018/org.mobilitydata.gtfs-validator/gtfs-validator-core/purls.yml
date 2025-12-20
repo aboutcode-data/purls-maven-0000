@@ -2,3 +2,4 @@
 - pkg:maven/org.mobilitydata.gtfs-validator/gtfs-validator-core@4.1.0?classifier=sources
 - pkg:maven/org.mobilitydata.gtfs-validator/gtfs-validator-core@4.2.0?classifier=sources
 - pkg:maven/org.mobilitydata.gtfs-validator/gtfs-validator-core@5.0.0?classifier=sources
+- pkg:maven/org.mobilitydata.gtfs-validator/gtfs-validator-core@6.0.0?classifier=sources

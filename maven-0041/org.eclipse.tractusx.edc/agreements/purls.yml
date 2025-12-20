@@ -1,0 +1,2 @@
+- pkg:maven/org.eclipse.tractusx.edc/agreements@0.8.0-rc5?classifier=sources
+- pkg:maven/org.eclipse.tractusx.edc/agreements@0.8.0-rc6?classifier=sources

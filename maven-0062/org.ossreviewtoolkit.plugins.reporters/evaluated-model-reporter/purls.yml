@@ -49,7 +49,11 @@
 - pkg:maven/org.ossreviewtoolkit.plugins.reporters/evaluated-model-reporter@34.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.reporters/evaluated-model-reporter@35.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.reporters/evaluated-model-reporter@36.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.reporters/evaluated-model-reporter@37.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.reporters/evaluated-model-reporter@38.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.reporters/evaluated-model-reporter@39.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.reporters/evaluated-model-reporter@4.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.reporters/evaluated-model-reporter@40.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.reporters/evaluated-model-reporter@5.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.reporters/evaluated-model-reporter@5.1.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.reporters/evaluated-model-reporter@6.0.0?classifier=sources

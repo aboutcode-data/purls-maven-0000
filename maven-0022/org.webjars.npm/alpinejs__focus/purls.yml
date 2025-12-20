@@ -5,3 +5,4 @@
 - pkg:maven/org.webjars.npm/alpinejs__focus@3.13.8
 - pkg:maven/org.webjars.npm/alpinejs__focus@3.13.8?classifier=sources
 - pkg:maven/org.webjars.npm/alpinejs__focus@3.14.1
+- pkg:maven/org.webjars.npm/alpinejs__focus@3.14.3

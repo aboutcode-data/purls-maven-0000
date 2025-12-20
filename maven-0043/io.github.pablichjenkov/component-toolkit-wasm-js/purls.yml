@@ -3,3 +3,4 @@
 - pkg:maven/io.github.pablichjenkov/component-toolkit-wasm-js@0.6.10?classifier=sources
 - pkg:maven/io.github.pablichjenkov/component-toolkit-wasm-js@0.6.11?classifier=sources
 - pkg:maven/io.github.pablichjenkov/component-toolkit-wasm-js@0.6.2?classifier=sources
+- pkg:maven/io.github.pablichjenkov/component-toolkit-wasm-js@0.7.0?classifier=sources

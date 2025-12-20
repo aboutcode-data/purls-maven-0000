@@ -84,3 +84,5 @@
 - pkg:maven/net.xdob.ha-jdbc2/ha-jdbc2@3.6.59?classifier=sources
 - pkg:maven/net.xdob.ha-jdbc2/ha-jdbc2@3.6.60
 - pkg:maven/net.xdob.ha-jdbc2/ha-jdbc2@3.6.60?classifier=sources
+- pkg:maven/net.xdob.ha-jdbc2/ha-jdbc2@3.6.61
+- pkg:maven/net.xdob.ha-jdbc2/ha-jdbc2@3.6.61?classifier=sources

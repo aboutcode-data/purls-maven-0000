@@ -3,3 +3,4 @@
 - pkg:maven/com.contentgrid.spring/contentgrid-automations-rest@0.15.2?classifier=sources
 - pkg:maven/com.contentgrid.spring/contentgrid-automations-rest@0.15.3?classifier=sources
 - pkg:maven/com.contentgrid.spring/contentgrid-automations-rest@0.16.0?classifier=sources
+- pkg:maven/com.contentgrid.spring/contentgrid-automations-rest@0.16.1?classifier=sources

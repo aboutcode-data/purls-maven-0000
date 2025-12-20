@@ -100,6 +100,17 @@
 - pkg:maven/com.graphql-java/graphql-java-agent@0.0.0-2024-09-03T03-22-32-197dd6e?classifier=sources
 - pkg:maven/com.graphql-java/graphql-java-agent@0.0.0-2024-09-03T03-22-40-acbed23?classifier=sources
 - pkg:maven/com.graphql-java/graphql-java-agent@0.0.0-2024-09-03T03-36-42-d6dbf61?classifier=sources
+- pkg:maven/com.graphql-java/graphql-java-agent@0.0.0-2024-10-22T03-36-13-f551469?classifier=sources
+- pkg:maven/com.graphql-java/graphql-java-agent@0.0.0-2024-10-22T03-36-26-b920e68?classifier=sources
+- pkg:maven/com.graphql-java/graphql-java-agent@0.0.0-2024-10-22T03-36-43-ebd676b?classifier=sources
+- pkg:maven/com.graphql-java/graphql-java-agent@0.0.0-2024-10-22T03-37-44-7a9fa54?classifier=sources
+- pkg:maven/com.graphql-java/graphql-java-agent@0.0.0-2024-10-27T06-35-31-6a1ab69?classifier=sources
+- pkg:maven/com.graphql-java/graphql-java-agent@0.0.0-2024-10-29T02-55-40-18f9d82?classifier=sources
+- pkg:maven/com.graphql-java/graphql-java-agent@0.0.0-2024-10-29T02-56-11-06f9f1d?classifier=sources
+- pkg:maven/com.graphql-java/graphql-java-agent@0.0.0-2024-10-29T03-10-07-2884d6f?classifier=sources
+- pkg:maven/com.graphql-java/graphql-java-agent@0.0.0-2024-11-13T21-43-20-5978ff1?classifier=sources
+- pkg:maven/com.graphql-java/graphql-java-agent@0.0.0-2024-11-16T23-29-14-1491db6?classifier=sources
+- pkg:maven/com.graphql-java/graphql-java-agent@0.0.0-2024-11-16T23-41-20-4703692?classifier=sources
 - pkg:maven/com.graphql-java/graphql-java-agent@22.0-rc1?classifier=sources
 - pkg:maven/com.graphql-java/graphql-java-agent@22.0?classifier=sources
 - pkg:maven/com.graphql-java/graphql-java-agent@22.1?classifier=sources

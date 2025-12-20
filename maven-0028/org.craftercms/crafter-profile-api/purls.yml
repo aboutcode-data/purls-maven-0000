@@ -266,6 +266,7 @@
 - pkg:maven/org.craftercms/crafter-profile-api@4.1.6?classifier=sources
 - pkg:maven/org.craftercms/crafter-profile-api@4.1.7
 - pkg:maven/org.craftercms/crafter-profile-api@4.1.8
+- pkg:maven/org.craftercms/crafter-profile-api@4.2.0
 - pkg:maven/org.craftercms/crafter-profile-api@v2.5.0-Beta4
 - pkg:maven/org.craftercms/crafter-profile-api@v2.5.0-Beta4?classifier=sources
 - pkg:maven/org.craftercms/crafter-profile-api@v2.5.0-Beta5

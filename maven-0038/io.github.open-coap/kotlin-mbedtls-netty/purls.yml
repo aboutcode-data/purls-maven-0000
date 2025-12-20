@@ -24,3 +24,5 @@
 - pkg:maven/io.github.open-coap/kotlin-mbedtls-netty@1.26.0?classifier=sources
 - pkg:maven/io.github.open-coap/kotlin-mbedtls-netty@1.27.0?classifier=sources
 - pkg:maven/io.github.open-coap/kotlin-mbedtls-netty@1.28.0?classifier=sources
+- pkg:maven/io.github.open-coap/kotlin-mbedtls-netty@1.29.0?classifier=sources
+- pkg:maven/io.github.open-coap/kotlin-mbedtls-netty@1.29.1?classifier=sources

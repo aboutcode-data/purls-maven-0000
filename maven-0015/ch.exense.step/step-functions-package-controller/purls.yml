@@ -1,2 +1,6 @@
 - pkg:maven/ch.exense.step/step-functions-package-controller@3.26.0
 - pkg:maven/ch.exense.step/step-functions-package-controller@3.26.0?classifier=sources
+- pkg:maven/ch.exense.step/step-functions-package-controller@3.26.1
+- pkg:maven/ch.exense.step/step-functions-package-controller@3.26.1?classifier=sources
+- pkg:maven/ch.exense.step/step-functions-package-controller@3.26.2
+- pkg:maven/ch.exense.step/step-functions-package-controller@3.26.2?classifier=sources

@@ -1,3 +1,4 @@
+- pkg:maven/org.webjars.npm/saxen@10.0.0
 - pkg:maven/org.webjars.npm/saxen@8.1.0
 - pkg:maven/org.webjars.npm/saxen@8.1.0?classifier=sources
 - pkg:maven/org.webjars.npm/saxen@8.1.2

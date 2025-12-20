@@ -6,3 +6,5 @@
 - pkg:maven/io.github.harveyhaha/mvvmyggd@1.0.27?classifier=sources
 - pkg:maven/io.github.harveyhaha/mvvmyggd@1.0.28?classifier=sources
 - pkg:maven/io.github.harveyhaha/mvvmyggd@1.0.29?classifier=sources
+- pkg:maven/io.github.harveyhaha/mvvmyggd@1.0.30?classifier=sources
+- pkg:maven/io.github.harveyhaha/mvvmyggd@1.0.31?classifier=sources

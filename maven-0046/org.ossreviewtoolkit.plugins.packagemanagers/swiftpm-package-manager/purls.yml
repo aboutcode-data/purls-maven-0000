@@ -40,3 +40,7 @@
 - pkg:maven/org.ossreviewtoolkit.plugins.packagemanagers/swiftpm-package-manager@34.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.packagemanagers/swiftpm-package-manager@35.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.packagemanagers/swiftpm-package-manager@36.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.packagemanagers/swiftpm-package-manager@37.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.packagemanagers/swiftpm-package-manager@38.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.packagemanagers/swiftpm-package-manager@39.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.packagemanagers/swiftpm-package-manager@40.0.0?classifier=sources

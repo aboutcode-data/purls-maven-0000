@@ -115,6 +115,9 @@
 - pkg:maven/io.primer/android@2.30.1?classifier=sources
 - pkg:maven/io.primer/android@2.31.0?classifier=sources
 - pkg:maven/io.primer/android@2.32.0-express-checkout.1?classifier=sources
+- pkg:maven/io.primer/android@2.32.0?classifier=sources
+- pkg:maven/io.primer/android@2.32.1?classifier=sources
+- pkg:maven/io.primer/android@2.32.2?classifier=sources
 - pkg:maven/io.primer/android@2.4.0?classifier=sources
 - pkg:maven/io.primer/android@2.5.0?classifier=sources
 - pkg:maven/io.primer/android@2.6.0?classifier=sources

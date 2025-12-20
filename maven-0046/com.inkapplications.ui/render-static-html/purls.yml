@@ -1,3 +1,10 @@
 - pkg:maven/com.inkapplications.ui/render-static-html@0.10.0?classifier=sources
+- pkg:maven/com.inkapplications.ui/render-static-html@0.11.0?classifier=sources
+- pkg:maven/com.inkapplications.ui/render-static-html@0.12.0?classifier=sources
+- pkg:maven/com.inkapplications.ui/render-static-html@0.13.0?classifier=sources
+- pkg:maven/com.inkapplications.ui/render-static-html@0.13.2?classifier=sources
+- pkg:maven/com.inkapplications.ui/render-static-html@0.13.3?classifier=sources
+- pkg:maven/com.inkapplications.ui/render-static-html@0.14.0?classifier=sources
 - pkg:maven/com.inkapplications.ui/render-static-html@0.9.0?classifier=sources
 - pkg:maven/com.inkapplications.ui/render-static-html@0.9.1?classifier=sources
+- pkg:maven/com.inkapplications.ui/render-static-html@1.0.0?classifier=sources

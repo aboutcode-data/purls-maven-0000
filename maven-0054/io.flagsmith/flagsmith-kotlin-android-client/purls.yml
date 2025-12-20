@@ -1,1 +1,4 @@
+- pkg:maven/io.flagsmith/flagsmith-kotlin-android-client@0.1.0?classifier=sources
 - pkg:maven/io.flagsmith/flagsmith-kotlin-android-client@1.6.1?classifier=sources
+- pkg:maven/io.flagsmith/flagsmith-kotlin-android-client@1.7.0post1?classifier=sources
+- pkg:maven/io.flagsmith/flagsmith-kotlin-android-client@1.7.1?classifier=sources

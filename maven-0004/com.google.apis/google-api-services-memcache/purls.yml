@@ -66,6 +66,8 @@
 - pkg:maven/com.google.apis/google-api-services-memcache@v1-rev20240604-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-memcache@v1-rev20240919-2.0.0
 - pkg:maven/com.google.apis/google-api-services-memcache@v1-rev20240919-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-memcache@v1-rev20241010-2.0.0
+- pkg:maven/com.google.apis/google-api-services-memcache@v1-rev20241010-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-memcache@v1beta2-rev1-1.18.0-rc
 - pkg:maven/com.google.apis/google-api-services-memcache@v1beta2-rev1-1.18.0-rc?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-memcache@v1beta2-rev1-1.25.0
@@ -158,3 +160,5 @@
 - pkg:maven/com.google.apis/google-api-services-memcache@v1beta2-rev20240604-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-memcache@v1beta2-rev20240919-2.0.0
 - pkg:maven/com.google.apis/google-api-services-memcache@v1beta2-rev20240919-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-memcache@v1beta2-rev20241010-2.0.0
+- pkg:maven/com.google.apis/google-api-services-memcache@v1beta2-rev20241010-2.0.0?classifier=sources

@@ -79,3 +79,4 @@
 - pkg:maven/com.dua3.fx/fx-application@0.42.0?classifier=sources
 - pkg:maven/com.dua3.fx/fx-application@0.43.0?classifier=sources
 - pkg:maven/com.dua3.fx/fx-application@0.44?classifier=sources
+- pkg:maven/com.dua3.fx/fx-application@0.45-BETA-1?classifier=sources

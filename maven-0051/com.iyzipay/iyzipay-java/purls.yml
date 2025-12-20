@@ -50,6 +50,10 @@
 - pkg:maven/com.iyzipay/iyzipay-java@2.0.125?classifier=sources
 - pkg:maven/com.iyzipay/iyzipay-java@2.0.127
 - pkg:maven/com.iyzipay/iyzipay-java@2.0.127?classifier=sources
+- pkg:maven/com.iyzipay/iyzipay-java@2.0.128
+- pkg:maven/com.iyzipay/iyzipay-java@2.0.128?classifier=sources
+- pkg:maven/com.iyzipay/iyzipay-java@2.0.129
+- pkg:maven/com.iyzipay/iyzipay-java@2.0.129?classifier=sources
 - pkg:maven/com.iyzipay/iyzipay-java@2.0.21
 - pkg:maven/com.iyzipay/iyzipay-java@2.0.21?classifier=sources
 - pkg:maven/com.iyzipay/iyzipay-java@2.0.22

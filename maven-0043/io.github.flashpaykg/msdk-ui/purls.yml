@@ -1,1 +1,2 @@
 - pkg:maven/io.github.flashpaykg/msdk-ui@3.6.3?classifier=sources
+- pkg:maven/io.github.flashpaykg/msdk-ui@3.6.4?classifier=sources
