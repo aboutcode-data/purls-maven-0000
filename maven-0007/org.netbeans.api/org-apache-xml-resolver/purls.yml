@@ -22,4 +22,5 @@
 - pkg:maven/org.netbeans.api/org-apache-xml-resolver@RELEASE200?classifier=sources
 - pkg:maven/org.netbeans.api/org-apache-xml-resolver@RELEASE210?classifier=sources
 - pkg:maven/org.netbeans.api/org-apache-xml-resolver@RELEASE220?classifier=sources
+- pkg:maven/org.netbeans.api/org-apache-xml-resolver@RELEASE230?classifier=sources
 - pkg:maven/org.netbeans.api/org-apache-xml-resolver@RELEASE90?classifier=sources

@@ -57,3 +57,9 @@
 - pkg:maven/io.synclite/synclite-logger@2024.07.31?classifier=sources
 - pkg:maven/io.synclite/synclite-logger@2024.08.08
 - pkg:maven/io.synclite/synclite-logger@2024.08.08?classifier=sources
+- pkg:maven/io.synclite/synclite-logger@2024.08.23
+- pkg:maven/io.synclite/synclite-logger@2024.08.23?classifier=sources
+- pkg:maven/io.synclite/synclite-logger@2024.09.04
+- pkg:maven/io.synclite/synclite-logger@2024.09.04?classifier=sources
+- pkg:maven/io.synclite/synclite-logger@2024.09.17
+- pkg:maven/io.synclite/synclite-logger@2024.09.17?classifier=sources

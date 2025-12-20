@@ -21,3 +21,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-web-monitor@RELEASE200?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-web-monitor@RELEASE210?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-web-monitor@RELEASE220?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-web-monitor@RELEASE230?classifier=sources

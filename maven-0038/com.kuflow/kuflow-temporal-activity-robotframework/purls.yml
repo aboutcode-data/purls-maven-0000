@@ -16,3 +16,7 @@
 - pkg:maven/com.kuflow/kuflow-temporal-activity-robotframework@2.8.1?classifier=sources
 - pkg:maven/com.kuflow/kuflow-temporal-activity-robotframework@2.9.0
 - pkg:maven/com.kuflow/kuflow-temporal-activity-robotframework@2.9.0?classifier=sources
+- pkg:maven/com.kuflow/kuflow-temporal-activity-robotframework@3.0.0
+- pkg:maven/com.kuflow/kuflow-temporal-activity-robotframework@3.0.0?classifier=sources
+- pkg:maven/com.kuflow/kuflow-temporal-activity-robotframework@3.0.1
+- pkg:maven/com.kuflow/kuflow-temporal-activity-robotframework@3.0.1?classifier=sources

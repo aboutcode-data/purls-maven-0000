@@ -31,3 +31,7 @@
 - pkg:maven/com.bjoernkw/schematic@0.2.2?classifier=sources
 - pkg:maven/com.bjoernkw/schematic@0.2.3.jre11?classifier=sources
 - pkg:maven/com.bjoernkw/schematic@0.2.3?classifier=sources
+- pkg:maven/com.bjoernkw/schematic@0.3.0.jre11?classifier=sources
+- pkg:maven/com.bjoernkw/schematic@0.3.0?classifier=sources
+- pkg:maven/com.bjoernkw/schematic@0.3.1.jre11?classifier=sources
+- pkg:maven/com.bjoernkw/schematic@0.3.1?classifier=sources

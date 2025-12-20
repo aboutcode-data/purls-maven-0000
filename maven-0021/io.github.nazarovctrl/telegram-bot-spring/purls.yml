@@ -13,4 +13,8 @@
 - pkg:maven/io.github.nazarovctrl/telegram-bot-spring@1.0.6-beta
 - pkg:maven/io.github.nazarovctrl/telegram-bot-spring@1.0.6-beta?classifier=sources
 - pkg:maven/io.github.nazarovctrl/telegram-bot-spring@1.0.6?classifier=sources
+- pkg:maven/io.github.nazarovctrl/telegram-bot-spring@1.0.7
+- pkg:maven/io.github.nazarovctrl/telegram-bot-spring@1.0.7?classifier=sources
+- pkg:maven/io.github.nazarovctrl/telegram-bot-spring@1.0.8
+- pkg:maven/io.github.nazarovctrl/telegram-bot-spring@1.0.8?classifier=sources
 - pkg:maven/io.github.nazarovctrl/telegram-bot-spring@1.0?classifier=sources

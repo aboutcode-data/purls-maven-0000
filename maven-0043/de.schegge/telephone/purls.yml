@@ -34,3 +34,5 @@
 - pkg:maven/de.schegge/telephone@0.6.2?classifier=sources
 - pkg:maven/de.schegge/telephone@1.0.0
 - pkg:maven/de.schegge/telephone@1.0.0?classifier=sources
+- pkg:maven/de.schegge/telephone@1.0.1
+- pkg:maven/de.schegge/telephone@1.0.1?classifier=sources

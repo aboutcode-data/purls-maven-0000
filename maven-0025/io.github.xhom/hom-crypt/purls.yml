@@ -1,0 +1,2 @@
+- pkg:maven/io.github.xhom/hom-crypt@1.0.0?classifier=sources
+- pkg:maven/io.github.xhom/hom-crypt@2.0.0?classifier=sources

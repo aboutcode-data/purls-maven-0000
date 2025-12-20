@@ -22,3 +22,5 @@
 - pkg:maven/org.archive.heritrix/heritrix@3.4.0-20210923?classifier=src&type=zip
 - pkg:maven/org.archive.heritrix/heritrix@3.4.0-20220727?classifier=src&type=tar.gz
 - pkg:maven/org.archive.heritrix/heritrix@3.4.0-20220727?classifier=src&type=zip
+- pkg:maven/org.archive.heritrix/heritrix@3.4.0-20240909?classifier=src&type=tar.gz
+- pkg:maven/org.archive.heritrix/heritrix@3.4.0-20240909?classifier=src&type=zip

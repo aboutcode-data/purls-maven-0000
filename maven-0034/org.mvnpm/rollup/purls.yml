@@ -1,3 +1,4 @@
 - pkg:maven/org.mvnpm/rollup@4.13.0?classifier=sources
 - pkg:maven/org.mvnpm/rollup@4.19.1?classifier=sources
 - pkg:maven/org.mvnpm/rollup@4.21.0?classifier=sources
+- pkg:maven/org.mvnpm/rollup@4.21.1?classifier=sources

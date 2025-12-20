@@ -6,3 +6,4 @@
 - pkg:maven/org.mvnpm.at.babel/parser@7.24.7?classifier=sources
 - pkg:maven/org.mvnpm.at.babel/parser@7.25.0?classifier=sources
 - pkg:maven/org.mvnpm.at.babel/parser@7.25.3?classifier=sources
+- pkg:maven/org.mvnpm.at.babel/parser@7.25.6?classifier=sources

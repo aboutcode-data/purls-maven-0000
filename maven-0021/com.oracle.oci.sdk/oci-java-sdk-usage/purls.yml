@@ -304,6 +304,10 @@
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-usage@3.46.1?classifier=sources
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-usage@3.47.0
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-usage@3.47.0?classifier=sources
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-usage@3.48.0
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-usage@3.48.0?classifier=sources
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-usage@3.49.0
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-usage@3.49.0?classifier=sources
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-usage@3.5.0
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-usage@3.5.0?classifier=sources
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-usage@3.6.0

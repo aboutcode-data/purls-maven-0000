@@ -22,3 +22,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-languages-ini@RELEASE200?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-languages-ini@RELEASE210?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-languages-ini@RELEASE220?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-languages-ini@RELEASE230?classifier=sources

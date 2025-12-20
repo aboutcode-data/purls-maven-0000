@@ -197,6 +197,8 @@
 - pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.admin.shipment.impl@1.0.7?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.admin.shipment.impl@1.0.7?classifier=sources-commercial
 - pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.admin.shipment.impl@1.0.8
+- pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.admin.shipment.impl@1.0.80?classifier=sources
+- pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.admin.shipment.impl@1.0.81?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.admin.shipment.impl@1.0.8?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.admin.shipment.impl@1.0.8?classifier=sources-commercial
 - pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.admin.shipment.impl@1.0.9

@@ -7,3 +7,4 @@
 - pkg:maven/org.webjars.npm/floating-ui__vue@1.0.2
 - pkg:maven/org.webjars.npm/floating-ui__vue@1.0.2?classifier=sources
 - pkg:maven/org.webjars.npm/floating-ui__vue@1.0.6
+- pkg:maven/org.webjars.npm/floating-ui__vue@1.1.4

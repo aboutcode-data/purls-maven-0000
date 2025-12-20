@@ -22,3 +22,4 @@
 - pkg:maven/org.netbeans.external/org-netbeans-modules-cordova-projectupdate@RELEASE200
 - pkg:maven/org.netbeans.external/org-netbeans-modules-cordova-projectupdate@RELEASE210
 - pkg:maven/org.netbeans.external/org-netbeans-modules-cordova-projectupdate@RELEASE220
+- pkg:maven/org.netbeans.external/org-netbeans-modules-cordova-projectupdate@RELEASE230

@@ -1,0 +1,2 @@
+- pkg:maven/io.github.osobolev.app-delivery/unix-zip@6.10?classifier=sources
+- pkg:maven/io.github.osobolev.app-delivery/unix-zip@6.9?classifier=sources

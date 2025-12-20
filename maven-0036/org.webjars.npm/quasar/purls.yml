@@ -157,6 +157,8 @@
 - pkg:maven/org.webjars.npm/quasar@2.15.4
 - pkg:maven/org.webjars.npm/quasar@2.15.4?classifier=sources
 - pkg:maven/org.webjars.npm/quasar@2.16.1
+- pkg:maven/org.webjars.npm/quasar@2.16.10
+- pkg:maven/org.webjars.npm/quasar@2.16.11
 - pkg:maven/org.webjars.npm/quasar@2.16.2
 - pkg:maven/org.webjars.npm/quasar@2.16.3
 - pkg:maven/org.webjars.npm/quasar@2.16.4
@@ -164,6 +166,7 @@
 - pkg:maven/org.webjars.npm/quasar@2.16.6
 - pkg:maven/org.webjars.npm/quasar@2.16.8
 - pkg:maven/org.webjars.npm/quasar@2.16.9
+- pkg:maven/org.webjars.npm/quasar@2.17.0
 - pkg:maven/org.webjars.npm/quasar@2.2.2
 - pkg:maven/org.webjars.npm/quasar@2.2.2?classifier=sources
 - pkg:maven/org.webjars.npm/quasar@2.2.4

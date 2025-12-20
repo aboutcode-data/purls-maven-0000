@@ -5,3 +5,4 @@
 - pkg:maven/io.bytesbank/media-toolkit@1.4-RELEASE?classifier=sources
 - pkg:maven/io.bytesbank/media-toolkit@1.5-RELEASE?classifier=sources
 - pkg:maven/io.bytesbank/media-toolkit@1.6-RELEASE?classifier=sources
+- pkg:maven/io.bytesbank/media-toolkit@1.6.1-RELEASE?classifier=sources

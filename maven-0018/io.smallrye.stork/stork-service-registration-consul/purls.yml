@@ -1,0 +1,2 @@
+- pkg:maven/io.smallrye.stork/stork-service-registration-consul@2.7.0
+- pkg:maven/io.smallrye.stork/stork-service-registration-consul@2.7.0?classifier=sources

@@ -2,3 +2,4 @@
 - pkg:maven/org.eclipse.ecf/org.eclipse.ecf.provider.filetransfer.httpclient5@1.0.300?classifier=sources
 - pkg:maven/org.eclipse.ecf/org.eclipse.ecf.provider.filetransfer.httpclient5@1.0.401?classifier=sources
 - pkg:maven/org.eclipse.ecf/org.eclipse.ecf.provider.filetransfer.httpclient5@1.1.0?classifier=sources
+- pkg:maven/org.eclipse.ecf/org.eclipse.ecf.provider.filetransfer.httpclient5@1.1.100?classifier=sources

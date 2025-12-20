@@ -172,3 +172,4 @@
 - pkg:maven/com.linecorp.centraldogma/centraldogma-client-armeria@0.67.3?classifier=sources
 - pkg:maven/com.linecorp.centraldogma/centraldogma-client-armeria@0.68.0?classifier=sources
 - pkg:maven/com.linecorp.centraldogma/centraldogma-client-armeria@0.69.0?classifier=sources
+- pkg:maven/com.linecorp.centraldogma/centraldogma-client-armeria@0.69.1?classifier=sources

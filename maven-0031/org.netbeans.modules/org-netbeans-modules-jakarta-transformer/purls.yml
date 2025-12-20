@@ -2,3 +2,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-jakarta-transformer@RELEASE200?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-jakarta-transformer@RELEASE210?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-jakarta-transformer@RELEASE220?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-jakarta-transformer@RELEASE230?classifier=sources

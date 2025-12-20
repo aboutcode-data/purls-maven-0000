@@ -1,0 +1,2 @@
+- pkg:maven/io.github.melin/flink-client@1.0-1.18
+- pkg:maven/io.github.melin/flink-client@1.0-1.18?classifier=sources

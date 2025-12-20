@@ -15,3 +15,4 @@
 - pkg:maven/com.gitee.zzhhz/HRabbit@1.1.5?classifier=sources
 - pkg:maven/com.gitee.zzhhz/HRabbit@1.1.6?classifier=sources
 - pkg:maven/com.gitee.zzhhz/HRabbit@1.1.7?classifier=sources
+- pkg:maven/com.gitee.zzhhz/HRabbit@1.1.8?classifier=sources

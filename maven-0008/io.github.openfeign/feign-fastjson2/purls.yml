@@ -1,2 +1,4 @@
 - pkg:maven/io.github.openfeign/feign-fastjson2@13.3
 - pkg:maven/io.github.openfeign/feign-fastjson2@13.3?classifier=sources
+- pkg:maven/io.github.openfeign/feign-fastjson2@13.4
+- pkg:maven/io.github.openfeign/feign-fastjson2@13.4?classifier=sources

@@ -101,3 +101,7 @@
 - pkg:maven/io.trino/trino-druid@452?classifier=sources
 - pkg:maven/io.trino/trino-druid@453?classifier=sources
 - pkg:maven/io.trino/trino-druid@454?classifier=sources
+- pkg:maven/io.trino/trino-druid@455?classifier=sources
+- pkg:maven/io.trino/trino-druid@456?classifier=sources
+- pkg:maven/io.trino/trino-druid@457?classifier=sources
+- pkg:maven/io.trino/trino-druid@458?classifier=sources

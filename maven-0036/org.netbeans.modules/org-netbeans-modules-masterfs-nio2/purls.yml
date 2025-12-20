@@ -22,4 +22,5 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-masterfs-nio2@RELEASE200?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-masterfs-nio2@RELEASE210?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-masterfs-nio2@RELEASE220?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-masterfs-nio2@RELEASE230?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-masterfs-nio2@RELEASE90?classifier=sources

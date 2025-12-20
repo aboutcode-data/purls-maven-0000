@@ -40,6 +40,11 @@
 - pkg:maven/org.ossreviewtoolkit.plugins.reporters/cyclonedx-reporter@29.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.reporters/cyclonedx-reporter@29.1.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.reporters/cyclonedx-reporter@3.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.reporters/cyclonedx-reporter@30.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.reporters/cyclonedx-reporter@31.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.reporters/cyclonedx-reporter@32.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.reporters/cyclonedx-reporter@32.1.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.reporters/cyclonedx-reporter@33.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.reporters/cyclonedx-reporter@4.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.reporters/cyclonedx-reporter@5.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.reporters/cyclonedx-reporter@5.1.0?classifier=sources

@@ -75,5 +75,11 @@
 - pkg:maven/io.github.turansky.seskar/seskar-react@3.10.0?classifier=sources
 - pkg:maven/io.github.turansky.seskar/seskar-react@3.13.0?classifier=sources
 - pkg:maven/io.github.turansky.seskar/seskar-react@3.2.0?classifier=sources
+- pkg:maven/io.github.turansky.seskar/seskar-react@3.20.0?classifier=sources
+- pkg:maven/io.github.turansky.seskar/seskar-react@3.30.0?classifier=sources
+- pkg:maven/io.github.turansky.seskar/seskar-react@3.31.0?classifier=sources
+- pkg:maven/io.github.turansky.seskar/seskar-react@3.32.0?classifier=sources
+- pkg:maven/io.github.turansky.seskar/seskar-react@3.40.0?classifier=sources
+- pkg:maven/io.github.turansky.seskar/seskar-react@3.41.0?classifier=sources
 - pkg:maven/io.github.turansky.seskar/seskar-react@3.6.0?classifier=sources
 - pkg:maven/io.github.turansky.seskar/seskar-react@3.7.0?classifier=sources

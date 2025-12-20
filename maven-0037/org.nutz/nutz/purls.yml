@@ -109,3 +109,5 @@
 - pkg:maven/org.nutz/nutz@1.r.69.20210929?classifier=sources
 - pkg:maven/org.nutz/nutz@1.r.69.v20220215?classifier=sources
 - pkg:maven/org.nutz/nutz@1.r.69.v20220703?classifier=sources
+- pkg:maven/org.nutz/nutz@1.r.71?classifier=sources
+- pkg:maven/org.nutz/nutz@1.r.72?classifier=sources

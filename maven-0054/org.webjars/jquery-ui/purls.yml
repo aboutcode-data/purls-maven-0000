@@ -31,6 +31,8 @@
 - pkg:maven/org.webjars/jquery-ui@1.13.2?classifier=sources
 - pkg:maven/org.webjars/jquery-ui@1.13.3
 - pkg:maven/org.webjars/jquery-ui@1.13.3?classifier=sources
+- pkg:maven/org.webjars/jquery-ui@1.14.0
+- pkg:maven/org.webjars/jquery-ui@1.14.0?classifier=sources
 - pkg:maven/org.webjars/jquery-ui@1.8.2
 - pkg:maven/org.webjars/jquery-ui@1.8.21
 - pkg:maven/org.webjars/jquery-ui@1.8.21?classifier=sources

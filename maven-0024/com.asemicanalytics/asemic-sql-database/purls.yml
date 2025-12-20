@@ -8,3 +8,9 @@
 - pkg:maven/com.asemicanalytics/asemic-sql-database@1.21?classifier=sources
 - pkg:maven/com.asemicanalytics/asemic-sql-database@1.22?classifier=sources
 - pkg:maven/com.asemicanalytics/asemic-sql-database@1.23?classifier=sources
+- pkg:maven/com.asemicanalytics/asemic-sql-database@1.24?classifier=sources
+- pkg:maven/com.asemicanalytics/asemic-sql-database@1.25?classifier=sources
+- pkg:maven/com.asemicanalytics/asemic-sql-database@1.26?classifier=sources
+- pkg:maven/com.asemicanalytics/asemic-sql-database@1.27?classifier=sources
+- pkg:maven/com.asemicanalytics/asemic-sql-database@1.28?classifier=sources
+- pkg:maven/com.asemicanalytics/asemic-sql-database@1.29?classifier=sources

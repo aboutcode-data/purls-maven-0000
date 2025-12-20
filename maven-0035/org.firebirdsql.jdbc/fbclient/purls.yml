@@ -1,5 +1,6 @@
 - pkg:maven/org.firebirdsql.jdbc/fbclient@3.0.10.0
 - pkg:maven/org.firebirdsql.jdbc/fbclient@3.0.11.0
+- pkg:maven/org.firebirdsql.jdbc/fbclient@3.0.12.0
 - pkg:maven/org.firebirdsql.jdbc/fbclient@3.0.4.0
 - pkg:maven/org.firebirdsql.jdbc/fbclient@3.0.5.0
 - pkg:maven/org.firebirdsql.jdbc/fbclient@3.0.5.1
@@ -9,3 +10,6 @@
 - pkg:maven/org.firebirdsql.jdbc/fbclient@4.0.2.0
 - pkg:maven/org.firebirdsql.jdbc/fbclient@4.0.3.0
 - pkg:maven/org.firebirdsql.jdbc/fbclient@4.0.4.0
+- pkg:maven/org.firebirdsql.jdbc/fbclient@4.0.5.0
+- pkg:maven/org.firebirdsql.jdbc/fbclient@5.0.1.0
+- pkg:maven/org.firebirdsql.jdbc/fbclient@5.0.1.1

@@ -1,0 +1,2 @@
+- pkg:maven/io.github.nbaars/paseto4j-version4@2024.3
+- pkg:maven/io.github.nbaars/paseto4j-version4@2024.3?classifier=sources

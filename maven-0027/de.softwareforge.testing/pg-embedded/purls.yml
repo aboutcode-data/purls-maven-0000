@@ -20,3 +20,5 @@
 - pkg:maven/de.softwareforge.testing/pg-embedded@5.0?classifier=sources
 - pkg:maven/de.softwareforge.testing/pg-embedded@5.1.0
 - pkg:maven/de.softwareforge.testing/pg-embedded@5.1.0?classifier=sources
+- pkg:maven/de.softwareforge.testing/pg-embedded@5.2.0
+- pkg:maven/de.softwareforge.testing/pg-embedded@5.2.0?classifier=sources

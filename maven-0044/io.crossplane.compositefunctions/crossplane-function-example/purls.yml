@@ -1,3 +1,6 @@
 - pkg:maven/io.crossplane.compositefunctions/crossplane-function-example@%3D1.15.0-alpha?classifier=sources
 - pkg:maven/io.crossplane.compositefunctions/crossplane-function-example@1.15.0-beta?classifier=sources
 - pkg:maven/io.crossplane.compositefunctions/crossplane-function-example@1.15.0-charlie?classifier=sources
+- pkg:maven/io.crossplane.compositefunctions/crossplane-function-example@1.15.0-delta?classifier=sources
+- pkg:maven/io.crossplane.compositefunctions/crossplane-function-example@1.15.0-echo?classifier=sources
+- pkg:maven/io.crossplane.compositefunctions/crossplane-function-example@v1.15.0-echo?classifier=sources
