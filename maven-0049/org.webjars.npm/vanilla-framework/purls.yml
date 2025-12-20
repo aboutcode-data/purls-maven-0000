@@ -1,1 +1,4 @@
 - pkg:maven/org.webjars.npm/vanilla-framework@4.15.0
+- pkg:maven/org.webjars.npm/vanilla-framework@4.16.0
+- pkg:maven/org.webjars.npm/vanilla-framework@4.17.1
+- pkg:maven/org.webjars.npm/vanilla-framework@4.18.5

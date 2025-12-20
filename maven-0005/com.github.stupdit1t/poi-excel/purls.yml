@@ -84,6 +84,10 @@
 - pkg:maven/com.github.stupdit1t/poi-excel@3.2.3?classifier=sources
 - pkg:maven/com.github.stupdit1t/poi-excel@3.3.0
 - pkg:maven/com.github.stupdit1t/poi-excel@3.3.0?classifier=sources
+- pkg:maven/com.github.stupdit1t/poi-excel@3.3.1
+- pkg:maven/com.github.stupdit1t/poi-excel@3.3.1?classifier=sources
+- pkg:maven/com.github.stupdit1t/poi-excel@4.0.0
+- pkg:maven/com.github.stupdit1t/poi-excel@4.0.0?classifier=sources
 - pkg:maven/com.github.stupdit1t/poi-excel@poi-317.0
 - pkg:maven/com.github.stupdit1t/poi-excel@poi-317.0?classifier=sources
 - pkg:maven/com.github.stupdit1t/poi-excel@poi-317.1

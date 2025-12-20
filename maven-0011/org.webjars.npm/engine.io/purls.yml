@@ -19,3 +19,4 @@
 - pkg:maven/org.webjars.npm/engine.io@6.2.1
 - pkg:maven/org.webjars.npm/engine.io@6.2.1?classifier=sources
 - pkg:maven/org.webjars.npm/engine.io@6.5.5
+- pkg:maven/org.webjars.npm/engine.io@6.6.2

@@ -6,3 +6,4 @@
 - pkg:maven/org.webjars.npm/types__hammerjs@2.0.35?classifier=sources
 - pkg:maven/org.webjars.npm/types__hammerjs@2.0.36
 - pkg:maven/org.webjars.npm/types__hammerjs@2.0.36?classifier=sources
+- pkg:maven/org.webjars.npm/types__hammerjs@2.0.46

@@ -324,6 +324,10 @@
 - pkg:maven/org.wildfly.core/wildfly-event-logger@27.0.0.Beta5?classifier=sources
 - pkg:maven/org.wildfly.core/wildfly-event-logger@27.0.0.Beta6
 - pkg:maven/org.wildfly.core/wildfly-event-logger@27.0.0.Beta6?classifier=sources
+- pkg:maven/org.wildfly.core/wildfly-event-logger@27.0.0.Beta7
+- pkg:maven/org.wildfly.core/wildfly-event-logger@27.0.0.Beta7?classifier=sources
+- pkg:maven/org.wildfly.core/wildfly-event-logger@27.0.0.Final
+- pkg:maven/org.wildfly.core/wildfly-event-logger@27.0.0.Final?classifier=sources
 - pkg:maven/org.wildfly.core/wildfly-event-logger@9.0.0.Beta5
 - pkg:maven/org.wildfly.core/wildfly-event-logger@9.0.0.Beta5?classifier=sources
 - pkg:maven/org.wildfly.core/wildfly-event-logger@9.0.0.Beta6

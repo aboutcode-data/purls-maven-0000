@@ -1,0 +1,4 @@
+- pkg:maven/ba.sake/mill-openapi4s_mill0.11_2.13@0.0.10
+- pkg:maven/ba.sake/mill-openapi4s_mill0.11_2.13@0.0.10?classifier=sources
+- pkg:maven/ba.sake/mill-openapi4s_mill0.11_2.13@0.0.9
+- pkg:maven/ba.sake/mill-openapi4s_mill0.11_2.13@0.0.9?classifier=sources

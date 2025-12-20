@@ -1,1 +1,5 @@
 - pkg:maven/io.github.me-liuchunfu/springboot.message-event@0.0.1-RELEASE?classifier=sources
+- pkg:maven/io.github.me-liuchunfu/springboot.message-event@2.0.0-RELEASE?classifier=sources
+- pkg:maven/io.github.me-liuchunfu/springboot.message-event@2.1.0-RELEASE?classifier=sources
+- pkg:maven/io.github.me-liuchunfu/springboot.message-event@3.0.0-RELEASE?classifier=sources
+- pkg:maven/io.github.me-liuchunfu/springboot.message-event@3.2.0-RELEASE?classifier=sources

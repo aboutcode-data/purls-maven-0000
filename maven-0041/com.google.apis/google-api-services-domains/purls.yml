@@ -46,6 +46,8 @@
 - pkg:maven/com.google.apis/google-api-services-domains@v1-rev20240610-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-domains@v1-rev20240724-2.0.0
 - pkg:maven/com.google.apis/google-api-services-domains@v1-rev20240724-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-domains@v1-rev20241209-2.0.0
+- pkg:maven/com.google.apis/google-api-services-domains@v1-rev20241209-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-domains@v1alpha2-rev20201013-1.30.10
 - pkg:maven/com.google.apis/google-api-services-domains@v1alpha2-rev20201013-1.30.10?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-domains@v1alpha2-rev20201029-1.30.10
@@ -112,6 +114,8 @@
 - pkg:maven/com.google.apis/google-api-services-domains@v1alpha2-rev20240610-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-domains@v1alpha2-rev20240724-2.0.0
 - pkg:maven/com.google.apis/google-api-services-domains@v1alpha2-rev20240724-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-domains@v1alpha2-rev20241209-2.0.0
+- pkg:maven/com.google.apis/google-api-services-domains@v1alpha2-rev20241209-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-domains@v1beta1-rev20201013-1.30.10
 - pkg:maven/com.google.apis/google-api-services-domains@v1beta1-rev20201013-1.30.10?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-domains@v1beta1-rev20201029-1.30.10
@@ -178,3 +182,5 @@
 - pkg:maven/com.google.apis/google-api-services-domains@v1beta1-rev20240610-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-domains@v1beta1-rev20240724-2.0.0
 - pkg:maven/com.google.apis/google-api-services-domains@v1beta1-rev20240724-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-domains@v1beta1-rev20241209-2.0.0
+- pkg:maven/com.google.apis/google-api-services-domains@v1beta1-rev20241209-2.0.0?classifier=sources

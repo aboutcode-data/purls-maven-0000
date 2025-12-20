@@ -37,3 +37,4 @@
 - pkg:maven/org.webjars.npm/apexcharts@3.8.4
 - pkg:maven/org.webjars.npm/apexcharts@3.8.4?classifier=sources
 - pkg:maven/org.webjars.npm/apexcharts@4.0.0
+- pkg:maven/org.webjars.npm/apexcharts@4.3.0

@@ -212,3 +212,6 @@
 - pkg:maven/com.pulumi/digitalocean@4.36.0-alpha.1732685847?classifier=sources
 - pkg:maven/com.pulumi/digitalocean@4.36.0-alpha.1732772116?classifier=sources
 - pkg:maven/com.pulumi/digitalocean@4.36.0?classifier=sources
+- pkg:maven/com.pulumi/digitalocean@4.37.0?classifier=sources
+- pkg:maven/com.pulumi/digitalocean@4.37.1?classifier=sources
+- pkg:maven/com.pulumi/digitalocean@4.38.0?classifier=sources

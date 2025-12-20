@@ -66,3 +66,5 @@
 - pkg:maven/tech.ydb.yoj/yoj-aspect@2.6.3?classifier=sources
 - pkg:maven/tech.ydb.yoj/yoj-aspect@2.6.4
 - pkg:maven/tech.ydb.yoj/yoj-aspect@2.6.4?classifier=sources
+- pkg:maven/tech.ydb.yoj/yoj-aspect@2.6.5
+- pkg:maven/tech.ydb.yoj/yoj-aspect@2.6.5?classifier=sources

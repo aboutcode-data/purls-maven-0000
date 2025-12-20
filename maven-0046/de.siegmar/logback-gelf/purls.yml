@@ -32,3 +32,4 @@
 - pkg:maven/de.siegmar/logback-gelf@6.0.1?classifier=sources
 - pkg:maven/de.siegmar/logback-gelf@6.0.2?classifier=sources
 - pkg:maven/de.siegmar/logback-gelf@6.1.0?classifier=sources
+- pkg:maven/de.siegmar/logback-gelf@6.1.1?classifier=sources

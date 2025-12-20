@@ -20,3 +20,4 @@
 - pkg:maven/io.github.panpf.zoomimage/zoomimage-core-desktop@1.1.0-rc01?classifier=sources
 - pkg:maven/io.github.panpf.zoomimage/zoomimage-core-desktop@1.1.0-rc02?classifier=sources
 - pkg:maven/io.github.panpf.zoomimage/zoomimage-core-desktop@1.1.0-rc03?classifier=sources
+- pkg:maven/io.github.panpf.zoomimage/zoomimage-core-desktop@1.1.0?classifier=sources

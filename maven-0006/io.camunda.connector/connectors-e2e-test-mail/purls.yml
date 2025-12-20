@@ -1,1 +1,4 @@
 - pkg:maven/io.camunda.connector/connectors-e2e-test-mail@8.7.0-alpha2.1
+- pkg:maven/io.camunda.connector/connectors-e2e-test-mail@8.7.0-alpha3
+- pkg:maven/io.camunda.connector/connectors-e2e-test-mail@8.7.0-alpha3.1
+- pkg:maven/io.camunda.connector/connectors-e2e-test-mail@8.7.0-alpha3.2

@@ -6,3 +6,5 @@
 - pkg:maven/tech.esphero/multitenant-spring-boot-starter@2.1.4?classifier=sources
 - pkg:maven/tech.esphero/multitenant-spring-boot-starter@2.2.1?classifier=sources
 - pkg:maven/tech.esphero/multitenant-spring-boot-starter@2.2.2?classifier=sources
+- pkg:maven/tech.esphero/multitenant-spring-boot-starter@2.2.3?classifier=sources
+- pkg:maven/tech.esphero/multitenant-spring-boot-starter@2.2.4?classifier=sources

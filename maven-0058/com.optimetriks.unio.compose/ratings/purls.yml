@@ -3,6 +3,12 @@
 - pkg:maven/com.optimetriks.unio.compose/ratings@12?classifier=sources
 - pkg:maven/com.optimetriks.unio.compose/ratings@17?classifier=sources
 - pkg:maven/com.optimetriks.unio.compose/ratings@18?classifier=sources
+- pkg:maven/com.optimetriks.unio.compose/ratings@22?classifier=sources
+- pkg:maven/com.optimetriks.unio.compose/ratings@24?classifier=sources
+- pkg:maven/com.optimetriks.unio.compose/ratings@34?classifier=sources
+- pkg:maven/com.optimetriks.unio.compose/ratings@36?classifier=sources
+- pkg:maven/com.optimetriks.unio.compose/ratings@40?classifier=sources
+- pkg:maven/com.optimetriks.unio.compose/ratings@46?classifier=sources
 - pkg:maven/com.optimetriks.unio.compose/ratings@4?classifier=sources
 - pkg:maven/com.optimetriks.unio.compose/ratings@6?classifier=sources
 - pkg:maven/com.optimetriks.unio.compose/ratings@7?classifier=sources

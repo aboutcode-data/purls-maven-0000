@@ -3,6 +3,12 @@
 - pkg:maven/com.optimetriks.unio.compose/statescreens@12?classifier=sources
 - pkg:maven/com.optimetriks.unio.compose/statescreens@17?classifier=sources
 - pkg:maven/com.optimetriks.unio.compose/statescreens@18?classifier=sources
+- pkg:maven/com.optimetriks.unio.compose/statescreens@22?classifier=sources
+- pkg:maven/com.optimetriks.unio.compose/statescreens@24?classifier=sources
+- pkg:maven/com.optimetriks.unio.compose/statescreens@34?classifier=sources
+- pkg:maven/com.optimetriks.unio.compose/statescreens@36?classifier=sources
+- pkg:maven/com.optimetriks.unio.compose/statescreens@40?classifier=sources
+- pkg:maven/com.optimetriks.unio.compose/statescreens@46?classifier=sources
 - pkg:maven/com.optimetriks.unio.compose/statescreens@4?classifier=sources
 - pkg:maven/com.optimetriks.unio.compose/statescreens@6?classifier=sources
 - pkg:maven/com.optimetriks.unio.compose/statescreens@7?classifier=sources

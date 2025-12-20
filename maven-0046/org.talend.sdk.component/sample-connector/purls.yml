@@ -78,5 +78,7 @@
 - pkg:maven/org.talend.sdk.component/sample-connector@1.65.0M6?classifier=sources
 - pkg:maven/org.talend.sdk.component/sample-connector@1.65.0M7
 - pkg:maven/org.talend.sdk.component/sample-connector@1.65.0M7?classifier=sources
+- pkg:maven/org.talend.sdk.component/sample-connector@1.66.0
+- pkg:maven/org.talend.sdk.component/sample-connector@1.66.0?classifier=sources
 - pkg:maven/org.talend.sdk.component/sample-connector@10.57.0
 - pkg:maven/org.talend.sdk.component/sample-connector@10.57.0?classifier=sources

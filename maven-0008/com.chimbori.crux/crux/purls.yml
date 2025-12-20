@@ -40,3 +40,4 @@
 - pkg:maven/com.chimbori.crux/crux@4.0?classifier=sources
 - pkg:maven/com.chimbori.crux/crux@5.0.0?classifier=sources
 - pkg:maven/com.chimbori.crux/crux@5.0?classifier=sources
+- pkg:maven/com.chimbori.crux/crux@5.1.0?classifier=sources

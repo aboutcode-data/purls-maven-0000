@@ -9,3 +9,4 @@
 - pkg:maven/dev.deeplink.sdk/deeplink-sdk-java@0.0.30?classifier=sources
 - pkg:maven/dev.deeplink.sdk/deeplink-sdk-java@0.0.31?classifier=sources
 - pkg:maven/dev.deeplink.sdk/deeplink-sdk-java@0.0.32?classifier=sources
+- pkg:maven/dev.deeplink.sdk/deeplink-sdk-java@0.0.33?classifier=sources

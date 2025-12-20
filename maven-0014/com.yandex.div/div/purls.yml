@@ -99,6 +99,8 @@
 - pkg:maven/com.yandex.div/div@30.3.0?classifier=sources
 - pkg:maven/com.yandex.div/div@30.3.1?classifier=sources
 - pkg:maven/com.yandex.div/div@30.30.0?classifier=sources
+- pkg:maven/com.yandex.div/div@30.31.0?classifier=sources
+- pkg:maven/com.yandex.div/div@30.32.0?classifier=sources
 - pkg:maven/com.yandex.div/div@30.4.0?classifier=sources
 - pkg:maven/com.yandex.div/div@30.5.0?classifier=sources
 - pkg:maven/com.yandex.div/div@30.6.0?classifier=sources

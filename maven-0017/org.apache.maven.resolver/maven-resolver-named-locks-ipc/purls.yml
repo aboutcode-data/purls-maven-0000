@@ -6,3 +6,5 @@
 - pkg:maven/org.apache.maven.resolver/maven-resolver-named-locks-ipc@2.0.3?classifier=sources
 - pkg:maven/org.apache.maven.resolver/maven-resolver-named-locks-ipc@2.0.4
 - pkg:maven/org.apache.maven.resolver/maven-resolver-named-locks-ipc@2.0.4?classifier=sources
+- pkg:maven/org.apache.maven.resolver/maven-resolver-named-locks-ipc@2.0.5
+- pkg:maven/org.apache.maven.resolver/maven-resolver-named-locks-ipc@2.0.5?classifier=sources

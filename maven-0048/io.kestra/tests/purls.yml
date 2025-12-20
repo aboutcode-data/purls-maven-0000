@@ -2,6 +2,8 @@
 - pkg:maven/io.kestra/tests@0.18.10?classifier=sources
 - pkg:maven/io.kestra/tests@0.18.11?classifier=sources
 - pkg:maven/io.kestra/tests@0.18.12?classifier=sources
+- pkg:maven/io.kestra/tests@0.18.13?classifier=sources
+- pkg:maven/io.kestra/tests@0.18.14?classifier=sources
 - pkg:maven/io.kestra/tests@0.18.1?classifier=sources
 - pkg:maven/io.kestra/tests@0.18.2?classifier=sources
 - pkg:maven/io.kestra/tests@0.18.3?classifier=sources
@@ -16,6 +18,10 @@
 - pkg:maven/io.kestra/tests@0.19.11?classifier=sources
 - pkg:maven/io.kestra/tests@0.19.12?classifier=sources
 - pkg:maven/io.kestra/tests@0.19.13?classifier=sources
+- pkg:maven/io.kestra/tests@0.19.14?classifier=sources
+- pkg:maven/io.kestra/tests@0.19.15?classifier=sources
+- pkg:maven/io.kestra/tests@0.19.16?classifier=sources
+- pkg:maven/io.kestra/tests@0.19.17?classifier=sources
 - pkg:maven/io.kestra/tests@0.19.1?classifier=sources
 - pkg:maven/io.kestra/tests@0.19.2?classifier=sources
 - pkg:maven/io.kestra/tests@0.19.3?classifier=sources
@@ -26,9 +32,15 @@
 - pkg:maven/io.kestra/tests@0.19.8?classifier=sources
 - pkg:maven/io.kestra/tests@0.19.9?classifier=sources
 - pkg:maven/io.kestra/tests@0.20.0?classifier=sources
+- pkg:maven/io.kestra/tests@0.20.10?classifier=sources
+- pkg:maven/io.kestra/tests@0.20.11?classifier=sources
+- pkg:maven/io.kestra/tests@0.20.12?classifier=sources
 - pkg:maven/io.kestra/tests@0.20.1?classifier=sources
 - pkg:maven/io.kestra/tests@0.20.2?classifier=sources
 - pkg:maven/io.kestra/tests@0.20.3?classifier=sources
 - pkg:maven/io.kestra/tests@0.20.4?classifier=sources
 - pkg:maven/io.kestra/tests@0.20.5?classifier=sources
 - pkg:maven/io.kestra/tests@0.20.6?classifier=sources
+- pkg:maven/io.kestra/tests@0.20.7?classifier=sources
+- pkg:maven/io.kestra/tests@0.20.8?classifier=sources
+- pkg:maven/io.kestra/tests@0.20.9?classifier=sources

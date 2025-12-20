@@ -1132,3 +1132,5 @@
 - pkg:maven/com.pepperize/projen-awscdk-construct@0.0.728?classifier=sources
 - pkg:maven/com.pepperize/projen-awscdk-construct@0.0.729
 - pkg:maven/com.pepperize/projen-awscdk-construct@0.0.729?classifier=sources
+- pkg:maven/com.pepperize/projen-awscdk-construct@0.0.730
+- pkg:maven/com.pepperize/projen-awscdk-construct@0.0.730?classifier=sources

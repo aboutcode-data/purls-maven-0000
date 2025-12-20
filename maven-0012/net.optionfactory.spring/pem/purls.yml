@@ -68,3 +68,17 @@
 - pkg:maven/net.optionfactory.spring/pem@20.3?classifier=sources
 - pkg:maven/net.optionfactory.spring/pem@20.4
 - pkg:maven/net.optionfactory.spring/pem@20.4?classifier=sources
+- pkg:maven/net.optionfactory.spring/pem@20.5
+- pkg:maven/net.optionfactory.spring/pem@20.5?classifier=sources
+- pkg:maven/net.optionfactory.spring/pem@21.0
+- pkg:maven/net.optionfactory.spring/pem@21.0?classifier=sources
+- pkg:maven/net.optionfactory.spring/pem@21.1
+- pkg:maven/net.optionfactory.spring/pem@21.1?classifier=sources
+- pkg:maven/net.optionfactory.spring/pem@21.2
+- pkg:maven/net.optionfactory.spring/pem@21.2?classifier=sources
+- pkg:maven/net.optionfactory.spring/pem@21.4
+- pkg:maven/net.optionfactory.spring/pem@21.4?classifier=sources
+- pkg:maven/net.optionfactory.spring/pem@21.5
+- pkg:maven/net.optionfactory.spring/pem@21.5?classifier=sources
+- pkg:maven/net.optionfactory.spring/pem@21.6
+- pkg:maven/net.optionfactory.spring/pem@21.6?classifier=sources

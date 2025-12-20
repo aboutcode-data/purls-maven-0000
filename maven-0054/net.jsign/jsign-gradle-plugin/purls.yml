@@ -16,3 +16,5 @@
 - pkg:maven/net.jsign/jsign-gradle-plugin@5.0?classifier=sources
 - pkg:maven/net.jsign/jsign-gradle-plugin@6.0
 - pkg:maven/net.jsign/jsign-gradle-plugin@6.0?classifier=sources
+- pkg:maven/net.jsign/jsign-gradle-plugin@7.0
+- pkg:maven/net.jsign/jsign-gradle-plugin@7.0?classifier=sources

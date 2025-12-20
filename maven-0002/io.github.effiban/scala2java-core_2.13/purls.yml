@@ -4,6 +4,8 @@
 - pkg:maven/io.github.effiban/scala2java-core_2.13@10.0.3?classifier=sources
 - pkg:maven/io.github.effiban/scala2java-core_2.13@10.0.4?classifier=sources
 - pkg:maven/io.github.effiban/scala2java-core_2.13@10.1.0?classifier=sources
+- pkg:maven/io.github.effiban/scala2java-core_2.13@10.2.0?classifier=sources
+- pkg:maven/io.github.effiban/scala2java-core_2.13@10.2.1?classifier=sources
 - pkg:maven/io.github.effiban/scala2java-core_2.13@2.0.0-alpha?classifier=sources
 - pkg:maven/io.github.effiban/scala2java-core_2.13@2.0.0-beta?classifier=sources
 - pkg:maven/io.github.effiban/scala2java-core_2.13@2.0.0?classifier=sources

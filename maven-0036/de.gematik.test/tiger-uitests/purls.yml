@@ -23,3 +23,6 @@
 - pkg:maven/de.gematik.test/tiger-uitests@3.4.4
 - pkg:maven/de.gematik.test/tiger-uitests@3.4.5
 - pkg:maven/de.gematik.test/tiger-uitests@3.4.6
+- pkg:maven/de.gematik.test/tiger-uitests@3.4.7
+- pkg:maven/de.gematik.test/tiger-uitests@3.5.0
+- pkg:maven/de.gematik.test/tiger-uitests@3.6.0

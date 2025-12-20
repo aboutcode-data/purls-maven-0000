@@ -1,1 +1,2 @@
 - pkg:maven/org.grails.plugins/converters@5.0.0?classifier=sources
+- pkg:maven/org.grails.plugins/converters@6.0.0-M1?classifier=sources

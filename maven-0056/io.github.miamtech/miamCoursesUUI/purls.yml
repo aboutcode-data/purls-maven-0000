@@ -34,3 +34,4 @@
 - pkg:maven/io.github.miamtech/miamCoursesUUI@5.3.0-alpha?classifier=sources
 - pkg:maven/io.github.miamtech/miamCoursesUUI@5.3.0?classifier=sources
 - pkg:maven/io.github.miamtech/miamCoursesUUI@5.3.1-alpha?classifier=sources
+- pkg:maven/io.github.miamtech/miamCoursesUUI@5.3.1?classifier=sources

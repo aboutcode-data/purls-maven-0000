@@ -112,3 +112,5 @@
 - pkg:maven/org.jetbrains.intellij.plugins/structure-intellij@3.290?classifier=sources
 - pkg:maven/org.jetbrains.intellij.plugins/structure-intellij@3.291?classifier=sources
 - pkg:maven/org.jetbrains.intellij.plugins/structure-intellij@3.292?classifier=sources
+- pkg:maven/org.jetbrains.intellij.plugins/structure-intellij@3.293?classifier=sources
+- pkg:maven/org.jetbrains.intellij.plugins/structure-intellij@3.294?classifier=sources

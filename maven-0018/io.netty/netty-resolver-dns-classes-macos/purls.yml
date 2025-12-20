@@ -30,6 +30,10 @@
 - pkg:maven/io.netty/netty-resolver-dns-classes-macos@4.1.114.Final?classifier=sources
 - pkg:maven/io.netty/netty-resolver-dns-classes-macos@4.1.115.Final
 - pkg:maven/io.netty/netty-resolver-dns-classes-macos@4.1.115.Final?classifier=sources
+- pkg:maven/io.netty/netty-resolver-dns-classes-macos@4.1.116.Final
+- pkg:maven/io.netty/netty-resolver-dns-classes-macos@4.1.116.Final?classifier=sources
+- pkg:maven/io.netty/netty-resolver-dns-classes-macos@4.1.117.Final
+- pkg:maven/io.netty/netty-resolver-dns-classes-macos@4.1.117.Final?classifier=sources
 - pkg:maven/io.netty/netty-resolver-dns-classes-macos@4.1.70.Final
 - pkg:maven/io.netty/netty-resolver-dns-classes-macos@4.1.70.Final?classifier=sources
 - pkg:maven/io.netty/netty-resolver-dns-classes-macos@4.1.71.Final

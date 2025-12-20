@@ -501,3 +501,5 @@
 - pkg:maven/com.squareup.misk/misk-feature-testing@2024.12.11.152254-7d649b4?classifier=sources
 - pkg:maven/com.squareup.misk/misk-feature-testing@2024.12.11.174623-de900cb?classifier=sources
 - pkg:maven/com.squareup.misk/misk-feature-testing@2024.12.12.153725-b454031?classifier=sources
+- pkg:maven/com.squareup.misk/misk-feature-testing@2025.01.07.011907-b964324?classifier=sources
+- pkg:maven/com.squareup.misk/misk-feature-testing@2025.01.07.215822-d78df69?classifier=sources

@@ -18,3 +18,5 @@
 - pkg:maven/org.scalameta/sbt-munit_2.12_1.0@1.0.2?classifier=sources
 - pkg:maven/org.scalameta/sbt-munit_2.12_1.0@1.0.3
 - pkg:maven/org.scalameta/sbt-munit_2.12_1.0@1.0.3?classifier=sources
+- pkg:maven/org.scalameta/sbt-munit_2.12_1.0@1.0.4
+- pkg:maven/org.scalameta/sbt-munit_2.12_1.0@1.0.4?classifier=sources

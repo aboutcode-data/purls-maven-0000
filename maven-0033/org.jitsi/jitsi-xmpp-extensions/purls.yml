@@ -1,0 +1,2 @@
+- pkg:maven/org.jitsi/jitsi-xmpp-extensions@1.0-90-gaf6641c
+- pkg:maven/org.jitsi/jitsi-xmpp-extensions@1.0-90-gaf6641c?classifier=sources

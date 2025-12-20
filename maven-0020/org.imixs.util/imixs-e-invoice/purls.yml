@@ -1,0 +1,2 @@
+- pkg:maven/org.imixs.util/imixs-e-invoice@1.0.0
+- pkg:maven/org.imixs.util/imixs-e-invoice@1.0.0?classifier=sources

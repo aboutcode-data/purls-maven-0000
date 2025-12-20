@@ -1,1 +1,2 @@
 - pkg:maven/org.mvnpm.at.emotion/use-insertion-effect-with-fallbacks@1.0.1?classifier=sources
+- pkg:maven/org.mvnpm.at.emotion/use-insertion-effect-with-fallbacks@1.2.0?classifier=sources

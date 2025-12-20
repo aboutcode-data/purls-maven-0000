@@ -1,0 +1,2 @@
+- pkg:maven/io.gitlab.spring-cattle.framework/cattle-db-orm@1.0.3
+- pkg:maven/io.gitlab.spring-cattle.framework/cattle-db-orm@1.0.3?classifier=sources

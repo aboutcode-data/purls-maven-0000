@@ -1,1 +1,2 @@
 - pkg:maven/com.autonomousapps/kotlin-editor-relocated@0.10.0?classifier=sources
+- pkg:maven/com.autonomousapps/kotlin-editor-relocated@0.18.0?classifier=sources

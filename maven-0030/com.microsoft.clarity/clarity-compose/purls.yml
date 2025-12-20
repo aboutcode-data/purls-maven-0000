@@ -2,3 +2,6 @@
 - pkg:maven/com.microsoft.clarity/clarity-compose@2.5.1?classifier=sources
 - pkg:maven/com.microsoft.clarity/clarity-compose@2.5.2?classifier=sources
 - pkg:maven/com.microsoft.clarity/clarity-compose@3.0.0?classifier=sources
+- pkg:maven/com.microsoft.clarity/clarity-compose@3.0.1?classifier=sources
+- pkg:maven/com.microsoft.clarity/clarity-compose@3.0.2?classifier=sources
+- pkg:maven/com.microsoft.clarity/clarity-compose@3.1.0?classifier=sources
