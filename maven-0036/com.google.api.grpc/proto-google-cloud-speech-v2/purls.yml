@@ -36,6 +36,8 @@
 - pkg:maven/com.google.api.grpc/proto-google-cloud-speech-v2@4.23.0?classifier=sources
 - pkg:maven/com.google.api.grpc/proto-google-cloud-speech-v2@4.24.0
 - pkg:maven/com.google.api.grpc/proto-google-cloud-speech-v2@4.24.0?classifier=sources
+- pkg:maven/com.google.api.grpc/proto-google-cloud-speech-v2@4.25.0
+- pkg:maven/com.google.api.grpc/proto-google-cloud-speech-v2@4.25.0?classifier=sources
 - pkg:maven/com.google.api.grpc/proto-google-cloud-speech-v2@4.3.0
 - pkg:maven/com.google.api.grpc/proto-google-cloud-speech-v2@4.3.0?classifier=sources
 - pkg:maven/com.google.api.grpc/proto-google-cloud-speech-v2@4.4.0

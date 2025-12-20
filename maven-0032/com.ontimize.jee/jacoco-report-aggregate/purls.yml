@@ -1,3 +1,4 @@
+- pkg:maven/com.ontimize.jee/jacoco-report-aggregate@5.10.0
 - pkg:maven/com.ontimize.jee/jacoco-report-aggregate@5.7.0
 - pkg:maven/com.ontimize.jee/jacoco-report-aggregate@5.8.0
 - pkg:maven/com.ontimize.jee/jacoco-report-aggregate@5.9.0

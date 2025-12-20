@@ -1,2 +1,3 @@
 - pkg:maven/org.mvnpm.at.restart/hooks@0.4.11?classifier=sources
+- pkg:maven/org.mvnpm.at.restart/hooks@0.4.7?classifier=sources
 - pkg:maven/org.mvnpm.at.restart/hooks@0.4.9?classifier=sources

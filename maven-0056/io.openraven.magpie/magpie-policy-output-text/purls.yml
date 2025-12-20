@@ -100,3 +100,5 @@
 - pkg:maven/io.openraven.magpie/magpie-policy-output-text@0.8.2?classifier=sources
 - pkg:maven/io.openraven.magpie/magpie-policy-output-text@0.9.0
 - pkg:maven/io.openraven.magpie/magpie-policy-output-text@0.9.0?classifier=sources
+- pkg:maven/io.openraven.magpie/magpie-policy-output-text@0.9.1
+- pkg:maven/io.openraven.magpie/magpie-policy-output-text@0.9.1?classifier=sources

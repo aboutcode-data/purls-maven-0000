@@ -79,3 +79,5 @@
 - pkg:maven/com.cedarsoftware/json-command-servlet@1.9.1
 - pkg:maven/com.cedarsoftware/json-command-servlet@1.9.1?classifier=sources
 - pkg:maven/com.cedarsoftware/json-command-servlet@2.0.0?classifier=sources
+- pkg:maven/com.cedarsoftware/json-command-servlet@2.1.0?classifier=sources
+- pkg:maven/com.cedarsoftware/json-command-servlet@2.2.0?classifier=sources

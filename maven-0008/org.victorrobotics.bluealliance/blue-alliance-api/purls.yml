@@ -1,0 +1,2 @@
+- pkg:maven/org.victorrobotics.bluealliance/blue-alliance-api@2023-beta-2?classifier=sources
+- pkg:maven/org.victorrobotics.bluealliance/blue-alliance-api@2023-beta?classifier=sources

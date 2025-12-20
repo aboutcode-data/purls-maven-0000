@@ -6,3 +6,7 @@
 - pkg:maven/cn.therouter.agp8/cn.therouter.agp8.gradle.plugin@1.2.0-rc6?classifier=sources
 - pkg:maven/cn.therouter.agp8/cn.therouter.agp8.gradle.plugin@1.2.0-rc7?classifier=sources
 - pkg:maven/cn.therouter.agp8/cn.therouter.agp8.gradle.plugin@1.2.0-rc8?classifier=sources
+- pkg:maven/cn.therouter.agp8/cn.therouter.agp8.gradle.plugin@1.2.0?classifier=sources
+- pkg:maven/cn.therouter.agp8/cn.therouter.agp8.gradle.plugin@1.2.1?classifier=sources
+- pkg:maven/cn.therouter.agp8/cn.therouter.agp8.gradle.plugin@1.2.2-rc1?classifier=sources
+- pkg:maven/cn.therouter.agp8/cn.therouter.agp8.gradle.plugin@1.2.2-rc2?classifier=sources

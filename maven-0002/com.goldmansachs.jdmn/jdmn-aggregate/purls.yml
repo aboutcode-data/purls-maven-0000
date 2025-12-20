@@ -20,6 +20,7 @@
 - pkg:maven/com.goldmansachs.jdmn/jdmn-aggregate@4.2.5
 - pkg:maven/com.goldmansachs.jdmn/jdmn-aggregate@4.2.6
 - pkg:maven/com.goldmansachs.jdmn/jdmn-aggregate@4.2.7
+- pkg:maven/com.goldmansachs.jdmn/jdmn-aggregate@4.2.8
 - pkg:maven/com.goldmansachs.jdmn/jdmn-aggregate@5.0.0
 - pkg:maven/com.goldmansachs.jdmn/jdmn-aggregate@5.1.0
 - pkg:maven/com.goldmansachs.jdmn/jdmn-aggregate@5.2.0
@@ -44,3 +45,4 @@
 - pkg:maven/com.goldmansachs.jdmn/jdmn-aggregate@8.0.0
 - pkg:maven/com.goldmansachs.jdmn/jdmn-aggregate@8.1.0
 - pkg:maven/com.goldmansachs.jdmn/jdmn-aggregate@8.2.0
+- pkg:maven/com.goldmansachs.jdmn/jdmn-aggregate@8.2.1

@@ -27,6 +27,12 @@
 - pkg:maven/me.proton.core/feature-flag-dagger@17.1.0?classifier=sources
 - pkg:maven/me.proton.core/feature-flag-dagger@17.2.0?classifier=sources
 - pkg:maven/me.proton.core/feature-flag-dagger@17.2.1?classifier=sources
+- pkg:maven/me.proton.core/feature-flag-dagger@17.3.0?classifier=sources
+- pkg:maven/me.proton.core/feature-flag-dagger@18.0.0?classifier=sources
+- pkg:maven/me.proton.core/feature-flag-dagger@18.1.0?classifier=sources
+- pkg:maven/me.proton.core/feature-flag-dagger@18.1.1?classifier=sources
+- pkg:maven/me.proton.core/feature-flag-dagger@18.2.0?classifier=sources
+- pkg:maven/me.proton.core/feature-flag-dagger@18.2.1?classifier=sources
 - pkg:maven/me.proton.core/feature-flag-dagger@7.1.0?classifier=sources
 - pkg:maven/me.proton.core/feature-flag-dagger@7.1.10?classifier=sources
 - pkg:maven/me.proton.core/feature-flag-dagger@7.1.11?classifier=sources

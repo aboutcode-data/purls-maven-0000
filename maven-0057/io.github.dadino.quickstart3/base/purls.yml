@@ -9,3 +9,4 @@
 - pkg:maven/io.github.dadino.quickstart3/base@0.12.8?classifier=sources
 - pkg:maven/io.github.dadino.quickstart3/base@0.12.9?classifier=sources
 - pkg:maven/io.github.dadino.quickstart3/base@0.13.0?classifier=sources
+- pkg:maven/io.github.dadino.quickstart3/base@0.13.1?classifier=sources

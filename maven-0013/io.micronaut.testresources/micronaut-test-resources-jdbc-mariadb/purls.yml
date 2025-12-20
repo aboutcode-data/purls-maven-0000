@@ -32,3 +32,4 @@
 - pkg:maven/io.micronaut.testresources/micronaut-test-resources-jdbc-mariadb@2.0.0-M9?classifier=sources
 - pkg:maven/io.micronaut.testresources/micronaut-test-resources-jdbc-mariadb@2.0.0?classifier=sources
 - pkg:maven/io.micronaut.testresources/micronaut-test-resources-jdbc-mariadb@2.1.0?classifier=sources
+- pkg:maven/io.micronaut.testresources/micronaut-test-resources-jdbc-mariadb@2.2.0?classifier=sources

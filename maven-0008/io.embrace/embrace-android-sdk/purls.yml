@@ -112,3 +112,4 @@
 - pkg:maven/io.embrace/embrace-android-sdk@5.9.3?classifier=sources
 - pkg:maven/io.embrace/embrace-android-sdk@5.9.4?classifier=sources
 - pkg:maven/io.embrace/embrace-android-sdk@6.0.0?classifier=sources
+- pkg:maven/io.embrace/embrace-android-sdk@6.1.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/io.github.ghusta.retrofit2/retrofit-converter-jackson-extended@1.0.0?classifier=sources
+- pkg:maven/io.github.ghusta.retrofit2/retrofit-converter-jackson-extended@1.1.0?classifier=sources

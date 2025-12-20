@@ -1,1 +1,2 @@
 - pkg:maven/dev.s7a/gofile@1.0.0?classifier=sources
+- pkg:maven/dev.s7a/gofile@1.1.0?classifier=sources

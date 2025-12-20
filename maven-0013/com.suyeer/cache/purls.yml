@@ -82,3 +82,5 @@
 - pkg:maven/com.suyeer/cache@4.0.3?classifier=sources
 - pkg:maven/com.suyeer/cache@5.0.0
 - pkg:maven/com.suyeer/cache@5.0.0?classifier=sources
+- pkg:maven/com.suyeer/cache@5.0.2
+- pkg:maven/com.suyeer/cache@5.0.2?classifier=sources

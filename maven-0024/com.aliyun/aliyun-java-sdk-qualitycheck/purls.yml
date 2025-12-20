@@ -114,3 +114,5 @@
 - pkg:maven/com.aliyun/aliyun-java-sdk-qualitycheck@4.7.6?classifier=sources
 - pkg:maven/com.aliyun/aliyun-java-sdk-qualitycheck@4.7.7
 - pkg:maven/com.aliyun/aliyun-java-sdk-qualitycheck@4.7.7?classifier=sources
+- pkg:maven/com.aliyun/aliyun-java-sdk-qualitycheck@4.7.8
+- pkg:maven/com.aliyun/aliyun-java-sdk-qualitycheck@4.7.8?classifier=sources

@@ -12,3 +12,5 @@
 - pkg:maven/io.github.parubok/swing-fx-properties@1.21?classifier=sources
 - pkg:maven/io.github.parubok/swing-fx-properties@1.23
 - pkg:maven/io.github.parubok/swing-fx-properties@1.23?classifier=sources
+- pkg:maven/io.github.parubok/swing-fx-properties@1.24
+- pkg:maven/io.github.parubok/swing-fx-properties@1.24?classifier=sources

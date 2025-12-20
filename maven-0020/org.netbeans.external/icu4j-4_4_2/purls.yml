@@ -16,4 +16,5 @@
 - pkg:maven/org.netbeans.external/icu4j-4_4_2@RELEASE170
 - pkg:maven/org.netbeans.external/icu4j-4_4_2@RELEASE180
 - pkg:maven/org.netbeans.external/icu4j-4_4_2@RELEASE190
+- pkg:maven/org.netbeans.external/icu4j-4_4_2@RELEASE200
 - pkg:maven/org.netbeans.external/icu4j-4_4_2@RELEASE90

@@ -4,6 +4,8 @@
 - pkg:maven/com.assaabloyglobalsolutions.axon.dynamodb/axon-dynamodb-spring-boot-autoconfigure@0.11.0?classifier=sources
 - pkg:maven/com.assaabloyglobalsolutions.axon.dynamodb/axon-dynamodb-spring-boot-autoconfigure@0.12.0
 - pkg:maven/com.assaabloyglobalsolutions.axon.dynamodb/axon-dynamodb-spring-boot-autoconfigure@0.12.0?classifier=sources
+- pkg:maven/com.assaabloyglobalsolutions.axon.dynamodb/axon-dynamodb-spring-boot-autoconfigure@0.13.0
+- pkg:maven/com.assaabloyglobalsolutions.axon.dynamodb/axon-dynamodb-spring-boot-autoconfigure@0.13.0?classifier=sources
 - pkg:maven/com.assaabloyglobalsolutions.axon.dynamodb/axon-dynamodb-spring-boot-autoconfigure@0.9.8
 - pkg:maven/com.assaabloyglobalsolutions.axon.dynamodb/axon-dynamodb-spring-boot-autoconfigure@0.9.8?classifier=sources
 - pkg:maven/com.assaabloyglobalsolutions.axon.dynamodb/axon-dynamodb-spring-boot-autoconfigure@0.9.9

@@ -2,3 +2,5 @@
 - pkg:maven/org.eclipse.jdt/org.eclipse.jdt.astview@1.5.200?classifier=sources
 - pkg:maven/org.eclipse.jdt/org.eclipse.jdt.astview@1.6.0
 - pkg:maven/org.eclipse.jdt/org.eclipse.jdt.astview@1.6.0?classifier=sources
+- pkg:maven/org.eclipse.jdt/org.eclipse.jdt.astview@1.6.50
+- pkg:maven/org.eclipse.jdt/org.eclipse.jdt.astview@1.6.50?classifier=sources

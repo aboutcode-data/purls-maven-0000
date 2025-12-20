@@ -76,3 +76,4 @@
 - pkg:maven/org.dbtools/workmanager-tools@3.0.0-rc01?type=aar
 - pkg:maven/org.dbtools/workmanager-tools@3.0.0?classifier=sources
 - pkg:maven/org.dbtools/workmanager-tools@3.0.0?type=aar
+- pkg:maven/org.dbtools/workmanager-tools@4.0.0?classifier=sources

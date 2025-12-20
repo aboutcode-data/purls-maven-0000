@@ -1,0 +1,2 @@
+- pkg:maven/pl.mareklangiewicz/smokk-js@0.0.07?classifier=sources
+- pkg:maven/pl.mareklangiewicz/smokk-js@0.0.08?classifier=sources

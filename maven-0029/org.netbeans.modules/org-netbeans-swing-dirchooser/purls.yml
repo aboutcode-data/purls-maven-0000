@@ -19,4 +19,5 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-swing-dirchooser@RELEASE170?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-swing-dirchooser@RELEASE180?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-swing-dirchooser@RELEASE190?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-swing-dirchooser@RELEASE200?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-swing-dirchooser@RELEASE90?classifier=sources

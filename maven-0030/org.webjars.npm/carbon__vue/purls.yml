@@ -4,3 +4,5 @@
 - pkg:maven/org.webjars.npm/carbon__vue@2.16.0?classifier=sources
 - pkg:maven/org.webjars.npm/carbon__vue@2.6.2
 - pkg:maven/org.webjars.npm/carbon__vue@2.6.2?classifier=sources
+- pkg:maven/org.webjars.npm/carbon__vue@3.0.10
+- pkg:maven/org.webjars.npm/carbon__vue@3.0.10?classifier=sources

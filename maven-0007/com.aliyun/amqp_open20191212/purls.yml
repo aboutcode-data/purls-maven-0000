@@ -1,2 +1,4 @@
 - pkg:maven/com.aliyun/amqp_open20191212@1.0.0
 - pkg:maven/com.aliyun/amqp_open20191212@1.0.0?classifier=sources
+- pkg:maven/com.aliyun/amqp_open20191212@1.1.0
+- pkg:maven/com.aliyun/amqp_open20191212@1.1.0?classifier=sources

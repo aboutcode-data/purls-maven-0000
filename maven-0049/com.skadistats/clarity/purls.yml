@@ -48,3 +48,4 @@
 - pkg:maven/com.skadistats/clarity@2.7.8?classifier=sources
 - pkg:maven/com.skadistats/clarity@2.7.9
 - pkg:maven/com.skadistats/clarity@2.7.9?classifier=sources
+- pkg:maven/com.skadistats/clarity@3.0.0?classifier=sources

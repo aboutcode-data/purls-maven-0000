@@ -1,0 +1,2 @@
+- pkg:maven/com.tencent.testaar/honor-native@6.0.4?classifier=sources
+- pkg:maven/com.tencent.testaar/honor-native@6.0.5?classifier=sources

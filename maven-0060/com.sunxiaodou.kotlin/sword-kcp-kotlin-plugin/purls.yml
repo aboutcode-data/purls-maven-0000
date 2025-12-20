@@ -1,1 +1,2 @@
 - pkg:maven/com.sunxiaodou.kotlin/sword-kcp-kotlin-plugin@0.0.2?classifier=sources
+- pkg:maven/com.sunxiaodou.kotlin/sword-kcp-kotlin-plugin@0.0.3?classifier=sources

@@ -38,3 +38,5 @@
 - pkg:maven/com.github.workerframework/worker-store-mem@5.1.0-919?classifier=sources
 - pkg:maven/com.github.workerframework/worker-store-mem@6.0.0-1107
 - pkg:maven/com.github.workerframework/worker-store-mem@6.0.0-1107?classifier=sources
+- pkg:maven/com.github.workerframework/worker-store-mem@7.0.0-1167
+- pkg:maven/com.github.workerframework/worker-store-mem@7.0.0-1167?classifier=sources

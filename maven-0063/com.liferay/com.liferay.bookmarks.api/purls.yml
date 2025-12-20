@@ -541,6 +541,7 @@
 - pkg:maven/com.liferay/com.liferay.bookmarks.api@5.6.1?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.bookmarks.api@5.6.2
 - pkg:maven/com.liferay/com.liferay.bookmarks.api@5.6.2?classifier=sources
+- pkg:maven/com.liferay/com.liferay.bookmarks.api@5.6.3?classifier=sources
 - pkg:maven/com.liferay/com.liferay.bookmarks.api@6.0.0
 - pkg:maven/com.liferay/com.liferay.bookmarks.api@6.0.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.bookmarks.api@6.0.0?classifier=sources-commercial

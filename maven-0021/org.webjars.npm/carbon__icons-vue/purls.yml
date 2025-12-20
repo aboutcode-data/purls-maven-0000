@@ -1,2 +1,4 @@
 - pkg:maven/org.webjars.npm/carbon__icons-vue@10.6.1
 - pkg:maven/org.webjars.npm/carbon__icons-vue@10.6.1?classifier=sources
+- pkg:maven/org.webjars.npm/carbon__icons-vue@10.79.0
+- pkg:maven/org.webjars.npm/carbon__icons-vue@10.79.0?classifier=sources

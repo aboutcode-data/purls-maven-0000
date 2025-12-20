@@ -44,3 +44,12 @@
 - pkg:maven/com.pulumi/rabbitmq@3.4.0-alpha.1698202592%2B86ca48b1?classifier=sources
 - pkg:maven/com.pulumi/rabbitmq@3.4.0-alpha.1698214015%2Bc4718c4d?classifier=sources
 - pkg:maven/com.pulumi/rabbitmq@3.4.0-alpha.1698478362%2B6fff3385?classifier=sources
+- pkg:maven/com.pulumi/rabbitmq@3.4.0-alpha.1698965263%2Bd46417b8?classifier=sources
+- pkg:maven/com.pulumi/rabbitmq@3.4.0-alpha.1699336604%2Bcdecad16?classifier=sources
+- pkg:maven/com.pulumi/rabbitmq@3.4.0-alpha.1699509942%2B1ca496e7?classifier=sources
+- pkg:maven/com.pulumi/rabbitmq@3.4.0-alpha.1699649195%2B9f74aaac?classifier=sources
+- pkg:maven/com.pulumi/rabbitmq@3.4.0-alpha.1700084548%2Bf16ffe3a?classifier=sources
+- pkg:maven/com.pulumi/rabbitmq@3.4.0-alpha.1700114298%2B625dbe9d?classifier=sources
+- pkg:maven/com.pulumi/rabbitmq@3.4.0-alpha.1700200581%2B2a6457df?classifier=sources
+- pkg:maven/com.pulumi/rabbitmq@3.4.0-alpha.1700546577%2B5f442ff7?classifier=sources
+- pkg:maven/com.pulumi/rabbitmq@3.4.0-alpha.1700615497%2B7ad73dd4?classifier=sources

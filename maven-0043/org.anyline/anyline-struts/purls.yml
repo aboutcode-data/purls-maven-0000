@@ -446,3 +446,15 @@
 - pkg:maven/org.anyline/anyline-struts@8.6.5-20231021?classifier=sources
 - pkg:maven/org.anyline/anyline-struts@8.6.5-20231023
 - pkg:maven/org.anyline/anyline-struts@8.6.5-20231023?classifier=sources
+- pkg:maven/org.anyline/anyline-struts@8.7.1-20231105
+- pkg:maven/org.anyline/anyline-struts@8.7.1-20231105?classifier=sources
+- pkg:maven/org.anyline/anyline-struts@8.7.1-20231107
+- pkg:maven/org.anyline/anyline-struts@8.7.1-20231107?classifier=sources
+- pkg:maven/org.anyline/anyline-struts@8.7.1-20231108
+- pkg:maven/org.anyline/anyline-struts@8.7.1-20231108?classifier=sources
+- pkg:maven/org.anyline/anyline-struts@8.7.1-20231111
+- pkg:maven/org.anyline/anyline-struts@8.7.1-20231111?classifier=sources
+- pkg:maven/org.anyline/anyline-struts@8.7.1-20231117
+- pkg:maven/org.anyline/anyline-struts@8.7.1-20231117?classifier=sources
+- pkg:maven/org.anyline/anyline-struts@8.7.1-20231120
+- pkg:maven/org.anyline/anyline-struts@8.7.1-20231120?classifier=sources

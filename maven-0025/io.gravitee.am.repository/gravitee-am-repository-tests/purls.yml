@@ -173,8 +173,13 @@
 - pkg:maven/io.gravitee.am.repository/gravitee-am-repository-tests@4.0.2
 - pkg:maven/io.gravitee.am.repository/gravitee-am-repository-tests@4.0.3
 - pkg:maven/io.gravitee.am.repository/gravitee-am-repository-tests@4.0.4
+- pkg:maven/io.gravitee.am.repository/gravitee-am-repository-tests@4.0.5
 - pkg:maven/io.gravitee.am.repository/gravitee-am-repository-tests@4.1.0
 - pkg:maven/io.gravitee.am.repository/gravitee-am-repository-tests@4.1.0-alpha.2
 - pkg:maven/io.gravitee.am.repository/gravitee-am-repository-tests@4.1.1
 - pkg:maven/io.gravitee.am.repository/gravitee-am-repository-tests@4.1.2
 - pkg:maven/io.gravitee.am.repository/gravitee-am-repository-tests@4.1.3
+- pkg:maven/io.gravitee.am.repository/gravitee-am-repository-tests@4.1.4
+- pkg:maven/io.gravitee.am.repository/gravitee-am-repository-tests@4.1.5
+- pkg:maven/io.gravitee.am.repository/gravitee-am-repository-tests@4.1.6
+- pkg:maven/io.gravitee.am.repository/gravitee-am-repository-tests@4.1.7

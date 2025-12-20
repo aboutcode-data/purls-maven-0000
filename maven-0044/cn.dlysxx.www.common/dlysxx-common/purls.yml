@@ -1,2 +1,3 @@
 - pkg:maven/cn.dlysxx.www.common/dlysxx-common@1.0.0?classifier=sources
 - pkg:maven/cn.dlysxx.www.common/dlysxx-common@1.0.1?classifier=sources
+- pkg:maven/cn.dlysxx.www.common/dlysxx-common@2.0?classifier=sources

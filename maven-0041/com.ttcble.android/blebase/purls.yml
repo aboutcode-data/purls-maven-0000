@@ -1,3 +1,4 @@
 - pkg:maven/com.ttcble.android/blebase@1.1.9?classifier=sources
 - pkg:maven/com.ttcble.android/blebase@1.1.9?type=aar
 - pkg:maven/com.ttcble.android/blebase@1.2.0?classifier=sources
+- pkg:maven/com.ttcble.android/blebase@1.2.1?classifier=sources

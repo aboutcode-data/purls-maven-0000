@@ -1,1 +1,2 @@
 - pkg:maven/net.suteren.netatmo/netatmo4j@0.3?classifier=sources
+- pkg:maven/net.suteren.netatmo/netatmo4j@0.4.0?classifier=sources

@@ -2,6 +2,8 @@
 - pkg:maven/org.apache.tomee/tomee-security-itests@8.0.14?classifier=sources
 - pkg:maven/org.apache.tomee/tomee-security-itests@8.0.15
 - pkg:maven/org.apache.tomee/tomee-security-itests@8.0.15?classifier=sources
+- pkg:maven/org.apache.tomee/tomee-security-itests@8.0.16
+- pkg:maven/org.apache.tomee/tomee-security-itests@8.0.16?classifier=sources
 - pkg:maven/org.apache.tomee/tomee-security-itests@9.0.0
 - pkg:maven/org.apache.tomee/tomee-security-itests@9.0.0?classifier=sources
 - pkg:maven/org.apache.tomee/tomee-security-itests@9.1.0

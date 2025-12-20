@@ -426,6 +426,8 @@
 - pkg:maven/com.google.apis/google-api-services-appengine@v1-rev20231024-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-appengine@v1-rev20231030-2.0.0
 - pkg:maven/com.google.apis/google-api-services-appengine@v1-rev20231030-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-appengine@v1-rev20231107-2.0.0
+- pkg:maven/com.google.apis/google-api-services-appengine@v1-rev20231107-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-appengine@v1-rev21-1.18.0-rc
 - pkg:maven/com.google.apis/google-api-services-appengine@v1-rev21-1.18.0-rc?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-appengine@v1-rev21-1.20.0
@@ -2178,6 +2180,8 @@
 - pkg:maven/com.google.apis/google-api-services-appengine@v1beta-rev20231004-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-appengine@v1beta-rev20231016-2.0.0
 - pkg:maven/com.google.apis/google-api-services-appengine@v1beta-rev20231016-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-appengine@v1beta-rev20231107-2.0.0
+- pkg:maven/com.google.apis/google-api-services-appengine@v1beta-rev20231107-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-appengine@v1beta-rev21-1.18.0-rc
 - pkg:maven/com.google.apis/google-api-services-appengine@v1beta-rev21-1.18.0-rc?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-appengine@v1beta-rev21-1.20.0

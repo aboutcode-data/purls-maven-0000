@@ -1,0 +1,2 @@
+- pkg:maven/com.ibm.cloud/data-product-services@0.0.4
+- pkg:maven/com.ibm.cloud/data-product-services@0.0.4?classifier=sources

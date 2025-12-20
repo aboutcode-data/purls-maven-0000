@@ -1,3 +1,5 @@
+- pkg:maven/net.javacrumbs.shedlock/shedlock-provider-datastore@5.10.0
+- pkg:maven/net.javacrumbs.shedlock/shedlock-provider-datastore@5.10.0?classifier=sources
 - pkg:maven/net.javacrumbs.shedlock/shedlock-provider-datastore@5.5.0
 - pkg:maven/net.javacrumbs.shedlock/shedlock-provider-datastore@5.5.0?classifier=sources
 - pkg:maven/net.javacrumbs.shedlock/shedlock-provider-datastore@5.6.0

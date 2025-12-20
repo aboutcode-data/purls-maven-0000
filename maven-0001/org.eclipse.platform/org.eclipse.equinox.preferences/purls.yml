@@ -8,6 +8,8 @@
 - pkg:maven/org.eclipse.platform/org.eclipse.equinox.preferences@3.10.200?classifier=sources
 - pkg:maven/org.eclipse.platform/org.eclipse.equinox.preferences@3.10.300
 - pkg:maven/org.eclipse.platform/org.eclipse.equinox.preferences@3.10.300?classifier=sources
+- pkg:maven/org.eclipse.platform/org.eclipse.equinox.preferences@3.10.400
+- pkg:maven/org.eclipse.platform/org.eclipse.equinox.preferences@3.10.400?classifier=sources
 - pkg:maven/org.eclipse.platform/org.eclipse.equinox.preferences@3.6.1
 - pkg:maven/org.eclipse.platform/org.eclipse.equinox.preferences@3.6.1?classifier=sources
 - pkg:maven/org.eclipse.platform/org.eclipse.equinox.preferences@3.7.0

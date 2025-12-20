@@ -1,1 +1,4 @@
+- pkg:maven/com.inkapplications.glassconsole/structures@0.10.0?classifier=sources
 - pkg:maven/com.inkapplications.glassconsole/structures@0.7.4?classifier=sources
+- pkg:maven/com.inkapplications.glassconsole/structures@0.8.0?classifier=sources
+- pkg:maven/com.inkapplications.glassconsole/structures@0.9.0?classifier=sources

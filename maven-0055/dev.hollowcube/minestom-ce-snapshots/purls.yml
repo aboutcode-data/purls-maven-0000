@@ -1,0 +1,5 @@
+- pkg:maven/dev.hollowcube/minestom-ce-snapshots@1_20_2-8a10e67ce8?classifier=sources
+- pkg:maven/dev.hollowcube/minestom-ce-snapshots@1_20_2-909719b369?classifier=sources
+- pkg:maven/dev.hollowcube/minestom-ce-snapshots@1_20_2-91b93068b2?classifier=sources
+- pkg:maven/dev.hollowcube/minestom-ce-snapshots@1_20_2-bc9073c68d?classifier=sources
+- pkg:maven/dev.hollowcube/minestom-ce-snapshots@1_20_2-d08970fdb7?classifier=sources

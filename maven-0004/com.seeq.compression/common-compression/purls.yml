@@ -1,0 +1,2 @@
+- pkg:maven/com.seeq.compression/common-compression@62.0.11-v202311162101?classifier=sources
+- pkg:maven/com.seeq.compression/common-compression@63.0.3-v202311160754?classifier=sources

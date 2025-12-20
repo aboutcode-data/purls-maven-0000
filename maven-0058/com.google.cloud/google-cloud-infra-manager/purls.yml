@@ -6,3 +6,5 @@
 - pkg:maven/com.google.cloud/google-cloud-infra-manager@0.5.0?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-infra-manager@0.6.0
 - pkg:maven/com.google.cloud/google-cloud-infra-manager@0.6.0?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-infra-manager@0.7.0
+- pkg:maven/com.google.cloud/google-cloud-infra-manager@0.7.0?classifier=sources

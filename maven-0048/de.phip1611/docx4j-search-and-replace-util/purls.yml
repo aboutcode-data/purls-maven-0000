@@ -10,3 +10,5 @@
 - pkg:maven/de.phip1611/docx4j-search-and-replace-util@1.0.6?classifier=sources
 - pkg:maven/de.phip1611/docx4j-search-and-replace-util@1.0.7
 - pkg:maven/de.phip1611/docx4j-search-and-replace-util@1.0.7?classifier=sources
+- pkg:maven/de.phip1611/docx4j-search-and-replace-util@2.0.0
+- pkg:maven/de.phip1611/docx4j-search-and-replace-util@2.0.0?classifier=sources

@@ -1,1 +1,3 @@
 - pkg:maven/com.sap.cloud.security.ams.dcl/com.sap.cloud.security.ams.dcl@0.17.1?classifier=sources
+- pkg:maven/com.sap.cloud.security.ams.dcl/com.sap.cloud.security.ams.dcl@0.17.2?classifier=sources
+- pkg:maven/com.sap.cloud.security.ams.dcl/com.sap.cloud.security.ams.dcl@0.18.0?classifier=sources

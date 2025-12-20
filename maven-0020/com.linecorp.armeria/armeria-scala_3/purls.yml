@@ -29,3 +29,5 @@
 - pkg:maven/com.linecorp.armeria/armeria-scala_3@1.25.2?classifier=sources
 - pkg:maven/com.linecorp.armeria/armeria-scala_3@1.26.0?classifier=sources
 - pkg:maven/com.linecorp.armeria/armeria-scala_3@1.26.1?classifier=sources
+- pkg:maven/com.linecorp.armeria/armeria-scala_3@1.26.2?classifier=sources
+- pkg:maven/com.linecorp.armeria/armeria-scala_3@1.26.3?classifier=sources

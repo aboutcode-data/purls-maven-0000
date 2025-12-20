@@ -1,2 +1,4 @@
 - pkg:maven/io.higherkindness/sbt-mu-srcgen_2.12_1.0@0.31.0
 - pkg:maven/io.higherkindness/sbt-mu-srcgen_2.12_1.0@0.31.0?classifier=sources
+- pkg:maven/io.higherkindness/sbt-mu-srcgen_2.12_1.0@0.31.1
+- pkg:maven/io.higherkindness/sbt-mu-srcgen_2.12_1.0@0.31.1?classifier=sources

@@ -74,3 +74,7 @@
 - pkg:maven/io.github.cs1302uga/cs1302-site-skin@0.1.90?classifier=sources
 - pkg:maven/io.github.cs1302uga/cs1302-site-skin@0.1.91
 - pkg:maven/io.github.cs1302uga/cs1302-site-skin@0.1.91?classifier=sources
+- pkg:maven/io.github.cs1302uga/cs1302-site-skin@0.1.92
+- pkg:maven/io.github.cs1302uga/cs1302-site-skin@0.1.92?classifier=sources
+- pkg:maven/io.github.cs1302uga/cs1302-site-skin@0.1.93
+- pkg:maven/io.github.cs1302uga/cs1302-site-skin@0.1.93?classifier=sources
