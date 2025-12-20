@@ -2,3 +2,5 @@
 - pkg:maven/io.github.babyblue94520/firewall@1.0.0-RELEASE?classifier=sources
 - pkg:maven/io.github.babyblue94520/firewall@2.0.0-RELEASE
 - pkg:maven/io.github.babyblue94520/firewall@2.0.0-RELEASE?classifier=sources
+- pkg:maven/io.github.babyblue94520/firewall@2.0.1-RELEASE
+- pkg:maven/io.github.babyblue94520/firewall@2.0.1-RELEASE?classifier=sources

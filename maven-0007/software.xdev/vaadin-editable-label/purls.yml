@@ -1,0 +1,2 @@
+- pkg:maven/software.xdev/vaadin-editable-label@2.0.1
+- pkg:maven/software.xdev/vaadin-editable-label@2.0.1?classifier=sources

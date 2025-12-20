@@ -12,7 +12,11 @@
 - pkg:maven/org.scalatestplus.play/scalatestplus-play_3@6.0.0-RC2
 - pkg:maven/org.scalatestplus.play/scalatestplus-play_3@6.0.0-RC2?classifier=sources
 - pkg:maven/org.scalatestplus.play/scalatestplus-play_3@6.0.0?classifier=sources
+- pkg:maven/org.scalatestplus.play/scalatestplus-play_3@6.0.1
+- pkg:maven/org.scalatestplus.play/scalatestplus-play_3@6.0.1?classifier=sources
 - pkg:maven/org.scalatestplus.play/scalatestplus-play_3@7.0.0
 - pkg:maven/org.scalatestplus.play/scalatestplus-play_3@7.0.0-M1
 - pkg:maven/org.scalatestplus.play/scalatestplus-play_3@7.0.0-M1?classifier=sources
 - pkg:maven/org.scalatestplus.play/scalatestplus-play_3@7.0.0?classifier=sources
+- pkg:maven/org.scalatestplus.play/scalatestplus-play_3@7.0.1
+- pkg:maven/org.scalatestplus.play/scalatestplus-play_3@7.0.1?classifier=sources

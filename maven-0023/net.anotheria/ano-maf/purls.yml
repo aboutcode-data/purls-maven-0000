@@ -12,3 +12,5 @@
 - pkg:maven/net.anotheria/ano-maf@2.3.0?classifier=sources
 - pkg:maven/net.anotheria/ano-maf@3.0.0
 - pkg:maven/net.anotheria/ano-maf@3.0.0?classifier=sources
+- pkg:maven/net.anotheria/ano-maf@4.0.0
+- pkg:maven/net.anotheria/ano-maf@4.0.0?classifier=sources

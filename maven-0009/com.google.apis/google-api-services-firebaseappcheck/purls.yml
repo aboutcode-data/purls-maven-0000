@@ -72,3 +72,5 @@
 - pkg:maven/com.google.apis/google-api-services-firebaseappcheck@v1beta-rev20230814-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-firebaseappcheck@v1beta-rev20231009-2.0.0
 - pkg:maven/com.google.apis/google-api-services-firebaseappcheck@v1beta-rev20231009-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-firebaseappcheck@v1beta-rev20231204-2.0.0
+- pkg:maven/com.google.apis/google-api-services-firebaseappcheck@v1beta-rev20231204-2.0.0?classifier=sources

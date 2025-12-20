@@ -92,3 +92,5 @@
 - pkg:maven/com.amazonaws/aws-android-sdk-appsync@3.3.2?type=aar
 - pkg:maven/com.amazonaws/aws-android-sdk-appsync@3.4.0?classifier=sources
 - pkg:maven/com.amazonaws/aws-android-sdk-appsync@3.4.0?type=aar
+- pkg:maven/com.amazonaws/aws-android-sdk-appsync@3.4.1?classifier=sources
+- pkg:maven/com.amazonaws/aws-android-sdk-appsync@3.4.1?type=aar

@@ -1,2 +1,4 @@
 - pkg:maven/tools.profiler/async-profiler-converter@2.9
 - pkg:maven/tools.profiler/async-profiler-converter@2.9?classifier=sources
+- pkg:maven/tools.profiler/async-profiler-converter@3.0
+- pkg:maven/tools.profiler/async-profiler-converter@3.0?classifier=sources

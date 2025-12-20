@@ -6,3 +6,5 @@
 - pkg:maven/org.pac4j/http4s-pac4j_3@4.0.1?classifier=sources
 - pkg:maven/org.pac4j/http4s-pac4j_3@4.1.0
 - pkg:maven/org.pac4j/http4s-pac4j_3@4.1.0?classifier=sources
+- pkg:maven/org.pac4j/http4s-pac4j_3@4.2.0
+- pkg:maven/org.pac4j/http4s-pac4j_3@4.2.0?classifier=sources

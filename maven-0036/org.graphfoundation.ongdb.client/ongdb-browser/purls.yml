@@ -8,6 +8,8 @@
 - pkg:maven/org.graphfoundation.ongdb.client/ongdb-browser@1.0.0-rc01
 - pkg:maven/org.graphfoundation.ongdb.client/ongdb-browser@1.0.0-rc01?classifier=sources
 - pkg:maven/org.graphfoundation.ongdb.client/ongdb-browser@1.0.0?classifier=sources
+- pkg:maven/org.graphfoundation.ongdb.client/ongdb-browser@2.0.0
+- pkg:maven/org.graphfoundation.ongdb.client/ongdb-browser@2.0.0?classifier=sources
 - pkg:maven/org.graphfoundation.ongdb.client/ongdb-browser@3.2.15
 - pkg:maven/org.graphfoundation.ongdb.client/ongdb-browser@3.2.15?classifier=sources
 - pkg:maven/org.graphfoundation.ongdb.client/ongdb-browser@3.2.16

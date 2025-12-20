@@ -1,0 +1,4 @@
+- pkg:maven/org.infinispan.archetypes/custom-module@14.0.22.Final
+- pkg:maven/org.infinispan.archetypes/custom-module@14.0.22.Final?classifier=sources
+- pkg:maven/org.infinispan.archetypes/custom-module@15.0.0.Dev07
+- pkg:maven/org.infinispan.archetypes/custom-module@15.0.0.Dev07?classifier=sources

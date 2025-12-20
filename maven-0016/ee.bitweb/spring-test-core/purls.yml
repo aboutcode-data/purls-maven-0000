@@ -1,1 +1,2 @@
 - pkg:maven/ee.bitweb/spring-test-core@1.2.2?classifier=sources
+- pkg:maven/ee.bitweb/spring-test-core@2.0.0?classifier=sources

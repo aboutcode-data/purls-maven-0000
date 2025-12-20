@@ -28,3 +28,10 @@
 - pkg:maven/com.io7m.idstore/com.io7m.idstore.documentation@1.0.0-beta0016?classifier=sources
 - pkg:maven/com.io7m.idstore/com.io7m.idstore.documentation@1.0.0-beta0017?classifier=sources
 - pkg:maven/com.io7m.idstore/com.io7m.idstore.documentation@1.0.0-beta0018?classifier=sources
+- pkg:maven/com.io7m.idstore/com.io7m.idstore.documentation@1.0.0-rc0001?classifier=sources
+- pkg:maven/com.io7m.idstore/com.io7m.idstore.documentation@1.0.0-rc0002?classifier=sources
+- pkg:maven/com.io7m.idstore/com.io7m.idstore.documentation@1.0.0-rc0003?classifier=sources
+- pkg:maven/com.io7m.idstore/com.io7m.idstore.documentation@1.0.0-rc0004?classifier=sources
+- pkg:maven/com.io7m.idstore/com.io7m.idstore.documentation@1.0.0-rc0005?classifier=sources
+- pkg:maven/com.io7m.idstore/com.io7m.idstore.documentation@1.0.0-rc0006?classifier=sources
+- pkg:maven/com.io7m.idstore/com.io7m.idstore.documentation@1.0.0?classifier=sources

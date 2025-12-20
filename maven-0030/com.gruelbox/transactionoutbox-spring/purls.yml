@@ -32,3 +32,5 @@
 - pkg:maven/com.gruelbox/transactionoutbox-spring@5.2.337?classifier=sources
 - pkg:maven/com.gruelbox/transactionoutbox-spring@5.3.370
 - pkg:maven/com.gruelbox/transactionoutbox-spring@5.3.370?classifier=sources
+- pkg:maven/com.gruelbox/transactionoutbox-spring@5.4.421
+- pkg:maven/com.gruelbox/transactionoutbox-spring@5.4.421?classifier=sources

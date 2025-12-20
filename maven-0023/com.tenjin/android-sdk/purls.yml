@@ -5,3 +5,4 @@
 - pkg:maven/com.tenjin/android-sdk@1.12.23?classifier=sources
 - pkg:maven/com.tenjin/android-sdk@1.12.24?classifier=sources
 - pkg:maven/com.tenjin/android-sdk@1.13.0?classifier=sources
+- pkg:maven/com.tenjin/android-sdk@1.14.0?classifier=sources

@@ -229,3 +229,5 @@
 - pkg:maven/com.yahoo.elide/elide-standalone@7.0.0-pr6
 - pkg:maven/com.yahoo.elide/elide-standalone@7.0.0-pr6?classifier=sources
 - pkg:maven/com.yahoo.elide/elide-standalone@7.0.0?classifier=sources
+- pkg:maven/com.yahoo.elide/elide-standalone@7.0.1
+- pkg:maven/com.yahoo.elide/elide-standalone@7.0.1?classifier=sources

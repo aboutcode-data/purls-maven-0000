@@ -57,6 +57,7 @@
 - pkg:maven/com.liferay/com.liferay.push.notifications.sender.microsoft@1.0.27
 - pkg:maven/com.liferay/com.liferay.push.notifications.sender.microsoft@1.0.27?classifier=sources
 - pkg:maven/com.liferay/com.liferay.push.notifications.sender.microsoft@1.0.27?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.push.notifications.sender.microsoft@1.0.28?classifier=sources
 - pkg:maven/com.liferay/com.liferay.push.notifications.sender.microsoft@1.0.2?classifier=sources
 - pkg:maven/com.liferay/com.liferay.push.notifications.sender.microsoft@1.0.3
 - pkg:maven/com.liferay/com.liferay.push.notifications.sender.microsoft@1.0.3?classifier=sources
@@ -118,6 +119,7 @@
 - pkg:maven/com.liferay/com.liferay.push.notifications.sender.microsoft@2.0.20?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.push.notifications.sender.microsoft@2.0.21
 - pkg:maven/com.liferay/com.liferay.push.notifications.sender.microsoft@2.0.21?classifier=sources
+- pkg:maven/com.liferay/com.liferay.push.notifications.sender.microsoft@2.0.22?classifier=sources
 - pkg:maven/com.liferay/com.liferay.push.notifications.sender.microsoft@2.0.2?classifier=sources
 - pkg:maven/com.liferay/com.liferay.push.notifications.sender.microsoft@2.0.2?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.push.notifications.sender.microsoft@2.0.3
@@ -189,6 +191,7 @@
 - pkg:maven/com.liferay/com.liferay.push.notifications.sender.microsoft@3.0.22?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.push.notifications.sender.microsoft@3.0.23
 - pkg:maven/com.liferay/com.liferay.push.notifications.sender.microsoft@3.0.23?classifier=sources
+- pkg:maven/com.liferay/com.liferay.push.notifications.sender.microsoft@3.0.24?classifier=sources
 - pkg:maven/com.liferay/com.liferay.push.notifications.sender.microsoft@3.0.2?classifier=sources
 - pkg:maven/com.liferay/com.liferay.push.notifications.sender.microsoft@3.0.2?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.push.notifications.sender.microsoft@3.0.3
@@ -260,6 +263,7 @@
 - pkg:maven/com.liferay/com.liferay.push.notifications.sender.microsoft@4.0.22?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.push.notifications.sender.microsoft@4.0.23
 - pkg:maven/com.liferay/com.liferay.push.notifications.sender.microsoft@4.0.23?classifier=sources
+- pkg:maven/com.liferay/com.liferay.push.notifications.sender.microsoft@4.0.24?classifier=sources
 - pkg:maven/com.liferay/com.liferay.push.notifications.sender.microsoft@4.0.2?classifier=sources
 - pkg:maven/com.liferay/com.liferay.push.notifications.sender.microsoft@4.0.2?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.push.notifications.sender.microsoft@4.0.3

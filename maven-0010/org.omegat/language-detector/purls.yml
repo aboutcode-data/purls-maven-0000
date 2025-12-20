@@ -1,0 +1,2 @@
+- pkg:maven/org.omegat/language-detector@0.6-1?classifier=sources
+- pkg:maven/org.omegat/language-detector@0.6-2?classifier=sources

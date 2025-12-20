@@ -14,3 +14,5 @@
 - pkg:maven/ch.digitalfondue.liquibaseorausertable/liquibaseorausertable@1.8?classifier=sources
 - pkg:maven/ch.digitalfondue.liquibaseorausertable/liquibaseorausertable@1.9
 - pkg:maven/ch.digitalfondue.liquibaseorausertable/liquibaseorausertable@1.9?classifier=sources
+- pkg:maven/ch.digitalfondue.liquibaseorausertable/liquibaseorausertable@2.0.0
+- pkg:maven/ch.digitalfondue.liquibaseorausertable/liquibaseorausertable@2.0.0?classifier=sources

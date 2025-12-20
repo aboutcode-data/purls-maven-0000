@@ -128,6 +128,8 @@
 - pkg:maven/org.eclipse.dirigible/dirigible-odata-samples-northwind@8.18.5
 - pkg:maven/org.eclipse.dirigible/dirigible-odata-samples-northwind@8.18.6
 - pkg:maven/org.eclipse.dirigible/dirigible-odata-samples-northwind@8.18.7
+- pkg:maven/org.eclipse.dirigible/dirigible-odata-samples-northwind@8.18.8
+- pkg:maven/org.eclipse.dirigible/dirigible-odata-samples-northwind@8.18.9
 - pkg:maven/org.eclipse.dirigible/dirigible-odata-samples-northwind@8.2.0
 - pkg:maven/org.eclipse.dirigible/dirigible-odata-samples-northwind@8.2.1
 - pkg:maven/org.eclipse.dirigible/dirigible-odata-samples-northwind@8.2.2
@@ -156,3 +158,4 @@
 - pkg:maven/org.eclipse.dirigible/dirigible-odata-samples-northwind@8.9.0
 - pkg:maven/org.eclipse.dirigible/dirigible-odata-samples-northwind@8.9.1
 - pkg:maven/org.eclipse.dirigible/dirigible-odata-samples-northwind@8.9.2
+- pkg:maven/org.eclipse.dirigible/dirigible-odata-samples-northwind@9.0.0

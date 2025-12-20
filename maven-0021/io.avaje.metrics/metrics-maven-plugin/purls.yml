@@ -20,3 +20,5 @@
 - pkg:maven/io.avaje.metrics/metrics-maven-plugin@9.0-RC4
 - pkg:maven/io.avaje.metrics/metrics-maven-plugin@9.0-RC4?classifier=sources
 - pkg:maven/io.avaje.metrics/metrics-maven-plugin@9.0?classifier=sources
+- pkg:maven/io.avaje.metrics/metrics-maven-plugin@9.1
+- pkg:maven/io.avaje.metrics/metrics-maven-plugin@9.1?classifier=sources

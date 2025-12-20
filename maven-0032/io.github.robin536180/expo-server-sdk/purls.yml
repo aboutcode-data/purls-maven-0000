@@ -1,0 +1,2 @@
+- pkg:maven/io.github.robin536180/expo-server-sdk@1.1.0
+- pkg:maven/io.github.robin536180/expo-server-sdk@1.1.0?classifier=sources

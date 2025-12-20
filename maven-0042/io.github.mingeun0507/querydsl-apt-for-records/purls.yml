@@ -1,0 +1,4 @@
+- pkg:maven/io.github.mingeun0507/querydsl-apt-for-records@5.0.0.M1
+- pkg:maven/io.github.mingeun0507/querydsl-apt-for-records@5.0.0.M1?classifier=sources
+- pkg:maven/io.github.mingeun0507/querydsl-apt-for-records@5.0.1
+- pkg:maven/io.github.mingeun0507/querydsl-apt-for-records@5.0.1?classifier=sources

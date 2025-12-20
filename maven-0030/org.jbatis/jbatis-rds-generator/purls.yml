@@ -1,0 +1,4 @@
+- pkg:maven/org.jbatis/jbatis-rds-generator@1.0.6-RELEASE
+- pkg:maven/org.jbatis/jbatis-rds-generator@1.0.6-RELEASE?classifier=sources
+- pkg:maven/org.jbatis/jbatis-rds-generator@1.0.7-RELEASE
+- pkg:maven/org.jbatis/jbatis-rds-generator@1.0.7-RELEASE?classifier=sources

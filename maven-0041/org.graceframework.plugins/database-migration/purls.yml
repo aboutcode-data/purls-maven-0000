@@ -1,0 +1,1 @@
+- pkg:maven/org.graceframework.plugins/database-migration@5.0.2?classifier=sources

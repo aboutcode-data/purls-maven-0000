@@ -6,6 +6,7 @@
 - pkg:maven/com.liferay/com.liferay.portal.properties.swapper@2.0.13?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.properties.swapper@2.0.14
 - pkg:maven/com.liferay/com.liferay.portal.properties.swapper@2.0.14?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.properties.swapper@3.0.10?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.properties.swapper@3.0.8
 - pkg:maven/com.liferay/com.liferay.portal.properties.swapper@3.0.8?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.properties.swapper@3.0.8?classifier=sources-commercial
@@ -22,6 +23,7 @@
 - pkg:maven/com.liferay/com.liferay.portal.properties.swapper@4.0.12?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.properties.swapper@4.0.13
 - pkg:maven/com.liferay/com.liferay.portal.properties.swapper@4.0.13?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.properties.swapper@4.0.14?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.properties.swapper@5.0.0
 - pkg:maven/com.liferay/com.liferay.portal.properties.swapper@5.0.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.properties.swapper@5.0.0?classifier=sources-commercial

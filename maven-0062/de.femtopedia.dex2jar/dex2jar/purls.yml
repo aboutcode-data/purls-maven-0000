@@ -1,0 +1,5 @@
+- pkg:maven/de.femtopedia.dex2jar/dex2jar@2.4.10?classifier=sources
+- pkg:maven/de.femtopedia.dex2jar/dex2jar@2.4.11?classifier=sources
+- pkg:maven/de.femtopedia.dex2jar/dex2jar@2.4.6?classifier=sources
+- pkg:maven/de.femtopedia.dex2jar/dex2jar@2.4.7?classifier=sources
+- pkg:maven/de.femtopedia.dex2jar/dex2jar@2.4.9?classifier=sources

@@ -139,3 +139,7 @@
 - pkg:maven/com.walmartlabs.concord.k8s/concord-agent-operator@2.3.0?classifier=sources
 - pkg:maven/com.walmartlabs.concord.k8s/concord-agent-operator@2.4.0
 - pkg:maven/com.walmartlabs.concord.k8s/concord-agent-operator@2.4.0?classifier=sources
+- pkg:maven/com.walmartlabs.concord.k8s/concord-agent-operator@2.5.0
+- pkg:maven/com.walmartlabs.concord.k8s/concord-agent-operator@2.5.0?classifier=sources
+- pkg:maven/com.walmartlabs.concord.k8s/concord-agent-operator@2.6.0
+- pkg:maven/com.walmartlabs.concord.k8s/concord-agent-operator@2.6.0?classifier=sources

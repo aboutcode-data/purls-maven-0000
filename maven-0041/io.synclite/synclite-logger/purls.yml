@@ -5,3 +5,11 @@
 - pkg:maven/io.synclite/synclite-logger@2023.11.18?classifier=sources
 - pkg:maven/io.synclite/synclite-logger@2023.11.20
 - pkg:maven/io.synclite/synclite-logger@2023.11.20?classifier=sources
+- pkg:maven/io.synclite/synclite-logger@2023.12.06
+- pkg:maven/io.synclite/synclite-logger@2023.12.06?classifier=sources
+- pkg:maven/io.synclite/synclite-logger@2023.12.14
+- pkg:maven/io.synclite/synclite-logger@2023.12.14?classifier=sources
+- pkg:maven/io.synclite/synclite-logger@2023.12.23
+- pkg:maven/io.synclite/synclite-logger@2023.12.23?classifier=sources
+- pkg:maven/io.synclite/synclite-logger@2024.01.01
+- pkg:maven/io.synclite/synclite-logger@2024.01.01?classifier=sources

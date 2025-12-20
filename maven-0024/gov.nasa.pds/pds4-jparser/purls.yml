@@ -56,3 +56,7 @@
 - pkg:maven/gov.nasa.pds/pds4-jparser@2.5.0?classifier=sources
 - pkg:maven/gov.nasa.pds/pds4-jparser@2.6.0
 - pkg:maven/gov.nasa.pds/pds4-jparser@2.6.0?classifier=sources
+- pkg:maven/gov.nasa.pds/pds4-jparser@2.7.0
+- pkg:maven/gov.nasa.pds/pds4-jparser@2.7.0?classifier=sources
+- pkg:maven/gov.nasa.pds/pds4-jparser@2.7.1
+- pkg:maven/gov.nasa.pds/pds4-jparser@2.7.1?classifier=sources

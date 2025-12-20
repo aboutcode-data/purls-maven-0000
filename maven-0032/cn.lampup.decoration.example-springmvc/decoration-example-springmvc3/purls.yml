@@ -1,0 +1,2 @@
+- pkg:maven/cn.lampup.decoration.example-springmvc/decoration-example-springmvc3@0.1.0
+- pkg:maven/cn.lampup.decoration.example-springmvc/decoration-example-springmvc3@0.1.0?classifier=sources

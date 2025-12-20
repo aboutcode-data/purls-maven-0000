@@ -2,3 +2,4 @@
 - pkg:maven/com.cardinfolink.smart.pos/pos-cil@2.0?classifier=sources
 - pkg:maven/com.cardinfolink.smart.pos/pos-cil@2.2?classifier=sources
 - pkg:maven/com.cardinfolink.smart.pos/pos-cil@2.3?classifier=sources
+- pkg:maven/com.cardinfolink.smart.pos/pos-cil@2.6.5?classifier=sources

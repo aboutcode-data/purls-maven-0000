@@ -78,3 +78,5 @@
 - pkg:maven/com.aliyun/imageprocess20200320@2.0.9?classifier=sources
 - pkg:maven/com.aliyun/imageprocess20200320@2.1.0
 - pkg:maven/com.aliyun/imageprocess20200320@2.1.0?classifier=sources
+- pkg:maven/com.aliyun/imageprocess20200320@2.1.1
+- pkg:maven/com.aliyun/imageprocess20200320@2.1.1?classifier=sources

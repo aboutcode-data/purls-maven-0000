@@ -1,3 +1,9 @@
+- pkg:maven/cn.com.antcloud.api/antcloud-api-provider-nftc@1.0.10
+- pkg:maven/cn.com.antcloud.api/antcloud-api-provider-nftc@1.0.10?classifier=sources
+- pkg:maven/cn.com.antcloud.api/antcloud-api-provider-nftc@1.0.11
+- pkg:maven/cn.com.antcloud.api/antcloud-api-provider-nftc@1.0.11?classifier=sources
+- pkg:maven/cn.com.antcloud.api/antcloud-api-provider-nftc@1.0.12
+- pkg:maven/cn.com.antcloud.api/antcloud-api-provider-nftc@1.0.12?classifier=sources
 - pkg:maven/cn.com.antcloud.api/antcloud-api-provider-nftc@1.0.2
 - pkg:maven/cn.com.antcloud.api/antcloud-api-provider-nftc@1.0.2?classifier=sources
 - pkg:maven/cn.com.antcloud.api/antcloud-api-provider-nftc@1.0.3
@@ -10,3 +16,5 @@
 - pkg:maven/cn.com.antcloud.api/antcloud-api-provider-nftc@1.0.6?classifier=sources
 - pkg:maven/cn.com.antcloud.api/antcloud-api-provider-nftc@1.0.7
 - pkg:maven/cn.com.antcloud.api/antcloud-api-provider-nftc@1.0.7?classifier=sources
+- pkg:maven/cn.com.antcloud.api/antcloud-api-provider-nftc@1.0.9
+- pkg:maven/cn.com.antcloud.api/antcloud-api-provider-nftc@1.0.9?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.shakelang.util.changelog/plugin@0.7.0?classifier=sources
+- pkg:maven/com.shakelang.util.changelog/plugin@0.7.1?classifier=sources

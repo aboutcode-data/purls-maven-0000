@@ -118,6 +118,7 @@
 - pkg:maven/com.liferay/com.liferay.portal.reports.engine.console.service@5.0.41
 - pkg:maven/com.liferay/com.liferay.portal.reports.engine.console.service@5.0.41?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.reports.engine.console.service@5.0.42?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.reports.engine.console.service@5.0.43?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.reports.engine.console.service@6.0.22
 - pkg:maven/com.liferay/com.liferay.portal.reports.engine.console.service@6.0.22?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.reports.engine.console.service@6.0.22?classifier=sources-commercial
@@ -339,6 +340,7 @@
 - pkg:maven/com.liferay/com.liferay.portal.reports.engine.console.service@8.0.41?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.reports.engine.console.service@8.0.42?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.reports.engine.console.service@8.0.43?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.reports.engine.console.service@8.0.44?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.reports.engine.console.service@8.0.4?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.reports.engine.console.service@8.0.4?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.reports.engine.console.service@8.0.5

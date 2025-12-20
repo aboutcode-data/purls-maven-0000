@@ -186,6 +186,7 @@
 - pkg:maven/com.liferay/com.liferay.frontend.theme.unstyled@2.2.38
 - pkg:maven/com.liferay/com.liferay.frontend.theme.unstyled@2.2.38?classifier=sources
 - pkg:maven/com.liferay/com.liferay.frontend.theme.unstyled@2.2.38?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.frontend.theme.unstyled@2.2.39?classifier=sources
 - pkg:maven/com.liferay/com.liferay.frontend.theme.unstyled@2.2.3?classifier=sources
 - pkg:maven/com.liferay/com.liferay.frontend.theme.unstyled@2.2.3?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.frontend.theme.unstyled@2.2.4
@@ -810,6 +811,7 @@
 - pkg:maven/com.liferay/com.liferay.frontend.theme.unstyled@6.0.55?classifier=sources
 - pkg:maven/com.liferay/com.liferay.frontend.theme.unstyled@6.0.56?classifier=sources
 - pkg:maven/com.liferay/com.liferay.frontend.theme.unstyled@6.0.57?classifier=sources
+- pkg:maven/com.liferay/com.liferay.frontend.theme.unstyled@6.0.58?classifier=sources
 - pkg:maven/com.liferay/com.liferay.frontend.theme.unstyled@6.0.5?classifier=sources
 - pkg:maven/com.liferay/com.liferay.frontend.theme.unstyled@6.0.5?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.frontend.theme.unstyled@6.0.6

@@ -1,0 +1,2 @@
+- pkg:maven/com.github.javaclub/configserver-conf@1.0.2-IDEV
+- pkg:maven/com.github.javaclub/configserver-conf@1.0.2-IDEV?classifier=sources

@@ -6,3 +6,7 @@
 - pkg:maven/kr.jclab.grpcover/websocket@0.0.1-rc6?classifier=sources
 - pkg:maven/kr.jclab.grpcover/websocket@0.0.1-rc7?classifier=sources
 - pkg:maven/kr.jclab.grpcover/websocket@0.0.1-rc9?classifier=sources
+- pkg:maven/kr.jclab.grpcover/websocket@0.1.0-rc1?classifier=sources
+- pkg:maven/kr.jclab.grpcover/websocket@0.1.0-rc2?classifier=sources
+- pkg:maven/kr.jclab.grpcover/websocket@0.1.0-rc3?classifier=sources
+- pkg:maven/kr.jclab.grpcover/websocket@0.1.0?classifier=sources

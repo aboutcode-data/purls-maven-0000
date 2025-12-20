@@ -116,6 +116,9 @@
 - pkg:maven/io.spinnaker.kork/kork-plugins-api@7.203.0?classifier=sources
 - pkg:maven/io.spinnaker.kork/kork-plugins-api@7.204.0?classifier=sources
 - pkg:maven/io.spinnaker.kork/kork-plugins-api@7.205.0?classifier=sources
+- pkg:maven/io.spinnaker.kork/kork-plugins-api@7.206.0?classifier=sources
+- pkg:maven/io.spinnaker.kork/kork-plugins-api@7.207.0?classifier=sources
+- pkg:maven/io.spinnaker.kork/kork-plugins-api@7.208.0?classifier=sources
 - pkg:maven/io.spinnaker.kork/kork-plugins-api@7.92.2?classifier=sources
 - pkg:maven/io.spinnaker.kork/kork-plugins-api@7.92.4?classifier=sources
 - pkg:maven/io.spinnaker.kork/kork-plugins-api@7.92.5?classifier=sources

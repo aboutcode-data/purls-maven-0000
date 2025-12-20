@@ -201,6 +201,9 @@
 - pkg:maven/com.diffplug.spotless/spotless-plugin-gradle@6.21.0?classifier=sources
 - pkg:maven/com.diffplug.spotless/spotless-plugin-gradle@6.22.0?classifier=sources
 - pkg:maven/com.diffplug.spotless/spotless-plugin-gradle@6.23.0?classifier=sources
+- pkg:maven/com.diffplug.spotless/spotless-plugin-gradle@6.23.1?classifier=sources
+- pkg:maven/com.diffplug.spotless/spotless-plugin-gradle@6.23.2?classifier=sources
+- pkg:maven/com.diffplug.spotless/spotless-plugin-gradle@6.23.3?classifier=sources
 - pkg:maven/com.diffplug.spotless/spotless-plugin-gradle@6.3.0?classifier=sources
 - pkg:maven/com.diffplug.spotless/spotless-plugin-gradle@6.4.0?classifier=sources
 - pkg:maven/com.diffplug.spotless/spotless-plugin-gradle@6.4.1?classifier=sources

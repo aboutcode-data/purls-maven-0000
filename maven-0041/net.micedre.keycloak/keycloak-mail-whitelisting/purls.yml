@@ -8,3 +8,5 @@
 - pkg:maven/net.micedre.keycloak/keycloak-mail-whitelisting@1.5?classifier=sources
 - pkg:maven/net.micedre.keycloak/keycloak-mail-whitelisting@1.6
 - pkg:maven/net.micedre.keycloak/keycloak-mail-whitelisting@1.6?classifier=sources
+- pkg:maven/net.micedre.keycloak/keycloak-mail-whitelisting@2.0
+- pkg:maven/net.micedre.keycloak/keycloak-mail-whitelisting@2.0?classifier=sources

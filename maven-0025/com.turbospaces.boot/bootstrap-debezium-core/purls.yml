@@ -46,6 +46,9 @@
 - pkg:maven/com.turbospaces.boot/bootstrap-debezium-core@1.0.160
 - pkg:maven/com.turbospaces.boot/bootstrap-debezium-core@1.0.161
 - pkg:maven/com.turbospaces.boot/bootstrap-debezium-core@1.0.164
+- pkg:maven/com.turbospaces.boot/bootstrap-debezium-core@1.0.165
+- pkg:maven/com.turbospaces.boot/bootstrap-debezium-core@1.0.167
+- pkg:maven/com.turbospaces.boot/bootstrap-debezium-core@1.0.168
 - pkg:maven/com.turbospaces.boot/bootstrap-debezium-core@1.0.60
 - pkg:maven/com.turbospaces.boot/bootstrap-debezium-core@1.0.61
 - pkg:maven/com.turbospaces.boot/bootstrap-debezium-core@1.0.62
@@ -75,3 +78,4 @@
 - pkg:maven/com.turbospaces.boot/bootstrap-debezium-core@1.0.94
 - pkg:maven/com.turbospaces.boot/bootstrap-debezium-core@1.0.95
 - pkg:maven/com.turbospaces.boot/bootstrap-debezium-core@1.0.99
+- pkg:maven/com.turbospaces.boot/bootstrap-debezium-core@2.0.1

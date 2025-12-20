@@ -38,3 +38,9 @@
 - pkg:maven/org.eclipse.dirigible/dirigible-database-sql-snowflake@8.18.6?classifier=sources
 - pkg:maven/org.eclipse.dirigible/dirigible-database-sql-snowflake@8.18.7
 - pkg:maven/org.eclipse.dirigible/dirigible-database-sql-snowflake@8.18.7?classifier=sources
+- pkg:maven/org.eclipse.dirigible/dirigible-database-sql-snowflake@8.18.8
+- pkg:maven/org.eclipse.dirigible/dirigible-database-sql-snowflake@8.18.8?classifier=sources
+- pkg:maven/org.eclipse.dirigible/dirigible-database-sql-snowflake@8.18.9
+- pkg:maven/org.eclipse.dirigible/dirigible-database-sql-snowflake@8.18.9?classifier=sources
+- pkg:maven/org.eclipse.dirigible/dirigible-database-sql-snowflake@9.0.0
+- pkg:maven/org.eclipse.dirigible/dirigible-database-sql-snowflake@9.0.0?classifier=sources

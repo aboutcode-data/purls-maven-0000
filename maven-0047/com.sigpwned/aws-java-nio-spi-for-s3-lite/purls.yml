@@ -1,0 +1,4 @@
+- pkg:maven/com.sigpwned/aws-java-nio-spi-for-s3-lite@0.0.0-b0
+- pkg:maven/com.sigpwned/aws-java-nio-spi-for-s3-lite@0.0.0-b0?classifier=sources
+- pkg:maven/com.sigpwned/aws-java-nio-spi-for-s3-lite@0.0.0-b1
+- pkg:maven/com.sigpwned/aws-java-nio-spi-for-s3-lite@0.0.0-b1?classifier=sources

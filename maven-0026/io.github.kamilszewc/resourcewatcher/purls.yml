@@ -20,3 +20,4 @@
 - pkg:maven/io.github.kamilszewc/resourcewatcher@5.0?classifier=sources
 - pkg:maven/io.github.kamilszewc/resourcewatcher@5.7?classifier=sources
 - pkg:maven/io.github.kamilszewc/resourcewatcher@5.8?classifier=sources
+- pkg:maven/io.github.kamilszewc/resourcewatcher@5.9?classifier=sources

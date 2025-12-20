@@ -1,5 +1,9 @@
 - pkg:maven/com.endava/cats@10.0.0
 - pkg:maven/com.endava/cats@10.0.0?classifier=sources
+- pkg:maven/com.endava/cats@10.2.0
+- pkg:maven/com.endava/cats@10.2.0?classifier=sources
+- pkg:maven/com.endava/cats@10.3.0
+- pkg:maven/com.endava/cats@10.3.0?classifier=sources
 - pkg:maven/com.endava/cats@9.0.1
 - pkg:maven/com.endava/cats@9.0.1?classifier=sources
 - pkg:maven/com.endava/cats@9.0.2

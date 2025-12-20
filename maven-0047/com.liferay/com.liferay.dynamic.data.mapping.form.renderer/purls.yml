@@ -182,6 +182,7 @@
 - pkg:maven/com.liferay/com.liferay.dynamic.data.mapping.form.renderer@2.1.63
 - pkg:maven/com.liferay/com.liferay.dynamic.data.mapping.form.renderer@2.1.63?classifier=sources
 - pkg:maven/com.liferay/com.liferay.dynamic.data.mapping.form.renderer@2.1.63?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.dynamic.data.mapping.form.renderer@2.1.64?classifier=sources
 - pkg:maven/com.liferay/com.liferay.dynamic.data.mapping.form.renderer@2.1.6?classifier=sources
 - pkg:maven/com.liferay/com.liferay.dynamic.data.mapping.form.renderer@2.1.7
 - pkg:maven/com.liferay/com.liferay.dynamic.data.mapping.form.renderer@2.1.7?classifier=sources
@@ -377,6 +378,7 @@
 - pkg:maven/com.liferay/com.liferay.dynamic.data.mapping.form.renderer@3.0.65?classifier=sources
 - pkg:maven/com.liferay/com.liferay.dynamic.data.mapping.form.renderer@3.0.66?classifier=sources
 - pkg:maven/com.liferay/com.liferay.dynamic.data.mapping.form.renderer@3.0.67?classifier=sources
+- pkg:maven/com.liferay/com.liferay.dynamic.data.mapping.form.renderer@3.0.68?classifier=sources
 - pkg:maven/com.liferay/com.liferay.dynamic.data.mapping.form.renderer@3.0.6?classifier=sources
 - pkg:maven/com.liferay/com.liferay.dynamic.data.mapping.form.renderer@3.0.6?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.dynamic.data.mapping.form.renderer@3.0.7
@@ -599,6 +601,7 @@
 - pkg:maven/com.liferay/com.liferay.dynamic.data.mapping.form.renderer@4.0.72
 - pkg:maven/com.liferay/com.liferay.dynamic.data.mapping.form.renderer@4.0.72?classifier=sources
 - pkg:maven/com.liferay/com.liferay.dynamic.data.mapping.form.renderer@4.0.73?classifier=sources
+- pkg:maven/com.liferay/com.liferay.dynamic.data.mapping.form.renderer@4.0.74?classifier=sources
 - pkg:maven/com.liferay/com.liferay.dynamic.data.mapping.form.renderer@4.0.7?classifier=sources
 - pkg:maven/com.liferay/com.liferay.dynamic.data.mapping.form.renderer@4.0.7?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.dynamic.data.mapping.form.renderer@4.0.8
@@ -803,6 +806,7 @@
 - pkg:maven/com.liferay/com.liferay.dynamic.data.mapping.form.renderer@5.0.6?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.dynamic.data.mapping.form.renderer@5.0.7
 - pkg:maven/com.liferay/com.liferay.dynamic.data.mapping.form.renderer@5.0.70?classifier=sources
+- pkg:maven/com.liferay/com.liferay.dynamic.data.mapping.form.renderer@5.0.71?classifier=sources
 - pkg:maven/com.liferay/com.liferay.dynamic.data.mapping.form.renderer@5.0.7?classifier=sources
 - pkg:maven/com.liferay/com.liferay.dynamic.data.mapping.form.renderer@5.0.7?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.dynamic.data.mapping.form.renderer@5.0.8
