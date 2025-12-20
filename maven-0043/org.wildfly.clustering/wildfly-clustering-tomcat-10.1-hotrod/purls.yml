@@ -6,3 +6,5 @@
 - pkg:maven/org.wildfly.clustering/wildfly-clustering-tomcat-10.1-hotrod@18.0.0.Final?classifier=sources
 - pkg:maven/org.wildfly.clustering/wildfly-clustering-tomcat-10.1-hotrod@19.0.0.Final
 - pkg:maven/org.wildfly.clustering/wildfly-clustering-tomcat-10.1-hotrod@19.0.0.Final?classifier=sources
+- pkg:maven/org.wildfly.clustering/wildfly-clustering-tomcat-10.1-hotrod@20.0.0.Final
+- pkg:maven/org.wildfly.clustering/wildfly-clustering-tomcat-10.1-hotrod@20.0.0.Final?classifier=sources

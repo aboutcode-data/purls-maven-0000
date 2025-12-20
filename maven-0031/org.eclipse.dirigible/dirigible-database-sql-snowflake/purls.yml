@@ -10,3 +10,17 @@
 - pkg:maven/org.eclipse.dirigible/dirigible-database-sql-snowflake@8.15.1?classifier=sources
 - pkg:maven/org.eclipse.dirigible/dirigible-database-sql-snowflake@8.15.2
 - pkg:maven/org.eclipse.dirigible/dirigible-database-sql-snowflake@8.15.2?classifier=sources
+- pkg:maven/org.eclipse.dirigible/dirigible-database-sql-snowflake@8.15.3
+- pkg:maven/org.eclipse.dirigible/dirigible-database-sql-snowflake@8.15.3?classifier=sources
+- pkg:maven/org.eclipse.dirigible/dirigible-database-sql-snowflake@8.15.4
+- pkg:maven/org.eclipse.dirigible/dirigible-database-sql-snowflake@8.15.4?classifier=sources
+- pkg:maven/org.eclipse.dirigible/dirigible-database-sql-snowflake@8.16.0
+- pkg:maven/org.eclipse.dirigible/dirigible-database-sql-snowflake@8.16.0?classifier=sources
+- pkg:maven/org.eclipse.dirigible/dirigible-database-sql-snowflake@8.16.1
+- pkg:maven/org.eclipse.dirigible/dirigible-database-sql-snowflake@8.16.1?classifier=sources
+- pkg:maven/org.eclipse.dirigible/dirigible-database-sql-snowflake@8.17.0
+- pkg:maven/org.eclipse.dirigible/dirigible-database-sql-snowflake@8.17.0?classifier=sources
+- pkg:maven/org.eclipse.dirigible/dirigible-database-sql-snowflake@8.17.1
+- pkg:maven/org.eclipse.dirigible/dirigible-database-sql-snowflake@8.17.1?classifier=sources
+- pkg:maven/org.eclipse.dirigible/dirigible-database-sql-snowflake@8.18.0
+- pkg:maven/org.eclipse.dirigible/dirigible-database-sql-snowflake@8.18.0?classifier=sources

@@ -13,6 +13,7 @@
 - pkg:maven/org.opencastproject/opencast-engage-paella-player-7@13.0
 - pkg:maven/org.opencastproject/opencast-engage-paella-player-7@13.1
 - pkg:maven/org.opencastproject/opencast-engage-paella-player-7@13.10
+- pkg:maven/org.opencastproject/opencast-engage-paella-player-7@13.12
 - pkg:maven/org.opencastproject/opencast-engage-paella-player-7@13.2
 - pkg:maven/org.opencastproject/opencast-engage-paella-player-7@13.4
 - pkg:maven/org.opencastproject/opencast-engage-paella-player-7@13.6

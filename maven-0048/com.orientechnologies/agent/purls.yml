@@ -42,6 +42,8 @@
 - pkg:maven/com.orientechnologies/agent@3.2.22?classifier=sources
 - pkg:maven/com.orientechnologies/agent@3.2.23
 - pkg:maven/com.orientechnologies/agent@3.2.23?classifier=sources
+- pkg:maven/com.orientechnologies/agent@3.2.24
+- pkg:maven/com.orientechnologies/agent@3.2.24?classifier=sources
 - pkg:maven/com.orientechnologies/agent@3.2.4
 - pkg:maven/com.orientechnologies/agent@3.2.4?classifier=sources
 - pkg:maven/com.orientechnologies/agent@3.2.5

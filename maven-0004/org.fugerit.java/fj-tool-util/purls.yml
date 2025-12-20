@@ -1,0 +1,2 @@
+- pkg:maven/org.fugerit.java/fj-tool-util@0.1.0
+- pkg:maven/org.fugerit.java/fj-tool-util@0.1.0?classifier=sources

@@ -108,6 +108,12 @@
 - pkg:maven/com.sap.cloud.sdk.datamodel/datamodel-metadata-generator@4.22.0?classifier=sources
 - pkg:maven/com.sap.cloud.sdk.datamodel/datamodel-metadata-generator@4.23.0
 - pkg:maven/com.sap.cloud.sdk.datamodel/datamodel-metadata-generator@4.23.0?classifier=sources
+- pkg:maven/com.sap.cloud.sdk.datamodel/datamodel-metadata-generator@4.24.0
+- pkg:maven/com.sap.cloud.sdk.datamodel/datamodel-metadata-generator@4.24.0?classifier=sources
+- pkg:maven/com.sap.cloud.sdk.datamodel/datamodel-metadata-generator@4.25.0
+- pkg:maven/com.sap.cloud.sdk.datamodel/datamodel-metadata-generator@4.25.0?classifier=sources
+- pkg:maven/com.sap.cloud.sdk.datamodel/datamodel-metadata-generator@4.26.0
+- pkg:maven/com.sap.cloud.sdk.datamodel/datamodel-metadata-generator@4.26.0?classifier=sources
 - pkg:maven/com.sap.cloud.sdk.datamodel/datamodel-metadata-generator@4.3.0
 - pkg:maven/com.sap.cloud.sdk.datamodel/datamodel-metadata-generator@4.3.0?classifier=sources
 - pkg:maven/com.sap.cloud.sdk.datamodel/datamodel-metadata-generator@4.4.0

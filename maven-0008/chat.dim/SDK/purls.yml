@@ -44,3 +44,5 @@
 - pkg:maven/chat.dim/SDK@0.8.6?classifier=sources
 - pkg:maven/chat.dim/SDK@0.8.7
 - pkg:maven/chat.dim/SDK@0.8.7?classifier=sources
+- pkg:maven/chat.dim/SDK@1.0.0
+- pkg:maven/chat.dim/SDK@1.0.0?classifier=sources

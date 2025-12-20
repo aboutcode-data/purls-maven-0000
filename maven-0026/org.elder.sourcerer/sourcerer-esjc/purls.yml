@@ -50,3 +50,4 @@
 - pkg:maven/org.elder.sourcerer/sourcerer-esjc@v7.1.1?classifier=sources
 - pkg:maven/org.elder.sourcerer/sourcerer-esjc@v8.0.0?classifier=sources
 - pkg:maven/org.elder.sourcerer/sourcerer-esjc@v9.0.0?classifier=sources
+- pkg:maven/org.elder.sourcerer/sourcerer-esjc@v9.0.1?classifier=sources

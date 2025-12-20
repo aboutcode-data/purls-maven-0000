@@ -12,3 +12,5 @@
 - pkg:maven/org.wildfly.channel/channel-parent@1.0.1.Final?classifier=source-release&type=zip
 - pkg:maven/org.wildfly.channel/channel-parent@1.0.2.Final?classifier=source-release&type=zip
 - pkg:maven/org.wildfly.channel/channel-parent@1.0.3.Final?classifier=source-release&type=zip
+- pkg:maven/org.wildfly.channel/channel-parent@1.0.4.Final?classifier=source-release&type=zip
+- pkg:maven/org.wildfly.channel/channel-parent@1.0.5.Final?classifier=source-release&type=zip

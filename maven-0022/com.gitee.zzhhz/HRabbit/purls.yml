@@ -7,3 +7,4 @@
 - pkg:maven/com.gitee.zzhhz/HRabbit@1.0.6?classifier=sources
 - pkg:maven/com.gitee.zzhhz/HRabbit@1.0.7?classifier=sources
 - pkg:maven/com.gitee.zzhhz/HRabbit@1.0.9?classifier=sources
+- pkg:maven/com.gitee.zzhhz/HRabbit@1.1.0?classifier=sources

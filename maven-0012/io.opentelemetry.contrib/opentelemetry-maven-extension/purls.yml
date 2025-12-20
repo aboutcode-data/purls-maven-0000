@@ -22,6 +22,7 @@
 - pkg:maven/io.opentelemetry.contrib/opentelemetry-maven-extension@1.28.0-alpha?classifier=sources
 - pkg:maven/io.opentelemetry.contrib/opentelemetry-maven-extension@1.29.0-alpha?classifier=sources
 - pkg:maven/io.opentelemetry.contrib/opentelemetry-maven-extension@1.30.0-alpha?classifier=sources
+- pkg:maven/io.opentelemetry.contrib/opentelemetry-maven-extension@1.31.0-alpha?classifier=sources
 - pkg:maven/io.opentelemetry.contrib/opentelemetry-maven-extension@1.6.0-alpha?classifier=sources
 - pkg:maven/io.opentelemetry.contrib/opentelemetry-maven-extension@1.7.0-alpha?classifier=sources
 - pkg:maven/io.opentelemetry.contrib/opentelemetry-maven-extension@1.9.0-alpha?classifier=sources

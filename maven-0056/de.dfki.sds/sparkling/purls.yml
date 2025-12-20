@@ -1,0 +1,6 @@
+- pkg:maven/de.dfki.sds/sparkling@0.1
+- pkg:maven/de.dfki.sds/sparkling@0.1?classifier=sources
+- pkg:maven/de.dfki.sds/sparkling@0.2
+- pkg:maven/de.dfki.sds/sparkling@0.2.1
+- pkg:maven/de.dfki.sds/sparkling@0.2.1?classifier=sources
+- pkg:maven/de.dfki.sds/sparkling@0.2?classifier=sources

@@ -18,3 +18,4 @@
 - pkg:maven/com.adobe.aem/aem-project-archetype@42?classifier=sources
 - pkg:maven/com.adobe.aem/aem-project-archetype@43?classifier=sources
 - pkg:maven/com.adobe.aem/aem-project-archetype@44?classifier=sources
+- pkg:maven/com.adobe.aem/aem-project-archetype@45?classifier=sources

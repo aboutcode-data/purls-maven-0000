@@ -33,6 +33,7 @@
 - pkg:maven/org.apache.activemq/activemq-ra@5.15.13?classifier=sources
 - pkg:maven/org.apache.activemq/activemq-ra@5.15.14?classifier=sources
 - pkg:maven/org.apache.activemq/activemq-ra@5.15.15?classifier=sources
+- pkg:maven/org.apache.activemq/activemq-ra@5.15.16?classifier=sources
 - pkg:maven/org.apache.activemq/activemq-ra@5.15.1?classifier=sources
 - pkg:maven/org.apache.activemq/activemq-ra@5.15.2?classifier=sources
 - pkg:maven/org.apache.activemq/activemq-ra@5.15.3?classifier=sources
@@ -49,15 +50,18 @@
 - pkg:maven/org.apache.activemq/activemq-ra@5.16.4?classifier=sources
 - pkg:maven/org.apache.activemq/activemq-ra@5.16.5?classifier=sources
 - pkg:maven/org.apache.activemq/activemq-ra@5.16.6?classifier=sources
+- pkg:maven/org.apache.activemq/activemq-ra@5.16.7?classifier=sources
 - pkg:maven/org.apache.activemq/activemq-ra@5.17.0?classifier=sources
 - pkg:maven/org.apache.activemq/activemq-ra@5.17.1?classifier=sources
 - pkg:maven/org.apache.activemq/activemq-ra@5.17.2?classifier=sources
 - pkg:maven/org.apache.activemq/activemq-ra@5.17.3?classifier=sources
 - pkg:maven/org.apache.activemq/activemq-ra@5.17.4?classifier=sources
 - pkg:maven/org.apache.activemq/activemq-ra@5.17.5?classifier=sources
+- pkg:maven/org.apache.activemq/activemq-ra@5.17.6?classifier=sources
 - pkg:maven/org.apache.activemq/activemq-ra@5.18.0?classifier=sources
 - pkg:maven/org.apache.activemq/activemq-ra@5.18.1?classifier=sources
 - pkg:maven/org.apache.activemq/activemq-ra@5.18.2?classifier=sources
+- pkg:maven/org.apache.activemq/activemq-ra@5.18.3?classifier=sources
 - pkg:maven/org.apache.activemq/activemq-ra@5.2.0?classifier=sources
 - pkg:maven/org.apache.activemq/activemq-ra@5.3.0?classifier=sources
 - pkg:maven/org.apache.activemq/activemq-ra@5.3.1?classifier=sources

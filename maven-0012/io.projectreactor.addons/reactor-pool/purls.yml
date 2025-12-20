@@ -23,6 +23,7 @@
 - pkg:maven/io.projectreactor.addons/reactor-pool@0.2.0?classifier=sources
 - pkg:maven/io.projectreactor.addons/reactor-pool@0.2.10?classifier=sources
 - pkg:maven/io.projectreactor.addons/reactor-pool@0.2.11?classifier=sources
+- pkg:maven/io.projectreactor.addons/reactor-pool@0.2.12?classifier=sources
 - pkg:maven/io.projectreactor.addons/reactor-pool@0.2.1?classifier=sources
 - pkg:maven/io.projectreactor.addons/reactor-pool@0.2.2?classifier=sources
 - pkg:maven/io.projectreactor.addons/reactor-pool@0.2.3?classifier=sources
@@ -35,3 +36,4 @@
 - pkg:maven/io.projectreactor.addons/reactor-pool@1.0.0?classifier=sources
 - pkg:maven/io.projectreactor.addons/reactor-pool@1.0.1?classifier=sources
 - pkg:maven/io.projectreactor.addons/reactor-pool@1.0.2?classifier=sources
+- pkg:maven/io.projectreactor.addons/reactor-pool@1.0.3?classifier=sources

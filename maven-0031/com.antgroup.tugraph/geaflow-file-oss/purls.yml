@@ -1,0 +1,2 @@
+- pkg:maven/com.antgroup.tugraph/geaflow-file-oss@0.3.0
+- pkg:maven/com.antgroup.tugraph/geaflow-file-oss@0.3.0?classifier=sources

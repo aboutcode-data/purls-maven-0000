@@ -1,0 +1,2 @@
+- pkg:maven/bz.gsn.djinn/djinn-maven-plugin@1.0.0
+- pkg:maven/bz.gsn.djinn/djinn-maven-plugin@1.0.0?classifier=sources

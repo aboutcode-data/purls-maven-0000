@@ -2,6 +2,12 @@
 - pkg:maven/foundation.cmo.service/foundation-cmo-opensales-weather@1.0.10?classifier=sources
 - pkg:maven/foundation.cmo.service/foundation-cmo-opensales-weather@1.0.11
 - pkg:maven/foundation.cmo.service/foundation-cmo-opensales-weather@1.0.11?classifier=sources
+- pkg:maven/foundation.cmo.service/foundation-cmo-opensales-weather@1.0.12
+- pkg:maven/foundation.cmo.service/foundation-cmo-opensales-weather@1.0.12?classifier=sources
+- pkg:maven/foundation.cmo.service/foundation-cmo-opensales-weather@1.0.14
+- pkg:maven/foundation.cmo.service/foundation-cmo-opensales-weather@1.0.14?classifier=sources
+- pkg:maven/foundation.cmo.service/foundation-cmo-opensales-weather@1.0.15
+- pkg:maven/foundation.cmo.service/foundation-cmo-opensales-weather@1.0.15?classifier=sources
 - pkg:maven/foundation.cmo.service/foundation-cmo-opensales-weather@1.0.2
 - pkg:maven/foundation.cmo.service/foundation-cmo-opensales-weather@1.0.2?classifier=sources
 - pkg:maven/foundation.cmo.service/foundation-cmo-opensales-weather@1.0.3

@@ -6,3 +6,4 @@
 - pkg:maven/org.glassfish.docs/distribution@7.0.6
 - pkg:maven/org.glassfish.docs/distribution@7.0.7
 - pkg:maven/org.glassfish.docs/distribution@7.0.8
+- pkg:maven/org.glassfish.docs/distribution@7.0.9

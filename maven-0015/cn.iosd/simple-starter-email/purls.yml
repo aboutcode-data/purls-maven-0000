@@ -26,3 +26,5 @@
 - pkg:maven/cn.iosd/simple-starter-email@2023.4.1.0?classifier=sources
 - pkg:maven/cn.iosd/simple-starter-email@2023.5.0.0
 - pkg:maven/cn.iosd/simple-starter-email@2023.5.0.0?classifier=sources
+- pkg:maven/cn.iosd/simple-starter-email@2023.5.1.0
+- pkg:maven/cn.iosd/simple-starter-email@2023.5.1.0?classifier=sources

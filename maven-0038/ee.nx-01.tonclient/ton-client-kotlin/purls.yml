@@ -76,3 +76,5 @@
 - pkg:maven/ee.nx-01.tonclient/ton-client-kotlin@0.0.65?classifier=sources
 - pkg:maven/ee.nx-01.tonclient/ton-client-kotlin@0.0.66
 - pkg:maven/ee.nx-01.tonclient/ton-client-kotlin@0.0.66?classifier=sources
+- pkg:maven/ee.nx-01.tonclient/ton-client-kotlin@0.0.67
+- pkg:maven/ee.nx-01.tonclient/ton-client-kotlin@0.0.67?classifier=sources

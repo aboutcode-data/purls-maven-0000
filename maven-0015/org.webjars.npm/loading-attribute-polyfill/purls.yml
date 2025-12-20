@@ -1,2 +1,4 @@
 - pkg:maven/org.webjars.npm/loading-attribute-polyfill@1.5.3
 - pkg:maven/org.webjars.npm/loading-attribute-polyfill@1.5.3?classifier=sources
+- pkg:maven/org.webjars.npm/loading-attribute-polyfill@2.0.2
+- pkg:maven/org.webjars.npm/loading-attribute-polyfill@2.0.2?classifier=sources

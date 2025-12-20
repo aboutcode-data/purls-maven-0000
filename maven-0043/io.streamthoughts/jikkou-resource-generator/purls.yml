@@ -14,3 +14,7 @@
 - pkg:maven/io.streamthoughts/jikkou-resource-generator@0.26.0?classifier=sources
 - pkg:maven/io.streamthoughts/jikkou-resource-generator@0.27.0
 - pkg:maven/io.streamthoughts/jikkou-resource-generator@0.27.0?classifier=sources
+- pkg:maven/io.streamthoughts/jikkou-resource-generator@0.29.0
+- pkg:maven/io.streamthoughts/jikkou-resource-generator@0.29.0?classifier=sources
+- pkg:maven/io.streamthoughts/jikkou-resource-generator@0.30.0
+- pkg:maven/io.streamthoughts/jikkou-resource-generator@0.30.0?classifier=sources

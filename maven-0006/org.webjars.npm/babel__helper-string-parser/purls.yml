@@ -8,3 +8,7 @@
 - pkg:maven/org.webjars.npm/babel__helper-string-parser@8.0.0-alpha.1?classifier=sources
 - pkg:maven/org.webjars.npm/babel__helper-string-parser@8.0.0-alpha.2
 - pkg:maven/org.webjars.npm/babel__helper-string-parser@8.0.0-alpha.2?classifier=sources
+- pkg:maven/org.webjars.npm/babel__helper-string-parser@8.0.0-alpha.3
+- pkg:maven/org.webjars.npm/babel__helper-string-parser@8.0.0-alpha.3?classifier=sources
+- pkg:maven/org.webjars.npm/babel__helper-string-parser@8.0.0-alpha.4
+- pkg:maven/org.webjars.npm/babel__helper-string-parser@8.0.0-alpha.4?classifier=sources

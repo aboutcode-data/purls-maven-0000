@@ -1,0 +1,2 @@
+- pkg:maven/io.debezium/debezium-connector-informix@2.5.0.Alpha1
+- pkg:maven/io.debezium/debezium-connector-informix@2.5.0.Alpha1?classifier=sources

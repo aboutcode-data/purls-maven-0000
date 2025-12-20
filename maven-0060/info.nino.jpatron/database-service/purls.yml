@@ -1,0 +1,4 @@
+- pkg:maven/info.nino.jpatron/database-service@1.0.1
+- pkg:maven/info.nino.jpatron/database-service@1.0.1?classifier=sources
+- pkg:maven/info.nino.jpatron/database-service@2.0.1
+- pkg:maven/info.nino.jpatron/database-service@2.0.1?classifier=sources

@@ -87,6 +87,8 @@
 - pkg:maven/com.github.alexcojocaru/elasticsearch-maven-plugin@6.24?classifier=sources
 - pkg:maven/com.github.alexcojocaru/elasticsearch-maven-plugin@6.26
 - pkg:maven/com.github.alexcojocaru/elasticsearch-maven-plugin@6.26?classifier=sources
+- pkg:maven/com.github.alexcojocaru/elasticsearch-maven-plugin@6.27
+- pkg:maven/com.github.alexcojocaru/elasticsearch-maven-plugin@6.27?classifier=sources
 - pkg:maven/com.github.alexcojocaru/elasticsearch-maven-plugin@6.2?classifier=sources
 - pkg:maven/com.github.alexcojocaru/elasticsearch-maven-plugin@6.3
 - pkg:maven/com.github.alexcojocaru/elasticsearch-maven-plugin@6.3?classifier=sources

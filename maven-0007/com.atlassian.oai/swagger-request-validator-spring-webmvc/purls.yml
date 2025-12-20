@@ -6,3 +6,5 @@
 - pkg:maven/com.atlassian.oai/swagger-request-validator-spring-webmvc@2.35.2?classifier=sources
 - pkg:maven/com.atlassian.oai/swagger-request-validator-spring-webmvc@2.36.0?classifier=sources
 - pkg:maven/com.atlassian.oai/swagger-request-validator-spring-webmvc@2.37.0?classifier=sources
+- pkg:maven/com.atlassian.oai/swagger-request-validator-spring-webmvc@2.38.0?classifier=sources
+- pkg:maven/com.atlassian.oai/swagger-request-validator-spring-webmvc@2.38.1?classifier=sources

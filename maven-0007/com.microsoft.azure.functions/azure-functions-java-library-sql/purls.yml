@@ -5,3 +5,4 @@
 - pkg:maven/com.microsoft.azure.functions/azure-functions-java-library-sql@1.0.0?classifier=sources
 - pkg:maven/com.microsoft.azure.functions/azure-functions-java-library-sql@2.0.0-preview?classifier=sources
 - pkg:maven/com.microsoft.azure.functions/azure-functions-java-library-sql@2.1.0-preview?classifier=sources
+- pkg:maven/com.microsoft.azure.functions/azure-functions-java-library-sql@2.1.0?classifier=sources

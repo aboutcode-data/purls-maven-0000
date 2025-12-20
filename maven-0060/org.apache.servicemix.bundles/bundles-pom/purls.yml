@@ -10,3 +10,5 @@
 - pkg:maven/org.apache.servicemix.bundles/bundles-pom@14?classifier=src&type=zip
 - pkg:maven/org.apache.servicemix.bundles/bundles-pom@15?classifier=src&type=tar.gz
 - pkg:maven/org.apache.servicemix.bundles/bundles-pom@15?classifier=src&type=zip
+- pkg:maven/org.apache.servicemix.bundles/bundles-pom@16?classifier=src&type=tar.gz
+- pkg:maven/org.apache.servicemix.bundles/bundles-pom@16?classifier=src&type=zip

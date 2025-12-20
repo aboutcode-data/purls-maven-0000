@@ -2,3 +2,5 @@
 - pkg:maven/biz.aQute.bnd/biz.aQute.bnd.javagen@6.4.0?classifier=sources
 - pkg:maven/biz.aQute.bnd/biz.aQute.bnd.javagen@6.4.1
 - pkg:maven/biz.aQute.bnd/biz.aQute.bnd.javagen@6.4.1?classifier=sources
+- pkg:maven/biz.aQute.bnd/biz.aQute.bnd.javagen@7.0.0
+- pkg:maven/biz.aQute.bnd/biz.aQute.bnd.javagen@7.0.0?classifier=sources

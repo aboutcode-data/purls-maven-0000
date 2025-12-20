@@ -8,3 +8,11 @@
 - pkg:maven/com.xianlaocai.quant/quant-data-indicator@XLCQ20230911?classifier=sources
 - pkg:maven/com.xianlaocai.quant/quant-data-indicator@XLCQ20230920
 - pkg:maven/com.xianlaocai.quant/quant-data-indicator@XLCQ20230920?classifier=sources
+- pkg:maven/com.xianlaocai.quant/quant-data-indicator@XLCQ20231019
+- pkg:maven/com.xianlaocai.quant/quant-data-indicator@XLCQ20231019?classifier=sources
+- pkg:maven/com.xianlaocai.quant/quant-data-indicator@XLCQ20231020
+- pkg:maven/com.xianlaocai.quant/quant-data-indicator@XLCQ20231020?classifier=sources
+- pkg:maven/com.xianlaocai.quant/quant-data-indicator@XLCQ20231024
+- pkg:maven/com.xianlaocai.quant/quant-data-indicator@XLCQ20231024?classifier=sources
+- pkg:maven/com.xianlaocai.quant/quant-data-indicator@XLCQ20231027
+- pkg:maven/com.xianlaocai.quant/quant-data-indicator@XLCQ20231027?classifier=sources

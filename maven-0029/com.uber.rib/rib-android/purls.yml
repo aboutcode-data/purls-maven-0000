@@ -25,6 +25,7 @@
 - pkg:maven/com.uber.rib/rib-android@0.15.2?classifier=sources
 - pkg:maven/com.uber.rib/rib-android@0.15.3?classifier=sources
 - pkg:maven/com.uber.rib/rib-android@0.15.4?classifier=sources
+- pkg:maven/com.uber.rib/rib-android@0.16.0?classifier=sources
 - pkg:maven/com.uber.rib/rib-android@0.9.0?classifier=sources
 - pkg:maven/com.uber.rib/rib-android@0.9.0?type=aar
 - pkg:maven/com.uber.rib/rib-android@0.9.1?classifier=sources

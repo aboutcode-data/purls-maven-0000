@@ -1,0 +1,4 @@
+- pkg:maven/io.github.nyayurn/yutori@0.0.9
+- pkg:maven/io.github.nyayurn/yutori@0.0.9-Fix
+- pkg:maven/io.github.nyayurn/yutori@0.0.9-Fix?classifier=sources
+- pkg:maven/io.github.nyayurn/yutori@0.0.9?classifier=sources

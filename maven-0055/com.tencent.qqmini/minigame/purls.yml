@@ -15,6 +15,8 @@
 - pkg:maven/com.tencent.qqmini/minigame@1.57.1?type=aar
 - pkg:maven/com.tencent.qqmini/minigame@1.57.20?type=aar
 - pkg:maven/com.tencent.qqmini/minigame@1.57.21?type=aar
+- pkg:maven/com.tencent.qqmini/minigame@1.57.22?type=aar
+- pkg:maven/com.tencent.qqmini/minigame@1.57.22_1?type=aar
 - pkg:maven/com.tencent.qqmini/minigame@1.57.2?type=aar
 - pkg:maven/com.tencent.qqmini/minigame@1.57.3?type=aar
 - pkg:maven/com.tencent.qqmini/minigame@1.57.4?type=aar

@@ -6,3 +6,5 @@
 - pkg:maven/io.github.lonelypluto/map@3.0.13?type=aar
 - pkg:maven/io.github.lonelypluto/map@3.0.14?classifier=sources
 - pkg:maven/io.github.lonelypluto/map@3.0.14?type=aar
+- pkg:maven/io.github.lonelypluto/map@3.0.15?classifier=sources
+- pkg:maven/io.github.lonelypluto/map@3.0.15?type=aar

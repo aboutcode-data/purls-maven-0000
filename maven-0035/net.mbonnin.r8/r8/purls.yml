@@ -10,3 +10,5 @@
 - pkg:maven/net.mbonnin.r8/r8@3.4.0-dev.0?classifier=sources
 - pkg:maven/net.mbonnin.r8/r8@4.0.55
 - pkg:maven/net.mbonnin.r8/r8@4.0.55?classifier=sources
+- pkg:maven/net.mbonnin.r8/r8@8.3.8
+- pkg:maven/net.mbonnin.r8/r8@8.3.8?classifier=sources

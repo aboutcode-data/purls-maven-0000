@@ -13,3 +13,5 @@
 - pkg:maven/org.jdrupes.taglets/plantuml-taglet@2.0.0?classifier=sources
 - pkg:maven/org.jdrupes.taglets/plantuml-taglet@2.0.1?classifier=sources
 - pkg:maven/org.jdrupes.taglets/plantuml-taglet@2.1.0?classifier=sources
+- pkg:maven/org.jdrupes.taglets/plantuml-taglet@3.0.0?classifier=sources
+- pkg:maven/org.jdrupes.taglets/plantuml-taglet@3.1.0?classifier=sources

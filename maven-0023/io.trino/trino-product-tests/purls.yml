@@ -148,3 +148,13 @@
 - pkg:maven/io.trino/trino-product-tests@425?classifier=sources
 - pkg:maven/io.trino/trino-product-tests@426
 - pkg:maven/io.trino/trino-product-tests@426?classifier=sources
+- pkg:maven/io.trino/trino-product-tests@427
+- pkg:maven/io.trino/trino-product-tests@427?classifier=sources
+- pkg:maven/io.trino/trino-product-tests@428
+- pkg:maven/io.trino/trino-product-tests@428?classifier=sources
+- pkg:maven/io.trino/trino-product-tests@429
+- pkg:maven/io.trino/trino-product-tests@429?classifier=sources
+- pkg:maven/io.trino/trino-product-tests@430
+- pkg:maven/io.trino/trino-product-tests@430?classifier=sources
+- pkg:maven/io.trino/trino-product-tests@431
+- pkg:maven/io.trino/trino-product-tests@431?classifier=sources

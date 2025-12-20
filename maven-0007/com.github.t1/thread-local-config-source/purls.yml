@@ -1,2 +1,4 @@
 - pkg:maven/com.github.t1/thread-local-config-source@1.0.1
 - pkg:maven/com.github.t1/thread-local-config-source@1.0.1?classifier=sources
+- pkg:maven/com.github.t1/thread-local-config-source@1.1
+- pkg:maven/com.github.t1/thread-local-config-source@1.1?classifier=sources

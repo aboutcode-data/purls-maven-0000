@@ -80,10 +80,16 @@
 - pkg:maven/com.google.api.grpc/proto-google-cloud-dialogflow-cx-v3@0.34.0?classifier=sources
 - pkg:maven/com.google.api.grpc/proto-google-cloud-dialogflow-cx-v3@0.35.0
 - pkg:maven/com.google.api.grpc/proto-google-cloud-dialogflow-cx-v3@0.35.0?classifier=sources
+- pkg:maven/com.google.api.grpc/proto-google-cloud-dialogflow-cx-v3@0.38.0
+- pkg:maven/com.google.api.grpc/proto-google-cloud-dialogflow-cx-v3@0.38.0?classifier=sources
+- pkg:maven/com.google.api.grpc/proto-google-cloud-dialogflow-cx-v3@0.39.0
+- pkg:maven/com.google.api.grpc/proto-google-cloud-dialogflow-cx-v3@0.39.0?classifier=sources
 - pkg:maven/com.google.api.grpc/proto-google-cloud-dialogflow-cx-v3@0.4.0
 - pkg:maven/com.google.api.grpc/proto-google-cloud-dialogflow-cx-v3@0.4.0?classifier=sources
 - pkg:maven/com.google.api.grpc/proto-google-cloud-dialogflow-cx-v3@0.4.1
 - pkg:maven/com.google.api.grpc/proto-google-cloud-dialogflow-cx-v3@0.4.1?classifier=sources
+- pkg:maven/com.google.api.grpc/proto-google-cloud-dialogflow-cx-v3@0.40.0
+- pkg:maven/com.google.api.grpc/proto-google-cloud-dialogflow-cx-v3@0.40.0?classifier=sources
 - pkg:maven/com.google.api.grpc/proto-google-cloud-dialogflow-cx-v3@0.5.0
 - pkg:maven/com.google.api.grpc/proto-google-cloud-dialogflow-cx-v3@0.5.0?classifier=sources
 - pkg:maven/com.google.api.grpc/proto-google-cloud-dialogflow-cx-v3@0.6.0

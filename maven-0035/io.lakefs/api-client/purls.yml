@@ -30,6 +30,16 @@
 - pkg:maven/io.lakefs/api-client@0.108.0?classifier=sources
 - pkg:maven/io.lakefs/api-client@0.109.0
 - pkg:maven/io.lakefs/api-client@0.109.0?classifier=sources
+- pkg:maven/io.lakefs/api-client@0.110.0
+- pkg:maven/io.lakefs/api-client@0.110.0?classifier=sources
+- pkg:maven/io.lakefs/api-client@0.111.0
+- pkg:maven/io.lakefs/api-client@0.111.0?classifier=sources
+- pkg:maven/io.lakefs/api-client@0.111.1
+- pkg:maven/io.lakefs/api-client@0.111.1?classifier=sources
+- pkg:maven/io.lakefs/api-client@0.112.1
+- pkg:maven/io.lakefs/api-client@0.112.1?classifier=sources
+- pkg:maven/io.lakefs/api-client@0.113.0
+- pkg:maven/io.lakefs/api-client@0.113.0?classifier=sources
 - pkg:maven/io.lakefs/api-client@0.40.3
 - pkg:maven/io.lakefs/api-client@0.40.3-RC.0
 - pkg:maven/io.lakefs/api-client@0.40.3-RC.0?classifier=sources
@@ -172,3 +182,7 @@
 - pkg:maven/io.lakefs/api-client@0.97.5?classifier=sources
 - pkg:maven/io.lakefs/api-client@0.98.0
 - pkg:maven/io.lakefs/api-client@0.98.0?classifier=sources
+- pkg:maven/io.lakefs/api-client@1.0.0
+- pkg:maven/io.lakefs/api-client@1.0.0?classifier=sources
+- pkg:maven/io.lakefs/api-client@1.1.0
+- pkg:maven/io.lakefs/api-client@1.1.0?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/io.ashkay.crashgrabber/crashgrabber@0.1.14?classifier=sources
+- pkg:maven/io.ashkay.crashgrabber/crashgrabber@0.1.17?classifier=sources
+- pkg:maven/io.ashkay.crashgrabber/crashgrabber@0.1.18?classifier=sources
+- pkg:maven/io.ashkay.crashgrabber/crashgrabber@0.1.19?classifier=sources

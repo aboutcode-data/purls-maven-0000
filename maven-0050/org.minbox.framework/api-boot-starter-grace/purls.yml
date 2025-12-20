@@ -1,3 +1,4 @@
+- pkg:maven/org.minbox.framework/api-boot-starter-grace@2.3.10
 - pkg:maven/org.minbox.framework/api-boot-starter-grace@2.3.6
 - pkg:maven/org.minbox.framework/api-boot-starter-grace@2.3.7
 - pkg:maven/org.minbox.framework/api-boot-starter-grace@2.3.8

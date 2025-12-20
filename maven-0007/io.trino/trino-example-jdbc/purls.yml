@@ -14,3 +14,8 @@
 - pkg:maven/io.trino/trino-example-jdbc@424?classifier=sources
 - pkg:maven/io.trino/trino-example-jdbc@425?classifier=sources
 - pkg:maven/io.trino/trino-example-jdbc@426?classifier=sources
+- pkg:maven/io.trino/trino-example-jdbc@427?classifier=sources
+- pkg:maven/io.trino/trino-example-jdbc@428?classifier=sources
+- pkg:maven/io.trino/trino-example-jdbc@429?classifier=sources
+- pkg:maven/io.trino/trino-example-jdbc@430?classifier=sources
+- pkg:maven/io.trino/trino-example-jdbc@431?classifier=sources

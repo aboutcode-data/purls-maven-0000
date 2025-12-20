@@ -5,3 +5,6 @@
 - pkg:maven/io.codemodder/codemodder-plugin-maven@0.67.6?classifier=sources
 - pkg:maven/io.codemodder/codemodder-plugin-maven@0.67.7?classifier=sources
 - pkg:maven/io.codemodder/codemodder-plugin-maven@0.67.8?classifier=sources
+- pkg:maven/io.codemodder/codemodder-plugin-maven@0.67.9?classifier=sources
+- pkg:maven/io.codemodder/codemodder-plugin-maven@0.68.1?classifier=sources
+- pkg:maven/io.codemodder/codemodder-plugin-maven@0.68.2?classifier=sources

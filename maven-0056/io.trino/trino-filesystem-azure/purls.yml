@@ -12,3 +12,13 @@
 - pkg:maven/io.trino/trino-filesystem-azure@425?classifier=sources
 - pkg:maven/io.trino/trino-filesystem-azure@426
 - pkg:maven/io.trino/trino-filesystem-azure@426?classifier=sources
+- pkg:maven/io.trino/trino-filesystem-azure@427
+- pkg:maven/io.trino/trino-filesystem-azure@427?classifier=sources
+- pkg:maven/io.trino/trino-filesystem-azure@428
+- pkg:maven/io.trino/trino-filesystem-azure@428?classifier=sources
+- pkg:maven/io.trino/trino-filesystem-azure@429
+- pkg:maven/io.trino/trino-filesystem-azure@429?classifier=sources
+- pkg:maven/io.trino/trino-filesystem-azure@430
+- pkg:maven/io.trino/trino-filesystem-azure@430?classifier=sources
+- pkg:maven/io.trino/trino-filesystem-azure@431
+- pkg:maven/io.trino/trino-filesystem-azure@431?classifier=sources

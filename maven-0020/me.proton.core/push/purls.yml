@@ -19,6 +19,14 @@
 - pkg:maven/me.proton.core/push@15.0.0?classifier=sources
 - pkg:maven/me.proton.core/push@15.1.0?classifier=sources
 - pkg:maven/me.proton.core/push@16.0.0?classifier=sources
+- pkg:maven/me.proton.core/push@16.1.0?classifier=sources
+- pkg:maven/me.proton.core/push@17.0.0?classifier=sources
+- pkg:maven/me.proton.core/push@17.0.1?classifier=sources
+- pkg:maven/me.proton.core/push@17.0.2?classifier=sources
+- pkg:maven/me.proton.core/push@17.0.3?classifier=sources
+- pkg:maven/me.proton.core/push@17.1.0?classifier=sources
+- pkg:maven/me.proton.core/push@17.2.0?classifier=sources
+- pkg:maven/me.proton.core/push@17.2.1?classifier=sources
 - pkg:maven/me.proton.core/push@8.5.0?classifier=sources
 - pkg:maven/me.proton.core/push@9.0.0?classifier=sources
 - pkg:maven/me.proton.core/push@9.0.1?classifier=sources

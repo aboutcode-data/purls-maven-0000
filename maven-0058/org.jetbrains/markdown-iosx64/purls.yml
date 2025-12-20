@@ -11,3 +11,4 @@
 - pkg:maven/org.jetbrains/markdown-iosx64@0.4.1?classifier=sources
 - pkg:maven/org.jetbrains/markdown-iosx64@0.5.0?classifier=sources
 - pkg:maven/org.jetbrains/markdown-iosx64@0.5.1?classifier=sources
+- pkg:maven/org.jetbrains/markdown-iosx64@0.5.2?classifier=sources
