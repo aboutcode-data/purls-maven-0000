@@ -15,7 +15,14 @@
 - pkg:maven/org.ossreviewtoolkit.plugins.commands/config-command@17.0.1?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.commands/config-command@17.1.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.commands/config-command@18.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.commands/config-command@19.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.commands/config-command@19.1.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.commands/config-command@2.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.commands/config-command@20.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.commands/config-command@20.1.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.commands/config-command@21.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.commands/config-command@22.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.commands/config-command@22.1.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.commands/config-command@3.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.commands/config-command@4.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.commands/config-command@5.0.0?classifier=sources

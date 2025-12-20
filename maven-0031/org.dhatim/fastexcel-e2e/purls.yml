@@ -48,3 +48,4 @@
 - pkg:maven/org.dhatim/fastexcel-e2e@0.16.5
 - pkg:maven/org.dhatim/fastexcel-e2e@0.16.6
 - pkg:maven/org.dhatim/fastexcel-e2e@0.17.0
+- pkg:maven/org.dhatim/fastexcel-e2e@0.18.0

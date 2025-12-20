@@ -86,3 +86,9 @@
 - pkg:maven/com.gammarer/aws-secure-vpc-bucket@1.1.8?classifier=sources
 - pkg:maven/com.gammarer/aws-secure-vpc-bucket@1.1.9
 - pkg:maven/com.gammarer/aws-secure-vpc-bucket@1.1.9?classifier=sources
+- pkg:maven/com.gammarer/aws-secure-vpc-bucket@1.2.2
+- pkg:maven/com.gammarer/aws-secure-vpc-bucket@1.2.2?classifier=sources
+- pkg:maven/com.gammarer/aws-secure-vpc-bucket@1.2.3
+- pkg:maven/com.gammarer/aws-secure-vpc-bucket@1.2.3?classifier=sources
+- pkg:maven/com.gammarer/aws-secure-vpc-bucket@1.2.4
+- pkg:maven/com.gammarer/aws-secure-vpc-bucket@1.2.4?classifier=sources

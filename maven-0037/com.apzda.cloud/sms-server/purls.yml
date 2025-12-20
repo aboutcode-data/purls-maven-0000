@@ -1,0 +1,2 @@
+- pkg:maven/com.apzda.cloud/sms-server@1.0.4
+- pkg:maven/com.apzda.cloud/sms-server@1.0.4?classifier=sources

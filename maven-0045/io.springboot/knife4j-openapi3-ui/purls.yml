@@ -2,5 +2,11 @@
 - pkg:maven/io.springboot/knife4j-openapi3-ui@3.0.3.tmp
 - pkg:maven/io.springboot/knife4j-openapi3-ui@3.0.3.tmp?classifier=sources
 - pkg:maven/io.springboot/knife4j-openapi3-ui@3.0.3?classifier=sources
+- pkg:maven/io.springboot/knife4j-openapi3-ui@3.0.4
+- pkg:maven/io.springboot/knife4j-openapi3-ui@3.0.4?classifier=sources
+- pkg:maven/io.springboot/knife4j-openapi3-ui@3.0.5
+- pkg:maven/io.springboot/knife4j-openapi3-ui@3.0.5?classifier=sources
 - pkg:maven/io.springboot/knife4j-openapi3-ui@3.1.0
 - pkg:maven/io.springboot/knife4j-openapi3-ui@3.1.0?classifier=sources
+- pkg:maven/io.springboot/knife4j-openapi3-ui@4.5.0
+- pkg:maven/io.springboot/knife4j-openapi3-ui@4.5.0?classifier=sources

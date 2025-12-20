@@ -1,2 +1,6 @@
+- pkg:maven/org.apache.causeway.extensions/causeway-extensions-layoutloaders-github@2.0.0
 - pkg:maven/org.apache.causeway.extensions/causeway-extensions-layoutloaders-github@2.0.0-RC4
 - pkg:maven/org.apache.causeway.extensions/causeway-extensions-layoutloaders-github@2.0.0-RC4?classifier=sources
+- pkg:maven/org.apache.causeway.extensions/causeway-extensions-layoutloaders-github@2.0.0?classifier=sources
+- pkg:maven/org.apache.causeway.extensions/causeway-extensions-layoutloaders-github@3.0.0
+- pkg:maven/org.apache.causeway.extensions/causeway-extensions-layoutloaders-github@3.0.0?classifier=sources

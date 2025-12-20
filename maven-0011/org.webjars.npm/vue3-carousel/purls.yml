@@ -8,3 +8,4 @@
 - pkg:maven/org.webjars.npm/vue3-carousel@0.3.0?classifier=sources
 - pkg:maven/org.webjars.npm/vue3-carousel@0.3.1
 - pkg:maven/org.webjars.npm/vue3-carousel@0.3.1?classifier=sources
+- pkg:maven/org.webjars.npm/vue3-carousel@0.3.3

@@ -14,3 +14,6 @@
 - pkg:maven/asia.hombre/kyber@0.4.7?classifier=sources
 - pkg:maven/asia.hombre/kyber@0.4.8?classifier=sources
 - pkg:maven/asia.hombre/kyber@0.4.9?classifier=sources
+- pkg:maven/asia.hombre/kyber@0.5.0?classifier=sources
+- pkg:maven/asia.hombre/kyber@0.5.1?classifier=sources
+- pkg:maven/asia.hombre/kyber@0.6.1?classifier=sources

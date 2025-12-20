@@ -1,1 +1,2 @@
 - pkg:maven/com.renaissancerentals/renaissancerentals-api@1.1.4.RELEASE?classifier=sources
+- pkg:maven/com.renaissancerentals/renaissancerentals-api@1.1.5.RELEASE?classifier=sources

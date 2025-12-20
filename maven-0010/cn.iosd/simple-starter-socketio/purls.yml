@@ -1,0 +1,2 @@
+- pkg:maven/cn.iosd/simple-starter-socketio@2024.1.2.0
+- pkg:maven/cn.iosd/simple-starter-socketio@2024.1.2.0?classifier=sources

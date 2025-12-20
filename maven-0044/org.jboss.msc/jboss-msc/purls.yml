@@ -162,3 +162,5 @@
 - pkg:maven/org.jboss.msc/jboss-msc@1.5.2.Final?classifier=sources
 - pkg:maven/org.jboss.msc/jboss-msc@1.5.3.Final?classifier=source-release&type=zip
 - pkg:maven/org.jboss.msc/jboss-msc@1.5.3.Final?classifier=sources
+- pkg:maven/org.jboss.msc/jboss-msc@1.5.4.Final?classifier=source-release&type=zip
+- pkg:maven/org.jboss.msc/jboss-msc@1.5.4.Final?classifier=sources

@@ -116,3 +116,5 @@
 - pkg:maven/com.smartcar.sdk/java-sdk@3.8.0?classifier=sources
 - pkg:maven/com.smartcar.sdk/java-sdk@3.9.0?classifier=sources
 - pkg:maven/com.smartcar.sdk/java-sdk@4.0.0?classifier=sources
+- pkg:maven/com.smartcar.sdk/java-sdk@4.1.0?classifier=sources
+- pkg:maven/com.smartcar.sdk/java-sdk@4.2.0?classifier=sources

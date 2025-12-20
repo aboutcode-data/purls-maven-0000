@@ -4,3 +4,4 @@
 - pkg:maven/org.evomaster/evomaster-ci-utils@1.6.0
 - pkg:maven/org.evomaster/evomaster-ci-utils@1.6.1
 - pkg:maven/org.evomaster/evomaster-ci-utils@2.0.0
+- pkg:maven/org.evomaster/evomaster-ci-utils@3.0.0

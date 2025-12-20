@@ -1,3 +1,5 @@
 - pkg:maven/org.wso2.carbon.extension.identity.authenticator.outbound.linkedin/org.wso2.carbon.extension.identity.authenticator.linkedin.connector@1.0.2
 - pkg:maven/org.wso2.carbon.extension.identity.authenticator.outbound.linkedin/org.wso2.carbon.extension.identity.authenticator.linkedin.connector@1.0.3
 - pkg:maven/org.wso2.carbon.extension.identity.authenticator.outbound.linkedin/org.wso2.carbon.extension.identity.authenticator.linkedin.connector@1.0.3?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.extension.identity.authenticator.outbound.linkedin/org.wso2.carbon.extension.identity.authenticator.linkedin.connector@2.1.0
+- pkg:maven/org.wso2.carbon.extension.identity.authenticator.outbound.linkedin/org.wso2.carbon.extension.identity.authenticator.linkedin.connector@2.1.0?classifier=sources

@@ -1,3 +1,11 @@
+- pkg:maven/com.netflix.atlas_v1/atlas-spring-lwc-events_2.13@1.8.0-rc.10
+- pkg:maven/com.netflix.atlas_v1/atlas-spring-lwc-events_2.13@1.8.0-rc.10?classifier=sources
+- pkg:maven/com.netflix.atlas_v1/atlas-spring-lwc-events_2.13@1.8.0-rc.11
+- pkg:maven/com.netflix.atlas_v1/atlas-spring-lwc-events_2.13@1.8.0-rc.11?classifier=sources
+- pkg:maven/com.netflix.atlas_v1/atlas-spring-lwc-events_2.13@1.8.0-rc.12
+- pkg:maven/com.netflix.atlas_v1/atlas-spring-lwc-events_2.13@1.8.0-rc.12?classifier=sources
+- pkg:maven/com.netflix.atlas_v1/atlas-spring-lwc-events_2.13@1.8.0-rc.13
+- pkg:maven/com.netflix.atlas_v1/atlas-spring-lwc-events_2.13@1.8.0-rc.13?classifier=sources
 - pkg:maven/com.netflix.atlas_v1/atlas-spring-lwc-events_2.13@1.8.0-rc.2
 - pkg:maven/com.netflix.atlas_v1/atlas-spring-lwc-events_2.13@1.8.0-rc.2?classifier=sources
 - pkg:maven/com.netflix.atlas_v1/atlas-spring-lwc-events_2.13@1.8.0-rc.3

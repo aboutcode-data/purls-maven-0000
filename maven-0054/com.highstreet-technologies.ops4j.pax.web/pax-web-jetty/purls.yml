@@ -6,3 +6,4 @@
 - pkg:maven/com.highstreet-technologies.ops4j.pax.web/pax-web-jetty@7.3.16?classifier=sources
 - pkg:maven/com.highstreet-technologies.ops4j.pax.web/pax-web-jetty@7.3.19
 - pkg:maven/com.highstreet-technologies.ops4j.pax.web/pax-web-jetty@7.3.19?classifier=sources
+- pkg:maven/com.highstreet-technologies.ops4j.pax.web/pax-web-jetty@8.0.15

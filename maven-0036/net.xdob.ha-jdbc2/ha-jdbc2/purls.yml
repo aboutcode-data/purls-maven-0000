@@ -64,3 +64,11 @@
 - pkg:maven/net.xdob.ha-jdbc2/ha-jdbc2@3.6.48?classifier=sources
 - pkg:maven/net.xdob.ha-jdbc2/ha-jdbc2@3.6.49
 - pkg:maven/net.xdob.ha-jdbc2/ha-jdbc2@3.6.49?classifier=sources
+- pkg:maven/net.xdob.ha-jdbc2/ha-jdbc2@3.6.50
+- pkg:maven/net.xdob.ha-jdbc2/ha-jdbc2@3.6.50?classifier=sources
+- pkg:maven/net.xdob.ha-jdbc2/ha-jdbc2@3.6.52
+- pkg:maven/net.xdob.ha-jdbc2/ha-jdbc2@3.6.52?classifier=sources
+- pkg:maven/net.xdob.ha-jdbc2/ha-jdbc2@3.6.53
+- pkg:maven/net.xdob.ha-jdbc2/ha-jdbc2@3.6.53?classifier=sources
+- pkg:maven/net.xdob.ha-jdbc2/ha-jdbc2@3.6.54
+- pkg:maven/net.xdob.ha-jdbc2/ha-jdbc2@3.6.54?classifier=sources

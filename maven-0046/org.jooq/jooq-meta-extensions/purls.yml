@@ -203,6 +203,8 @@
 - pkg:maven/org.jooq/jooq-meta-extensions@3.17.21?classifier=sources
 - pkg:maven/org.jooq/jooq-meta-extensions@3.17.22
 - pkg:maven/org.jooq/jooq-meta-extensions@3.17.22?classifier=sources
+- pkg:maven/org.jooq/jooq-meta-extensions@3.17.23
+- pkg:maven/org.jooq/jooq-meta-extensions@3.17.23?classifier=sources
 - pkg:maven/org.jooq/jooq-meta-extensions@3.17.2?classifier=sources
 - pkg:maven/org.jooq/jooq-meta-extensions@3.17.3
 - pkg:maven/org.jooq/jooq-meta-extensions@3.17.3?classifier=sources
@@ -229,6 +231,8 @@
 - pkg:maven/org.jooq/jooq-meta-extensions@3.18.12?classifier=sources
 - pkg:maven/org.jooq/jooq-meta-extensions@3.18.13
 - pkg:maven/org.jooq/jooq-meta-extensions@3.18.13?classifier=sources
+- pkg:maven/org.jooq/jooq-meta-extensions@3.18.14
+- pkg:maven/org.jooq/jooq-meta-extensions@3.18.14?classifier=sources
 - pkg:maven/org.jooq/jooq-meta-extensions@3.18.1?classifier=sources
 - pkg:maven/org.jooq/jooq-meta-extensions@3.18.2
 - pkg:maven/org.jooq/jooq-meta-extensions@3.18.2?classifier=sources
@@ -260,6 +264,8 @@
 - pkg:maven/org.jooq/jooq-meta-extensions@3.19.5?classifier=sources
 - pkg:maven/org.jooq/jooq-meta-extensions@3.19.6
 - pkg:maven/org.jooq/jooq-meta-extensions@3.19.6?classifier=sources
+- pkg:maven/org.jooq/jooq-meta-extensions@3.19.7
+- pkg:maven/org.jooq/jooq-meta-extensions@3.19.7?classifier=sources
 - pkg:maven/org.jooq/jooq-meta-extensions@3.6.0
 - pkg:maven/org.jooq/jooq-meta-extensions@3.6.0?classifier=sources
 - pkg:maven/org.jooq/jooq-meta-extensions@3.6.1

@@ -12,3 +12,5 @@
 - pkg:maven/software.amazon.sns/sns-extended-client@2.0.1?classifier=sources
 - pkg:maven/software.amazon.sns/sns-extended-client@2.0.2
 - pkg:maven/software.amazon.sns/sns-extended-client@2.0.2?classifier=sources
+- pkg:maven/software.amazon.sns/sns-extended-client@2.1.0
+- pkg:maven/software.amazon.sns/sns-extended-client@2.1.0?classifier=sources

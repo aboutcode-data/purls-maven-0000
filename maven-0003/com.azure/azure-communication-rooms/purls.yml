@@ -10,4 +10,5 @@
 - pkg:maven/com.azure/azure-communication-rooms@1.0.6?classifier=sources
 - pkg:maven/com.azure/azure-communication-rooms@1.0.7?classifier=sources
 - pkg:maven/com.azure/azure-communication-rooms@1.0.8?classifier=sources
+- pkg:maven/com.azure/azure-communication-rooms@1.0.9?classifier=sources
 - pkg:maven/com.azure/azure-communication-rooms@1.1.0-beta.1?classifier=sources

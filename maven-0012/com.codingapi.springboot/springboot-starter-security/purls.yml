@@ -1,0 +1,6 @@
+- pkg:maven/com.codingapi.springboot/springboot-starter-security@2.8.0
+- pkg:maven/com.codingapi.springboot/springboot-starter-security@2.8.0?classifier=sources
+- pkg:maven/com.codingapi.springboot/springboot-starter-security@3.2.0
+- pkg:maven/com.codingapi.springboot/springboot-starter-security@3.2.0.dev
+- pkg:maven/com.codingapi.springboot/springboot-starter-security@3.2.0.dev?classifier=sources
+- pkg:maven/com.codingapi.springboot/springboot-starter-security@3.2.0?classifier=sources

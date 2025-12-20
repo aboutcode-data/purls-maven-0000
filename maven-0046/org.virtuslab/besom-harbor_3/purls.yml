@@ -2,3 +2,5 @@
 - pkg:maven/org.virtuslab/besom-harbor_3@3.10.2-core.0.1.0?classifier=sources
 - pkg:maven/org.virtuslab/besom-harbor_3@3.10.6-core.0.2
 - pkg:maven/org.virtuslab/besom-harbor_3@3.10.6-core.0.2?classifier=sources
+- pkg:maven/org.virtuslab/besom-harbor_3@3.10.8-core.0.3
+- pkg:maven/org.virtuslab/besom-harbor_3@3.10.8-core.0.3?classifier=sources

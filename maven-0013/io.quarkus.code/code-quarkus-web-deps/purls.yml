@@ -2,3 +2,13 @@
 - pkg:maven/io.quarkus.code/code-quarkus-web-deps@17
 - pkg:maven/io.quarkus.code/code-quarkus-web-deps@18
 - pkg:maven/io.quarkus.code/code-quarkus-web-deps@18?classifier=sources
+- pkg:maven/io.quarkus.code/code-quarkus-web-deps@19
+- pkg:maven/io.quarkus.code/code-quarkus-web-deps@19?classifier=sources
+- pkg:maven/io.quarkus.code/code-quarkus-web-deps@20
+- pkg:maven/io.quarkus.code/code-quarkus-web-deps@20?classifier=sources
+- pkg:maven/io.quarkus.code/code-quarkus-web-deps@21
+- pkg:maven/io.quarkus.code/code-quarkus-web-deps@21?classifier=sources
+- pkg:maven/io.quarkus.code/code-quarkus-web-deps@22
+- pkg:maven/io.quarkus.code/code-quarkus-web-deps@22?classifier=sources
+- pkg:maven/io.quarkus.code/code-quarkus-web-deps@23
+- pkg:maven/io.quarkus.code/code-quarkus-web-deps@23?classifier=sources

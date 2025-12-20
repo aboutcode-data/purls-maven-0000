@@ -1,4 +1,7 @@
 - pkg:maven/com.metaeffekt.artifact.analysis/ae-tmd-packaging-plugin@0.100.0
+- pkg:maven/com.metaeffekt.artifact.analysis/ae-tmd-packaging-plugin@0.101.0
+- pkg:maven/com.metaeffekt.artifact.analysis/ae-tmd-packaging-plugin@0.102.0
+- pkg:maven/com.metaeffekt.artifact.analysis/ae-tmd-packaging-plugin@0.103.0
 - pkg:maven/com.metaeffekt.artifact.analysis/ae-tmd-packaging-plugin@0.67.0
 - pkg:maven/com.metaeffekt.artifact.analysis/ae-tmd-packaging-plugin@0.68.0
 - pkg:maven/com.metaeffekt.artifact.analysis/ae-tmd-packaging-plugin@0.69.0

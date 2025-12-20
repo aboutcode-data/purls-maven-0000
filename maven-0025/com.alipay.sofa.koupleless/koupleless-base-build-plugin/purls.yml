@@ -1,0 +1,2 @@
+- pkg:maven/com.alipay.sofa.koupleless/koupleless-base-build-plugin@1.0.1
+- pkg:maven/com.alipay.sofa.koupleless/koupleless-base-build-plugin@1.0.1?classifier=sources

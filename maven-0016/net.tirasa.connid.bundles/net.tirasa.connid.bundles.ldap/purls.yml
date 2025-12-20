@@ -20,3 +20,5 @@
 - pkg:maven/net.tirasa.connid.bundles/net.tirasa.connid.bundles.ldap@1.5.7?classifier=sources
 - pkg:maven/net.tirasa.connid.bundles/net.tirasa.connid.bundles.ldap@1.5.8
 - pkg:maven/net.tirasa.connid.bundles/net.tirasa.connid.bundles.ldap@1.5.8?classifier=sources
+- pkg:maven/net.tirasa.connid.bundles/net.tirasa.connid.bundles.ldap@1.5.9
+- pkg:maven/net.tirasa.connid.bundles/net.tirasa.connid.bundles.ldap@1.5.9?classifier=sources

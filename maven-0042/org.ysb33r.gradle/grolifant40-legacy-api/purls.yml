@@ -14,3 +14,4 @@
 - pkg:maven/org.ysb33r.gradle/grolifant40-legacy-api@2.2.2?classifier=sources
 - pkg:maven/org.ysb33r.gradle/grolifant40-legacy-api@2.2.3?classifier=sources
 - pkg:maven/org.ysb33r.gradle/grolifant40-legacy-api@3.0.0?classifier=sources
+- pkg:maven/org.ysb33r.gradle/grolifant40-legacy-api@3.0.1?classifier=sources

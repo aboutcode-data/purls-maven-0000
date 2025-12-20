@@ -4,4 +4,6 @@
 - pkg:maven/it.esinware/simplyws@0.0.2.1.jdk17?classifier=sources
 - pkg:maven/it.esinware/simplyws@0.0.2.2.jdk17?classifier=sources
 - pkg:maven/it.esinware/simplyws@0.0.2.3.jdk17?classifier=sources
+- pkg:maven/it.esinware/simplyws@0.0.2.4.jdk17?classifier=sources
+- pkg:maven/it.esinware/simplyws@0.0.2.5.jdk17?classifier=sources
 - pkg:maven/it.esinware/simplyws@0.0.2.jdk17?classifier=sources

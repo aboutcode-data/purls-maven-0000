@@ -1,3 +1,13 @@
+- pkg:maven/io.github.cs1302uga/cs1302-site-skin@0.1.100
+- pkg:maven/io.github.cs1302uga/cs1302-site-skin@0.1.100?classifier=sources
+- pkg:maven/io.github.cs1302uga/cs1302-site-skin@0.1.101
+- pkg:maven/io.github.cs1302uga/cs1302-site-skin@0.1.101?classifier=sources
+- pkg:maven/io.github.cs1302uga/cs1302-site-skin@0.1.102
+- pkg:maven/io.github.cs1302uga/cs1302-site-skin@0.1.102?classifier=sources
+- pkg:maven/io.github.cs1302uga/cs1302-site-skin@0.1.103
+- pkg:maven/io.github.cs1302uga/cs1302-site-skin@0.1.103?classifier=sources
+- pkg:maven/io.github.cs1302uga/cs1302-site-skin@0.1.104
+- pkg:maven/io.github.cs1302uga/cs1302-site-skin@0.1.104?classifier=sources
 - pkg:maven/io.github.cs1302uga/cs1302-site-skin@0.1.28
 - pkg:maven/io.github.cs1302uga/cs1302-site-skin@0.1.28?classifier=sources
 - pkg:maven/io.github.cs1302uga/cs1302-site-skin@0.1.29
@@ -78,3 +88,9 @@
 - pkg:maven/io.github.cs1302uga/cs1302-site-skin@0.1.92?classifier=sources
 - pkg:maven/io.github.cs1302uga/cs1302-site-skin@0.1.93
 - pkg:maven/io.github.cs1302uga/cs1302-site-skin@0.1.93?classifier=sources
+- pkg:maven/io.github.cs1302uga/cs1302-site-skin@0.1.94
+- pkg:maven/io.github.cs1302uga/cs1302-site-skin@0.1.94?classifier=sources
+- pkg:maven/io.github.cs1302uga/cs1302-site-skin@0.1.95
+- pkg:maven/io.github.cs1302uga/cs1302-site-skin@0.1.95?classifier=sources
+- pkg:maven/io.github.cs1302uga/cs1302-site-skin@0.1.99
+- pkg:maven/io.github.cs1302uga/cs1302-site-skin@0.1.99?classifier=sources

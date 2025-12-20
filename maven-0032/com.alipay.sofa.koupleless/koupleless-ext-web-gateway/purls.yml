@@ -1,0 +1,2 @@
+- pkg:maven/com.alipay.sofa.koupleless/koupleless-ext-web-gateway@1.0.1
+- pkg:maven/com.alipay.sofa.koupleless/koupleless-ext-web-gateway@1.0.1?classifier=sources

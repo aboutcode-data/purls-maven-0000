@@ -16,3 +16,5 @@
 - pkg:maven/com.xianlaocai.quant/quant-data-indicator@XLCQ20231024?classifier=sources
 - pkg:maven/com.xianlaocai.quant/quant-data-indicator@XLCQ20231027
 - pkg:maven/com.xianlaocai.quant/quant-data-indicator@XLCQ20231027?classifier=sources
+- pkg:maven/com.xianlaocai.quant/quant-data-indicator@XLCQ20240406
+- pkg:maven/com.xianlaocai.quant/quant-data-indicator@XLCQ20240406?classifier=sources

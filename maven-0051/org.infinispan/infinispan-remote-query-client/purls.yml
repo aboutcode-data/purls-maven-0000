@@ -82,6 +82,8 @@
 - pkg:maven/org.infinispan/infinispan-remote-query-client@11.0.17.Final?classifier=sources
 - pkg:maven/org.infinispan/infinispan-remote-query-client@11.0.18.Final
 - pkg:maven/org.infinispan/infinispan-remote-query-client@11.0.18.Final?classifier=sources
+- pkg:maven/org.infinispan/infinispan-remote-query-client@11.0.19.Final
+- pkg:maven/org.infinispan/infinispan-remote-query-client@11.0.19.Final?classifier=sources
 - pkg:maven/org.infinispan/infinispan-remote-query-client@11.0.2.Final
 - pkg:maven/org.infinispan/infinispan-remote-query-client@11.0.2.Final?classifier=sources
 - pkg:maven/org.infinispan/infinispan-remote-query-client@11.0.3.Final
@@ -204,6 +206,8 @@
 - pkg:maven/org.infinispan/infinispan-remote-query-client@13.0.20.Final?classifier=sources
 - pkg:maven/org.infinispan/infinispan-remote-query-client@13.0.21.Final
 - pkg:maven/org.infinispan/infinispan-remote-query-client@13.0.21.Final?classifier=sources
+- pkg:maven/org.infinispan/infinispan-remote-query-client@13.0.22.Final
+- pkg:maven/org.infinispan/infinispan-remote-query-client@13.0.22.Final?classifier=sources
 - pkg:maven/org.infinispan/infinispan-remote-query-client@13.0.3.Final
 - pkg:maven/org.infinispan/infinispan-remote-query-client@13.0.3.Final?classifier=sources
 - pkg:maven/org.infinispan/infinispan-remote-query-client@13.0.4.Final
@@ -270,6 +274,10 @@
 - pkg:maven/org.infinispan/infinispan-remote-query-client@14.0.25.Final?classifier=sources
 - pkg:maven/org.infinispan/infinispan-remote-query-client@14.0.26.Final
 - pkg:maven/org.infinispan/infinispan-remote-query-client@14.0.26.Final?classifier=sources
+- pkg:maven/org.infinispan/infinispan-remote-query-client@14.0.27.Final
+- pkg:maven/org.infinispan/infinispan-remote-query-client@14.0.27.Final?classifier=sources
+- pkg:maven/org.infinispan/infinispan-remote-query-client@14.0.28.Final
+- pkg:maven/org.infinispan/infinispan-remote-query-client@14.0.28.Final?classifier=sources
 - pkg:maven/org.infinispan/infinispan-remote-query-client@14.0.3.Final
 - pkg:maven/org.infinispan/infinispan-remote-query-client@14.0.3.Final?classifier=sources
 - pkg:maven/org.infinispan/infinispan-remote-query-client@14.0.4.Final
@@ -308,6 +316,10 @@
 - pkg:maven/org.infinispan/infinispan-remote-query-client@15.0.0.Dev10?classifier=sources
 - pkg:maven/org.infinispan/infinispan-remote-query-client@15.0.0.Final
 - pkg:maven/org.infinispan/infinispan-remote-query-client@15.0.0.Final?classifier=sources
+- pkg:maven/org.infinispan/infinispan-remote-query-client@15.0.1.Final
+- pkg:maven/org.infinispan/infinispan-remote-query-client@15.0.1.Final?classifier=sources
+- pkg:maven/org.infinispan/infinispan-remote-query-client@15.0.2.Final
+- pkg:maven/org.infinispan/infinispan-remote-query-client@15.0.2.Final?classifier=sources
 - pkg:maven/org.infinispan/infinispan-remote-query-client@6.0.0.Alpha4
 - pkg:maven/org.infinispan/infinispan-remote-query-client@6.0.0.Alpha4?classifier=sources
 - pkg:maven/org.infinispan/infinispan-remote-query-client@6.0.0.Beta1

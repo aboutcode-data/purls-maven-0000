@@ -17,3 +17,4 @@
 - pkg:maven/com.moengage/realtime-trigger@2.6.0?classifier=sources
 - pkg:maven/com.moengage/realtime-trigger@2.6.1?classifier=sources
 - pkg:maven/com.moengage/realtime-trigger@3.0.0?classifier=sources
+- pkg:maven/com.moengage/realtime-trigger@3.0.1?classifier=sources

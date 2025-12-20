@@ -20,3 +20,7 @@
 - pkg:maven/com.vmware.pscoe.o11n/o11n-project@2.36.0?classifier=sources
 - pkg:maven/com.vmware.pscoe.o11n/o11n-project@2.37.0
 - pkg:maven/com.vmware.pscoe.o11n/o11n-project@2.37.0?classifier=sources
+- pkg:maven/com.vmware.pscoe.o11n/o11n-project@2.38.0
+- pkg:maven/com.vmware.pscoe.o11n/o11n-project@2.38.0?classifier=sources
+- pkg:maven/com.vmware.pscoe.o11n/o11n-project@2.38.1
+- pkg:maven/com.vmware.pscoe.o11n/o11n-project@2.38.1?classifier=sources

@@ -112,6 +112,7 @@
 - pkg:maven/org.opendaylight.bgpcep/pcep-auto-bandwidth-extension@0.19.7
 - pkg:maven/org.opendaylight.bgpcep/pcep-auto-bandwidth-extension@0.19.7?classifier=sources
 - pkg:maven/org.opendaylight.bgpcep/pcep-auto-bandwidth-extension@0.19.8?classifier=sources
+- pkg:maven/org.opendaylight.bgpcep/pcep-auto-bandwidth-extension@0.19.9?classifier=sources
 - pkg:maven/org.opendaylight.bgpcep/pcep-auto-bandwidth-extension@0.20.0
 - pkg:maven/org.opendaylight.bgpcep/pcep-auto-bandwidth-extension@0.20.0?classifier=sources
 - pkg:maven/org.opendaylight.bgpcep/pcep-auto-bandwidth-extension@0.20.1
@@ -122,9 +123,13 @@
 - pkg:maven/org.opendaylight.bgpcep/pcep-auto-bandwidth-extension@0.20.5?classifier=sources
 - pkg:maven/org.opendaylight.bgpcep/pcep-auto-bandwidth-extension@0.20.6
 - pkg:maven/org.opendaylight.bgpcep/pcep-auto-bandwidth-extension@0.20.6?classifier=sources
+- pkg:maven/org.opendaylight.bgpcep/pcep-auto-bandwidth-extension@0.20.7?classifier=sources
 - pkg:maven/org.opendaylight.bgpcep/pcep-auto-bandwidth-extension@0.21.0?classifier=sources
 - pkg:maven/org.opendaylight.bgpcep/pcep-auto-bandwidth-extension@0.21.1
 - pkg:maven/org.opendaylight.bgpcep/pcep-auto-bandwidth-extension@0.21.1?classifier=sources
+- pkg:maven/org.opendaylight.bgpcep/pcep-auto-bandwidth-extension@0.21.2?classifier=sources
+- pkg:maven/org.opendaylight.bgpcep/pcep-auto-bandwidth-extension@0.21.3?classifier=sources
+- pkg:maven/org.opendaylight.bgpcep/pcep-auto-bandwidth-extension@0.21.4?classifier=sources
 - pkg:maven/org.opendaylight.bgpcep/pcep-auto-bandwidth-extension@0.4.4-Lithium-SR4
 - pkg:maven/org.opendaylight.bgpcep/pcep-auto-bandwidth-extension@0.4.4-Lithium-SR4?classifier=sources
 - pkg:maven/org.opendaylight.bgpcep/pcep-auto-bandwidth-extension@0.5.0-Beryllium

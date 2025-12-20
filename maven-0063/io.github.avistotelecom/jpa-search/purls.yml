@@ -1,0 +1,4 @@
+- pkg:maven/io.github.avistotelecom/jpa-search@0.0.1-jpa2?classifier=sources
+- pkg:maven/io.github.avistotelecom/jpa-search@0.0.1-jpa3?classifier=sources
+- pkg:maven/io.github.avistotelecom/jpa-search@0.0.2-jpa2?classifier=sources
+- pkg:maven/io.github.avistotelecom/jpa-search@0.0.2-jpa3?classifier=sources

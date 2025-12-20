@@ -1,2 +1,4 @@
+- pkg:maven/io.github.koushenhai/laokou-release@2.3.1
 - pkg:maven/io.github.koushenhai/laokou-release@3.0.5-M1
 - pkg:maven/io.github.koushenhai/laokou-release@3.0.5-M2
+- pkg:maven/io.github.koushenhai/laokou-release@3.2.4

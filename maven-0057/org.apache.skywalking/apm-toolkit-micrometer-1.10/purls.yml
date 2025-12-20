@@ -3,3 +3,4 @@
 - pkg:maven/org.apache.skywalking/apm-toolkit-micrometer-1.10@8.16.0
 - pkg:maven/org.apache.skywalking/apm-toolkit-micrometer-1.10@9.0.0
 - pkg:maven/org.apache.skywalking/apm-toolkit-micrometer-1.10@9.1.0
+- pkg:maven/org.apache.skywalking/apm-toolkit-micrometer-1.10@9.2.0

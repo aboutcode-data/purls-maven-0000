@@ -34,6 +34,8 @@
 - pkg:maven/com.juul.kable/core-iosx64@0.29.0?classifier=sources
 - pkg:maven/com.juul.kable/core-iosx64@0.29.1?classifier=sources
 - pkg:maven/com.juul.kable/core-iosx64@0.3.0?classifier=sources
+- pkg:maven/com.juul.kable/core-iosx64@0.30.0?classifier=sources
+- pkg:maven/com.juul.kable/core-iosx64@0.31.0?classifier=sources
 - pkg:maven/com.juul.kable/core-iosx64@0.4.1?classifier=sources
 - pkg:maven/com.juul.kable/core-iosx64@0.5.0?classifier=sources
 - pkg:maven/com.juul.kable/core-iosx64@0.5.1?classifier=sources

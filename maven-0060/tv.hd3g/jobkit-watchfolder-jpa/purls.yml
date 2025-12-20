@@ -34,3 +34,5 @@
 - pkg:maven/tv.hd3g/jobkit-watchfolder-jpa@18.0.2?classifier=sources
 - pkg:maven/tv.hd3g/jobkit-watchfolder-jpa@19.0.0
 - pkg:maven/tv.hd3g/jobkit-watchfolder-jpa@19.0.0?classifier=sources
+- pkg:maven/tv.hd3g/jobkit-watchfolder-jpa@20.0.0
+- pkg:maven/tv.hd3g/jobkit-watchfolder-jpa@20.0.0?classifier=sources

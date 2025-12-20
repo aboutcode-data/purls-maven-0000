@@ -35,3 +35,6 @@
 - pkg:maven/com.io7m.idstore/com.io7m.idstore.documentation@1.0.0-rc0005?classifier=sources
 - pkg:maven/com.io7m.idstore/com.io7m.idstore.documentation@1.0.0-rc0006?classifier=sources
 - pkg:maven/com.io7m.idstore/com.io7m.idstore.documentation@1.0.0?classifier=sources
+- pkg:maven/com.io7m.idstore/com.io7m.idstore.documentation@1.1.0?classifier=sources
+- pkg:maven/com.io7m.idstore/com.io7m.idstore.documentation@1.2.0?classifier=sources
+- pkg:maven/com.io7m.idstore/com.io7m.idstore.documentation@1.2.1?classifier=sources

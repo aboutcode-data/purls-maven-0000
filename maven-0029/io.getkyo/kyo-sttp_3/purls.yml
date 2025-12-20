@@ -86,5 +86,9 @@
 - pkg:maven/io.getkyo/kyo-sttp_3@0.8.8?classifier=sources
 - pkg:maven/io.getkyo/kyo-sttp_3@0.8.9
 - pkg:maven/io.getkyo/kyo-sttp_3@0.8.9?classifier=sources
+- pkg:maven/io.getkyo/kyo-sttp_3@0.9.0
+- pkg:maven/io.getkyo/kyo-sttp_3@0.9.0?classifier=sources
+- pkg:maven/io.getkyo/kyo-sttp_3@0.9.1
+- pkg:maven/io.getkyo/kyo-sttp_3@0.9.1?classifier=sources
 - pkg:maven/io.getkyo/kyo-sttp_3@3.0.7
 - pkg:maven/io.getkyo/kyo-sttp_3@3.0.7?classifier=sources

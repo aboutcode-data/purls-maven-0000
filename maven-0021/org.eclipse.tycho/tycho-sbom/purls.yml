@@ -1,2 +1,4 @@
 - pkg:maven/org.eclipse.tycho/tycho-sbom@4.0.6
 - pkg:maven/org.eclipse.tycho/tycho-sbom@4.0.6?classifier=sources
+- pkg:maven/org.eclipse.tycho/tycho-sbom@4.0.7
+- pkg:maven/org.eclipse.tycho/tycho-sbom@4.0.7?classifier=sources

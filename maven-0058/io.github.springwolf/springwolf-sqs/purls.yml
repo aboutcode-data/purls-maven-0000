@@ -4,3 +4,4 @@
 - pkg:maven/io.github.springwolf/springwolf-sqs@0.17.0?classifier=sources
 - pkg:maven/io.github.springwolf/springwolf-sqs@0.18.0?classifier=sources
 - pkg:maven/io.github.springwolf/springwolf-sqs@1.0.0?classifier=sources
+- pkg:maven/io.github.springwolf/springwolf-sqs@1.1.0?classifier=sources

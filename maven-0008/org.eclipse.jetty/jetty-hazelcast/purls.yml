@@ -138,6 +138,8 @@
 - pkg:maven/org.eclipse.jetty/jetty-hazelcast@12.0.6?classifier=sources
 - pkg:maven/org.eclipse.jetty/jetty-hazelcast@12.0.7
 - pkg:maven/org.eclipse.jetty/jetty-hazelcast@12.0.7?classifier=sources
+- pkg:maven/org.eclipse.jetty/jetty-hazelcast@12.0.8
+- pkg:maven/org.eclipse.jetty/jetty-hazelcast@12.0.8?classifier=sources
 - pkg:maven/org.eclipse.jetty/jetty-hazelcast@9.3.21.M0
 - pkg:maven/org.eclipse.jetty/jetty-hazelcast@9.3.21.M0?classifier=sources
 - pkg:maven/org.eclipse.jetty/jetty-hazelcast@9.3.21.RC0

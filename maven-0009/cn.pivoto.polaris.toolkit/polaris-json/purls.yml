@@ -8,3 +8,5 @@
 - pkg:maven/cn.pivoto.polaris.toolkit/polaris-json@3.1.23?classifier=sources
 - pkg:maven/cn.pivoto.polaris.toolkit/polaris-json@3.1.24
 - pkg:maven/cn.pivoto.polaris.toolkit/polaris-json@3.1.24?classifier=sources
+- pkg:maven/cn.pivoto.polaris.toolkit/polaris-json@3.1.25
+- pkg:maven/cn.pivoto.polaris.toolkit/polaris-json@3.1.25?classifier=sources
