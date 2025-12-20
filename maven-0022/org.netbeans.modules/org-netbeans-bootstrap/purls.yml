@@ -23,4 +23,5 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-bootstrap@RELEASE210?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-bootstrap@RELEASE220?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-bootstrap@RELEASE230?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-bootstrap@RELEASE240?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-bootstrap@RELEASE90?classifier=sources

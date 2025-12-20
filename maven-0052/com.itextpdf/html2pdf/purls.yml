@@ -47,3 +47,4 @@
 - pkg:maven/com.itextpdf/html2pdf@5.0.3?classifier=sources
 - pkg:maven/com.itextpdf/html2pdf@5.0.4?classifier=sources
 - pkg:maven/com.itextpdf/html2pdf@5.0.5?classifier=sources
+- pkg:maven/com.itextpdf/html2pdf@6.0.0?classifier=sources

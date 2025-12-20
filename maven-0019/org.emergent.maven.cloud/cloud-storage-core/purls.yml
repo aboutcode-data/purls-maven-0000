@@ -1,1 +1,2 @@
+- pkg:maven/org.emergent.maven.cloud/cloud-storage-core@3.0.1?classifier=sources
 - pkg:maven/org.emergent.maven.cloud/cloud-storage-core@3.0?classifier=sources

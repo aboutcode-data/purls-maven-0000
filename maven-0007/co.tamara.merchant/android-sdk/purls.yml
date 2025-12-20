@@ -1,0 +1,2 @@
+- pkg:maven/co.tamara.merchant/android-sdk@1.0.3.0?classifier=sources
+- pkg:maven/co.tamara.merchant/android-sdk@1.1.0?classifier=sources

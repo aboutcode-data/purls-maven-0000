@@ -8,5 +8,7 @@
 - pkg:maven/org.eclipse.jdt/org.eclipse.jdt.astview@1.6.150?classifier=sources
 - pkg:maven/org.eclipse.jdt/org.eclipse.jdt.astview@1.6.200
 - pkg:maven/org.eclipse.jdt/org.eclipse.jdt.astview@1.6.200?classifier=sources
+- pkg:maven/org.eclipse.jdt/org.eclipse.jdt.astview@1.6.250
+- pkg:maven/org.eclipse.jdt/org.eclipse.jdt.astview@1.6.250?classifier=sources
 - pkg:maven/org.eclipse.jdt/org.eclipse.jdt.astview@1.6.50
 - pkg:maven/org.eclipse.jdt/org.eclipse.jdt.astview@1.6.50?classifier=sources

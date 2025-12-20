@@ -1,5 +1,7 @@
 - pkg:maven/org.apache.royale.framework/distribution@0.9.10?classifier=src&type=tar.gz
 - pkg:maven/org.apache.royale.framework/distribution@0.9.10?classifier=src&type=zip
+- pkg:maven/org.apache.royale.framework/distribution@0.9.12?classifier=src&type=tar.gz
+- pkg:maven/org.apache.royale.framework/distribution@0.9.12?classifier=src&type=zip
 - pkg:maven/org.apache.royale.framework/distribution@0.9.7?classifier=src&type=tar.gz
 - pkg:maven/org.apache.royale.framework/distribution@0.9.7?classifier=src&type=zip
 - pkg:maven/org.apache.royale.framework/distribution@0.9.8?classifier=src&type=tar.gz

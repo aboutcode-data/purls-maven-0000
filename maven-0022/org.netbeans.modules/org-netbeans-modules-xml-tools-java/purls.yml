@@ -23,4 +23,5 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-xml-tools-java@RELEASE210?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-xml-tools-java@RELEASE220?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-xml-tools-java@RELEASE230?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-xml-tools-java@RELEASE240?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-xml-tools-java@RELEASE90?classifier=sources

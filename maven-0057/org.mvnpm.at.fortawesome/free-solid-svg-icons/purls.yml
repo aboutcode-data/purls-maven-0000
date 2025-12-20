@@ -3,3 +3,6 @@
 - pkg:maven/org.mvnpm.at.fortawesome/free-solid-svg-icons@6.5.1?classifier=sources
 - pkg:maven/org.mvnpm.at.fortawesome/free-solid-svg-icons@6.5.2?classifier=sources
 - pkg:maven/org.mvnpm.at.fortawesome/free-solid-svg-icons@6.6.0?classifier=sources
+- pkg:maven/org.mvnpm.at.fortawesome/free-solid-svg-icons@6.7.0?classifier=sources
+- pkg:maven/org.mvnpm.at.fortawesome/free-solid-svg-icons@6.7.1?classifier=sources
+- pkg:maven/org.mvnpm.at.fortawesome/free-solid-svg-icons@6.7.2?classifier=sources

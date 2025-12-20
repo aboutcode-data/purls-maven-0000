@@ -109,3 +109,6 @@
 - pkg:maven/io.trino/trino-hdfs@462?classifier=sources
 - pkg:maven/io.trino/trino-hdfs@463?classifier=sources
 - pkg:maven/io.trino/trino-hdfs@464?classifier=sources
+- pkg:maven/io.trino/trino-hdfs@465?classifier=sources
+- pkg:maven/io.trino/trino-hdfs@466?classifier=sources
+- pkg:maven/io.trino/trino-hdfs@467?classifier=sources

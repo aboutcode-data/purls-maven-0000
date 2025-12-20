@@ -1,0 +1,2 @@
+- pkg:maven/org.eclipse.platform/org.eclipse.swt.gtk.linux.riscv64@3.128.0
+- pkg:maven/org.eclipse.platform/org.eclipse.swt.gtk.linux.riscv64@3.128.0?classifier=sources

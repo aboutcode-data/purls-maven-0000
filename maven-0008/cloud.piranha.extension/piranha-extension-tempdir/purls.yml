@@ -62,6 +62,10 @@
 - pkg:maven/cloud.piranha.extension/piranha-extension-tempdir@24.1.0?classifier=sources
 - pkg:maven/cloud.piranha.extension/piranha-extension-tempdir@24.10.0
 - pkg:maven/cloud.piranha.extension/piranha-extension-tempdir@24.10.0?classifier=sources
+- pkg:maven/cloud.piranha.extension/piranha-extension-tempdir@24.11.0
+- pkg:maven/cloud.piranha.extension/piranha-extension-tempdir@24.11.0?classifier=sources
+- pkg:maven/cloud.piranha.extension/piranha-extension-tempdir@24.12.0
+- pkg:maven/cloud.piranha.extension/piranha-extension-tempdir@24.12.0?classifier=sources
 - pkg:maven/cloud.piranha.extension/piranha-extension-tempdir@24.2.0
 - pkg:maven/cloud.piranha.extension/piranha-extension-tempdir@24.2.0?classifier=sources
 - pkg:maven/cloud.piranha.extension/piranha-extension-tempdir@24.3.0

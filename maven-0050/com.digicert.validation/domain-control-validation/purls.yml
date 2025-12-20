@@ -1,0 +1,2 @@
+- pkg:maven/com.digicert.validation/domain-control-validation@0.0.2-release?classifier=sources
+- pkg:maven/com.digicert.validation/domain-control-validation@v0.0.1-release?classifier=sources

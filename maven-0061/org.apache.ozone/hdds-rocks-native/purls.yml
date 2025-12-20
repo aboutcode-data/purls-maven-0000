@@ -1,1 +1,2 @@
 - pkg:maven/org.apache.ozone/hdds-rocks-native@1.4.0
+- pkg:maven/org.apache.ozone/hdds-rocks-native@1.4.1

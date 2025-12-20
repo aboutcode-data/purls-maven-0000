@@ -25,3 +25,12 @@
 - pkg:maven/io.github.miamtech/miamCoursesUUI@2.0.3?classifier=sources
 - pkg:maven/io.github.miamtech/miamCoursesUUI@2.0.4?classifier=sources
 - pkg:maven/io.github.miamtech/miamCoursesUUI@2.0.5?classifier=sources
+- pkg:maven/io.github.miamtech/miamCoursesUUI@3.0.0-alpha?classifier=sources
+- pkg:maven/io.github.miamtech/miamCoursesUUI@5.2.1?classifier=sources
+- pkg:maven/io.github.miamtech/miamCoursesUUI@5.2.2-alpha2?classifier=sources
+- pkg:maven/io.github.miamtech/miamCoursesUUI@5.2.2-alpha?classifier=sources
+- pkg:maven/io.github.miamtech/miamCoursesUUI@5.2.3-alpha?classifier=sources
+- pkg:maven/io.github.miamtech/miamCoursesUUI@5.2.3?classifier=sources
+- pkg:maven/io.github.miamtech/miamCoursesUUI@5.3.0-alpha?classifier=sources
+- pkg:maven/io.github.miamtech/miamCoursesUUI@5.3.0?classifier=sources
+- pkg:maven/io.github.miamtech/miamCoursesUUI@5.3.1-alpha?classifier=sources

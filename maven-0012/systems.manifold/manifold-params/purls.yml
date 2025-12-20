@@ -1,0 +1,2 @@
+- pkg:maven/systems.manifold/manifold-params@2024.1.43
+- pkg:maven/systems.manifold/manifold-params@2024.1.43?classifier=sources

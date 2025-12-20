@@ -54,6 +54,13 @@
 - pkg:maven/org.ossreviewtoolkit.plugins.scanners/licensee-scanner@39.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.scanners/licensee-scanner@4.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.scanners/licensee-scanner@40.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.scanners/licensee-scanner@40.0.1?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.scanners/licensee-scanner@41.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.scanners/licensee-scanner@42.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.scanners/licensee-scanner@42.1.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.scanners/licensee-scanner@43.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.scanners/licensee-scanner@43.0.1?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.scanners/licensee-scanner@43.0.2?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.scanners/licensee-scanner@5.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.scanners/licensee-scanner@5.1.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.scanners/licensee-scanner@6.0.0?classifier=sources

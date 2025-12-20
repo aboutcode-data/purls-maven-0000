@@ -16,3 +16,4 @@
 - pkg:maven/co.navdeep/kafkaer@1.4?classifier=sources
 - pkg:maven/co.navdeep/kafkaer@1.5.0?classifier=sources
 - pkg:maven/co.navdeep/kafkaer@1.6.0?classifier=sources
+- pkg:maven/co.navdeep/kafkaer@2.0.0?classifier=sources

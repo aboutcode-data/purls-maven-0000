@@ -30,3 +30,5 @@
 - pkg:maven/io.permazen/permazen-kv-bdb@4.2.0?classifier=sources
 - pkg:maven/io.permazen/permazen-kv-bdb@5.0.0
 - pkg:maven/io.permazen/permazen-kv-bdb@5.0.0?classifier=sources
+- pkg:maven/io.permazen/permazen-kv-bdb@5.1.0
+- pkg:maven/io.permazen/permazen-kv-bdb@5.1.0?classifier=sources

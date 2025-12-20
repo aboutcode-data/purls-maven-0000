@@ -1,0 +1,4 @@
+- pkg:maven/io.foldright/cffu-listenable-future@1.0.0-Alpha29
+- pkg:maven/io.foldright/cffu-listenable-future@1.0.0-Alpha29?classifier=sources
+- pkg:maven/io.foldright/cffu-listenable-future@1.0.0-Alpha30
+- pkg:maven/io.foldright/cffu-listenable-future@1.0.0-Alpha30?classifier=sources

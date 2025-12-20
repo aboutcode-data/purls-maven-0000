@@ -1,3 +1,4 @@
+- pkg:maven/gov.nasa.pds.model/model-ontology@0.0.7
 - pkg:maven/gov.nasa.pds.model/model-ontology@10.0.0
 - pkg:maven/gov.nasa.pds.model/model-ontology@10.1.0
 - pkg:maven/gov.nasa.pds.model/model-ontology@10.1.1
@@ -28,3 +29,5 @@
 - pkg:maven/gov.nasa.pds.model/model-ontology@15.1.0
 - pkg:maven/gov.nasa.pds.model/model-ontology@15.2.0
 - pkg:maven/gov.nasa.pds.model/model-ontology@15.2.1
+- pkg:maven/gov.nasa.pds.model/model-ontology@15.2.2
+- pkg:maven/gov.nasa.pds.model/model-ontology@15.2.3

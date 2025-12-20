@@ -12,6 +12,7 @@
 - pkg:maven/org.webjars.npm/babel__helper-remap-async-to-generator@7.18.9?classifier=sources
 - pkg:maven/org.webjars.npm/babel__helper-remap-async-to-generator@7.21.4-esm.4
 - pkg:maven/org.webjars.npm/babel__helper-remap-async-to-generator@7.21.4-esm.4?classifier=sources
+- pkg:maven/org.webjars.npm/babel__helper-remap-async-to-generator@7.25.9
 - pkg:maven/org.webjars.npm/babel__helper-remap-async-to-generator@7.8.3
 - pkg:maven/org.webjars.npm/babel__helper-remap-async-to-generator@7.8.3?classifier=sources
 - pkg:maven/org.webjars.npm/babel__helper-remap-async-to-generator@8.0.0-alpha.6

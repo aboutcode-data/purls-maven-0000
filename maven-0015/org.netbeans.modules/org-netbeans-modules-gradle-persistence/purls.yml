@@ -22,3 +22,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-gradle-persistence@RELEASE210?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-gradle-persistence@RELEASE220?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-gradle-persistence@RELEASE230?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-gradle-persistence@RELEASE240?classifier=sources

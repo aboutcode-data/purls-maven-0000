@@ -6,3 +6,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-languages-toml@RELEASE210?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-languages-toml@RELEASE220?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-languages-toml@RELEASE230?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-languages-toml@RELEASE240?classifier=sources

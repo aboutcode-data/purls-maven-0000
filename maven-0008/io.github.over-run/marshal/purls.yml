@@ -27,6 +27,9 @@
 - pkg:maven/io.github.over-run/marshal@0.1.0-alpha.33-jdk23?classifier=sources
 - pkg:maven/io.github.over-run/marshal@0.1.0-alpha.34-jdk23?classifier=sources
 - pkg:maven/io.github.over-run/marshal@0.1.0-alpha.35-jdk23?classifier=sources
+- pkg:maven/io.github.over-run/marshal@0.1.0-alpha.36-jdk23?classifier=sources
+- pkg:maven/io.github.over-run/marshal@0.1.0-alpha.37-jdk23?classifier=sources
+- pkg:maven/io.github.over-run/marshal@0.1.0-alpha.38-jdk23?classifier=sources
 - pkg:maven/io.github.over-run/marshal@0.1.0-alpha.3?classifier=sources
 - pkg:maven/io.github.over-run/marshal@0.1.0-alpha.4?classifier=sources
 - pkg:maven/io.github.over-run/marshal@0.1.0-alpha.5?classifier=sources

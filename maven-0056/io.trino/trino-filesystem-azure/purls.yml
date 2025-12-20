@@ -88,3 +88,9 @@
 - pkg:maven/io.trino/trino-filesystem-azure@463?classifier=sources
 - pkg:maven/io.trino/trino-filesystem-azure@464
 - pkg:maven/io.trino/trino-filesystem-azure@464?classifier=sources
+- pkg:maven/io.trino/trino-filesystem-azure@465
+- pkg:maven/io.trino/trino-filesystem-azure@465?classifier=sources
+- pkg:maven/io.trino/trino-filesystem-azure@466
+- pkg:maven/io.trino/trino-filesystem-azure@466?classifier=sources
+- pkg:maven/io.trino/trino-filesystem-azure@467
+- pkg:maven/io.trino/trino-filesystem-azure@467?classifier=sources

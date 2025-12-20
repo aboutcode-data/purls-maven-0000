@@ -1,2 +1,3 @@
 - pkg:maven/com.freeletics.mad/state-machine-wasm-js@0.24.0?classifier=sources
 - pkg:maven/com.freeletics.mad/state-machine-wasm-js@0.29.0?classifier=sources
+- pkg:maven/com.freeletics.mad/state-machine-wasm-js@0.29.1?classifier=sources

@@ -37,3 +37,5 @@
 - pkg:maven/org.octopusden.octopus.octopus-external-systems-clients/gitea-client@2.0.51?classifier=sources
 - pkg:maven/org.octopusden.octopus.octopus-external-systems-clients/gitea-client@2.0.52?classifier=sources
 - pkg:maven/org.octopusden.octopus.octopus-external-systems-clients/gitea-client@2.0.53?classifier=sources
+- pkg:maven/org.octopusden.octopus.octopus-external-systems-clients/gitea-client@2.0.54?classifier=sources
+- pkg:maven/org.octopusden.octopus.octopus-external-systems-clients/gitea-client@2.0.55?classifier=sources

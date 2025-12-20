@@ -1,3 +1,4 @@
 - pkg:maven/io.github.bonede/tree-sitter-kotlin@0.3.1?classifier=sources
 - pkg:maven/io.github.bonede/tree-sitter-kotlin@0.3.6?classifier=sources
+- pkg:maven/io.github.bonede/tree-sitter-kotlin@0.3.8.1?classifier=sources
 - pkg:maven/io.github.bonede/tree-sitter-kotlin@0.3.8?classifier=sources

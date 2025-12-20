@@ -4,3 +4,4 @@
 - pkg:maven/io.github.pinorobotics/jros2services@4.0?classifier=sources
 - pkg:maven/io.github.pinorobotics/jros2services@5.0?classifier=sources
 - pkg:maven/io.github.pinorobotics/jros2services@6.0?classifier=sources
+- pkg:maven/io.github.pinorobotics/jros2services@7.0?classifier=sources

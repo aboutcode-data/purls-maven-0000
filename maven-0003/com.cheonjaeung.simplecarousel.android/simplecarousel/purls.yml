@@ -3,3 +3,4 @@
 - pkg:maven/com.cheonjaeung.simplecarousel.android/simplecarousel@0.2.1?classifier=sources
 - pkg:maven/com.cheonjaeung.simplecarousel.android/simplecarousel@0.2.2?classifier=sources
 - pkg:maven/com.cheonjaeung.simplecarousel.android/simplecarousel@0.3.0?classifier=sources
+- pkg:maven/com.cheonjaeung.simplecarousel.android/simplecarousel@0.4.0?classifier=sources

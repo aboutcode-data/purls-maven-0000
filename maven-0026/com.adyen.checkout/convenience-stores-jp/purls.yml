@@ -11,3 +11,5 @@
 - pkg:maven/com.adyen.checkout/convenience-stores-jp@5.5.0?classifier=sources
 - pkg:maven/com.adyen.checkout/convenience-stores-jp@5.6.0?classifier=sources
 - pkg:maven/com.adyen.checkout/convenience-stores-jp@5.7.0?classifier=sources
+- pkg:maven/com.adyen.checkout/convenience-stores-jp@5.7.1?classifier=sources
+- pkg:maven/com.adyen.checkout/convenience-stores-jp@5.8.0?classifier=sources

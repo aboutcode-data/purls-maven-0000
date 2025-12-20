@@ -2,6 +2,8 @@
 - pkg:maven/com.google.maps/google-maps-routeoptimization@0.1.0?classifier=sources
 - pkg:maven/com.google.maps/google-maps-routeoptimization@0.10.0
 - pkg:maven/com.google.maps/google-maps-routeoptimization@0.10.0?classifier=sources
+- pkg:maven/com.google.maps/google-maps-routeoptimization@0.12.0
+- pkg:maven/com.google.maps/google-maps-routeoptimization@0.12.0?classifier=sources
 - pkg:maven/com.google.maps/google-maps-routeoptimization@0.2.0
 - pkg:maven/com.google.maps/google-maps-routeoptimization@0.2.0?classifier=sources
 - pkg:maven/com.google.maps/google-maps-routeoptimization@0.3.0

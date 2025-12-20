@@ -178,3 +178,7 @@
 - pkg:maven/com.aliyun/alibabacloud-rds20140815@6.0.8?classifier=sources
 - pkg:maven/com.aliyun/alibabacloud-rds20140815@6.0.9
 - pkg:maven/com.aliyun/alibabacloud-rds20140815@6.0.9?classifier=sources
+- pkg:maven/com.aliyun/alibabacloud-rds20140815@7.0.0
+- pkg:maven/com.aliyun/alibabacloud-rds20140815@7.0.0?classifier=sources
+- pkg:maven/com.aliyun/alibabacloud-rds20140815@7.0.1
+- pkg:maven/com.aliyun/alibabacloud-rds20140815@7.0.1?classifier=sources

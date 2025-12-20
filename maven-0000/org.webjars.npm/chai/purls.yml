@@ -10,3 +10,4 @@
 - pkg:maven/org.webjars.npm/chai@4.1.2?classifier=sources
 - pkg:maven/org.webjars.npm/chai@4.2.0
 - pkg:maven/org.webjars.npm/chai@4.2.0?classifier=sources
+- pkg:maven/org.webjars.npm/chai@5.1.2
