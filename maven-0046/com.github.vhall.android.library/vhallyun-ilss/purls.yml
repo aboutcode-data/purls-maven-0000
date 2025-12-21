@@ -26,6 +26,7 @@
 - pkg:maven/com.github.vhall.android.library/vhallyun-ilss@2.5.3?type=aar
 - pkg:maven/com.github.vhall.android.library/vhallyun-ilss@2.5.4?classifier=sources
 - pkg:maven/com.github.vhall.android.library/vhallyun-ilss@2.5.4?type=aar
+- pkg:maven/com.github.vhall.android.library/vhallyun-ilss@2.7.7?classifier=sources
 - pkg:maven/com.github.vhall.android.library/vhallyun-ilss@2.8.0?classifier=sources
 - pkg:maven/com.github.vhall.android.library/vhallyun-ilss@2.8.0?type=aar
 - pkg:maven/com.github.vhall.android.library/vhallyun-ilss@2.8.1.10?classifier=sources
@@ -158,3 +159,4 @@
 - pkg:maven/com.github.vhall.android.library/vhallyun-ilss@3.1.9?classifier=sources
 - pkg:maven/com.github.vhall.android.library/vhallyun-ilss@3.1.9?type=aar
 - pkg:maven/com.github.vhall.android.library/vhallyun-ilss@3.4.0?classifier=sources
+- pkg:maven/com.github.vhall.android.library/vhallyun-ilss@3.4.1?classifier=sources

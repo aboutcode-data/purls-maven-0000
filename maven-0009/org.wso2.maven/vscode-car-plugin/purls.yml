@@ -98,3 +98,5 @@
 - pkg:maven/org.wso2.maven/vscode-car-plugin@5.2.99
 - pkg:maven/org.wso2.maven/vscode-car-plugin@5.2.99?classifier=sources
 - pkg:maven/org.wso2.maven/vscode-car-plugin@5.2.9?classifier=sources
+- pkg:maven/org.wso2.maven/vscode-car-plugin@5.4.12
+- pkg:maven/org.wso2.maven/vscode-car-plugin@5.4.12?classifier=sources

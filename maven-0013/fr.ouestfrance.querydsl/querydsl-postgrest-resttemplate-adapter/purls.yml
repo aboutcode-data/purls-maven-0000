@@ -34,3 +34,4 @@
 - pkg:maven/fr.ouestfrance.querydsl/querydsl-postgrest-resttemplate-adapter@1.4.8
 - pkg:maven/fr.ouestfrance.querydsl/querydsl-postgrest-resttemplate-adapter@1.4.8?classifier=sources
 - pkg:maven/fr.ouestfrance.querydsl/querydsl-postgrest-resttemplate-adapter@1.4.9?classifier=sources
+- pkg:maven/fr.ouestfrance.querydsl/querydsl-postgrest-resttemplate-adapter@2.0.0?classifier=sources

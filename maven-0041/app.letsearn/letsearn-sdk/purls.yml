@@ -1,0 +1,2 @@
+- pkg:maven/app.letsearn/letsearn-sdk@1.0.3?classifier=sources
+- pkg:maven/app.letsearn/letsearn-sdk@1.0.3?type=aar

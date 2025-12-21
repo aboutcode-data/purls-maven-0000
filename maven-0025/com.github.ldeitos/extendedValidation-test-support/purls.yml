@@ -57,4 +57,5 @@
 - pkg:maven/com.github.ldeitos/extendedValidation-test-support@2.0-RC2?classifier=sources
 - pkg:maven/com.github.ldeitos/extendedValidation-test-support@2.0?classifier=sources
 - pkg:maven/com.github.ldeitos/extendedValidation-test-support@3.0
+- pkg:maven/com.github.ldeitos/extendedValidation-test-support@3.0.1?classifier=sources
 - pkg:maven/com.github.ldeitos/extendedValidation-test-support@3.0?classifier=sources

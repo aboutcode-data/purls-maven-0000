@@ -34,3 +34,4 @@
 - pkg:maven/com.xymatic.greenvideo/green-video-sdk@2.0.71?classifier=sources
 - pkg:maven/com.xymatic.greenvideo/green-video-sdk@2.0.72?classifier=sources
 - pkg:maven/com.xymatic.greenvideo/green-video-sdk@2.0.73?classifier=sources
+- pkg:maven/com.xymatic.greenvideo/green-video-sdk@2.0.75?classifier=sources

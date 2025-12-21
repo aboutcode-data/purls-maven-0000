@@ -252,6 +252,7 @@
 - pkg:maven/com.hedera.hashgraph/sdk@2.62.0?classifier=sources
 - pkg:maven/com.hedera.hashgraph/sdk@2.63.0?classifier=sources
 - pkg:maven/com.hedera.hashgraph/sdk@2.64.0?classifier=sources
+- pkg:maven/com.hedera.hashgraph/sdk@2.65.0?classifier=sources
 - pkg:maven/com.hedera.hashgraph/sdk@2.7.0
 - pkg:maven/com.hedera.hashgraph/sdk@2.7.0-beta.1
 - pkg:maven/com.hedera.hashgraph/sdk@2.7.0-beta.1?classifier=sources

@@ -19,3 +19,4 @@
 - pkg:maven/me.hsgamer/topper-spigot-agent-runnable@4.0.0?classifier=sources
 - pkg:maven/me.hsgamer/topper-spigot-agent-runnable@4.1.0?classifier=sources
 - pkg:maven/me.hsgamer/topper-spigot-agent-runnable@4.2.0?classifier=sources
+- pkg:maven/me.hsgamer/topper-spigot-agent-runnable@4.3.0?classifier=sources

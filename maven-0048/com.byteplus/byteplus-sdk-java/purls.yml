@@ -93,6 +93,7 @@
 - pkg:maven/com.byteplus/byteplus-sdk-java@1.1.43?classifier=sources
 - pkg:maven/com.byteplus/byteplus-sdk-java@1.1.44?classifier=sources
 - pkg:maven/com.byteplus/byteplus-sdk-java@1.1.45?classifier=sources
+- pkg:maven/com.byteplus/byteplus-sdk-java@1.1.47?classifier=sources
 - pkg:maven/com.byteplus/byteplus-sdk-java@1.1.4?classifier=sources
 - pkg:maven/com.byteplus/byteplus-sdk-java@1.1.5
 - pkg:maven/com.byteplus/byteplus-sdk-java@1.1.5?classifier=sources

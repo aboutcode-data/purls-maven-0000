@@ -22,6 +22,7 @@
 - pkg:maven/com.ibm.watson/text-to-speech@14.0.2?classifier=sources
 - pkg:maven/com.ibm.watson/text-to-speech@15.0.0?classifier=sources
 - pkg:maven/com.ibm.watson/text-to-speech@16.0.0?classifier=sources
+- pkg:maven/com.ibm.watson/text-to-speech@16.1.0?classifier=sources
 - pkg:maven/com.ibm.watson/text-to-speech@7.0.0
 - pkg:maven/com.ibm.watson/text-to-speech@7.0.0?classifier=sources
 - pkg:maven/com.ibm.watson/text-to-speech@7.1.0

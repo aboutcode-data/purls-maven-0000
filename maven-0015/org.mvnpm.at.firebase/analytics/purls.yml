@@ -1,0 +1,2 @@
+- pkg:maven/org.mvnpm.at.firebase/analytics@0.10.19
+- pkg:maven/org.mvnpm.at.firebase/analytics@0.10.19?classifier=sources

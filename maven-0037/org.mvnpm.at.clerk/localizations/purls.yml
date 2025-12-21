@@ -96,3 +96,9 @@
 - pkg:maven/org.mvnpm.at.clerk/localizations@3.27.2?classifier=sources
 - pkg:maven/org.mvnpm.at.clerk/localizations@3.28.0
 - pkg:maven/org.mvnpm.at.clerk/localizations@3.28.0?classifier=sources
+- pkg:maven/org.mvnpm.at.clerk/localizations@3.28.1
+- pkg:maven/org.mvnpm.at.clerk/localizations@3.28.1?classifier=sources
+- pkg:maven/org.mvnpm.at.clerk/localizations@3.28.3
+- pkg:maven/org.mvnpm.at.clerk/localizations@3.28.3?classifier=sources
+- pkg:maven/org.mvnpm.at.clerk/localizations@3.28.5
+- pkg:maven/org.mvnpm.at.clerk/localizations@3.28.5?classifier=sources

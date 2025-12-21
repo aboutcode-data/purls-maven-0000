@@ -1,2 +1,4 @@
 - pkg:maven/io.github.dfianthdl/dfhdl-platforms_3@0.14.0
 - pkg:maven/io.github.dfianthdl/dfhdl-platforms_3@0.14.0?classifier=sources
+- pkg:maven/io.github.dfianthdl/dfhdl-platforms_3@0.16.0
+- pkg:maven/io.github.dfianthdl/dfhdl-platforms_3@0.16.0?classifier=sources

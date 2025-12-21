@@ -1,0 +1,6 @@
+- pkg:maven/software.amazon.awscdk/cdk-mixins-preview@2.229.0-alpha.0
+- pkg:maven/software.amazon.awscdk/cdk-mixins-preview@2.229.0-alpha.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/cdk-mixins-preview@2.229.1-alpha.0
+- pkg:maven/software.amazon.awscdk/cdk-mixins-preview@2.229.1-alpha.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/cdk-mixins-preview@2.230.0-alpha.0
+- pkg:maven/software.amazon.awscdk/cdk-mixins-preview@2.230.0-alpha.0?classifier=sources

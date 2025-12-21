@@ -90,6 +90,10 @@
 - pkg:maven/com.google.cloud/google-cloud-infra-manager@0.54.0?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-infra-manager@0.55.0
 - pkg:maven/com.google.cloud/google-cloud-infra-manager@0.55.0?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-infra-manager@0.56.0
+- pkg:maven/com.google.cloud/google-cloud-infra-manager@0.56.0?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-infra-manager@0.57.0
+- pkg:maven/com.google.cloud/google-cloud-infra-manager@0.57.0?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-infra-manager@0.6.0
 - pkg:maven/com.google.cloud/google-cloud-infra-manager@0.6.0?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-infra-manager@0.7.0

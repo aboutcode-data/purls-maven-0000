@@ -79,3 +79,7 @@
 - pkg:maven/org.ossreviewtoolkit.plugins/api@71.2.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins/api@71.3.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins/api@71.4.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins/api@71.5.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins/api@72.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins/api@72.0.1?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins/api@72.1.0?classifier=sources

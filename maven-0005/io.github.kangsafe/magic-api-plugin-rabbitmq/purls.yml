@@ -1,0 +1,2 @@
+- pkg:maven/io.github.kangsafe/magic-api-plugin-rabbitmq@2.2.2?classifier=sources
+- pkg:maven/io.github.kangsafe/magic-api-plugin-rabbitmq@2.2.3?classifier=sources

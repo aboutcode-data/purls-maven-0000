@@ -17,6 +17,8 @@
 - pkg:maven/ai.tock/tock-env-tools@24.9.8
 - pkg:maven/ai.tock/tock-env-tools@24.9.8?classifier=sources
 - pkg:maven/ai.tock/tock-env-tools@25.10.0?classifier=sources
+- pkg:maven/ai.tock/tock-env-tools@25.10.1?classifier=sources
+- pkg:maven/ai.tock/tock-env-tools@25.10.2?classifier=sources
 - pkg:maven/ai.tock/tock-env-tools@25.3.0
 - pkg:maven/ai.tock/tock-env-tools@25.3.0?classifier=sources
 - pkg:maven/ai.tock/tock-env-tools@25.3.1

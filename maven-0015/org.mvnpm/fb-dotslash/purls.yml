@@ -1,0 +1,2 @@
+- pkg:maven/org.mvnpm/fb-dotslash@0.5.8
+- pkg:maven/org.mvnpm/fb-dotslash@0.5.8?classifier=sources

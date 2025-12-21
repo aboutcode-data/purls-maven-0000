@@ -30,3 +30,11 @@
 - pkg:maven/io.airlift/mcp@374?classifier=sources
 - pkg:maven/io.airlift/mcp@375?classifier=sources
 - pkg:maven/io.airlift/mcp@376?classifier=sources
+- pkg:maven/io.airlift/mcp@377?classifier=sources
+- pkg:maven/io.airlift/mcp@378?classifier=sources
+- pkg:maven/io.airlift/mcp@379?classifier=sources
+- pkg:maven/io.airlift/mcp@380?classifier=sources
+- pkg:maven/io.airlift/mcp@381?classifier=sources
+- pkg:maven/io.airlift/mcp@382?classifier=sources
+- pkg:maven/io.airlift/mcp@383?classifier=sources
+- pkg:maven/io.airlift/mcp@384?classifier=sources

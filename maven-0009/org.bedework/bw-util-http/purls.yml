@@ -73,3 +73,4 @@
 - pkg:maven/org.bedework/bw-util-http@5.1.6
 - pkg:maven/org.bedework/bw-util-http@5.1.6?classifier=sources
 - pkg:maven/org.bedework/bw-util-http@6.0.0?classifier=sources
+- pkg:maven/org.bedework/bw-util-http@6.1.0?classifier=sources

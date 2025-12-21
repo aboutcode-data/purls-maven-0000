@@ -1,5 +1,11 @@
 - pkg:maven/com.optimetriks.unio.compose/progressbars@0.0.2?classifier=sources
 - pkg:maven/com.optimetriks.unio.compose/progressbars@0.0.3?classifier=sources
+- pkg:maven/com.optimetriks.unio.compose/progressbars@0.1.0?classifier=sources
+- pkg:maven/com.optimetriks.unio.compose/progressbars@0.1.1?classifier=sources
+- pkg:maven/com.optimetriks.unio.compose/progressbars@0.1.2?classifier=sources
+- pkg:maven/com.optimetriks.unio.compose/progressbars@0.1.3?classifier=sources
+- pkg:maven/com.optimetriks.unio.compose/progressbars@1.0.0?classifier=sources
+- pkg:maven/com.optimetriks.unio.compose/progressbars@1.0.1?classifier=sources
 - pkg:maven/com.optimetriks.unio.compose/progressbars@12?classifier=sources
 - pkg:maven/com.optimetriks.unio.compose/progressbars@17?classifier=sources
 - pkg:maven/com.optimetriks.unio.compose/progressbars@18?classifier=sources
@@ -11,6 +17,8 @@
 - pkg:maven/com.optimetriks.unio.compose/progressbars@46?classifier=sources
 - pkg:maven/com.optimetriks.unio.compose/progressbars@4?classifier=sources
 - pkg:maven/com.optimetriks.unio.compose/progressbars@68?classifier=sources
+- pkg:maven/com.optimetriks.unio.compose/progressbars@69.0.0?classifier=sources
+- pkg:maven/com.optimetriks.unio.compose/progressbars@69.0.1?classifier=sources
 - pkg:maven/com.optimetriks.unio.compose/progressbars@6?classifier=sources
 - pkg:maven/com.optimetriks.unio.compose/progressbars@7?classifier=sources
 - pkg:maven/com.optimetriks.unio.compose/progressbars@8?classifier=sources

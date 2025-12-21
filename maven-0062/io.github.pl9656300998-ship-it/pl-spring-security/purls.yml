@@ -2,3 +2,5 @@
 - pkg:maven/io.github.pl9656300998-ship-it/pl-spring-security@0.5?classifier=sources
 - pkg:maven/io.github.pl9656300998-ship-it/pl-spring-security@0.6?classifier=sources
 - pkg:maven/io.github.pl9656300998-ship-it/pl-spring-security@0.7?classifier=sources
+- pkg:maven/io.github.pl9656300998-ship-it/pl-spring-security@0.8?classifier=sources
+- pkg:maven/io.github.pl9656300998-ship-it/pl-spring-security@0.9?classifier=sources

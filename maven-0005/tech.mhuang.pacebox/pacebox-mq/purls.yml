@@ -1,4 +1,5 @@
 - pkg:maven/tech.mhuang.pacebox/pacebox-mq@1.0.0-jdk25?classifier=sources
+- pkg:maven/tech.mhuang.pacebox/pacebox-mq@1.0.1-jdk25?classifier=sources
 - pkg:maven/tech.mhuang.pacebox/pacebox-mq@1.0.2-jdk24?classifier=sources
 - pkg:maven/tech.mhuang.pacebox/pacebox-mq@1.0.3-jdk24?classifier=sources
 - pkg:maven/tech.mhuang.pacebox/pacebox-mq@1.0.4-jdk24?classifier=sources

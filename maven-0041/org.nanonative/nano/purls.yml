@@ -43,3 +43,4 @@
 - pkg:maven/org.nanonative/nano@2025.10.2750922?classifier=sources
 - pkg:maven/org.nanonative/nano@2025.10.2750958?classifier=sources
 - pkg:maven/org.nanonative/nano@2025.11.3131219?classifier=sources
+- pkg:maven/org.nanonative/nano@2025.11.3210637?classifier=sources

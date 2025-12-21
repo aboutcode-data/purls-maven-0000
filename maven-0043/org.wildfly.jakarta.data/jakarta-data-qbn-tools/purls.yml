@@ -1,0 +1,2 @@
+- pkg:maven/org.wildfly.jakarta.data/jakarta-data-qbn-tools@1.0.0?classifier=source-release&type=zip
+- pkg:maven/org.wildfly.jakarta.data/jakarta-data-qbn-tools@1.0.0?classifier=sources

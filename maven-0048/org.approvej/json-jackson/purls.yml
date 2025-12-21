@@ -32,3 +32,4 @@
 - pkg:maven/org.approvej/json-jackson@0.9.6?classifier=sources
 - pkg:maven/org.approvej/json-jackson@0.9.7?classifier=sources
 - pkg:maven/org.approvej/json-jackson@0.9?classifier=sources
+- pkg:maven/org.approvej/json-jackson@1.0-RC1?classifier=sources

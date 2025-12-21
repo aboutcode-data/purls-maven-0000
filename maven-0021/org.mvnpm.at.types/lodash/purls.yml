@@ -11,3 +11,5 @@
 - pkg:maven/org.mvnpm.at.types/lodash@4.17.19?classifier=sources
 - pkg:maven/org.mvnpm.at.types/lodash@4.17.20
 - pkg:maven/org.mvnpm.at.types/lodash@4.17.20?classifier=sources
+- pkg:maven/org.mvnpm.at.types/lodash@4.17.21
+- pkg:maven/org.mvnpm.at.types/lodash@4.17.21?classifier=sources

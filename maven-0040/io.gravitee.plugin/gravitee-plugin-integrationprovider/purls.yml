@@ -2,6 +2,7 @@
 - pkg:maven/io.gravitee.plugin/gravitee-plugin-integrationprovider@3.2.0-alpha.1?classifier=sources
 - pkg:maven/io.gravitee.plugin/gravitee-plugin-integrationprovider@4.1.0
 - pkg:maven/io.gravitee.plugin/gravitee-plugin-integrationprovider@4.1.0?classifier=sources
+- pkg:maven/io.gravitee.plugin/gravitee-plugin-integrationprovider@4.10.0?classifier=sources
 - pkg:maven/io.gravitee.plugin/gravitee-plugin-integrationprovider@4.2.0
 - pkg:maven/io.gravitee.plugin/gravitee-plugin-integrationprovider@4.2.0?classifier=sources
 - pkg:maven/io.gravitee.plugin/gravitee-plugin-integrationprovider@4.2.1
@@ -35,3 +36,4 @@
 - pkg:maven/io.gravitee.plugin/gravitee-plugin-integrationprovider@4.8.0
 - pkg:maven/io.gravitee.plugin/gravitee-plugin-integrationprovider@4.8.0?classifier=sources
 - pkg:maven/io.gravitee.plugin/gravitee-plugin-integrationprovider@4.9.0?classifier=sources
+- pkg:maven/io.gravitee.plugin/gravitee-plugin-integrationprovider@4.9.1?classifier=sources

@@ -162,6 +162,8 @@
 - pkg:maven/io.spinnaker.front50/front50-swift@main-120?classifier=sources
 - pkg:maven/io.spinnaker.front50/front50-swift@main-121?classifier=sources
 - pkg:maven/io.spinnaker.front50/front50-swift@main-122?classifier=sources
+- pkg:maven/io.spinnaker.front50/front50-swift@main-123?classifier=sources
+- pkg:maven/io.spinnaker.front50/front50-swift@main-124?classifier=sources
 - pkg:maven/io.spinnaker.front50/front50-swift@main-12?classifier=sources
 - pkg:maven/io.spinnaker.front50/front50-swift@main-13?classifier=sources
 - pkg:maven/io.spinnaker.front50/front50-swift@main-14?classifier=sources

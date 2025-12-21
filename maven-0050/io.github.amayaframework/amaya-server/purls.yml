@@ -14,3 +14,5 @@
 - pkg:maven/io.github.amayaframework/amaya-server@2.2.0?classifier=sources
 - pkg:maven/io.github.amayaframework/amaya-server@2.3.0?classifier=sources
 - pkg:maven/io.github.amayaframework/amaya-server@2.4.0?classifier=sources
+- pkg:maven/io.github.amayaframework/amaya-server@2.5.0-RC1?classifier=sources
+- pkg:maven/io.github.amayaframework/amaya-server@2.5.0-RC2?classifier=sources

@@ -53,3 +53,4 @@
 - pkg:maven/io.github.shuigedeng/taotao-cloud-starter-zookeeper@2025.09?classifier=sources
 - pkg:maven/io.github.shuigedeng/taotao-cloud-starter-zookeeper@2025.10?classifier=sources
 - pkg:maven/io.github.shuigedeng/taotao-cloud-starter-zookeeper@2025.11?classifier=sources
+- pkg:maven/io.github.shuigedeng/taotao-cloud-starter-zookeeper@2025.12?classifier=sources

@@ -31,6 +31,8 @@
 - pkg:maven/io.github.humbleui/jwm@0.4.2
 - pkg:maven/io.github.humbleui/jwm@0.4.20
 - pkg:maven/io.github.humbleui/jwm@0.4.20?classifier=sources
+- pkg:maven/io.github.humbleui/jwm@0.4.21
+- pkg:maven/io.github.humbleui/jwm@0.4.21?classifier=sources
 - pkg:maven/io.github.humbleui/jwm@0.4.2?classifier=sources
 - pkg:maven/io.github.humbleui/jwm@0.4.3
 - pkg:maven/io.github.humbleui/jwm@0.4.3?classifier=sources

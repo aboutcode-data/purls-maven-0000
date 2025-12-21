@@ -20,3 +20,4 @@
 - pkg:maven/io.github.devaro95.vro/vro-core-androidx@2.0.9-alpha09?classifier=sources
 - pkg:maven/io.github.devaro95.vro/vro-core-androidx@2.0.9-alpha10?classifier=sources
 - pkg:maven/io.github.devaro95.vro/vro-core-androidx@2.0.9-alpha11?classifier=sources
+- pkg:maven/io.github.devaro95.vro/vro-core-androidx@2.0.9-alpha12?classifier=sources

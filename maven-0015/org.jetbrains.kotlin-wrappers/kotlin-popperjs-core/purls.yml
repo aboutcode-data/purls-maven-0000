@@ -94,6 +94,9 @@
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-popperjs-core@2025.10.9-2.11.8?classifier=sources
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-popperjs-core@2025.11.0-2.11.8?classifier=sources
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-popperjs-core@2025.11.1-2.11.8?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-popperjs-core@2025.11.10-2.11.8?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-popperjs-core@2025.11.11-2.11.8?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-popperjs-core@2025.11.12-2.11.8?classifier=sources
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-popperjs-core@2025.11.2-2.11.8?classifier=sources
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-popperjs-core@2025.11.3-2.11.8?classifier=sources
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-popperjs-core@2025.11.4-2.11.8?classifier=sources

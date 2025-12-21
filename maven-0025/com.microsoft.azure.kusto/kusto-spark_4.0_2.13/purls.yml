@@ -1,0 +1,1 @@
+- pkg:maven/com.microsoft.azure.kusto/kusto-spark_4.0_2.13@7.0.1?classifier=sources

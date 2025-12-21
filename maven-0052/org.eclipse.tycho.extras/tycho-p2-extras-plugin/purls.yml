@@ -115,3 +115,4 @@
 - pkg:maven/org.eclipse.tycho.extras/tycho-p2-extras-plugin@4.0.9
 - pkg:maven/org.eclipse.tycho.extras/tycho-p2-extras-plugin@4.0.9?classifier=sources
 - pkg:maven/org.eclipse.tycho.extras/tycho-p2-extras-plugin@5.0.0?classifier=sources
+- pkg:maven/org.eclipse.tycho.extras/tycho-p2-extras-plugin@5.0.1?classifier=sources
