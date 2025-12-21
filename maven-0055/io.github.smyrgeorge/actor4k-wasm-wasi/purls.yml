@@ -2,3 +2,4 @@
 - pkg:maven/io.github.smyrgeorge/actor4k-wasm-wasi@0.54.0?classifier=sources
 - pkg:maven/io.github.smyrgeorge/actor4k-wasm-wasi@0.55.0?classifier=sources
 - pkg:maven/io.github.smyrgeorge/actor4k-wasm-wasi@0.56.0?classifier=sources
+- pkg:maven/io.github.smyrgeorge/actor4k-wasm-wasi@0.60.0?classifier=sources

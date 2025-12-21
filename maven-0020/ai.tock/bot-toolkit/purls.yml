@@ -62,3 +62,6 @@
 - pkg:maven/ai.tock/bot-toolkit@24.9.7
 - pkg:maven/ai.tock/bot-toolkit@24.9.8
 - pkg:maven/ai.tock/bot-toolkit@25.3.0
+- pkg:maven/ai.tock/bot-toolkit@25.3.1
+- pkg:maven/ai.tock/bot-toolkit@25.3.2
+- pkg:maven/ai.tock/bot-toolkit@25.3.3

@@ -26,6 +26,7 @@
 - pkg:maven/com.linked-planet.client/kotlin-insight-client-test-ktor@0.13.9
 - pkg:maven/com.linked-planet.client/kotlin-insight-client-test-ktor@0.14.0
 - pkg:maven/com.linked-planet.client/kotlin-insight-client-test-ktor@0.14.1
+- pkg:maven/com.linked-planet.client/kotlin-insight-client-test-ktor@0.14.10
 - pkg:maven/com.linked-planet.client/kotlin-insight-client-test-ktor@0.14.2
 - pkg:maven/com.linked-planet.client/kotlin-insight-client-test-ktor@0.14.3
 - pkg:maven/com.linked-planet.client/kotlin-insight-client-test-ktor@0.14.5

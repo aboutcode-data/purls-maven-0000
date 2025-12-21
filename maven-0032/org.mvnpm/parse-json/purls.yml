@@ -4,3 +4,4 @@
 - pkg:maven/org.mvnpm/parse-json@7.1.1?classifier=sources
 - pkg:maven/org.mvnpm/parse-json@8.1.0?classifier=sources
 - pkg:maven/org.mvnpm/parse-json@8.2.0?classifier=sources
+- pkg:maven/org.mvnpm/parse-json@8.3.0?classifier=sources

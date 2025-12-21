@@ -14,6 +14,8 @@
 - pkg:maven/org.wicketstuff/async-task-demo@10.3.0?type=war
 - pkg:maven/org.wicketstuff/async-task-demo@10.4.0?classifier=sources
 - pkg:maven/org.wicketstuff/async-task-demo@10.4.0?type=war
+- pkg:maven/org.wicketstuff/async-task-demo@10.5.0?classifier=sources
+- pkg:maven/org.wicketstuff/async-task-demo@10.5.0?type=war
 - pkg:maven/org.wicketstuff/async-task-demo@6.10.0?classifier=sources
 - pkg:maven/org.wicketstuff/async-task-demo@6.10.0?type=war
 - pkg:maven/org.wicketstuff/async-task-demo@6.11.0?classifier=sources

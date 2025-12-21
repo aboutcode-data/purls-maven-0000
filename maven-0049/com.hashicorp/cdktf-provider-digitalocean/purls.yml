@@ -262,6 +262,10 @@
 - pkg:maven/com.hashicorp/cdktf-provider-digitalocean@11.15.2?classifier=sources
 - pkg:maven/com.hashicorp/cdktf-provider-digitalocean@11.16.0
 - pkg:maven/com.hashicorp/cdktf-provider-digitalocean@11.16.0?classifier=sources
+- pkg:maven/com.hashicorp/cdktf-provider-digitalocean@11.17.0
+- pkg:maven/com.hashicorp/cdktf-provider-digitalocean@11.17.0?classifier=sources
+- pkg:maven/com.hashicorp/cdktf-provider-digitalocean@11.18.0
+- pkg:maven/com.hashicorp/cdktf-provider-digitalocean@11.18.0?classifier=sources
 - pkg:maven/com.hashicorp/cdktf-provider-digitalocean@11.2.0
 - pkg:maven/com.hashicorp/cdktf-provider-digitalocean@11.2.0?classifier=sources
 - pkg:maven/com.hashicorp/cdktf-provider-digitalocean@11.3.0

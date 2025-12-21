@@ -1,0 +1,2 @@
+- pkg:maven/ch.reportingsoft.birt/eclipse-core-runtime@3.32.0
+- pkg:maven/ch.reportingsoft.birt/eclipse-core-runtime@3.32.0?classifier=sources

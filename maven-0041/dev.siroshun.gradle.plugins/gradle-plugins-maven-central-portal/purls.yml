@@ -1,0 +1,2 @@
+- pkg:maven/dev.siroshun.gradle.plugins/gradle-plugins-maven-central-portal@1.0.0?classifier=sources
+- pkg:maven/dev.siroshun.gradle.plugins/gradle-plugins-maven-central-portal@1.0.1?classifier=sources

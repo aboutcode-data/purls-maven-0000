@@ -82,3 +82,5 @@
 - pkg:maven/org.openurp.edu/openurp-edu-core@0.3.6?classifier=sources
 - pkg:maven/org.openurp.edu/openurp-edu-core@0.3.7
 - pkg:maven/org.openurp.edu/openurp-edu-core@0.3.7?classifier=sources
+- pkg:maven/org.openurp.edu/openurp-edu-core@0.3.8
+- pkg:maven/org.openurp.edu/openurp-edu-core@0.3.8?classifier=sources

@@ -20,3 +20,5 @@
 - pkg:maven/com.wz7982/sqala-query_3@0.2.29?classifier=sources
 - pkg:maven/com.wz7982/sqala-query_3@0.2.30
 - pkg:maven/com.wz7982/sqala-query_3@0.2.30?classifier=sources
+- pkg:maven/com.wz7982/sqala-query_3@0.2.31
+- pkg:maven/com.wz7982/sqala-query_3@0.2.31?classifier=sources

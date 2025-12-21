@@ -718,6 +718,12 @@
 - pkg:maven/com.google.apis/google-api-services-storage@v1-rev20250224-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-storage@v1-rev20250312-2.0.0
 - pkg:maven/com.google.apis/google-api-services-storage@v1-rev20250312-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-storage@v1-rev20250416-2.0.0
+- pkg:maven/com.google.apis/google-api-services-storage@v1-rev20250416-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-storage@v1-rev20250420-2.0.0
+- pkg:maven/com.google.apis/google-api-services-storage@v1-rev20250420-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-storage@v1-rev20250424-2.0.0
+- pkg:maven/com.google.apis/google-api-services-storage@v1-rev20250424-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-storage@v1-rev22-1.15.0-rc
 - pkg:maven/com.google.apis/google-api-services-storage@v1-rev22-1.15.0-rc?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-storage@v1-rev22-1.16.0-rc

@@ -22,3 +22,11 @@
 - pkg:maven/cn.xbatis/xbatis-spring-boot-starter@1.8.5-M6?classifier=sources
 - pkg:maven/cn.xbatis/xbatis-spring-boot-starter@1.8.5-spring-boot3?classifier=sources
 - pkg:maven/cn.xbatis/xbatis-spring-boot-starter@1.8.5?classifier=sources
+- pkg:maven/cn.xbatis/xbatis-spring-boot-starter@1.8.6-M1-spring-boot3?classifier=sources
+- pkg:maven/cn.xbatis/xbatis-spring-boot-starter@1.8.6-M1?classifier=sources
+- pkg:maven/cn.xbatis/xbatis-spring-boot-starter@1.8.6-M2-spring-boot3?classifier=sources
+- pkg:maven/cn.xbatis/xbatis-spring-boot-starter@1.8.6-M2?classifier=sources
+- pkg:maven/cn.xbatis/xbatis-spring-boot-starter@1.8.6-M3-spring-boot3?classifier=sources
+- pkg:maven/cn.xbatis/xbatis-spring-boot-starter@1.8.6-M3?classifier=sources
+- pkg:maven/cn.xbatis/xbatis-spring-boot-starter@1.8.6-spring-boot3?classifier=sources
+- pkg:maven/cn.xbatis/xbatis-spring-boot-starter@1.8.6?classifier=sources

@@ -1,3 +1,5 @@
 - pkg:maven/com.mosek/mosek@11.0.13?classifier=sources
+- pkg:maven/com.mosek/mosek@11.0.16?classifier=sources
+- pkg:maven/com.mosek/mosek@11.0.19?classifier=sources
 - pkg:maven/com.mosek/mosek@11.0.8?classifier=sources
 - pkg:maven/com.mosek/mosek@11.1.0?classifier=sources

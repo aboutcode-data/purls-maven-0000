@@ -5,3 +5,5 @@
 - pkg:maven/org.opennms.alec.engine/org.opennms.alec.engine.itest@2.1.1-ALPHA
 - pkg:maven/org.opennms.alec.engine/org.opennms.alec.engine.itest@2.1.2-ALPHA
 - pkg:maven/org.opennms.alec.engine/org.opennms.alec.engine.itest@3.0.1
+- pkg:maven/org.opennms.alec.engine/org.opennms.alec.engine.itest@3.0.2
+- pkg:maven/org.opennms.alec.engine/org.opennms.alec.engine.itest@3.0.3

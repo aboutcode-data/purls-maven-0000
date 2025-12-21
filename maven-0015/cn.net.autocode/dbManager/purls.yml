@@ -1,3 +1,5 @@
 - pkg:maven/cn.net.autocode/dbManager@3.0.0?classifier=sources
 - pkg:maven/cn.net.autocode/dbManager@3.5.0?classifier=sources
 - pkg:maven/cn.net.autocode/dbManager@3.5.1?classifier=sources
+- pkg:maven/cn.net.autocode/dbManager@3.5.2?classifier=sources
+- pkg:maven/cn.net.autocode/dbManager@3.5.3?classifier=sources

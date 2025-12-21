@@ -1,1 +1,4 @@
 - pkg:maven/io.exoquery/controller-jdbc-jvm@2.0.0?classifier=sources
+- pkg:maven/io.exoquery/controller-jdbc-jvm@3.0.0?classifier=sources
+- pkg:maven/io.exoquery/controller-jdbc-jvm@3.1.0?classifier=sources
+- pkg:maven/io.exoquery/controller-jdbc-jvm@3.2.0?classifier=sources

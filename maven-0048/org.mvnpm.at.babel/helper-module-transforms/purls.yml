@@ -6,3 +6,5 @@
 - pkg:maven/org.mvnpm.at.babel/helper-module-transforms@7.23.0?classifier=sources
 - pkg:maven/org.mvnpm.at.babel/helper-module-transforms@7.23.3?classifier=sources
 - pkg:maven/org.mvnpm.at.babel/helper-module-transforms@7.26.0?classifier=sources
+- pkg:maven/org.mvnpm.at.babel/helper-module-transforms@7.27.1
+- pkg:maven/org.mvnpm.at.babel/helper-module-transforms@7.27.1?classifier=sources

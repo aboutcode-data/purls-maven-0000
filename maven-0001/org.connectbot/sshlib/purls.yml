@@ -7,5 +7,7 @@
 - pkg:maven/org.connectbot/sshlib@2.2.21?classifier=sources
 - pkg:maven/org.connectbot/sshlib@2.2.22?classifier=sources
 - pkg:maven/org.connectbot/sshlib@2.2.23?classifier=sources
+- pkg:maven/org.connectbot/sshlib@2.2.24?classifier=sources
+- pkg:maven/org.connectbot/sshlib@2.2.25?classifier=sources
 - pkg:maven/org.connectbot/sshlib@2.2.3
 - pkg:maven/org.connectbot/sshlib@2.2.3?classifier=sources

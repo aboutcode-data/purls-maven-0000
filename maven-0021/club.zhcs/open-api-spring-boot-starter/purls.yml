@@ -82,3 +82,4 @@
 - pkg:maven/club.zhcs/open-api-spring-boot-starter@3.4.2?classifier=sources
 - pkg:maven/club.zhcs/open-api-spring-boot-starter@3.4.3?classifier=sources
 - pkg:maven/club.zhcs/open-api-spring-boot-starter@3.4.4?classifier=sources
+- pkg:maven/club.zhcs/open-api-spring-boot-starter@3.4.5?classifier=sources

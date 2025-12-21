@@ -1,5 +1,7 @@
 - pkg:maven/org.apache.lucene/lucene-analysis-stempel@10.0.0?classifier=sources
 - pkg:maven/org.apache.lucene/lucene-analysis-stempel@10.1.0?classifier=sources
+- pkg:maven/org.apache.lucene/lucene-analysis-stempel@10.2.0?classifier=sources
+- pkg:maven/org.apache.lucene/lucene-analysis-stempel@10.2.1?classifier=sources
 - pkg:maven/org.apache.lucene/lucene-analysis-stempel@9.0.0
 - pkg:maven/org.apache.lucene/lucene-analysis-stempel@9.0.0?classifier=sources
 - pkg:maven/org.apache.lucene/lucene-analysis-stempel@9.1.0

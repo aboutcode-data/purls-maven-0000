@@ -364,6 +364,14 @@
 - pkg:maven/com.hashicorp/cdktf-provider-spotinst@13.50.0?classifier=sources
 - pkg:maven/com.hashicorp/cdktf-provider-spotinst@13.50.1
 - pkg:maven/com.hashicorp/cdktf-provider-spotinst@13.50.1?classifier=sources
+- pkg:maven/com.hashicorp/cdktf-provider-spotinst@13.50.2
+- pkg:maven/com.hashicorp/cdktf-provider-spotinst@13.50.2?classifier=sources
+- pkg:maven/com.hashicorp/cdktf-provider-spotinst@13.50.3
+- pkg:maven/com.hashicorp/cdktf-provider-spotinst@13.50.3?classifier=sources
+- pkg:maven/com.hashicorp/cdktf-provider-spotinst@13.51.0
+- pkg:maven/com.hashicorp/cdktf-provider-spotinst@13.51.0?classifier=sources
+- pkg:maven/com.hashicorp/cdktf-provider-spotinst@13.52.0
+- pkg:maven/com.hashicorp/cdktf-provider-spotinst@13.52.0?classifier=sources
 - pkg:maven/com.hashicorp/cdktf-provider-spotinst@13.6.0
 - pkg:maven/com.hashicorp/cdktf-provider-spotinst@13.6.0?classifier=sources
 - pkg:maven/com.hashicorp/cdktf-provider-spotinst@13.7.0

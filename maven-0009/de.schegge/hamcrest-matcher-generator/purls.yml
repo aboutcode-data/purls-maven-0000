@@ -1,2 +1,4 @@
 - pkg:maven/de.schegge/hamcrest-matcher-generator@1.0.0
 - pkg:maven/de.schegge/hamcrest-matcher-generator@1.0.0?classifier=sources
+- pkg:maven/de.schegge/hamcrest-matcher-generator@1.1.0
+- pkg:maven/de.schegge/hamcrest-matcher-generator@1.1.0?classifier=sources

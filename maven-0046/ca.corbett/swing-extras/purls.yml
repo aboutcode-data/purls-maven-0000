@@ -1,2 +1,6 @@
 - pkg:maven/ca.corbett/swing-extras@1.9.0?classifier=sources
 - pkg:maven/ca.corbett/swing-extras@1.9.1?classifier=sources
+- pkg:maven/ca.corbett/swing-extras@1.9.2?classifier=sources
+- pkg:maven/ca.corbett/swing-extras@1.9.3?classifier=sources
+- pkg:maven/ca.corbett/swing-extras@1.9.4?classifier=sources
+- pkg:maven/ca.corbett/swing-extras@2.0.0?classifier=sources

@@ -15,6 +15,7 @@
 - pkg:maven/io.github.mfvanek/pg-index-health-test-starter@0.14.3?classifier=sources
 - pkg:maven/io.github.mfvanek/pg-index-health-test-starter@0.14.4?classifier=sources
 - pkg:maven/io.github.mfvanek/pg-index-health-test-starter@0.14.5?classifier=sources
+- pkg:maven/io.github.mfvanek/pg-index-health-test-starter@0.14.6?classifier=sources
 - pkg:maven/io.github.mfvanek/pg-index-health-test-starter@0.3.1.1?classifier=sources
 - pkg:maven/io.github.mfvanek/pg-index-health-test-starter@0.3.1.2?classifier=sources
 - pkg:maven/io.github.mfvanek/pg-index-health-test-starter@0.3.1?classifier=sources

@@ -98,3 +98,5 @@
 - pkg:maven/me.proton.core/key-transparency-domain@30.4.3?classifier=sources
 - pkg:maven/me.proton.core/key-transparency-domain@30.4.4?classifier=sources
 - pkg:maven/me.proton.core/key-transparency-domain@31.0.0?classifier=sources
+- pkg:maven/me.proton.core/key-transparency-domain@32.0.0?classifier=sources
+- pkg:maven/me.proton.core/key-transparency-domain@32.0.1?classifier=sources

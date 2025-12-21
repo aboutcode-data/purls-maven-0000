@@ -1,0 +1,2 @@
+- pkg:maven/dev.langchain4j/langchain4j-openrewrite-recipes@1.0.0-rc1
+- pkg:maven/dev.langchain4j/langchain4j-openrewrite-recipes@1.0.0-rc1?classifier=sources

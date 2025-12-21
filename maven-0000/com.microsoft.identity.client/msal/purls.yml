@@ -1,3 +1,5 @@
+- pkg:maven/com.microsoft.identity.client/msal@0.0.1-jeffrey-test?classifier=sources
+- pkg:maven/com.microsoft.identity.client/msal@0.0.1-jeffrey-test?type=aar
 - pkg:maven/com.microsoft.identity.client/msal@0.1.0?classifier=sources
 - pkg:maven/com.microsoft.identity.client/msal@0.1.0?type=aar
 - pkg:maven/com.microsoft.identity.client/msal@0.1.1?classifier=sources
@@ -156,3 +158,5 @@
 - pkg:maven/com.microsoft.identity.client/msal@5.8.3?type=aar
 - pkg:maven/com.microsoft.identity.client/msal@5.9.0?classifier=sources
 - pkg:maven/com.microsoft.identity.client/msal@5.9.0?type=aar
+- pkg:maven/com.microsoft.identity.client/msal@6.0.0?classifier=sources
+- pkg:maven/com.microsoft.identity.client/msal@6.0.0?type=aar

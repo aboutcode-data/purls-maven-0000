@@ -1,1 +1,2 @@
 - pkg:maven/com.wanzl/hybridlocsdk@1.0.0?classifier=sources
+- pkg:maven/com.wanzl/hybridlocsdk@1.1.0?classifier=sources

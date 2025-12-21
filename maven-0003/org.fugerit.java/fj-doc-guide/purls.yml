@@ -26,6 +26,12 @@
 - pkg:maven/org.fugerit.java/fj-doc-guide@8.12.5
 - pkg:maven/org.fugerit.java/fj-doc-guide@8.12.6
 - pkg:maven/org.fugerit.java/fj-doc-guide@8.12.7
+- pkg:maven/org.fugerit.java/fj-doc-guide@8.12.8
+- pkg:maven/org.fugerit.java/fj-doc-guide@8.13.0
+- pkg:maven/org.fugerit.java/fj-doc-guide@8.13.1
+- pkg:maven/org.fugerit.java/fj-doc-guide@8.13.3
+- pkg:maven/org.fugerit.java/fj-doc-guide@8.13.4
+- pkg:maven/org.fugerit.java/fj-doc-guide@8.13.5
 - pkg:maven/org.fugerit.java/fj-doc-guide@8.9.0
 - pkg:maven/org.fugerit.java/fj-doc-guide@8.9.1
 - pkg:maven/org.fugerit.java/fj-doc-guide@8.9.2
