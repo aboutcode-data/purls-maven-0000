@@ -24,3 +24,4 @@
 - pkg:maven/io.alapierre.crypto/cipher@1.7?classifier=sources
 - pkg:maven/io.alapierre.crypto/cipher@1.9
 - pkg:maven/io.alapierre.crypto/cipher@1.9?classifier=sources
+- pkg:maven/io.alapierre.crypto/cipher@2.0.3?classifier=sources

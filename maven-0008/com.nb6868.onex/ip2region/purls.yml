@@ -132,3 +132,6 @@
 - pkg:maven/com.nb6868.onex/ip2region@4.5.91?classifier=sources
 - pkg:maven/com.nb6868.onex/ip2region@4.5.92?classifier=sources
 - pkg:maven/com.nb6868.onex/ip2region@4.5.93?classifier=sources
+- pkg:maven/com.nb6868.onex/ip2region@4.5.94?classifier=sources
+- pkg:maven/com.nb6868.onex/ip2region@4.5.95?classifier=sources
+- pkg:maven/com.nb6868.onex/ip2region@4.5.96?classifier=sources

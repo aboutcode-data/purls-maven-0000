@@ -179,3 +179,4 @@
 - pkg:maven/org.telegram/telegrambots-meta@9.0.0
 - pkg:maven/org.telegram/telegrambots-meta@9.0.0?classifier=sources
 - pkg:maven/org.telegram/telegrambots-meta@9.1.0?classifier=sources
+- pkg:maven/org.telegram/telegrambots-meta@9.2.0?classifier=sources

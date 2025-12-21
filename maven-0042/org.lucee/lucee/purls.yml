@@ -305,3 +305,4 @@
 - pkg:maven/org.lucee/lucee@7.0.0.346-RC?classifier=sources
 - pkg:maven/org.lucee/lucee@7.0.0.380-RC?classifier=sources
 - pkg:maven/org.lucee/lucee@7.0.0.388-RC?classifier=sources
+- pkg:maven/org.lucee/lucee@7.0.0.392-RC?classifier=sources

@@ -2,4 +2,5 @@
 - pkg:maven/io.github.ywx001/beidou-grid-codec@1.0.02?classifier=sources
 - pkg:maven/io.github.ywx001/beidou-grid-codec@1.0.03?classifier=sources
 - pkg:maven/io.github.ywx001/beidou-grid-codec@1.0.04?classifier=sources
+- pkg:maven/io.github.ywx001/beidou-grid-codec@1.0.05?classifier=sources
 - pkg:maven/io.github.ywx001/beidou-grid-codec@1.0.0?classifier=sources

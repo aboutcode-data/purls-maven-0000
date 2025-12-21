@@ -488,3 +488,9 @@
 - pkg:maven/io.airlift/jaxrs@361?classifier=sources
 - pkg:maven/io.airlift/jaxrs@362?classifier=sources
 - pkg:maven/io.airlift/jaxrs@363?classifier=sources
+- pkg:maven/io.airlift/jaxrs@364?classifier=sources
+- pkg:maven/io.airlift/jaxrs@365?classifier=sources
+- pkg:maven/io.airlift/jaxrs@366?classifier=sources
+- pkg:maven/io.airlift/jaxrs@367?classifier=sources
+- pkg:maven/io.airlift/jaxrs@368?classifier=sources
+- pkg:maven/io.airlift/jaxrs@369?classifier=sources

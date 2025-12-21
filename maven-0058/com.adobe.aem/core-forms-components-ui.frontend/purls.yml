@@ -136,6 +136,7 @@
 - pkg:maven/com.adobe.aem/core-forms-components-ui.frontend@3.0.12
 - pkg:maven/com.adobe.aem/core-forms-components-ui.frontend@3.0.120
 - pkg:maven/com.adobe.aem/core-forms-components-ui.frontend@3.0.122
+- pkg:maven/com.adobe.aem/core-forms-components-ui.frontend@3.0.124
 - pkg:maven/com.adobe.aem/core-forms-components-ui.frontend@3.0.14
 - pkg:maven/com.adobe.aem/core-forms-components-ui.frontend@3.0.16
 - pkg:maven/com.adobe.aem/core-forms-components-ui.frontend@3.0.18

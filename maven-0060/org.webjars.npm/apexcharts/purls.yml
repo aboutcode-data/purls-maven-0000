@@ -41,3 +41,4 @@
 - pkg:maven/org.webjars.npm/apexcharts@4.4.0
 - pkg:maven/org.webjars.npm/apexcharts@4.5.0
 - pkg:maven/org.webjars.npm/apexcharts@4.7.0
+- pkg:maven/org.webjars.npm/apexcharts@5.3.5

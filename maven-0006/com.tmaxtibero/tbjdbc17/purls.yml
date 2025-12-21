@@ -1,0 +1,2 @@
+- pkg:maven/com.tmaxtibero/tbjdbc17@7.2.4
+- pkg:maven/com.tmaxtibero/tbjdbc17@7.2.4?classifier=sources

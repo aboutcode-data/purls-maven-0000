@@ -29,3 +29,4 @@
 - pkg:maven/ai.tock/tock-env-tools@25.3.4?classifier=sources
 - pkg:maven/ai.tock/tock-env-tools@25.3.9?classifier=sources
 - pkg:maven/ai.tock/tock-env-tools@25.9.0?classifier=sources
+- pkg:maven/ai.tock/tock-env-tools@25.9.1?classifier=sources

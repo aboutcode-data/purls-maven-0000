@@ -1,0 +1,2 @@
+- pkg:maven/org.mvnpm.at.nextcloud/logger@3.0.2
+- pkg:maven/org.mvnpm.at.nextcloud/logger@3.0.2?classifier=sources

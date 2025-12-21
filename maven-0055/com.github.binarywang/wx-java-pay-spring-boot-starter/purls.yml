@@ -323,6 +323,9 @@
 - pkg:maven/com.github.binarywang/wx-java-pay-spring-boot-starter@4.7.7-20250924.214403?classifier=sources
 - pkg:maven/com.github.binarywang/wx-java-pay-spring-boot-starter@4.7.7.B?classifier=sources
 - pkg:maven/com.github.binarywang/wx-java-pay-spring-boot-starter@4.7.8-20250927.171143?classifier=sources
+- pkg:maven/com.github.binarywang/wx-java-pay-spring-boot-starter@4.7.8-20251004.013259?classifier=sources
+- pkg:maven/com.github.binarywang/wx-java-pay-spring-boot-starter@4.7.8-20251004.013948?classifier=sources
+- pkg:maven/com.github.binarywang/wx-java-pay-spring-boot-starter@4.7.8-20251004.014820?classifier=sources
 - pkg:maven/com.github.binarywang/wx-java-pay-spring-boot-starter@4.7.8.B?classifier=sources
 - pkg:maven/com.github.binarywang/wx-java-pay-spring-boot-starter@tmp-build-20250512.032409
 - pkg:maven/com.github.binarywang/wx-java-pay-spring-boot-starter@tmp-build-20250512.032409?classifier=sources

@@ -231,6 +231,13 @@
 - pkg:maven/com.regnosys.rosetta/rosetta-maven-plugin@9.65.3?classifier=sources
 - pkg:maven/com.regnosys.rosetta/rosetta-maven-plugin@9.65.4?classifier=sources
 - pkg:maven/com.regnosys.rosetta/rosetta-maven-plugin@9.65.5?classifier=sources
+- pkg:maven/com.regnosys.rosetta/rosetta-maven-plugin@9.66.0?classifier=sources
+- pkg:maven/com.regnosys.rosetta/rosetta-maven-plugin@9.66.1?classifier=sources
+- pkg:maven/com.regnosys.rosetta/rosetta-maven-plugin@9.67.5?classifier=sources
+- pkg:maven/com.regnosys.rosetta/rosetta-maven-plugin@9.67.6?classifier=sources
+- pkg:maven/com.regnosys.rosetta/rosetta-maven-plugin@9.67.7?classifier=sources
+- pkg:maven/com.regnosys.rosetta/rosetta-maven-plugin@9.67.8?classifier=sources
+- pkg:maven/com.regnosys.rosetta/rosetta-maven-plugin@9.67.9?classifier=sources
 - pkg:maven/com.regnosys.rosetta/rosetta-maven-plugin@9.7.0
 - pkg:maven/com.regnosys.rosetta/rosetta-maven-plugin@9.7.0?classifier=sources
 - pkg:maven/com.regnosys.rosetta/rosetta-maven-plugin@9.8.0

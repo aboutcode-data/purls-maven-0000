@@ -265,3 +265,4 @@
 - pkg:maven/us.fatehi/schemacrawler-tools@16.9.4?classifier=sources
 - pkg:maven/us.fatehi/schemacrawler-tools@16.9.5
 - pkg:maven/us.fatehi/schemacrawler-tools@16.9.5?classifier=sources
+- pkg:maven/us.fatehi/schemacrawler-tools@17.1.1?classifier=sources

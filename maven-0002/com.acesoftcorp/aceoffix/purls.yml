@@ -14,3 +14,7 @@
 - pkg:maven/com.acesoftcorp/aceoffix@7.1.1.2-javax
 - pkg:maven/com.acesoftcorp/aceoffix@7.1.1.2-javax?classifier=sources
 - pkg:maven/com.acesoftcorp/aceoffix@7.1.1.2?classifier=sources
+- pkg:maven/com.acesoftcorp/aceoffix@7.2.1.1
+- pkg:maven/com.acesoftcorp/aceoffix@7.2.1.1-javax
+- pkg:maven/com.acesoftcorp/aceoffix@7.2.1.1-javax?classifier=sources
+- pkg:maven/com.acesoftcorp/aceoffix@7.2.1.1?classifier=sources

@@ -68,3 +68,4 @@
 - pkg:maven/com.facebook.presto/presto-thrift-spec@0.292?classifier=sources
 - pkg:maven/com.facebook.presto/presto-thrift-spec@0.293?classifier=sources
 - pkg:maven/com.facebook.presto/presto-thrift-spec@0.294?classifier=sources
+- pkg:maven/com.facebook.presto/presto-thrift-spec@0.295?classifier=sources

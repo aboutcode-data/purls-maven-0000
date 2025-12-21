@@ -49,6 +49,7 @@
 - pkg:maven/com.stripe/ml-core-googleplay@20.37.2?classifier=sources
 - pkg:maven/com.stripe/ml-core-googleplay@20.37.3?classifier=sources
 - pkg:maven/com.stripe/ml-core-googleplay@20.37.4?classifier=sources
+- pkg:maven/com.stripe/ml-core-googleplay@20.37.5?classifier=sources
 - pkg:maven/com.stripe/ml-core-googleplay@20.38.0?classifier=sources
 - pkg:maven/com.stripe/ml-core-googleplay@20.39.0?classifier=sources
 - pkg:maven/com.stripe/ml-core-googleplay@20.40.0?classifier=sources
@@ -121,6 +122,9 @@
 - pkg:maven/com.stripe/ml-core-googleplay@21.26.1?classifier=sources
 - pkg:maven/com.stripe/ml-core-googleplay@21.27.0?classifier=sources
 - pkg:maven/com.stripe/ml-core-googleplay@21.28.0?classifier=sources
+- pkg:maven/com.stripe/ml-core-googleplay@21.28.1?classifier=sources
+- pkg:maven/com.stripe/ml-core-googleplay@21.28.2?classifier=sources
+- pkg:maven/com.stripe/ml-core-googleplay@21.29.0?classifier=sources
 - pkg:maven/com.stripe/ml-core-googleplay@21.3.0?classifier=sources
 - pkg:maven/com.stripe/ml-core-googleplay@21.3.1?classifier=sources
 - pkg:maven/com.stripe/ml-core-googleplay@21.3.2?classifier=sources

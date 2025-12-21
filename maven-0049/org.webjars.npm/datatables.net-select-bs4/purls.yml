@@ -6,3 +6,4 @@
 - pkg:maven/org.webjars.npm/datatables.net-select-bs4@2.1.0
 - pkg:maven/org.webjars.npm/datatables.net-select-bs4@3.0.0
 - pkg:maven/org.webjars.npm/datatables.net-select-bs4@3.0.1
+- pkg:maven/org.webjars.npm/datatables.net-select-bs4@3.1.2

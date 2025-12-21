@@ -1,0 +1,2 @@
+- pkg:maven/com.xiaoyung/easyisapi-sdk@0.0.16?classifier=sources
+- pkg:maven/com.xiaoyung/easyisapi-sdk@0.0.17?classifier=sources

@@ -36,6 +36,8 @@
 - pkg:maven/com.permutive.android/core@1.0.0?type=aar
 - pkg:maven/com.permutive.android/core@1.1.0?classifier=sources
 - pkg:maven/com.permutive.android/core@1.1.0?type=aar
+- pkg:maven/com.permutive.android/core@1.10.0-DEBUG?classifier=sources
+- pkg:maven/com.permutive.android/core@1.10.0?classifier=sources
 - pkg:maven/com.permutive.android/core@1.2.0?classifier=sources
 - pkg:maven/com.permutive.android/core@1.2.0?type=aar
 - pkg:maven/com.permutive.android/core@1.2.1?classifier=sources

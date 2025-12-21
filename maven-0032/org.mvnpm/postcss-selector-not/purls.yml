@@ -1,0 +1,2 @@
+- pkg:maven/org.mvnpm/postcss-selector-not@7.0.2
+- pkg:maven/org.mvnpm/postcss-selector-not@7.0.2?classifier=sources

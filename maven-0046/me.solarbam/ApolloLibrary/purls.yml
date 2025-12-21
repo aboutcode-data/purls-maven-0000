@@ -1,0 +1,6 @@
+- pkg:maven/me.solarbam/ApolloLibrary@0.0.1?classifier=sources
+- pkg:maven/me.solarbam/ApolloLibrary@0.1.3?classifier=sources
+- pkg:maven/me.solarbam/ApolloLibrary@0.2.3?classifier=sources
+- pkg:maven/me.solarbam/ApolloLibrary@0.3.0?classifier=sources
+- pkg:maven/me.solarbam/ApolloLibrary@0.3.1?classifier=sources
+- pkg:maven/me.solarbam/ApolloLibrary@0.3.2?classifier=sources

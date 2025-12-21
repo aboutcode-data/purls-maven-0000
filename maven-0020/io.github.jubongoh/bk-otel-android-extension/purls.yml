@@ -1,1 +1,5 @@
+- pkg:maven/io.github.jubongoh/bk-otel-android-extension@0.0.5?classifier=sources
 - pkg:maven/io.github.jubongoh/bk-otel-android-extension@0.1.1?classifier=sources
+- pkg:maven/io.github.jubongoh/bk-otel-android-extension@0.2.0?classifier=sources
+- pkg:maven/io.github.jubongoh/bk-otel-android-extension@0.2.6?classifier=sources
+- pkg:maven/io.github.jubongoh/bk-otel-android-extension@0.3.0?classifier=sources

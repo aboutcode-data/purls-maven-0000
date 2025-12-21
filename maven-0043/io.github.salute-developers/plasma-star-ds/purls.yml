@@ -5,6 +5,8 @@
 - pkg:maven/io.github.salute-developers/plasma-star-ds@2.14.0?classifier=sources
 - pkg:maven/io.github.salute-developers/plasma-star-ds@2.15.0?classifier=sources
 - pkg:maven/io.github.salute-developers/plasma-star-ds@2.16.0?classifier=sources
+- pkg:maven/io.github.salute-developers/plasma-star-ds@2.17.0?classifier=sources
+- pkg:maven/io.github.salute-developers/plasma-star-ds@2.18.0?classifier=sources
 - pkg:maven/io.github.salute-developers/plasma-star-ds@2.3.0?classifier=sources
 - pkg:maven/io.github.salute-developers/plasma-star-ds@2.4.0?classifier=sources
 - pkg:maven/io.github.salute-developers/plasma-star-ds@2.5.0?classifier=sources

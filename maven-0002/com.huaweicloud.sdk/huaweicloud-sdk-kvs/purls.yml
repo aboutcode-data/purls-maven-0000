@@ -122,6 +122,7 @@
 - pkg:maven/com.huaweicloud.sdk/huaweicloud-sdk-kvs@3.1.166?classifier=sources
 - pkg:maven/com.huaweicloud.sdk/huaweicloud-sdk-kvs@3.1.167?classifier=sources
 - pkg:maven/com.huaweicloud.sdk/huaweicloud-sdk-kvs@3.1.168?classifier=sources
+- pkg:maven/com.huaweicloud.sdk/huaweicloud-sdk-kvs@3.1.169?classifier=sources
 - pkg:maven/com.huaweicloud.sdk/huaweicloud-sdk-kvs@3.1.62
 - pkg:maven/com.huaweicloud.sdk/huaweicloud-sdk-kvs@3.1.62?classifier=sources
 - pkg:maven/com.huaweicloud.sdk/huaweicloud-sdk-kvs@3.1.63

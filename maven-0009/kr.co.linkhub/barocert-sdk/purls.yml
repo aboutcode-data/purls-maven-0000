@@ -57,3 +57,4 @@
 - pkg:maven/kr.co.linkhub/barocert-sdk@1.6.0
 - pkg:maven/kr.co.linkhub/barocert-sdk@1.6.0?classifier=sources
 - pkg:maven/kr.co.linkhub/barocert-sdk@1.7.0?classifier=sources
+- pkg:maven/kr.co.linkhub/barocert-sdk@1.8.0?classifier=sources

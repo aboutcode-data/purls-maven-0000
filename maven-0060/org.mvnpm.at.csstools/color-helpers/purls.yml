@@ -1,3 +1,5 @@
+- pkg:maven/org.mvnpm.at.csstools/color-helpers@4.2.1
+- pkg:maven/org.mvnpm.at.csstools/color-helpers@4.2.1?classifier=sources
 - pkg:maven/org.mvnpm.at.csstools/color-helpers@5.0.2?classifier=sources
 - pkg:maven/org.mvnpm.at.csstools/color-helpers@5.1.0
 - pkg:maven/org.mvnpm.at.csstools/color-helpers@5.1.0?classifier=sources

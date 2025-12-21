@@ -202,3 +202,5 @@
 - pkg:maven/io.helidon.logging/helidon-logging-slf4j@4.3.0-M4
 - pkg:maven/io.helidon.logging/helidon-logging-slf4j@4.3.0-M4?classifier=sources
 - pkg:maven/io.helidon.logging/helidon-logging-slf4j@4.3.0?classifier=sources
+- pkg:maven/io.helidon.logging/helidon-logging-slf4j@4.3.1
+- pkg:maven/io.helidon.logging/helidon-logging-slf4j@4.3.1?classifier=sources

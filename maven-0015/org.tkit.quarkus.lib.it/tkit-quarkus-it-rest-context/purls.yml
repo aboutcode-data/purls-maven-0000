@@ -66,3 +66,4 @@
 - pkg:maven/org.tkit.quarkus.lib.it/tkit-quarkus-it-rest-context@3.5.0?classifier=sources
 - pkg:maven/org.tkit.quarkus.lib.it/tkit-quarkus-it-rest-context@3.6.0?classifier=sources
 - pkg:maven/org.tkit.quarkus.lib.it/tkit-quarkus-it-rest-context@4.0.0?classifier=sources
+- pkg:maven/org.tkit.quarkus.lib.it/tkit-quarkus-it-rest-context@4.1.0?classifier=sources

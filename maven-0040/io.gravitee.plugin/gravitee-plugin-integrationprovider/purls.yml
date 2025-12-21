@@ -34,3 +34,4 @@
 - pkg:maven/io.gravitee.plugin/gravitee-plugin-integrationprovider@4.7.2?classifier=sources
 - pkg:maven/io.gravitee.plugin/gravitee-plugin-integrationprovider@4.8.0
 - pkg:maven/io.gravitee.plugin/gravitee-plugin-integrationprovider@4.8.0?classifier=sources
+- pkg:maven/io.gravitee.plugin/gravitee-plugin-integrationprovider@4.9.0?classifier=sources

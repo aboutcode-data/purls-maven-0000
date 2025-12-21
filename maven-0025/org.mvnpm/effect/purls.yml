@@ -1,2 +1,4 @@
 - pkg:maven/org.mvnpm/effect@3.16.12
 - pkg:maven/org.mvnpm/effect@3.16.12?classifier=sources
+- pkg:maven/org.mvnpm/effect@3.18.4
+- pkg:maven/org.mvnpm/effect@3.18.4?classifier=sources

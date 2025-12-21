@@ -45,3 +45,4 @@
 - pkg:maven/com.google.maps.android/maps-ktx@5.1.0?classifier=sources
 - pkg:maven/com.google.maps.android/maps-ktx@5.1.1?classifier=sources
 - pkg:maven/com.google.maps.android/maps-ktx@5.2.0?classifier=sources
+- pkg:maven/com.google.maps.android/maps-ktx@5.2.1?classifier=sources

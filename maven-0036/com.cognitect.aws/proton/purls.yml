@@ -26,3 +26,4 @@
 - pkg:maven/com.cognitect.aws/proton@857.2.1574.0?classifier=sources
 - pkg:maven/com.cognitect.aws/proton@871.2.29.35
 - pkg:maven/com.cognitect.aws/proton@871.2.29.35?classifier=sources
+- pkg:maven/com.cognitect.aws/proton@871.2.35.6?classifier=sources

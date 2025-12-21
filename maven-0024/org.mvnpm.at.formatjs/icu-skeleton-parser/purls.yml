@@ -2,3 +2,5 @@
 - pkg:maven/org.mvnpm.at.formatjs/icu-skeleton-parser@1.8.14?classifier=sources
 - pkg:maven/org.mvnpm.at.formatjs/icu-skeleton-parser@1.8.15
 - pkg:maven/org.mvnpm.at.formatjs/icu-skeleton-parser@1.8.15?classifier=sources
+- pkg:maven/org.mvnpm.at.formatjs/icu-skeleton-parser@1.8.16
+- pkg:maven/org.mvnpm.at.formatjs/icu-skeleton-parser@1.8.16?classifier=sources

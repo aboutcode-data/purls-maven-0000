@@ -586,6 +586,8 @@
 - pkg:maven/com.netease.nimlib/nrtc@9.19.0?type=aar
 - pkg:maven/com.netease.nimlib/nrtc@9.19.100?classifier=sources
 - pkg:maven/com.netease.nimlib/nrtc@9.19.100?type=aar
+- pkg:maven/com.netease.nimlib/nrtc@9.19.101?classifier=sources
+- pkg:maven/com.netease.nimlib/nrtc@9.19.101?type=aar
 - pkg:maven/com.netease.nimlib/nrtc@9.19.10?classifier=sources
 - pkg:maven/com.netease.nimlib/nrtc@9.19.10?type=aar
 - pkg:maven/com.netease.nimlib/nrtc@9.19.11?classifier=sources

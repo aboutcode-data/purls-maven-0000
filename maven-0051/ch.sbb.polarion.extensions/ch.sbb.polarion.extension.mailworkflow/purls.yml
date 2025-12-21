@@ -1,1 +1,2 @@
 - pkg:maven/ch.sbb.polarion.extensions/ch.sbb.polarion.extension.mailworkflow@2.0.1?classifier=sources
+- pkg:maven/ch.sbb.polarion.extensions/ch.sbb.polarion.extension.mailworkflow@2.0.2?classifier=sources

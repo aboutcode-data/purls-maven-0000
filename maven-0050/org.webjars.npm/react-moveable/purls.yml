@@ -2,3 +2,4 @@
 - pkg:maven/org.webjars.npm/react-moveable@0.30.3?classifier=sources
 - pkg:maven/org.webjars.npm/react-moveable@0.31.0-beta.0
 - pkg:maven/org.webjars.npm/react-moveable@0.31.0-beta.0?classifier=sources
+- pkg:maven/org.webjars.npm/react-moveable@0.56.0

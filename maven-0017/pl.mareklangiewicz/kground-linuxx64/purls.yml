@@ -75,3 +75,5 @@
 - pkg:maven/pl.mareklangiewicz/kground-linuxx64@0.1.15?classifier=sources
 - pkg:maven/pl.mareklangiewicz/kground-linuxx64@0.1.16?classifier=sources
 - pkg:maven/pl.mareklangiewicz/kground-linuxx64@0.1.17?classifier=sources
+- pkg:maven/pl.mareklangiewicz/kground-linuxx64@0.1.18?classifier=sources
+- pkg:maven/pl.mareklangiewicz/kground-linuxx64@0.1.19?classifier=sources

@@ -6,3 +6,4 @@
 - pkg:maven/tech.uom/seshat@1.2?classifier=sources
 - pkg:maven/tech.uom/seshat@1.3
 - pkg:maven/tech.uom/seshat@1.3?classifier=sources
+- pkg:maven/tech.uom/seshat@1.5?classifier=sources

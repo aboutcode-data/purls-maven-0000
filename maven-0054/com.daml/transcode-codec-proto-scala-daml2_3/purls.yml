@@ -70,3 +70,5 @@
 - pkg:maven/com.daml/transcode-codec-proto-scala-daml2_3@0.1.0-preview.20250929.130.760.v84b7c49
 - pkg:maven/com.daml/transcode-codec-proto-scala-daml2_3@0.1.0-preview.20250929.130.760.v84b7c49?classifier=sources
 - pkg:maven/com.daml/transcode-codec-proto-scala-daml2_3@0.1.0?classifier=sources
+- pkg:maven/com.daml/transcode-codec-proto-scala-daml2_3@0.1.1-main.20251006.131.777.vfd6b295
+- pkg:maven/com.daml/transcode-codec-proto-scala-daml2_3@0.1.1-main.20251006.131.777.vfd6b295?classifier=sources

@@ -1,0 +1,3 @@
+- pkg:maven/org.wildfly.galleon-plugins/doc-gen@8.0.0.Final?classifier=sources
+- pkg:maven/org.wildfly.galleon-plugins/doc-gen@8.0.1.Final?classifier=sources
+- pkg:maven/org.wildfly.galleon-plugins/doc-gen@8.0.2.Final?classifier=sources

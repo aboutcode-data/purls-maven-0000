@@ -122,6 +122,7 @@
 - pkg:maven/com.huaweicloud.sdk/huaweicloud-sdk-cloudpond@3.1.166?classifier=sources
 - pkg:maven/com.huaweicloud.sdk/huaweicloud-sdk-cloudpond@3.1.167?classifier=sources
 - pkg:maven/com.huaweicloud.sdk/huaweicloud-sdk-cloudpond@3.1.168?classifier=sources
+- pkg:maven/com.huaweicloud.sdk/huaweicloud-sdk-cloudpond@3.1.169?classifier=sources
 - pkg:maven/com.huaweicloud.sdk/huaweicloud-sdk-cloudpond@3.1.59
 - pkg:maven/com.huaweicloud.sdk/huaweicloud-sdk-cloudpond@3.1.59?classifier=sources
 - pkg:maven/com.huaweicloud.sdk/huaweicloud-sdk-cloudpond@3.1.60

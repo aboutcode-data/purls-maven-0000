@@ -40,3 +40,4 @@
 - pkg:maven/org.daisy.pipeline.modules/daisy202-to-epub3@2.1.2?classifier=sources
 - pkg:maven/org.daisy.pipeline.modules/daisy202-to-epub3@2.1.3
 - pkg:maven/org.daisy.pipeline.modules/daisy202-to-epub3@2.1.3?classifier=sources
+- pkg:maven/org.daisy.pipeline.modules/daisy202-to-epub3@2.1.4?classifier=sources

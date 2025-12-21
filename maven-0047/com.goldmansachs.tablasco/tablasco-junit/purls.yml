@@ -6,3 +6,4 @@
 - pkg:maven/com.goldmansachs.tablasco/tablasco-junit@2.4.0?classifier=sources
 - pkg:maven/com.goldmansachs.tablasco/tablasco-junit@2.5.0
 - pkg:maven/com.goldmansachs.tablasco/tablasco-junit@2.5.0?classifier=sources
+- pkg:maven/com.goldmansachs.tablasco/tablasco-junit@3.0.0?classifier=sources

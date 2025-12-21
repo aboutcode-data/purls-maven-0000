@@ -6,3 +6,4 @@
 - pkg:maven/chat.giga/spring-ai-gigachat@1.0.5?classifier=sources
 - pkg:maven/chat.giga/spring-ai-gigachat@1.0.6?classifier=sources
 - pkg:maven/chat.giga/spring-ai-gigachat@1.1.0-M1.001?classifier=sources
+- pkg:maven/chat.giga/spring-ai-gigachat@1.1.0-M2.001?classifier=sources

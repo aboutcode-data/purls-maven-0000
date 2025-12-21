@@ -121,5 +121,8 @@
 - pkg:maven/org.ossreviewtoolkit.plugins.reporters/opossum-reporter@69.1.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.reporters/opossum-reporter@7.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.reporters/opossum-reporter@7.1.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.reporters/opossum-reporter@70.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.reporters/opossum-reporter@70.0.1?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.reporters/opossum-reporter@70.1.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.reporters/opossum-reporter@8.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.reporters/opossum-reporter@9.0.0?classifier=sources

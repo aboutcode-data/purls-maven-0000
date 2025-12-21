@@ -4,3 +4,9 @@
 - pkg:maven/ai.bridgee/bridgee-android-sdk@1.0.1?type=aar
 - pkg:maven/ai.bridgee/bridgee-android-sdk@1.0.2?classifier=sources
 - pkg:maven/ai.bridgee/bridgee-android-sdk@1.0.2?type=aar
+- pkg:maven/ai.bridgee/bridgee-android-sdk@2.0.0?classifier=sources
+- pkg:maven/ai.bridgee/bridgee-android-sdk@2.0.0?type=aar
+- pkg:maven/ai.bridgee/bridgee-android-sdk@2.0.1?classifier=sources
+- pkg:maven/ai.bridgee/bridgee-android-sdk@2.0.1?type=aar
+- pkg:maven/ai.bridgee/bridgee-android-sdk@2.1.0?classifier=sources
+- pkg:maven/ai.bridgee/bridgee-android-sdk@2.1.0?type=aar

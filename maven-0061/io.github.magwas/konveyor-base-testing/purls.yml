@@ -22,4 +22,7 @@
 - pkg:maven/io.github.magwas/konveyor-base-testing@0.4.33?classifier=sources
 - pkg:maven/io.github.magwas/konveyor-base-testing@0.4.34?classifier=sources
 - pkg:maven/io.github.magwas/konveyor-base-testing@0.4.35?classifier=sources
+- pkg:maven/io.github.magwas/konveyor-base-testing@0.4.37?classifier=sources
+- pkg:maven/io.github.magwas/konveyor-base-testing@0.4.38?classifier=sources
+- pkg:maven/io.github.magwas/konveyor-base-testing@0.4.39?classifier=sources
 - pkg:maven/io.github.magwas/konveyor-base-testing@0.4.7?classifier=sources

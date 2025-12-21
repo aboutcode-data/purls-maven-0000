@@ -15,6 +15,10 @@
 - pkg:maven/io.appwrite/sdk-for-android@1.2.1?classifier=sources
 - pkg:maven/io.appwrite/sdk-for-android@10.0.0?classifier=sources
 - pkg:maven/io.appwrite/sdk-for-android@10.1.0?classifier=sources
+- pkg:maven/io.appwrite/sdk-for-android@11.0.0?classifier=sources
+- pkg:maven/io.appwrite/sdk-for-android@11.1.0?classifier=sources
+- pkg:maven/io.appwrite/sdk-for-android@11.2.0?classifier=sources
+- pkg:maven/io.appwrite/sdk-for-android@11.2.1?classifier=sources
 - pkg:maven/io.appwrite/sdk-for-android@2.0.0?classifier=sources
 - pkg:maven/io.appwrite/sdk-for-android@3.0.0?classifier=sources
 - pkg:maven/io.appwrite/sdk-for-android@3.0.1?classifier=sources

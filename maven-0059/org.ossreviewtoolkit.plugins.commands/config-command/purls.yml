@@ -121,5 +121,8 @@
 - pkg:maven/org.ossreviewtoolkit.plugins.commands/config-command@69.1.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.commands/config-command@7.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.commands/config-command@7.1.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.commands/config-command@70.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.commands/config-command@70.0.1?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.commands/config-command@70.1.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.commands/config-command@8.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.commands/config-command@9.0.0?classifier=sources

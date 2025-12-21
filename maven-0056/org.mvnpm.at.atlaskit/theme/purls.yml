@@ -15,3 +15,5 @@
 - pkg:maven/org.mvnpm.at.atlaskit/theme@20.0.1?classifier=sources
 - pkg:maven/org.mvnpm.at.atlaskit/theme@21.0.0
 - pkg:maven/org.mvnpm.at.atlaskit/theme@21.0.0?classifier=sources
+- pkg:maven/org.mvnpm.at.atlaskit/theme@21.0.1
+- pkg:maven/org.mvnpm.at.atlaskit/theme@21.0.1?classifier=sources

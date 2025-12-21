@@ -21,6 +21,8 @@
 - pkg:maven/ch.islandsql/islandsql@0.17.0?classifier=sources
 - pkg:maven/ch.islandsql/islandsql@0.18.0?classifier=sources
 - pkg:maven/ch.islandsql/islandsql@0.18.1?classifier=sources
+- pkg:maven/ch.islandsql/islandsql@0.18.2?classifier=sources
+- pkg:maven/ch.islandsql/islandsql@0.19.0?classifier=sources
 - pkg:maven/ch.islandsql/islandsql@0.2.0
 - pkg:maven/ch.islandsql/islandsql@0.2.0?classifier=sources
 - pkg:maven/ch.islandsql/islandsql@0.3.0

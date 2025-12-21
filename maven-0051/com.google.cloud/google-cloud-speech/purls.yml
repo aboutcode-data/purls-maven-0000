@@ -528,6 +528,10 @@
 - pkg:maven/com.google.cloud/google-cloud-speech@4.7.0?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-speech@4.70.0
 - pkg:maven/com.google.cloud/google-cloud-speech@4.70.0?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-speech@4.71.0
+- pkg:maven/com.google.cloud/google-cloud-speech@4.71.0?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-speech@4.72.0
+- pkg:maven/com.google.cloud/google-cloud-speech@4.72.0?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-speech@4.8.0
 - pkg:maven/com.google.cloud/google-cloud-speech@4.8.0?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-speech@4.9.0

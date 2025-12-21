@@ -32,3 +32,4 @@
 - pkg:maven/com.limemojito.oss.aws/aws-cleaner@6.0.0?classifier=sources
 - pkg:maven/com.limemojito.oss.aws/aws-cleaner@7.0.0?classifier=sources
 - pkg:maven/com.limemojito.oss.aws/aws-cleaner@7.1.0?classifier=sources
+- pkg:maven/com.limemojito.oss.aws/aws-cleaner@7.1.1?classifier=sources

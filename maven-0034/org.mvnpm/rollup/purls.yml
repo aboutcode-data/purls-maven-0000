@@ -79,3 +79,5 @@
 - pkg:maven/org.mvnpm/rollup@4.52.3?classifier=sources
 - pkg:maven/org.mvnpm/rollup@4.52.4
 - pkg:maven/org.mvnpm/rollup@4.52.4?classifier=sources
+- pkg:maven/org.mvnpm/rollup@4.52.5
+- pkg:maven/org.mvnpm/rollup@4.52.5?classifier=sources

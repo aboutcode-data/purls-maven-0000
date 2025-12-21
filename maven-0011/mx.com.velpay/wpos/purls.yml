@@ -4,3 +4,4 @@
 - pkg:maven/mx.com.velpay/wpos@5.0.2?classifier=sources
 - pkg:maven/mx.com.velpay/wpos@5.0.3?classifier=sources
 - pkg:maven/mx.com.velpay/wpos@5.0.4?classifier=sources
+- pkg:maven/mx.com.velpay/wpos@5.0.5?classifier=sources

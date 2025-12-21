@@ -6,3 +6,4 @@
 - pkg:maven/in.payu/payu-upi-bolt-common-models-sdk@0.0.6-alpha6?classifier=sources
 - pkg:maven/in.payu/payu-upi-bolt-common-models-sdk@0.0.6-alpha7?classifier=sources
 - pkg:maven/in.payu/payu-upi-bolt-common-models-sdk@0.0.6?classifier=sources
+- pkg:maven/in.payu/payu-upi-bolt-common-models-sdk@0.0.7?classifier=sources

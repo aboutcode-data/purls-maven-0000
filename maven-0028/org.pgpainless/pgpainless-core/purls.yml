@@ -133,3 +133,4 @@
 - pkg:maven/org.pgpainless/pgpainless-core@1.7.6?classifier=sources
 - pkg:maven/org.pgpainless/pgpainless-core@1.7.7?classifier=sources
 - pkg:maven/org.pgpainless/pgpainless-core@2.0.0?classifier=sources
+- pkg:maven/org.pgpainless/pgpainless-core@2.0.1?classifier=sources

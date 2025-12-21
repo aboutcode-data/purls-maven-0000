@@ -1,0 +1,2 @@
+- pkg:maven/org.mvnpm.at.types/stylus@0.48.43
+- pkg:maven/org.mvnpm.at.types/stylus@0.48.43?classifier=sources

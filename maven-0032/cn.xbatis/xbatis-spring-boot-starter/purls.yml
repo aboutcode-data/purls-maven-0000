@@ -59,6 +59,8 @@
 - pkg:maven/cn.xbatis/xbatis-spring-boot-starter@1.9.1-M1-spring-boot3?classifier=sources
 - pkg:maven/cn.xbatis/xbatis-spring-boot-starter@1.9.1-M10-spring-boot3?classifier=sources
 - pkg:maven/cn.xbatis/xbatis-spring-boot-starter@1.9.1-M10?classifier=sources
+- pkg:maven/cn.xbatis/xbatis-spring-boot-starter@1.9.1-M11-spring-boot3?classifier=sources
+- pkg:maven/cn.xbatis/xbatis-spring-boot-starter@1.9.1-M11?classifier=sources
 - pkg:maven/cn.xbatis/xbatis-spring-boot-starter@1.9.1-M2-spring-boot3?classifier=sources
 - pkg:maven/cn.xbatis/xbatis-spring-boot-starter@1.9.1-M2?classifier=sources
 - pkg:maven/cn.xbatis/xbatis-spring-boot-starter@1.9.1-M3-spring-boot3?classifier=sources

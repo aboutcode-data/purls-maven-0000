@@ -1,1 +1,2 @@
 - pkg:maven/dev.resteasy.vertx/resteasy-vertx-client@1.0.1.Final?classifier=sources
+- pkg:maven/dev.resteasy.vertx/resteasy-vertx-client@2.0.0.Beta1?classifier=sources
