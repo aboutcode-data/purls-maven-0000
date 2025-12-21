@@ -258,6 +258,9 @@
 - pkg:maven/xyz.block.ftl/ftl-jvm-bom@0.494.5
 - pkg:maven/xyz.block.ftl/ftl-jvm-bom@0.494.6
 - pkg:maven/xyz.block.ftl/ftl-jvm-bom@0.494.7
+- pkg:maven/xyz.block.ftl/ftl-jvm-bom@0.494.8
+- pkg:maven/xyz.block.ftl/ftl-jvm-bom@0.494.9
+- pkg:maven/xyz.block.ftl/ftl-jvm-bom@0.495.0
 - pkg:maven/xyz.block.ftl/ftl-jvm-bom@jvm-publish
 - pkg:maven/xyz.block.ftl/ftl-jvm-bom@main
 - pkg:maven/xyz.block.ftl/ftl-jvm-bom@v0.361.0

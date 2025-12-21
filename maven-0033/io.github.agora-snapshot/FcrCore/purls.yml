@@ -178,3 +178,4 @@
 - pkg:maven/io.github.agora-snapshot/FcrCore@3.5.0.21?classifier=sources
 - pkg:maven/io.github.agora-snapshot/FcrCore@3.5.0.22?classifier=sources
 - pkg:maven/io.github.agora-snapshot/FcrCore@3.5.0.24?classifier=sources
+- pkg:maven/io.github.agora-snapshot/FcrCore@3.5.0.25?classifier=sources

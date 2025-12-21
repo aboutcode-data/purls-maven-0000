@@ -1,5 +1,6 @@
 - pkg:maven/info.metadude.kotlin.library.engelsystem/engelsystem-base@1.0.0
 - pkg:maven/info.metadude.kotlin.library.engelsystem/engelsystem-base@1.0.0?classifier=sources
+- pkg:maven/info.metadude.kotlin.library.engelsystem/engelsystem-base@10.0.0?classifier=sources
 - pkg:maven/info.metadude.kotlin.library.engelsystem/engelsystem-base@2.0.0
 - pkg:maven/info.metadude.kotlin.library.engelsystem/engelsystem-base@2.0.0?classifier=sources
 - pkg:maven/info.metadude.kotlin.library.engelsystem/engelsystem-base@3.0.0

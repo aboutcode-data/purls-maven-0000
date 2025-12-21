@@ -1,0 +1,2 @@
+- pkg:maven/com.vesoft/nebula-connector_spark3@5.1.0
+- pkg:maven/com.vesoft/nebula-connector_spark3@5.1.0?classifier=sources

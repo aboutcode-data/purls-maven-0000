@@ -2,3 +2,4 @@
 - pkg:maven/org.webjars.npm/react-aria__utils@3.23.0
 - pkg:maven/org.webjars.npm/react-aria__utils@3.23.0?classifier=sources
 - pkg:maven/org.webjars.npm/react-aria__utils@3.28.2
+- pkg:maven/org.webjars.npm/react-aria__utils@3.29.0

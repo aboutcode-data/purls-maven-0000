@@ -54,3 +54,4 @@
 - pkg:maven/com.commercetools.sdk/commercetools-javanet-client@17.8.0?classifier=sources
 - pkg:maven/com.commercetools.sdk/commercetools-javanet-client@17.9.0?classifier=sources
 - pkg:maven/com.commercetools.sdk/commercetools-javanet-client@18.0.0?classifier=sources
+- pkg:maven/com.commercetools.sdk/commercetools-javanet-client@18.1.0-RC.1?classifier=sources

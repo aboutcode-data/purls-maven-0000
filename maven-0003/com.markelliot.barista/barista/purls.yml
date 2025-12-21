@@ -84,3 +84,7 @@
 - pkg:maven/com.markelliot.barista/barista@0.93.0?classifier=sources
 - pkg:maven/com.markelliot.barista/barista@0.94.0?classifier=sources
 - pkg:maven/com.markelliot.barista/barista@0.95.0?classifier=sources
+- pkg:maven/com.markelliot.barista/barista@0.96.0?classifier=sources
+- pkg:maven/com.markelliot.barista/barista@0.97.0?classifier=sources
+- pkg:maven/com.markelliot.barista/barista@0.98.0?classifier=sources
+- pkg:maven/com.markelliot.barista/barista@0.99.0?classifier=sources

@@ -7,3 +7,4 @@
 - pkg:maven/org.webjars.npm/libnpmfund@1.1.0
 - pkg:maven/org.webjars.npm/libnpmfund@1.1.0?classifier=sources
 - pkg:maven/org.webjars.npm/libnpmfund@5.0.12
+- pkg:maven/org.webjars.npm/libnpmfund@6.0.0

@@ -8,3 +8,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-languages-toml@RELEASE230?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-languages-toml@RELEASE240?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-languages-toml@RELEASE250?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-languages-toml@RELEASE260?classifier=sources

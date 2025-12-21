@@ -24,3 +24,4 @@
 - pkg:maven/org.netbeans.api/org-netbeans-modules-gradle-java@RELEASE230?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-modules-gradle-java@RELEASE240?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-modules-gradle-java@RELEASE250?classifier=sources
+- pkg:maven/org.netbeans.api/org-netbeans-modules-gradle-java@RELEASE260?classifier=sources

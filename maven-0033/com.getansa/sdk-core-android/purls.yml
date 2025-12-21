@@ -1,2 +1,3 @@
 - pkg:maven/com.getansa/sdk-core-android@0.12.0?classifier=sources
 - pkg:maven/com.getansa/sdk-core-android@0.13.0?classifier=sources
+- pkg:maven/com.getansa/sdk-core-android@2.0.0-0.31.4?classifier=sources

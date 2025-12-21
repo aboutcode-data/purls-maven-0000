@@ -18,3 +18,5 @@
 - pkg:maven/net.morimekta.utils/strings@4.5.1?classifier=sources
 - pkg:maven/net.morimekta.utils/strings@4.6.0
 - pkg:maven/net.morimekta.utils/strings@4.6.0?classifier=sources
+- pkg:maven/net.morimekta.utils/strings@4.6.1
+- pkg:maven/net.morimekta.utils/strings@4.6.1?classifier=sources

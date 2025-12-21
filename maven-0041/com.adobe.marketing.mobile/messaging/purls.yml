@@ -4,3 +4,4 @@
 - pkg:maven/com.adobe.marketing.mobile/messaging@3.2.1?classifier=sources
 - pkg:maven/com.adobe.marketing.mobile/messaging@3.3.0?classifier=sources
 - pkg:maven/com.adobe.marketing.mobile/messaging@3.3.1?classifier=sources
+- pkg:maven/com.adobe.marketing.mobile/messaging@3.3.2?classifier=sources

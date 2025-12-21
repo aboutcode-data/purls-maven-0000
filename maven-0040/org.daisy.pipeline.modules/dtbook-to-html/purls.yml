@@ -38,3 +38,5 @@
 - pkg:maven/org.daisy.pipeline.modules/dtbook-to-html@4.0.4?classifier=sources
 - pkg:maven/org.daisy.pipeline.modules/dtbook-to-html@4.0.5
 - pkg:maven/org.daisy.pipeline.modules/dtbook-to-html@4.0.5?classifier=sources
+- pkg:maven/org.daisy.pipeline.modules/dtbook-to-html@4.0.6
+- pkg:maven/org.daisy.pipeline.modules/dtbook-to-html@4.0.6?classifier=sources

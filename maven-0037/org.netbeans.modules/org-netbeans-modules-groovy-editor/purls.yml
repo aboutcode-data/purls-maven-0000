@@ -25,3 +25,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-groovy-editor@RELEASE230?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-groovy-editor@RELEASE240?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-groovy-editor@RELEASE250?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-groovy-editor@RELEASE260?classifier=sources

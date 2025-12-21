@@ -9,3 +9,4 @@
 - pkg:maven/org.miracum/kafka-fhir-serializer@1.0.8?classifier=sources
 - pkg:maven/org.miracum/kafka-fhir-serializer@2.0.3-rc.1?classifier=sources
 - pkg:maven/org.miracum/kafka-fhir-serializer@2.0.4?classifier=sources
+- pkg:maven/org.miracum/kafka-fhir-serializer@2.0.5?classifier=sources

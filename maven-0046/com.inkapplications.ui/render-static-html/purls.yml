@@ -9,3 +9,4 @@
 - pkg:maven/com.inkapplications.ui/render-static-html@0.9.1?classifier=sources
 - pkg:maven/com.inkapplications.ui/render-static-html@1.0.0?classifier=sources
 - pkg:maven/com.inkapplications.ui/render-static-html@1.1.0?classifier=sources
+- pkg:maven/com.inkapplications.ui/render-static-html@1.2.0?classifier=sources

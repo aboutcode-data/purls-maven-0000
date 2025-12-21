@@ -1,0 +1,2 @@
+- pkg:maven/engineering.finbourne.temp/test-sdk@1.0.0?classifier=sources
+- pkg:maven/engineering.finbourne.temp/test-sdk@1.0.1?classifier=sources

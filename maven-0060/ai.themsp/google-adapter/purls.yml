@@ -3,6 +3,7 @@
 - pkg:maven/ai.themsp/google-adapter@0.11.1?classifier=sources
 - pkg:maven/ai.themsp/google-adapter@0.12.0.1?classifier=sources
 - pkg:maven/ai.themsp/google-adapter@0.12.0?classifier=sources
+- pkg:maven/ai.themsp/google-adapter@0.12.1?classifier=sources
 - pkg:maven/ai.themsp/google-adapter@0.15.0?classifier=sources
 - pkg:maven/ai.themsp/google-adapter@0.16.0?classifier=sources
 - pkg:maven/ai.themsp/google-adapter@0.17.0?classifier=sources
@@ -15,3 +16,4 @@
 - pkg:maven/ai.themsp/google-adapter@0.7.0?classifier=sources
 - pkg:maven/ai.themsp/google-adapter@0.8.0?classifier=sources
 - pkg:maven/ai.themsp/google-adapter@0.9.0?classifier=sources
+- pkg:maven/ai.themsp/google-adapter@2.0.0?classifier=sources

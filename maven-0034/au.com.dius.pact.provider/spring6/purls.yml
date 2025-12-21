@@ -32,3 +32,4 @@
 - pkg:maven/au.com.dius.pact.provider/spring6@4.6.8?classifier=sources
 - pkg:maven/au.com.dius.pact.provider/spring6@4.6.9?classifier=sources
 - pkg:maven/au.com.dius.pact.provider/spring6@4.7.0-beta.0?classifier=sources
+- pkg:maven/au.com.dius.pact.provider/spring6@4.7.0-beta.1?classifier=sources

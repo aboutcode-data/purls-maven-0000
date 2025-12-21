@@ -25,4 +25,5 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-libs-freemarker@RELEASE230?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-libs-freemarker@RELEASE240?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-libs-freemarker@RELEASE250?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-libs-freemarker@RELEASE260?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-libs-freemarker@RELEASE90?classifier=sources

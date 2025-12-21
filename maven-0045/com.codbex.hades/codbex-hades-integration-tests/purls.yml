@@ -8,3 +8,10 @@
 - pkg:maven/com.codbex.hades/codbex-hades-integration-tests@2.36.0
 - pkg:maven/com.codbex.hades/codbex-hades-integration-tests@2.37.0
 - pkg:maven/com.codbex.hades/codbex-hades-integration-tests@2.38.0
+- pkg:maven/com.codbex.hades/codbex-hades-integration-tests@2.39.0
+- pkg:maven/com.codbex.hades/codbex-hades-integration-tests@2.40.0
+- pkg:maven/com.codbex.hades/codbex-hades-integration-tests@2.41.0
+- pkg:maven/com.codbex.hades/codbex-hades-integration-tests@2.42.0
+- pkg:maven/com.codbex.hades/codbex-hades-integration-tests@2.43.0
+- pkg:maven/com.codbex.hades/codbex-hades-integration-tests@2.44.0
+- pkg:maven/com.codbex.hades/codbex-hades-integration-tests@2.45.0

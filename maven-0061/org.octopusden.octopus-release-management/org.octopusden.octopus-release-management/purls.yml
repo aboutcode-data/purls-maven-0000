@@ -19,6 +19,7 @@
 - pkg:maven/org.octopusden.octopus-release-management/org.octopusden.octopus-release-management@2.0.29?classifier=sources
 - pkg:maven/org.octopusden.octopus-release-management/org.octopusden.octopus-release-management@2.0.30?classifier=sources
 - pkg:maven/org.octopusden.octopus-release-management/org.octopusden.octopus-release-management@2.0.31?classifier=sources
+- pkg:maven/org.octopusden.octopus-release-management/org.octopusden.octopus-release-management@2.0.32?classifier=sources
 - pkg:maven/org.octopusden.octopus-release-management/org.octopusden.octopus-release-management@2.0.3?classifier=sources
 - pkg:maven/org.octopusden.octopus-release-management/org.octopusden.octopus-release-management@2.0.4?classifier=sources
 - pkg:maven/org.octopusden.octopus-release-management/org.octopusden.octopus-release-management@2.0.5?classifier=sources

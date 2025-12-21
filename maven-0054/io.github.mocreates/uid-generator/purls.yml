@@ -2,3 +2,5 @@
 - pkg:maven/io.github.mocreates/uid-generator@1.0-RELEASE?classifier=sources
 - pkg:maven/io.github.mocreates/uid-generator@2.0-RELEASE
 - pkg:maven/io.github.mocreates/uid-generator@2.0-RELEASE?classifier=sources
+- pkg:maven/io.github.mocreates/uid-generator@3.0.0-RELEASE?classifier=sources
+- pkg:maven/io.github.mocreates/uid-generator@3.0.1-RELEASE?classifier=sources

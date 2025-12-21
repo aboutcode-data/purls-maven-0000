@@ -1,0 +1,4 @@
+- pkg:maven/com.google.apis/google-api-services-apihub@v1-rev20250324-2.0.0
+- pkg:maven/com.google.apis/google-api-services-apihub@v1-rev20250324-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-apihub@v1-rev20250514-2.0.0
+- pkg:maven/com.google.apis/google-api-services-apihub@v1-rev20250514-2.0.0?classifier=sources

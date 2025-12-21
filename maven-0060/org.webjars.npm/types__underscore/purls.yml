@@ -4,6 +4,7 @@
 - pkg:maven/org.webjars.npm/types__underscore@1.11.15?classifier=sources
 - pkg:maven/org.webjars.npm/types__underscore@1.11.4
 - pkg:maven/org.webjars.npm/types__underscore@1.11.4?classifier=sources
+- pkg:maven/org.webjars.npm/types__underscore@1.13.0
 - pkg:maven/org.webjars.npm/types__underscore@1.7.33
 - pkg:maven/org.webjars.npm/types__underscore@1.7.33?classifier=sources
 - pkg:maven/org.webjars.npm/types__underscore@1.7.36

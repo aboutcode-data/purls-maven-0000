@@ -1,1 +1,2 @@
 - pkg:maven/org.webjars.npm/remark-frontmatter@3.0.0
+- pkg:maven/org.webjars.npm/remark-frontmatter@5.0.0

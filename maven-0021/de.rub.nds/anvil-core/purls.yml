@@ -1,2 +1,3 @@
 - pkg:maven/de.rub.nds/anvil-core@1.1.10
 - pkg:maven/de.rub.nds/anvil-core@1.1.10?classifier=sources
+- pkg:maven/de.rub.nds/anvil-core@2.0.5?classifier=sources

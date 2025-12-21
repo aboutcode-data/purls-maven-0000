@@ -13,6 +13,7 @@
 - pkg:maven/org.webjars.npm/babel__helper-string-parser@7.24.8
 - pkg:maven/org.webjars.npm/babel__helper-string-parser@7.25.7
 - pkg:maven/org.webjars.npm/babel__helper-string-parser@7.25.9
+- pkg:maven/org.webjars.npm/babel__helper-string-parser@7.27.1
 - pkg:maven/org.webjars.npm/babel__helper-string-parser@8.0.0-alpha.1
 - pkg:maven/org.webjars.npm/babel__helper-string-parser@8.0.0-alpha.12
 - pkg:maven/org.webjars.npm/babel__helper-string-parser@8.0.0-alpha.13

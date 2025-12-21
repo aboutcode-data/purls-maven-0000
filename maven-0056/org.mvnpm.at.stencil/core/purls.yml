@@ -5,3 +5,9 @@
 - pkg:maven/org.mvnpm.at.stencil/core@4.29.2?classifier=sources
 - pkg:maven/org.mvnpm.at.stencil/core@4.29.3
 - pkg:maven/org.mvnpm.at.stencil/core@4.29.3?classifier=sources
+- pkg:maven/org.mvnpm.at.stencil/core@4.30.0
+- pkg:maven/org.mvnpm.at.stencil/core@4.30.0?classifier=sources
+- pkg:maven/org.mvnpm.at.stencil/core@4.31.0
+- pkg:maven/org.mvnpm.at.stencil/core@4.31.0?classifier=sources
+- pkg:maven/org.mvnpm.at.stencil/core@4.32.0
+- pkg:maven/org.mvnpm.at.stencil/core@4.32.0?classifier=sources

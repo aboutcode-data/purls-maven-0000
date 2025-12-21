@@ -51,3 +51,5 @@
 - pkg:maven/no.priv.bang.authservice/authservice-bom@2.2.0
 - pkg:maven/no.priv.bang.authservice/authservice-bom@2.3.0
 - pkg:maven/no.priv.bang.authservice/authservice-bom@2.3.1
+- pkg:maven/no.priv.bang.authservice/authservice-bom@2.3.2
+- pkg:maven/no.priv.bang.authservice/authservice-bom@2.4.0

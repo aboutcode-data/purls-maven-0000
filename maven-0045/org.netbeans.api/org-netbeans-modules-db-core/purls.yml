@@ -15,3 +15,4 @@
 - pkg:maven/org.netbeans.api/org-netbeans-modules-db-core@RELEASE230?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-modules-db-core@RELEASE240?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-modules-db-core@RELEASE250?classifier=sources
+- pkg:maven/org.netbeans.api/org-netbeans-modules-db-core@RELEASE260?classifier=sources

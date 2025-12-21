@@ -15,6 +15,7 @@
 - pkg:maven/org.jboss.ironjacamar/ironjacamar-deployers-tests@1.5.19.Final
 - pkg:maven/org.jboss.ironjacamar/ironjacamar-deployers-tests@1.5.2.Final
 - pkg:maven/org.jboss.ironjacamar/ironjacamar-deployers-tests@1.5.20.Final
+- pkg:maven/org.jboss.ironjacamar/ironjacamar-deployers-tests@1.5.21.Final
 - pkg:maven/org.jboss.ironjacamar/ironjacamar-deployers-tests@1.5.3.Final
 - pkg:maven/org.jboss.ironjacamar/ironjacamar-deployers-tests@1.5.3.SP1
 - pkg:maven/org.jboss.ironjacamar/ironjacamar-deployers-tests@1.5.3.SP2
@@ -32,6 +33,7 @@
 - pkg:maven/org.jboss.ironjacamar/ironjacamar-deployers-tests@3.0.11.Final
 - pkg:maven/org.jboss.ironjacamar/ironjacamar-deployers-tests@3.0.12.Final
 - pkg:maven/org.jboss.ironjacamar/ironjacamar-deployers-tests@3.0.13.Final
+- pkg:maven/org.jboss.ironjacamar/ironjacamar-deployers-tests@3.0.14.Final
 - pkg:maven/org.jboss.ironjacamar/ironjacamar-deployers-tests@3.0.2.Final
 - pkg:maven/org.jboss.ironjacamar/ironjacamar-deployers-tests@3.0.2.SP1
 - pkg:maven/org.jboss.ironjacamar/ironjacamar-deployers-tests@3.0.3.Final

@@ -3,6 +3,7 @@
 - pkg:maven/com.tradplusad/tradplus-fyber@24.10.1.0.1?type=aar
 - pkg:maven/com.tradplusad/tradplus-fyber@24.10.2.0.1?type=aar
 - pkg:maven/com.tradplusad/tradplus-fyber@24.10.3.11.1?type=aar
+- pkg:maven/com.tradplusad/tradplus-fyber@24.14.1.0.1?type=aar
 - pkg:maven/com.tradplusad/tradplus-fyber@24.5.6.3?type=aar
 - pkg:maven/com.tradplusad/tradplus-fyber@24.5.6.4.1?type=aar
 - pkg:maven/com.tradplusad/tradplus-fyber@24.6.2.3.1?type=aar

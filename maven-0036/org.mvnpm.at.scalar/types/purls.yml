@@ -1,0 +1,2 @@
+- pkg:maven/org.mvnpm.at.scalar/types@0.1.8
+- pkg:maven/org.mvnpm.at.scalar/types@0.1.8?classifier=sources

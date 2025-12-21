@@ -25,3 +25,5 @@
 - pkg:maven/io.appwrite/sdk-for-android@6.1.0?classifier=sources
 - pkg:maven/io.appwrite/sdk-for-android@7.0.0?classifier=sources
 - pkg:maven/io.appwrite/sdk-for-android@7.0.1?classifier=sources
+- pkg:maven/io.appwrite/sdk-for-android@8.0.0?classifier=sources
+- pkg:maven/io.appwrite/sdk-for-android@8.1.0?classifier=sources

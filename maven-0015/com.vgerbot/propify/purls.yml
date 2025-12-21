@@ -1,1 +1,2 @@
 - pkg:maven/com.vgerbot/propify@1.0.0?classifier=sources
+- pkg:maven/com.vgerbot/propify@2.0.0?classifier=sources

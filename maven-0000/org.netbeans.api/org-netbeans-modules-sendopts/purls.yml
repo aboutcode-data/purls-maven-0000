@@ -25,4 +25,5 @@
 - pkg:maven/org.netbeans.api/org-netbeans-modules-sendopts@RELEASE230?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-modules-sendopts@RELEASE240?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-modules-sendopts@RELEASE250?classifier=sources
+- pkg:maven/org.netbeans.api/org-netbeans-modules-sendopts@RELEASE260?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-modules-sendopts@RELEASE90?classifier=sources

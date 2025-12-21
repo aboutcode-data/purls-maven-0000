@@ -22,6 +22,8 @@
 - pkg:maven/org.apache.sling/org.apache.sling.distribution.journal.messages@0.5.10
 - pkg:maven/org.apache.sling/org.apache.sling.distribution.journal.messages@0.5.10?classifier=source-release&type=zip
 - pkg:maven/org.apache.sling/org.apache.sling.distribution.journal.messages@0.5.10?classifier=sources
+- pkg:maven/org.apache.sling/org.apache.sling.distribution.journal.messages@0.5.12?classifier=source-release&type=zip
+- pkg:maven/org.apache.sling/org.apache.sling.distribution.journal.messages@0.5.12?classifier=sources
 - pkg:maven/org.apache.sling/org.apache.sling.distribution.journal.messages@0.5.4
 - pkg:maven/org.apache.sling/org.apache.sling.distribution.journal.messages@0.5.4?classifier=source-release&type=zip
 - pkg:maven/org.apache.sling/org.apache.sling.distribution.journal.messages@0.5.4?classifier=sources

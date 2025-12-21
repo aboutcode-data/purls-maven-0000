@@ -1,2 +1,3 @@
 - pkg:maven/org.netbeans.api/org-netbeans-libs-fabric8@RELEASE240?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-libs-fabric8@RELEASE250?classifier=sources
+- pkg:maven/org.netbeans.api/org-netbeans-libs-fabric8@RELEASE260?classifier=sources
