@@ -63,8 +63,16 @@
 - pkg:maven/org.ossreviewtoolkit.plugins.reporters/opossum-reporter@43.0.2?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.reporters/opossum-reporter@44.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.reporters/opossum-reporter@45.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.reporters/opossum-reporter@46.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.reporters/opossum-reporter@47.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.reporters/opossum-reporter@48.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.reporters/opossum-reporter@49.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.reporters/opossum-reporter@5.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.reporters/opossum-reporter@5.1.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.reporters/opossum-reporter@50.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.reporters/opossum-reporter@51.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.reporters/opossum-reporter@51.1.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.reporters/opossum-reporter@52.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.reporters/opossum-reporter@6.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.reporters/opossum-reporter@6.1.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.reporters/opossum-reporter@6.1.1?classifier=sources

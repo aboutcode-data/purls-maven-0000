@@ -1,6 +1,7 @@
 - pkg:maven/dev.mccue/magic-bean@2024.04.24?classifier=sources
 - pkg:maven/dev.mccue/magic-bean@2024.04.25?classifier=sources
 - pkg:maven/dev.mccue/magic-bean@2024.04.26?classifier=sources
+- pkg:maven/dev.mccue/magic-bean@2025.02.09?classifier=sources
 - pkg:maven/dev.mccue/magic-bean@3.1.0
 - pkg:maven/dev.mccue/magic-bean@3.1.0?classifier=sources
 - pkg:maven/dev.mccue/magic-bean@3.1.1

@@ -227,3 +227,4 @@
 - pkg:maven/com.diffplug.spotless/spotless-plugin-gradle@7.0.0.BETA4?classifier=sources
 - pkg:maven/com.diffplug.spotless/spotless-plugin-gradle@7.0.0?classifier=sources
 - pkg:maven/com.diffplug.spotless/spotless-plugin-gradle@7.0.1?classifier=sources
+- pkg:maven/com.diffplug.spotless/spotless-plugin-gradle@7.0.2?classifier=sources

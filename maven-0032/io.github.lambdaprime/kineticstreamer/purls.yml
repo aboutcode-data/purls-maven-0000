@@ -5,3 +5,4 @@
 - pkg:maven/io.github.lambdaprime/kineticstreamer@6.0?classifier=sources
 - pkg:maven/io.github.lambdaprime/kineticstreamer@7.0?classifier=sources
 - pkg:maven/io.github.lambdaprime/kineticstreamer@8.0?classifier=sources
+- pkg:maven/io.github.lambdaprime/kineticstreamer@9.0?classifier=sources

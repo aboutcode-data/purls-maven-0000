@@ -24,3 +24,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-php-editor@RELEASE220?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-php-editor@RELEASE230?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-php-editor@RELEASE240?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-php-editor@RELEASE250?classifier=sources

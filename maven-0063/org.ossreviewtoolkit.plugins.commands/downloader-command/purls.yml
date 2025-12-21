@@ -64,8 +64,15 @@
 - pkg:maven/org.ossreviewtoolkit.plugins.commands/downloader-command@44.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.commands/downloader-command@45.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.commands/downloader-command@46.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.commands/downloader-command@47.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.commands/downloader-command@48.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.commands/downloader-command@49.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.commands/downloader-command@5.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.commands/downloader-command@5.1.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.commands/downloader-command@50.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.commands/downloader-command@51.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.commands/downloader-command@51.1.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.commands/downloader-command@52.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.commands/downloader-command@6.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.commands/downloader-command@6.1.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.commands/downloader-command@6.1.1?classifier=sources

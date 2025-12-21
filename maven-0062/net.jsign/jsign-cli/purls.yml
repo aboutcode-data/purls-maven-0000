@@ -18,3 +18,5 @@
 - pkg:maven/net.jsign/jsign-cli@6.0?classifier=sources
 - pkg:maven/net.jsign/jsign-cli@7.0
 - pkg:maven/net.jsign/jsign-cli@7.0?classifier=sources
+- pkg:maven/net.jsign/jsign-cli@7.1
+- pkg:maven/net.jsign/jsign-cli@7.1?classifier=sources

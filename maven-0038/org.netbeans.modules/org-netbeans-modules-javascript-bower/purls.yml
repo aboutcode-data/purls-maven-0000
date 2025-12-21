@@ -24,3 +24,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-javascript-bower@RELEASE220?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-javascript-bower@RELEASE230?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-javascript-bower@RELEASE240?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-javascript-bower@RELEASE250?classifier=sources

@@ -54,3 +54,5 @@
 - pkg:maven/com.github.vhall.android.library/vhallyun-ilss@2.8.4?type=aar
 - pkg:maven/com.github.vhall.android.library/vhallyun-ilss@2.9.0?classifier=sources
 - pkg:maven/com.github.vhall.android.library/vhallyun-ilss@2.9.0?type=aar
+- pkg:maven/com.github.vhall.android.library/vhallyun-ilss@3.0.0?classifier=sources
+- pkg:maven/com.github.vhall.android.library/vhallyun-ilss@3.0.0?type=aar

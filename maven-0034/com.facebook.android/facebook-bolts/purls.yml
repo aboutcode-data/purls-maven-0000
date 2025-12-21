@@ -36,3 +36,5 @@
 - pkg:maven/com.facebook.android/facebook-bolts@17.0.1?type=aar
 - pkg:maven/com.facebook.android/facebook-bolts@17.0.2?classifier=sources
 - pkg:maven/com.facebook.android/facebook-bolts@17.0.2?type=aar
+- pkg:maven/com.facebook.android/facebook-bolts@18.0.0?classifier=sources
+- pkg:maven/com.facebook.android/facebook-bolts@18.0.0?type=aar

@@ -27,3 +27,4 @@
 - pkg:maven/io.portalhq.android/portal-android@4.1.7?classifier=sources
 - pkg:maven/io.portalhq.android/portal-android@4.2.0?classifier=sources
 - pkg:maven/io.portalhq.android/portal-android@5.0.0?classifier=sources
+- pkg:maven/io.portalhq.android/portal-android@5.1.0?classifier=sources

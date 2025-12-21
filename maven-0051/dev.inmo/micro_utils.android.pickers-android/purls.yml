@@ -69,3 +69,4 @@
 - pkg:maven/dev.inmo/micro_utils.android.pickers-android@0.24.1?classifier=sources
 - pkg:maven/dev.inmo/micro_utils.android.pickers-android@0.24.2?classifier=sources
 - pkg:maven/dev.inmo/micro_utils.android.pickers-android@0.24.3?classifier=sources
+- pkg:maven/dev.inmo/micro_utils.android.pickers-android@0.24.4?classifier=sources

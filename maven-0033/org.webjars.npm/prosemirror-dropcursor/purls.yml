@@ -10,3 +10,4 @@
 - pkg:maven/org.webjars.npm/prosemirror-dropcursor@1.5.0?classifier=sources
 - pkg:maven/org.webjars.npm/prosemirror-dropcursor@1.8.0
 - pkg:maven/org.webjars.npm/prosemirror-dropcursor@1.8.0?classifier=sources
+- pkg:maven/org.webjars.npm/prosemirror-dropcursor@1.8.1

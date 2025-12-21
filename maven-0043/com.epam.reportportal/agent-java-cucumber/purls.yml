@@ -21,3 +21,4 @@
 - pkg:maven/com.epam.reportportal/agent-java-cucumber@5.2.2?classifier=sources
 - pkg:maven/com.epam.reportportal/agent-java-cucumber@5.2.3?classifier=sources
 - pkg:maven/com.epam.reportportal/agent-java-cucumber@5.2.4?classifier=sources
+- pkg:maven/com.epam.reportportal/agent-java-cucumber@5.2.5?classifier=sources

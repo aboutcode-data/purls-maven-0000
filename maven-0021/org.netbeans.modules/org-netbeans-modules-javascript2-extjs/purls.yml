@@ -24,3 +24,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-javascript2-extjs@RELEASE220?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-javascript2-extjs@RELEASE230?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-javascript2-extjs@RELEASE240?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-javascript2-extjs@RELEASE250?classifier=sources

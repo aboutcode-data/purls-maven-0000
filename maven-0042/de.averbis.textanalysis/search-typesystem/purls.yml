@@ -1,3 +1,7 @@
+- pkg:maven/de.averbis.textanalysis/search-typesystem@4.10.0
+- pkg:maven/de.averbis.textanalysis/search-typesystem@4.10.0?classifier=sources
+- pkg:maven/de.averbis.textanalysis/search-typesystem@4.10.1
+- pkg:maven/de.averbis.textanalysis/search-typesystem@4.10.1?classifier=sources
 - pkg:maven/de.averbis.textanalysis/search-typesystem@4.5.0
 - pkg:maven/de.averbis.textanalysis/search-typesystem@4.5.0?classifier=sources
 - pkg:maven/de.averbis.textanalysis/search-typesystem@4.6.0

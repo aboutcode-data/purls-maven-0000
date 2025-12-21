@@ -10,6 +10,7 @@
 - pkg:maven/com.optimetriks.unio.compose/statescreens@40?classifier=sources
 - pkg:maven/com.optimetriks.unio.compose/statescreens@46?classifier=sources
 - pkg:maven/com.optimetriks.unio.compose/statescreens@4?classifier=sources
+- pkg:maven/com.optimetriks.unio.compose/statescreens@68?classifier=sources
 - pkg:maven/com.optimetriks.unio.compose/statescreens@6?classifier=sources
 - pkg:maven/com.optimetriks.unio.compose/statescreens@7?classifier=sources
 - pkg:maven/com.optimetriks.unio.compose/statescreens@8?classifier=sources

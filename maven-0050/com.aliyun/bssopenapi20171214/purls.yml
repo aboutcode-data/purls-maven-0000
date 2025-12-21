@@ -78,3 +78,5 @@
 - pkg:maven/com.aliyun/bssopenapi20171214@3.0.3?classifier=sources
 - pkg:maven/com.aliyun/bssopenapi20171214@3.1.0
 - pkg:maven/com.aliyun/bssopenapi20171214@3.1.0?classifier=sources
+- pkg:maven/com.aliyun/bssopenapi20171214@4.0.0
+- pkg:maven/com.aliyun/bssopenapi20171214@4.0.0?classifier=sources

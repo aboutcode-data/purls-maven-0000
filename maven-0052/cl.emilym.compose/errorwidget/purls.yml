@@ -2,3 +2,4 @@
 - pkg:maven/cl.emilym.compose/errorwidget@1.0.0?type=aar
 - pkg:maven/cl.emilym.compose/errorwidget@2.0.0?classifier=sources
 - pkg:maven/cl.emilym.compose/errorwidget@2.0.1?classifier=sources
+- pkg:maven/cl.emilym.compose/errorwidget@2.0.2?classifier=sources

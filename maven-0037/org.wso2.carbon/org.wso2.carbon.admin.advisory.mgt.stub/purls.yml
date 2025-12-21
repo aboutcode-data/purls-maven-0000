@@ -14,6 +14,10 @@
 - pkg:maven/org.wso2.carbon/org.wso2.carbon.admin.advisory.mgt.stub@4.10.2?classifier=sources
 - pkg:maven/org.wso2.carbon/org.wso2.carbon.admin.advisory.mgt.stub@4.10.31
 - pkg:maven/org.wso2.carbon/org.wso2.carbon.admin.advisory.mgt.stub@4.10.31?classifier=sources
+- pkg:maven/org.wso2.carbon/org.wso2.carbon.admin.advisory.mgt.stub@4.10.32
+- pkg:maven/org.wso2.carbon/org.wso2.carbon.admin.advisory.mgt.stub@4.10.32?classifier=sources
+- pkg:maven/org.wso2.carbon/org.wso2.carbon.admin.advisory.mgt.stub@4.10.39
+- pkg:maven/org.wso2.carbon/org.wso2.carbon.admin.advisory.mgt.stub@4.10.39?classifier=sources
 - pkg:maven/org.wso2.carbon/org.wso2.carbon.admin.advisory.mgt.stub@4.9.22
 - pkg:maven/org.wso2.carbon/org.wso2.carbon.admin.advisory.mgt.stub@4.9.22?classifier=sources
 - pkg:maven/org.wso2.carbon/org.wso2.carbon.admin.advisory.mgt.stub@4.9.26-alpha3

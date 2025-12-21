@@ -64,8 +64,15 @@
 - pkg:maven/org.ossreviewtoolkit/downloader@44.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit/downloader@45.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit/downloader@46.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit/downloader@47.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit/downloader@48.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit/downloader@49.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit/downloader@5.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit/downloader@5.1.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit/downloader@50.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit/downloader@51.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit/downloader@51.1.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit/downloader@52.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit/downloader@6.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit/downloader@6.1.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit/downloader@6.1.1?classifier=sources

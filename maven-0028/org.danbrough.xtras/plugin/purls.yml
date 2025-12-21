@@ -3,3 +3,4 @@
 - pkg:maven/org.danbrough.xtras/plugin@0.0.1-beta10?classifier=sources
 - pkg:maven/org.danbrough.xtras/plugin@0.0.1-beta12?classifier=sources
 - pkg:maven/org.danbrough.xtras/plugin@0.0.1-beta13?classifier=sources
+- pkg:maven/org.danbrough.xtras/plugin@0.0.1-beta14?classifier=sources

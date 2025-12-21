@@ -1,0 +1,4 @@
+- pkg:maven/com.wz7982/sqala-query_3@0.2.20
+- pkg:maven/com.wz7982/sqala-query_3@0.2.20?classifier=sources
+- pkg:maven/com.wz7982/sqala-query_3@0.2.21
+- pkg:maven/com.wz7982/sqala-query_3@0.2.21?classifier=sources

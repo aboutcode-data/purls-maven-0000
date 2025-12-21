@@ -30,3 +30,5 @@
 - pkg:maven/se.idsec.signservice.integration/signservice-integration-xml@2.0.0?classifier=sources
 - pkg:maven/se.idsec.signservice.integration/signservice-integration-xml@2.3.0
 - pkg:maven/se.idsec.signservice.integration/signservice-integration-xml@2.3.0?classifier=sources
+- pkg:maven/se.idsec.signservice.integration/signservice-integration-xml@2.3.1
+- pkg:maven/se.idsec.signservice.integration/signservice-integration-xml@2.3.1?classifier=sources

@@ -1,2 +1,4 @@
+- pkg:maven/jakarta.tck.coreprofile/core-tck-jsonp-extension@10.0.4
+- pkg:maven/jakarta.tck.coreprofile/core-tck-jsonp-extension@10.0.4?classifier=sources
 - pkg:maven/jakarta.tck.coreprofile/core-tck-jsonp-extension@11.0.0
 - pkg:maven/jakarta.tck.coreprofile/core-tck-jsonp-extension@11.0.0?classifier=sources

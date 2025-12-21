@@ -122,6 +122,12 @@
 - pkg:maven/io.primer/android@2.32.4?classifier=sources
 - pkg:maven/io.primer/android@2.33.0?classifier=sources
 - pkg:maven/io.primer/android@2.33.1?classifier=sources
+- pkg:maven/io.primer/android@2.34.0?classifier=sources
+- pkg:maven/io.primer/android@2.35.0?classifier=sources
+- pkg:maven/io.primer/android@2.36.0?classifier=sources
+- pkg:maven/io.primer/android@2.36.1?classifier=sources
+- pkg:maven/io.primer/android@2.36.2?classifier=sources
+- pkg:maven/io.primer/android@2.36.3?classifier=sources
 - pkg:maven/io.primer/android@2.4.0?classifier=sources
 - pkg:maven/io.primer/android@2.5.0?classifier=sources
 - pkg:maven/io.primer/android@2.6.0?classifier=sources

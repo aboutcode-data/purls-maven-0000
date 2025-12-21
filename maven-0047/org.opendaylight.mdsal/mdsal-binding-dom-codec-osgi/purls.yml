@@ -84,6 +84,7 @@
 - pkg:maven/org.opendaylight.mdsal/mdsal-binding-dom-codec-osgi@13.0.6?classifier=sources
 - pkg:maven/org.opendaylight.mdsal/mdsal-binding-dom-codec-osgi@13.0.7
 - pkg:maven/org.opendaylight.mdsal/mdsal-binding-dom-codec-osgi@13.0.7?classifier=sources
+- pkg:maven/org.opendaylight.mdsal/mdsal-binding-dom-codec-osgi@13.0.8?classifier=sources
 - pkg:maven/org.opendaylight.mdsal/mdsal-binding-dom-codec-osgi@3.0.0
 - pkg:maven/org.opendaylight.mdsal/mdsal-binding-dom-codec-osgi@3.0.0?classifier=sources
 - pkg:maven/org.opendaylight.mdsal/mdsal-binding-dom-codec-osgi@3.0.1

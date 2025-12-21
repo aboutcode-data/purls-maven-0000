@@ -5,3 +5,5 @@
 - pkg:maven/co.elastic.otel/universal-profiling-integration@0.5.0?classifier=sources
 - pkg:maven/co.elastic.otel/universal-profiling-integration@1.0.0?classifier=sources
 - pkg:maven/co.elastic.otel/universal-profiling-integration@1.1.0?classifier=sources
+- pkg:maven/co.elastic.otel/universal-profiling-integration@1.2.0?classifier=sources
+- pkg:maven/co.elastic.otel/universal-profiling-integration@1.2.1?classifier=sources

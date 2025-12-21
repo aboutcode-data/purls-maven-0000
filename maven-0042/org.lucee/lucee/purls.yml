@@ -278,3 +278,6 @@
 - pkg:maven/org.lucee/lucee@6.2.0.165-RC?classifier=sources
 - pkg:maven/org.lucee/lucee@6.2.0.166-RC?classifier=sources
 - pkg:maven/org.lucee/lucee@6.2.0.284-RC?classifier=sources
+- pkg:maven/org.lucee/lucee@6.2.0.298-RC?classifier=sources
+- pkg:maven/org.lucee/lucee@6.2.0.313-RC?classifier=sources
+- pkg:maven/org.lucee/lucee@6.2.0.316-RC?classifier=sources

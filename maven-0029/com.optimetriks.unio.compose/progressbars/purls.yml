@@ -10,6 +10,7 @@
 - pkg:maven/com.optimetriks.unio.compose/progressbars@40?classifier=sources
 - pkg:maven/com.optimetriks.unio.compose/progressbars@46?classifier=sources
 - pkg:maven/com.optimetriks.unio.compose/progressbars@4?classifier=sources
+- pkg:maven/com.optimetriks.unio.compose/progressbars@68?classifier=sources
 - pkg:maven/com.optimetriks.unio.compose/progressbars@6?classifier=sources
 - pkg:maven/com.optimetriks.unio.compose/progressbars@7?classifier=sources
 - pkg:maven/com.optimetriks.unio.compose/progressbars@8?classifier=sources

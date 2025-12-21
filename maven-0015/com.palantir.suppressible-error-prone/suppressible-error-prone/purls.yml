@@ -7,3 +7,5 @@
 - pkg:maven/com.palantir.suppressible-error-prone/suppressible-error-prone@1.6.0?classifier=sources
 - pkg:maven/com.palantir.suppressible-error-prone/suppressible-error-prone@1.7.0?classifier=sources
 - pkg:maven/com.palantir.suppressible-error-prone/suppressible-error-prone@1.8.0?classifier=sources
+- pkg:maven/com.palantir.suppressible-error-prone/suppressible-error-prone@2.0.0?classifier=sources
+- pkg:maven/com.palantir.suppressible-error-prone/suppressible-error-prone@2.1.0?classifier=sources

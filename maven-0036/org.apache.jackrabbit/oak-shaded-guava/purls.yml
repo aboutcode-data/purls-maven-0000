@@ -22,3 +22,5 @@
 - pkg:maven/org.apache.jackrabbit/oak-shaded-guava@1.72.0?classifier=sources
 - pkg:maven/org.apache.jackrabbit/oak-shaded-guava@1.74.0
 - pkg:maven/org.apache.jackrabbit/oak-shaded-guava@1.74.0?classifier=sources
+- pkg:maven/org.apache.jackrabbit/oak-shaded-guava@1.76.0
+- pkg:maven/org.apache.jackrabbit/oak-shaded-guava@1.76.0?classifier=sources
