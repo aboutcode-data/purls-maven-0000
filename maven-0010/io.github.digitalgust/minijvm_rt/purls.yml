@@ -18,3 +18,4 @@
 - pkg:maven/io.github.digitalgust/minijvm_rt@1.1.9?classifier=sources
 - pkg:maven/io.github.digitalgust/minijvm_rt@1.2.0?classifier=sources
 - pkg:maven/io.github.digitalgust/minijvm_rt@2.0.0?classifier=sources
+- pkg:maven/io.github.digitalgust/minijvm_rt@2.0.1?classifier=sources

@@ -2,3 +2,5 @@
 - pkg:maven/net.solarnetwork.node/net.solarnetwork.node.datum.controls@1.0.0?classifier=sources
 - pkg:maven/net.solarnetwork.node/net.solarnetwork.node.datum.controls@2.0.0
 - pkg:maven/net.solarnetwork.node/net.solarnetwork.node.datum.controls@2.0.0?classifier=sources
+- pkg:maven/net.solarnetwork.node/net.solarnetwork.node.datum.controls@3.0.0
+- pkg:maven/net.solarnetwork.node/net.solarnetwork.node.datum.controls@3.0.0?classifier=sources

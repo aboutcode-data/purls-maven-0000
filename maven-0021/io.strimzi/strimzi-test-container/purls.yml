@@ -25,6 +25,8 @@
 - pkg:maven/io.strimzi/strimzi-test-container@0.110.0
 - pkg:maven/io.strimzi/strimzi-test-container@0.110.0?classifier=sources
 - pkg:maven/io.strimzi/strimzi-test-container@0.111.0-RC1?classifier=sources
+- pkg:maven/io.strimzi/strimzi-test-container@0.111.0-RC2?classifier=sources
+- pkg:maven/io.strimzi/strimzi-test-container@0.111.0?classifier=sources
 - pkg:maven/io.strimzi/strimzi-test-container@0.21.0
 - pkg:maven/io.strimzi/strimzi-test-container@0.21.0?classifier=sources
 - pkg:maven/io.strimzi/strimzi-test-container@0.21.1

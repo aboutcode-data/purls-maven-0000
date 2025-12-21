@@ -44,3 +44,5 @@
 - pkg:maven/dev.profunktor/http4s-jwt-auth_2.13@2.0.7?classifier=sources
 - pkg:maven/dev.profunktor/http4s-jwt-auth_2.13@2.0.8
 - pkg:maven/dev.profunktor/http4s-jwt-auth_2.13@2.0.8?classifier=sources
+- pkg:maven/dev.profunktor/http4s-jwt-auth_2.13@2.0.9
+- pkg:maven/dev.profunktor/http4s-jwt-auth_2.13@2.0.9?classifier=sources

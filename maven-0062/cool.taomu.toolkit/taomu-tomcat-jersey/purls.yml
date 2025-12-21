@@ -1,3 +1,4 @@
+- pkg:maven/cool.taomu.toolkit/taomu-tomcat-jersey@0.0.21?classifier=sources
 - pkg:maven/cool.taomu.toolkit/taomu-tomcat-jersey@0.0.6.b2?classifier=sources
 - pkg:maven/cool.taomu.toolkit/taomu-tomcat-jersey@0.0.6.b3?classifier=sources
 - pkg:maven/cool.taomu.toolkit/taomu-tomcat-jersey@0.0.7.b1?classifier=sources

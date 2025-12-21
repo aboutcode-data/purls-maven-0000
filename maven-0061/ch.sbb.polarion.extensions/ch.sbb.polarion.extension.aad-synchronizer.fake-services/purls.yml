@@ -1,0 +1,2 @@
+- pkg:maven/ch.sbb.polarion.extensions/ch.sbb.polarion.extension.aad-synchronizer.fake-services@1.0.0?classifier=sources
+- pkg:maven/ch.sbb.polarion.extensions/ch.sbb.polarion.extension.aad-synchronizer.fake-services@1.0.1?classifier=sources

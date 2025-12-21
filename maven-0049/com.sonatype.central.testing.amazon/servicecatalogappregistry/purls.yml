@@ -1,0 +1,2 @@
+- pkg:maven/com.sonatype.central.testing.amazon/servicecatalogappregistry@3.5.7?classifier=sources
+- pkg:maven/com.sonatype.central.testing.amazon/servicecatalogappregistry@3.6.2?classifier=sources

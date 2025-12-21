@@ -150,7 +150,10 @@
 - pkg:maven/com.revenuecat.purchases/purchases-store-amazon@8.19.2?classifier=sources
 - pkg:maven/com.revenuecat.purchases/purchases-store-amazon@8.2.0?classifier=sources
 - pkg:maven/com.revenuecat.purchases/purchases-store-amazon@8.2.1?classifier=sources
+- pkg:maven/com.revenuecat.purchases/purchases-store-amazon@8.20.0-vc-beta.2?classifier=sources
 - pkg:maven/com.revenuecat.purchases/purchases-store-amazon@8.20.0?classifier=sources
+- pkg:maven/com.revenuecat.purchases/purchases-store-amazon@8.21.0?classifier=sources
+- pkg:maven/com.revenuecat.purchases/purchases-store-amazon@8.22.0?classifier=sources
 - pkg:maven/com.revenuecat.purchases/purchases-store-amazon@8.3.0?classifier=sources
 - pkg:maven/com.revenuecat.purchases/purchases-store-amazon@8.3.1?classifier=sources
 - pkg:maven/com.revenuecat.purchases/purchases-store-amazon@8.4.0?classifier=sources
@@ -164,5 +167,9 @@
 - pkg:maven/com.revenuecat.purchases/purchases-store-amazon@8.8.2?classifier=sources
 - pkg:maven/com.revenuecat.purchases/purchases-store-amazon@8.9.0-ANONYMOUS-REDEMPTION-SNAPSHOT.01?classifier=sources
 - pkg:maven/com.revenuecat.purchases/purchases-store-amazon@8.9.0?classifier=sources
+- pkg:maven/com.revenuecat.purchases/purchases-store-amazon@9.0.0?classifier=sources
+- pkg:maven/com.revenuecat.purchases/purchases-store-amazon@9.0.1?classifier=sources
+- pkg:maven/com.revenuecat.purchases/purchases-store-amazon@9.1.0?classifier=sources
+- pkg:maven/com.revenuecat.purchases/purchases-store-amazon@9.1.1?classifier=sources
 - pkg:maven/com.revenuecat.purchases/purchases-store-amazon@AMAZON.RC1?classifier=sources
 - pkg:maven/com.revenuecat.purchases/purchases-store-amazon@AMAZON.RC1?type=aar

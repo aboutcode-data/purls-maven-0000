@@ -12,4 +12,5 @@
 - pkg:maven/com.mineplex.studio.sdk/relocated-yaml@1.18.2?classifier=sources
 - pkg:maven/com.mineplex.studio.sdk/relocated-yaml@1.18.3?classifier=sources
 - pkg:maven/com.mineplex.studio.sdk/relocated-yaml@1.18.4?classifier=sources
+- pkg:maven/com.mineplex.studio.sdk/relocated-yaml@1.18.6?classifier=sources
 - pkg:maven/com.mineplex.studio.sdk/relocated-yaml@unspecified?classifier=sources

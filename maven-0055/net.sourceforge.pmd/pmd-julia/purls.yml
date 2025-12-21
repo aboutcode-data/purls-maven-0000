@@ -17,6 +17,7 @@
 - pkg:maven/net.sourceforge.pmd/pmd-julia@7.13.0
 - pkg:maven/net.sourceforge.pmd/pmd-julia@7.13.0?classifier=sources
 - pkg:maven/net.sourceforge.pmd/pmd-julia@7.14.0?classifier=sources
+- pkg:maven/net.sourceforge.pmd/pmd-julia@7.15.0?classifier=sources
 - pkg:maven/net.sourceforge.pmd/pmd-julia@7.2.0
 - pkg:maven/net.sourceforge.pmd/pmd-julia@7.2.0?classifier=sources
 - pkg:maven/net.sourceforge.pmd/pmd-julia@7.3.0

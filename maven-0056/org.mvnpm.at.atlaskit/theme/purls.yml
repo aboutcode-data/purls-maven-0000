@@ -3,3 +3,5 @@
 - pkg:maven/org.mvnpm.at.atlaskit/theme@18.0.2?classifier=sources
 - pkg:maven/org.mvnpm.at.atlaskit/theme@18.0.3
 - pkg:maven/org.mvnpm.at.atlaskit/theme@18.0.3?classifier=sources
+- pkg:maven/org.mvnpm.at.atlaskit/theme@19.0.0
+- pkg:maven/org.mvnpm.at.atlaskit/theme@19.0.0?classifier=sources

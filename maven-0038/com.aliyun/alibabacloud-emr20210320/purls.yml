@@ -50,3 +50,4 @@
 - pkg:maven/com.aliyun/alibabacloud-emr20210320@2.0.8?classifier=sources
 - pkg:maven/com.aliyun/alibabacloud-emr20210320@2.0.9
 - pkg:maven/com.aliyun/alibabacloud-emr20210320@2.0.9?classifier=sources
+- pkg:maven/com.aliyun/alibabacloud-emr20210320@3.0.0?classifier=sources

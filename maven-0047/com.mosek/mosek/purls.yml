@@ -5,5 +5,7 @@
 - pkg:maven/com.mosek/mosek@11.0.21?classifier=sources
 - pkg:maven/com.mosek/mosek@11.0.22?classifier=sources
 - pkg:maven/com.mosek/mosek@11.0.23?classifier=sources
+- pkg:maven/com.mosek/mosek@11.0.24?classifier=sources
+- pkg:maven/com.mosek/mosek@11.0.25?classifier=sources
 - pkg:maven/com.mosek/mosek@11.0.8?classifier=sources
 - pkg:maven/com.mosek/mosek@11.1.0?classifier=sources

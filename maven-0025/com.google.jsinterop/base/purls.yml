@@ -14,3 +14,4 @@
 - pkg:maven/com.google.jsinterop/base@1.0.2?classifier=sources
 - pkg:maven/com.google.jsinterop/base@1.0.3
 - pkg:maven/com.google.jsinterop/base@1.0.3?classifier=sources
+- pkg:maven/com.google.jsinterop/base@test_workflow?classifier=sources

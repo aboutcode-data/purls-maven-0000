@@ -4,3 +4,4 @@
 - pkg:maven/org.webjars.npm/qrcode-generator@1.2.0?classifier=sources
 - pkg:maven/org.webjars.npm/qrcode-generator@1.4.4
 - pkg:maven/org.webjars.npm/qrcode-generator@1.4.4?classifier=sources
+- pkg:maven/org.webjars.npm/qrcode-generator@2.0.2

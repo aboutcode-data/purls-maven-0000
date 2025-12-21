@@ -2,3 +2,6 @@
 - pkg:maven/io.github.tomverin/sonar-dummy-oss-plugin@2.7.0.1234?classifier=sources
 - pkg:maven/io.github.tomverin/sonar-dummy-oss-plugin@2.7.0.6011?classifier=sources
 - pkg:maven/io.github.tomverin/sonar-dummy-oss-plugin@2.7.0.6015?classifier=sources
+- pkg:maven/io.github.tomverin/sonar-dummy-oss-plugin@2.7.0.6019?classifier=sources
+- pkg:maven/io.github.tomverin/sonar-dummy-oss-plugin@2.7.0.6020?classifier=sources
+- pkg:maven/io.github.tomverin/sonar-dummy-oss-plugin@2.7.0.6021?classifier=sources

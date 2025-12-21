@@ -18,3 +18,4 @@
 - pkg:maven/network.chaintech/compose-multiplatform-media-player-jvm@1.0.39?classifier=sources
 - pkg:maven/network.chaintech/compose-multiplatform-media-player-jvm@1.0.40?classifier=sources
 - pkg:maven/network.chaintech/compose-multiplatform-media-player-jvm@1.0.41?classifier=sources
+- pkg:maven/network.chaintech/compose-multiplatform-media-player-jvm@1.0.42?classifier=sources

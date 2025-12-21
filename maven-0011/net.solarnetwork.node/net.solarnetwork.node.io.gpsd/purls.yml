@@ -2,3 +2,5 @@
 - pkg:maven/net.solarnetwork.node/net.solarnetwork.node.io.gpsd@2.0.0?classifier=sources
 - pkg:maven/net.solarnetwork.node/net.solarnetwork.node.io.gpsd@3.0.0
 - pkg:maven/net.solarnetwork.node/net.solarnetwork.node.io.gpsd@3.0.0?classifier=sources
+- pkg:maven/net.solarnetwork.node/net.solarnetwork.node.io.gpsd@4.0.0
+- pkg:maven/net.solarnetwork.node/net.solarnetwork.node.io.gpsd@4.0.0?classifier=sources

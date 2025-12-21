@@ -4,3 +4,5 @@
 - pkg:maven/software.sava/sava-core@24.19.4?classifier=sources
 - pkg:maven/software.sava/sava-core@24.19.6?classifier=sources
 - pkg:maven/software.sava/sava-core@24.19.7?classifier=sources
+- pkg:maven/software.sava/sava-core@24.19.8?classifier=sources
+- pkg:maven/software.sava/sava-core@24.19.9?classifier=sources

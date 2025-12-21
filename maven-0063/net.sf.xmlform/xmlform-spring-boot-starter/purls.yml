@@ -1,0 +1,2 @@
+- pkg:maven/net.sf.xmlform/xmlform-spring-boot-starter@3.4.1
+- pkg:maven/net.sf.xmlform/xmlform-spring-boot-starter@3.4.1?classifier=sources

@@ -48,6 +48,7 @@
 - pkg:maven/com.vaadin/license-checker-machineid@1.13.3?classifier=sources
 - pkg:maven/com.vaadin/license-checker-machineid@1.13.4
 - pkg:maven/com.vaadin/license-checker-machineid@1.13.4?classifier=sources
+- pkg:maven/com.vaadin/license-checker-machineid@1.13.5?classifier=sources
 - pkg:maven/com.vaadin/license-checker-machineid@1.8.0
 - pkg:maven/com.vaadin/license-checker-machineid@1.8.0?classifier=sources
 - pkg:maven/com.vaadin/license-checker-machineid@1.8.1

@@ -1,0 +1,2 @@
+- pkg:maven/dev.soundness/urticose-core@0.39.0
+- pkg:maven/dev.soundness/urticose-core@0.39.0?classifier=sources

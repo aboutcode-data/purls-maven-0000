@@ -32,3 +32,5 @@
 - pkg:maven/com.leanxcale/lxqefwd@2.7.2506061114?classifier=sources
 - pkg:maven/com.leanxcale/lxqefwd@2.7.2506101438
 - pkg:maven/com.leanxcale/lxqefwd@2.7.2506101438?classifier=sources
+- pkg:maven/com.leanxcale/lxqefwd@2.7.2506261212
+- pkg:maven/com.leanxcale/lxqefwd@2.7.2506261212?classifier=sources

@@ -5,6 +5,8 @@
 - pkg:maven/com.intsoftdev/nrstations@0.0.52?classifier=sources
 - pkg:maven/com.intsoftdev/nrstations@1.0.0-ALPHA-12?classifier=sources
 - pkg:maven/com.intsoftdev/nrstations@1.0.0-ALPHA-13?classifier=sources
+- pkg:maven/com.intsoftdev/nrstations@1.0.0-ALPHA-14?classifier=sources
+- pkg:maven/com.intsoftdev/nrstations@1.0.0-ALPHA-15?classifier=sources
 - pkg:maven/com.intsoftdev/nrstations@1.0.0-ALPHA-2?classifier=sources
 - pkg:maven/com.intsoftdev/nrstations@1.0.0-ALPHA-4?classifier=sources
 - pkg:maven/com.intsoftdev/nrstations@1.0.0-ALPHA-7?classifier=sources

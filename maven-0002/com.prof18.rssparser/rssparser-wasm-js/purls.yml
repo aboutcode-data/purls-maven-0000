@@ -1,0 +1,2 @@
+- pkg:maven/com.prof18.rssparser/rssparser-wasm-js@6.1.0-alpha01?classifier=sources
+- pkg:maven/com.prof18.rssparser/rssparser-wasm-js@6.1.0-alpha02?classifier=sources

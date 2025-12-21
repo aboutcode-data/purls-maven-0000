@@ -20,3 +20,4 @@
 - pkg:maven/dev.ikm.tinkar/tinkar-schema@1.39.0?classifier=sources
 - pkg:maven/dev.ikm.tinkar/tinkar-schema@1.40.0
 - pkg:maven/dev.ikm.tinkar/tinkar-schema@1.40.0?classifier=sources
+- pkg:maven/dev.ikm.tinkar/tinkar-schema@1.42.0?classifier=sources

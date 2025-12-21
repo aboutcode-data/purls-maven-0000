@@ -4,3 +4,4 @@
 - pkg:maven/org.webjars.npm/env-paths@2.2.0?classifier=sources
 - pkg:maven/org.webjars.npm/env-paths@2.2.1
 - pkg:maven/org.webjars.npm/env-paths@2.2.1?classifier=sources
+- pkg:maven/org.webjars.npm/env-paths@3.0.0

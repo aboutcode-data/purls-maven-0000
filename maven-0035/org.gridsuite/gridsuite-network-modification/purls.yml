@@ -30,6 +30,10 @@
 - pkg:maven/org.gridsuite/gridsuite-network-modification@0.21.0?classifier=sources
 - pkg:maven/org.gridsuite/gridsuite-network-modification@0.22.0
 - pkg:maven/org.gridsuite/gridsuite-network-modification@0.22.0?classifier=sources
+- pkg:maven/org.gridsuite/gridsuite-network-modification@0.23.0?classifier=sources
+- pkg:maven/org.gridsuite/gridsuite-network-modification@0.24.0?classifier=sources
+- pkg:maven/org.gridsuite/gridsuite-network-modification@0.25.0?classifier=sources
+- pkg:maven/org.gridsuite/gridsuite-network-modification@0.26.0?classifier=sources
 - pkg:maven/org.gridsuite/gridsuite-network-modification@0.3.0
 - pkg:maven/org.gridsuite/gridsuite-network-modification@0.3.0?classifier=sources
 - pkg:maven/org.gridsuite/gridsuite-network-modification@0.4.0

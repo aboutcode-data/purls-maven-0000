@@ -11,3 +11,4 @@
 - pkg:maven/org.pepsoft.utils/SwingUtils@1.2.2
 - pkg:maven/org.pepsoft.utils/SwingUtils@1.2.2?classifier=sources
 - pkg:maven/org.pepsoft.utils/SwingUtils@1.2.3?classifier=sources
+- pkg:maven/org.pepsoft.utils/SwingUtils@2.0.0?classifier=sources

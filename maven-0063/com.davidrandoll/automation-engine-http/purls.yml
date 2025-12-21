@@ -1,0 +1,2 @@
+- pkg:maven/com.davidrandoll/automation-engine-http@0.0.1-beta?classifier=sources
+- pkg:maven/com.davidrandoll/automation-engine-http@1.0.0?classifier=sources

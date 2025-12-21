@@ -1,0 +1,2 @@
+- pkg:maven/ca.twoducks/bom-child@1.1?classifier=sources
+- pkg:maven/ca.twoducks/bom-child@1.2?classifier=sources

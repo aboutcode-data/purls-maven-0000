@@ -6,4 +6,8 @@
 - pkg:maven/org.mvnpm/eslint-config-prettier@10.1.4?classifier=sources
 - pkg:maven/org.mvnpm/eslint-config-prettier@10.1.5
 - pkg:maven/org.mvnpm/eslint-config-prettier@10.1.5?classifier=sources
+- pkg:maven/org.mvnpm/eslint-config-prettier@10.1.8
+- pkg:maven/org.mvnpm/eslint-config-prettier@10.1.8?classifier=sources
 - pkg:maven/org.mvnpm/eslint-config-prettier@8.8.0?classifier=sources
+- pkg:maven/org.mvnpm/eslint-config-prettier@9.1.1
+- pkg:maven/org.mvnpm/eslint-config-prettier@9.1.1?classifier=sources

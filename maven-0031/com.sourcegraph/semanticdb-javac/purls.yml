@@ -10,6 +10,8 @@
 - pkg:maven/com.sourcegraph/semanticdb-javac@0.10.3?classifier=sources
 - pkg:maven/com.sourcegraph/semanticdb-javac@0.10.4
 - pkg:maven/com.sourcegraph/semanticdb-javac@0.10.4?classifier=sources
+- pkg:maven/com.sourcegraph/semanticdb-javac@0.11.0
+- pkg:maven/com.sourcegraph/semanticdb-javac@0.11.0?classifier=sources
 - pkg:maven/com.sourcegraph/semanticdb-javac@0.2.0
 - pkg:maven/com.sourcegraph/semanticdb-javac@0.2.0-RC1
 - pkg:maven/com.sourcegraph/semanticdb-javac@0.2.0-RC1?classifier=sources

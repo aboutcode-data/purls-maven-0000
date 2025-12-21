@@ -210,5 +210,7 @@
 - pkg:maven/com.liferay/com.liferay.notification.web@1.0.94?classifier=sources
 - pkg:maven/com.liferay/com.liferay.notification.web@1.0.95?classifier=sources
 - pkg:maven/com.liferay/com.liferay.notification.web@1.0.96?classifier=sources
+- pkg:maven/com.liferay/com.liferay.notification.web@1.0.97?classifier=sources
+- pkg:maven/com.liferay/com.liferay.notification.web@1.0.98?classifier=sources
 - pkg:maven/com.liferay/com.liferay.notification.web@1.0.9?classifier=sources
 - pkg:maven/com.liferay/com.liferay.notification.web@1.0.9?classifier=sources-commercial

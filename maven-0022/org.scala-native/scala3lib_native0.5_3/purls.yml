@@ -518,3 +518,7 @@
 - pkg:maven/org.scala-native/scala3lib_native0.5_3@3.7.2-RC1%2B0.5.7?classifier=sources
 - pkg:maven/org.scala-native/scala3lib_native0.5_3@3.7.2-RC1%2B0.5.8
 - pkg:maven/org.scala-native/scala3lib_native0.5_3@3.7.2-RC1%2B0.5.8?classifier=sources
+- pkg:maven/org.scala-native/scala3lib_native0.5_3@3.7.2-RC2%2B0.5.7
+- pkg:maven/org.scala-native/scala3lib_native0.5_3@3.7.2-RC2%2B0.5.7?classifier=sources
+- pkg:maven/org.scala-native/scala3lib_native0.5_3@3.7.2-RC2%2B0.5.8
+- pkg:maven/org.scala-native/scala3lib_native0.5_3@3.7.2-RC2%2B0.5.8?classifier=sources

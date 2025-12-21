@@ -2,4 +2,6 @@
 - pkg:maven/org.mvnpm.at.fortawesome/fontawesome-free@6.5.1?classifier=sources
 - pkg:maven/org.mvnpm.at.fortawesome/fontawesome-free@6.5.2?classifier=sources
 - pkg:maven/org.mvnpm.at.fortawesome/fontawesome-free@6.6.0?classifier=sources
+- pkg:maven/org.mvnpm.at.fortawesome/fontawesome-free@6.7.0
+- pkg:maven/org.mvnpm.at.fortawesome/fontawesome-free@6.7.0?classifier=sources
 - pkg:maven/org.mvnpm.at.fortawesome/fontawesome-free@6.7.2?classifier=sources

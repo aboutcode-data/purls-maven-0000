@@ -225,6 +225,10 @@
 - pkg:maven/io.gravitee.cockpit/gravitee-cockpit-connectors-core@5.1.24?classifier=sources
 - pkg:maven/io.gravitee.cockpit/gravitee-cockpit-connectors-core@5.1.25
 - pkg:maven/io.gravitee.cockpit/gravitee-cockpit-connectors-core@5.1.25?classifier=sources
+- pkg:maven/io.gravitee.cockpit/gravitee-cockpit-connectors-core@5.1.26
+- pkg:maven/io.gravitee.cockpit/gravitee-cockpit-connectors-core@5.1.26?classifier=sources
+- pkg:maven/io.gravitee.cockpit/gravitee-cockpit-connectors-core@5.1.27
+- pkg:maven/io.gravitee.cockpit/gravitee-cockpit-connectors-core@5.1.27?classifier=sources
 - pkg:maven/io.gravitee.cockpit/gravitee-cockpit-connectors-core@5.1.2?classifier=sources
 - pkg:maven/io.gravitee.cockpit/gravitee-cockpit-connectors-core@5.1.4
 - pkg:maven/io.gravitee.cockpit/gravitee-cockpit-connectors-core@5.1.4?classifier=sources

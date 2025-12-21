@@ -3,3 +3,5 @@
 - pkg:maven/org.flywaydb/flyway-database-duckdb@10.18.0
 - pkg:maven/org.flywaydb/flyway-database-duckdb@10.18.0?classifier=sources
 - pkg:maven/org.flywaydb/flyway-database-duckdb@10.20.0?classifier=sources
+- pkg:maven/org.flywaydb/flyway-database-duckdb@10.21.0?classifier=sources
+- pkg:maven/org.flywaydb/flyway-database-duckdb@10.22.0?classifier=sources

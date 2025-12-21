@@ -4,6 +4,7 @@
 - pkg:maven/com.ibm.websphere.appserver.spi/com.ibm.websphere.appserver.spi.usageMetering@1.1.24
 - pkg:maven/com.ibm.websphere.appserver.spi/com.ibm.websphere.appserver.spi.usageMetering@1.1.25
 - pkg:maven/com.ibm.websphere.appserver.spi/com.ibm.websphere.appserver.spi.usageMetering@1.1.26
+- pkg:maven/com.ibm.websphere.appserver.spi/com.ibm.websphere.appserver.spi.usageMetering@1.2.103?classifier=sources
 - pkg:maven/com.ibm.websphere.appserver.spi/com.ibm.websphere.appserver.spi.usageMetering@1.2.27
 - pkg:maven/com.ibm.websphere.appserver.spi/com.ibm.websphere.appserver.spi.usageMetering@1.2.28
 - pkg:maven/com.ibm.websphere.appserver.spi/com.ibm.websphere.appserver.spi.usageMetering@1.2.29

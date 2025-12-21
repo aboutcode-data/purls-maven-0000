@@ -1,1 +1,2 @@
 - pkg:maven/de.osci/osci-schema@2.4.4?classifier=sources
+- pkg:maven/de.osci/osci-schema@2.4.5-preview-korr9?classifier=sources

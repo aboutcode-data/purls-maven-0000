@@ -112,6 +112,7 @@
 - pkg:maven/com.databricks/databricks-sdk-java@0.53.0?classifier=sources
 - pkg:maven/com.databricks/databricks-sdk-java@0.54.0
 - pkg:maven/com.databricks/databricks-sdk-java@0.54.0?classifier=sources
+- pkg:maven/com.databricks/databricks-sdk-java@0.55.0?classifier=sources
 - pkg:maven/com.databricks/databricks-sdk-java@0.6.0
 - pkg:maven/com.databricks/databricks-sdk-java@0.6.0?classifier=sources
 - pkg:maven/com.databricks/databricks-sdk-java@0.7.0

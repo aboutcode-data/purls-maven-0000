@@ -12,6 +12,7 @@
 - pkg:maven/org.webjars.npm/material__feature-targeting@13.0.0?classifier=sources
 - pkg:maven/org.webjars.npm/material__feature-targeting@14.0.0
 - pkg:maven/org.webjars.npm/material__feature-targeting@14.0.0-canary.261f2db59.0
+- pkg:maven/org.webjars.npm/material__feature-targeting@14.0.0-canary.53b3cad2f.0
 - pkg:maven/org.webjars.npm/material__feature-targeting@14.0.0?classifier=sources
 - pkg:maven/org.webjars.npm/material__feature-targeting@3.1.0
 - pkg:maven/org.webjars.npm/material__feature-targeting@3.1.0?classifier=sources

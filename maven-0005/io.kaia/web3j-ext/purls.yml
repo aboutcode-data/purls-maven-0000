@@ -1,1 +1,2 @@
 - pkg:maven/io.kaia/web3j-ext@v1.0.0?classifier=sources
+- pkg:maven/io.kaia/web3j-ext@v2.0.7?classifier=sources
