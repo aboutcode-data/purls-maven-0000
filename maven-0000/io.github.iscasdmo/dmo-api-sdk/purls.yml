@@ -6,3 +6,4 @@
 - pkg:maven/io.github.iscasdmo/dmo-api-sdk@0.5.3.20250329-alpha?classifier=sources
 - pkg:maven/io.github.iscasdmo/dmo-api-sdk@0.5.3.20250519-alpha?classifier=sources
 - pkg:maven/io.github.iscasdmo/dmo-api-sdk@0.5.3.20250520-alpha?classifier=sources
+- pkg:maven/io.github.iscasdmo/dmo-api-sdk@0.5.3.20250528-alpha?classifier=sources

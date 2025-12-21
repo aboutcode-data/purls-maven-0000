@@ -4,3 +4,4 @@
 - pkg:maven/com.yubico.yubikit/openpgp@2.7.0-alpha01?classifier=sources
 - pkg:maven/com.yubico.yubikit/openpgp@2.7.0?classifier=sources
 - pkg:maven/com.yubico.yubikit/openpgp@2.8.0?classifier=sources
+- pkg:maven/com.yubico.yubikit/openpgp@2.8.1?classifier=sources

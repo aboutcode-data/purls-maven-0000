@@ -14,3 +14,4 @@
 - pkg:maven/com.netflix.nebula/nebula-oss-publishing-plugin@3.3.0?classifier=sources
 - pkg:maven/com.netflix.nebula/nebula-oss-publishing-plugin@3.4.0?classifier=sources
 - pkg:maven/com.netflix.nebula/nebula-oss-publishing-plugin@3.5.0?classifier=sources
+- pkg:maven/com.netflix.nebula/nebula-oss-publishing-plugin@3.6.0?classifier=sources

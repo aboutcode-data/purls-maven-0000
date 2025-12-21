@@ -1,1 +1,3 @@
 - pkg:maven/org.mvnpm/playwright-core@1.51.1?classifier=sources
+- pkg:maven/org.mvnpm/playwright-core@1.53.1
+- pkg:maven/org.mvnpm/playwright-core@1.53.1?classifier=sources

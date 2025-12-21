@@ -3,3 +3,4 @@
 - pkg:maven/dev.roanh.gmark/gmark@1.2?classifier=sources
 - pkg:maven/dev.roanh.gmark/gmark@1.3?classifier=sources
 - pkg:maven/dev.roanh.gmark/gmark@2.0?classifier=sources
+- pkg:maven/dev.roanh.gmark/gmark@2.1?classifier=sources

@@ -44,3 +44,8 @@
 - pkg:maven/org.ossreviewtoolkit.plugins/api@59.1.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins/api@59.2.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins/api@59.3.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins/api@60.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins/api@61.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins/api@61.1.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins/api@61.2.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins/api@61.3.0?classifier=sources

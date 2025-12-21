@@ -1,3 +1,4 @@
 - pkg:maven/com.redwhalertc.webrtc-sdk/android@104.5112.14?classifier=sources
 - pkg:maven/com.redwhalertc.webrtc-sdk/android@104.5112.15?classifier=sources
 - pkg:maven/com.redwhalertc.webrtc-sdk/android@104.5112.1?classifier=sources
+- pkg:maven/com.redwhalertc.webrtc-sdk/android@125.6422.07?classifier=sources

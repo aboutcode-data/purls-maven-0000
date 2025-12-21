@@ -1,3 +1,4 @@
 - pkg:maven/cn.itcraft/nativeloader@0.1?classifier=sources
 - pkg:maven/cn.itcraft/nativeloader@0.2?classifier=sources
 - pkg:maven/cn.itcraft/nativeloader@0.3?classifier=sources
+- pkg:maven/cn.itcraft/nativeloader@0.4?classifier=sources

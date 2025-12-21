@@ -6,3 +6,4 @@
 - pkg:maven/org.webjars.npm/is-wsl@2.1.1?classifier=sources
 - pkg:maven/org.webjars.npm/is-wsl@2.2.0
 - pkg:maven/org.webjars.npm/is-wsl@2.2.0?classifier=sources
+- pkg:maven/org.webjars.npm/is-wsl@3.1.0

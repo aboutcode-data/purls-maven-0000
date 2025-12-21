@@ -58,3 +58,6 @@
 - pkg:maven/ie.equalit.ouinet/browser-engine-gecko-ceno@138.0.3?classifier=sources
 - pkg:maven/ie.equalit.ouinet/browser-engine-gecko-ceno@138.0.4?classifier=sources
 - pkg:maven/ie.equalit.ouinet/browser-engine-gecko-ceno@138.0?classifier=sources
+- pkg:maven/ie.equalit.ouinet/browser-engine-gecko-ceno@139.0.2?classifier=sources
+- pkg:maven/ie.equalit.ouinet/browser-engine-gecko-ceno@139.0.4?classifier=sources
+- pkg:maven/ie.equalit.ouinet/browser-engine-gecko-ceno@139.0?classifier=sources

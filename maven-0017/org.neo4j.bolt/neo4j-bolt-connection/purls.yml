@@ -8,3 +8,9 @@
 - pkg:maven/org.neo4j.bolt/neo4j-bolt-connection@2.0.0?classifier=sources
 - pkg:maven/org.neo4j.bolt/neo4j-bolt-connection@3.0.0
 - pkg:maven/org.neo4j.bolt/neo4j-bolt-connection@3.0.0?classifier=sources
+- pkg:maven/org.neo4j.bolt/neo4j-bolt-connection@4.0.0
+- pkg:maven/org.neo4j.bolt/neo4j-bolt-connection@4.0.0?classifier=sources
+- pkg:maven/org.neo4j.bolt/neo4j-bolt-connection@4.1.0
+- pkg:maven/org.neo4j.bolt/neo4j-bolt-connection@4.1.0?classifier=sources
+- pkg:maven/org.neo4j.bolt/neo4j-bolt-connection@5.0.0
+- pkg:maven/org.neo4j.bolt/neo4j-bolt-connection@5.0.0?classifier=sources

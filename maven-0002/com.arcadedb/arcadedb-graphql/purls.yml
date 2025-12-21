@@ -70,3 +70,4 @@
 - pkg:maven/com.arcadedb/arcadedb-graphql@25.3.2?classifier=sources
 - pkg:maven/com.arcadedb/arcadedb-graphql@25.4.1
 - pkg:maven/com.arcadedb/arcadedb-graphql@25.4.1?classifier=sources
+- pkg:maven/com.arcadedb/arcadedb-graphql@25.5.1?classifier=sources

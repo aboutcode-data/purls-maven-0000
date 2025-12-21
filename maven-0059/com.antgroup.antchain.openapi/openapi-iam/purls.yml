@@ -8,3 +8,5 @@
 - pkg:maven/com.antgroup.antchain.openapi/openapi-iam@3.12.4?classifier=sources
 - pkg:maven/com.antgroup.antchain.openapi/openapi-iam@3.12.8
 - pkg:maven/com.antgroup.antchain.openapi/openapi-iam@3.12.8?classifier=sources
+- pkg:maven/com.antgroup.antchain.openapi/openapi-iam@3.13.1
+- pkg:maven/com.antgroup.antchain.openapi/openapi-iam@3.13.1?classifier=sources

@@ -1,0 +1,1 @@
+- pkg:maven/org.opensearch.dataprepper.plugins/aws-sqs-common@2.12.0?classifier=sources

@@ -32,6 +32,8 @@
 - pkg:maven/org.glassfish.jersey.connectors/jersey-helidon-connector@2.45?classifier=sources
 - pkg:maven/org.glassfish.jersey.connectors/jersey-helidon-connector@2.46
 - pkg:maven/org.glassfish.jersey.connectors/jersey-helidon-connector@2.46?classifier=sources
+- pkg:maven/org.glassfish.jersey.connectors/jersey-helidon-connector@2.47
+- pkg:maven/org.glassfish.jersey.connectors/jersey-helidon-connector@2.47?classifier=sources
 - pkg:maven/org.glassfish.jersey.connectors/jersey-helidon-connector@3.0.10
 - pkg:maven/org.glassfish.jersey.connectors/jersey-helidon-connector@3.0.10?classifier=sources
 - pkg:maven/org.glassfish.jersey.connectors/jersey-helidon-connector@3.0.11
@@ -48,6 +50,8 @@
 - pkg:maven/org.glassfish.jersey.connectors/jersey-helidon-connector@3.0.16?classifier=sources
 - pkg:maven/org.glassfish.jersey.connectors/jersey-helidon-connector@3.0.17
 - pkg:maven/org.glassfish.jersey.connectors/jersey-helidon-connector@3.0.17?classifier=sources
+- pkg:maven/org.glassfish.jersey.connectors/jersey-helidon-connector@3.0.18
+- pkg:maven/org.glassfish.jersey.connectors/jersey-helidon-connector@3.0.18?classifier=sources
 - pkg:maven/org.glassfish.jersey.connectors/jersey-helidon-connector@3.0.5
 - pkg:maven/org.glassfish.jersey.connectors/jersey-helidon-connector@3.0.5?classifier=sources
 - pkg:maven/org.glassfish.jersey.connectors/jersey-helidon-connector@3.0.6

@@ -28,3 +28,5 @@
 - pkg:maven/com.holon-platform.jpa/holon-jpa-bean-processors@5.5.0?classifier=sources
 - pkg:maven/com.holon-platform.jpa/holon-jpa-bean-processors@5.7.0
 - pkg:maven/com.holon-platform.jpa/holon-jpa-bean-processors@5.7.0?classifier=sources
+- pkg:maven/com.holon-platform.jpa/holon-jpa-bean-processors@6.0.0
+- pkg:maven/com.holon-platform.jpa/holon-jpa-bean-processors@6.0.0?classifier=sources

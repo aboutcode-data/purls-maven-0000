@@ -11,3 +11,13 @@
 - pkg:maven/org.mvnpm.at.stencil/core@4.31.0?classifier=sources
 - pkg:maven/org.mvnpm.at.stencil/core@4.32.0
 - pkg:maven/org.mvnpm.at.stencil/core@4.32.0?classifier=sources
+- pkg:maven/org.mvnpm.at.stencil/core@4.33.0
+- pkg:maven/org.mvnpm.at.stencil/core@4.33.0?classifier=sources
+- pkg:maven/org.mvnpm.at.stencil/core@4.33.1
+- pkg:maven/org.mvnpm.at.stencil/core@4.33.1?classifier=sources
+- pkg:maven/org.mvnpm.at.stencil/core@4.34.0
+- pkg:maven/org.mvnpm.at.stencil/core@4.34.0?classifier=sources
+- pkg:maven/org.mvnpm.at.stencil/core@4.35.0
+- pkg:maven/org.mvnpm.at.stencil/core@4.35.0?classifier=sources
+- pkg:maven/org.mvnpm.at.stencil/core@4.35.1
+- pkg:maven/org.mvnpm.at.stencil/core@4.35.1?classifier=sources

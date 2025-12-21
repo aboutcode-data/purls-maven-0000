@@ -166,8 +166,12 @@
 - pkg:maven/io.mateu/dtos@2.4.94
 - pkg:maven/io.mateu/dtos@2.4.94?classifier=sources
 - pkg:maven/io.mateu/dtos@2.4.9?classifier=sources
+- pkg:maven/io.mateu/dtos@3.0-alpha.0100
+- pkg:maven/io.mateu/dtos@3.0-alpha.0100?classifier=sources
 - pkg:maven/io.mateu/dtos@3.0-alpha.1
 - pkg:maven/io.mateu/dtos@3.0-alpha.10
+- pkg:maven/io.mateu/dtos@3.0-alpha.101
+- pkg:maven/io.mateu/dtos@3.0-alpha.101?classifier=sources
 - pkg:maven/io.mateu/dtos@3.0-alpha.10?classifier=sources
 - pkg:maven/io.mateu/dtos@3.0-alpha.11
 - pkg:maven/io.mateu/dtos@3.0-alpha.11?classifier=sources

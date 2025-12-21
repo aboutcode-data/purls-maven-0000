@@ -28,6 +28,7 @@
 - pkg:maven/com.adyen.threeds/adyen-3ds2@2.2.21?classifier=sources
 - pkg:maven/com.adyen.threeds/adyen-3ds2@2.2.22?classifier=sources
 - pkg:maven/com.adyen.threeds/adyen-3ds2@2.2.23?classifier=sources
+- pkg:maven/com.adyen.threeds/adyen-3ds2@2.2.24?classifier=sources
 - pkg:maven/com.adyen.threeds/adyen-3ds2@2.2.2?classifier=sources
 - pkg:maven/com.adyen.threeds/adyen-3ds2@2.2.3?classifier=sources
 - pkg:maven/com.adyen.threeds/adyen-3ds2@2.2.4?classifier=sources

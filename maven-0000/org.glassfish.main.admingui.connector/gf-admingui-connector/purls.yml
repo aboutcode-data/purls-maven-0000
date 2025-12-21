@@ -46,6 +46,7 @@
 - pkg:maven/org.glassfish.main.admingui.connector/gf-admingui-connector@7.0.22?classifier=sources
 - pkg:maven/org.glassfish.main.admingui.connector/gf-admingui-connector@7.0.23?classifier=sources
 - pkg:maven/org.glassfish.main.admingui.connector/gf-admingui-connector@7.0.24?classifier=sources
+- pkg:maven/org.glassfish.main.admingui.connector/gf-admingui-connector@7.0.25?classifier=sources
 - pkg:maven/org.glassfish.main.admingui.connector/gf-admingui-connector@7.0.2?classifier=sources
 - pkg:maven/org.glassfish.main.admingui.connector/gf-admingui-connector@7.0.3?classifier=sources
 - pkg:maven/org.glassfish.main.admingui.connector/gf-admingui-connector@7.0.4?classifier=sources
@@ -55,6 +56,7 @@
 - pkg:maven/org.glassfish.main.admingui.connector/gf-admingui-connector@7.0.8?classifier=sources
 - pkg:maven/org.glassfish.main.admingui.connector/gf-admingui-connector@7.0.9?classifier=sources
 - pkg:maven/org.glassfish.main.admingui.connector/gf-admingui-connector@8.0.0-JDK17-M10?classifier=sources
+- pkg:maven/org.glassfish.main.admingui.connector/gf-admingui-connector@8.0.0-JDK17-M12?classifier=sources
 - pkg:maven/org.glassfish.main.admingui.connector/gf-admingui-connector@8.0.0-JDK17-M5?classifier=sources
 - pkg:maven/org.glassfish.main.admingui.connector/gf-admingui-connector@8.0.0-JDK17-M6?classifier=sources
 - pkg:maven/org.glassfish.main.admingui.connector/gf-admingui-connector@8.0.0-JDK17-M7?classifier=sources

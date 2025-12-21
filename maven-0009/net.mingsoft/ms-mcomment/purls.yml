@@ -26,3 +26,4 @@
 - pkg:maven/net.mingsoft/ms-mcomment@2.2.6?classifier=sources
 - pkg:maven/net.mingsoft/ms-mcomment@2.2.7
 - pkg:maven/net.mingsoft/ms-mcomment@2.2.7?classifier=sources
+- pkg:maven/net.mingsoft/ms-mcomment@3.0.0?classifier=sources

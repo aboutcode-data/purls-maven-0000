@@ -1,3 +1,4 @@
+- pkg:maven/io.smallrye.opentelemetry/smallrye-opentelemetry-propagation@2.10.0?classifier=sources
 - pkg:maven/io.smallrye.opentelemetry/smallrye-opentelemetry-propagation@2.5.0
 - pkg:maven/io.smallrye.opentelemetry/smallrye-opentelemetry-propagation@2.5.0?classifier=sources
 - pkg:maven/io.smallrye.opentelemetry/smallrye-opentelemetry-propagation@2.5.1

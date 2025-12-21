@@ -1,4 +1,6 @@
 - pkg:maven/org.mvnpm/unist-util-visit@1.4.1?classifier=sources
 - pkg:maven/org.mvnpm/unist-util-visit@2.0.3?classifier=sources
+- pkg:maven/org.mvnpm/unist-util-visit@3.1.0
+- pkg:maven/org.mvnpm/unist-util-visit@3.1.0?classifier=sources
 - pkg:maven/org.mvnpm/unist-util-visit@4.1.2?classifier=sources
 - pkg:maven/org.mvnpm/unist-util-visit@5.0.0?classifier=sources

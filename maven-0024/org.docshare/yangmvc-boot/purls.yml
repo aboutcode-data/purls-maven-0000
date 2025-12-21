@@ -19,3 +19,6 @@
 - pkg:maven/org.docshare/yangmvc-boot@2023.06.19
 - pkg:maven/org.docshare/yangmvc-boot@2023.06.19?classifier=sources
 - pkg:maven/org.docshare/yangmvc-boot@2025.05.19?classifier=sources
+- pkg:maven/org.docshare/yangmvc-boot@2025.06.19?classifier=sources
+- pkg:maven/org.docshare/yangmvc-boot@2025.06.20?classifier=sources
+- pkg:maven/org.docshare/yangmvc-boot@2025.06.29?classifier=sources

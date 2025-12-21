@@ -1,3 +1,4 @@
+- pkg:maven/org.webjars.npm/firebase__analytics@0.10.16
 - pkg:maven/org.webjars.npm/firebase__analytics@0.10.2-canary.666dddae0
 - pkg:maven/org.webjars.npm/firebase__analytics@0.10.2-canary.666dddae0?classifier=sources
 - pkg:maven/org.webjars.npm/firebase__analytics@0.10.7

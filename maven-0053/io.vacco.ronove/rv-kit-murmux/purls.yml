@@ -8,4 +8,5 @@
 - pkg:maven/io.vacco.ronove/rv-kit-murmux@1.2.6_2.2.5?classifier=sources
 - pkg:maven/io.vacco.ronove/rv-kit-murmux@1.2.7-MILESTONE-202504160506_2.3.0?classifier=sources
 - pkg:maven/io.vacco.ronove/rv-kit-murmux@1.2.7_2.3.0?classifier=sources
+- pkg:maven/io.vacco.ronove/rv-kit-murmux@1.3.0?classifier=sources
 - pkg:maven/io.vacco.ronove/rv-kit-murmux@2.2.2?classifier=sources

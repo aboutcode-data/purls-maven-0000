@@ -1,1 +1,6 @@
 - pkg:maven/com.codbex.kronos/codbex-kronos-integration-tests@2.69.0
+- pkg:maven/com.codbex.kronos/codbex-kronos-integration-tests@2.70.0
+- pkg:maven/com.codbex.kronos/codbex-kronos-integration-tests@2.71.0
+- pkg:maven/com.codbex.kronos/codbex-kronos-integration-tests@2.71.1
+- pkg:maven/com.codbex.kronos/codbex-kronos-integration-tests@2.71.2
+- pkg:maven/com.codbex.kronos/codbex-kronos-integration-tests@2.72.0

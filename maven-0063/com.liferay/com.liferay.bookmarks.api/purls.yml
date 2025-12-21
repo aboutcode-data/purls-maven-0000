@@ -22,6 +22,7 @@
 - pkg:maven/com.liferay/com.liferay.bookmarks.api@11.3.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.bookmarks.api@12.0.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.bookmarks.api@13.0.0?classifier=sources
+- pkg:maven/com.liferay/com.liferay.bookmarks.api@13.0.1?classifier=sources
 - pkg:maven/com.liferay/com.liferay.bookmarks.api@2.0.0
 - pkg:maven/com.liferay/com.liferay.bookmarks.api@2.0.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.bookmarks.api@2.0.1

@@ -22,3 +22,4 @@
 - pkg:maven/com.my.tracker/mytracker-sdk@3.3.2?type=aar
 - pkg:maven/com.my.tracker/mytracker-sdk@3.4.0?type=aar
 - pkg:maven/com.my.tracker/mytracker-sdk@3.4.1?type=aar
+- pkg:maven/com.my.tracker/mytracker-sdk@3.4.2?type=aar

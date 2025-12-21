@@ -1,0 +1,1 @@
+- pkg:maven/org.springframework.cloud/rabbitmq-secret-test-app@3.1.6?classifier=sources

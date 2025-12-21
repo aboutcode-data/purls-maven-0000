@@ -1,3 +1,5 @@
+- pkg:maven/org.mvnpm/whatwg-fetch@0.9.0
+- pkg:maven/org.mvnpm/whatwg-fetch@0.9.0?classifier=sources
 - pkg:maven/org.mvnpm/whatwg-fetch@2.0.4?classifier=sources
 - pkg:maven/org.mvnpm/whatwg-fetch@3.6.19?classifier=sources
 - pkg:maven/org.mvnpm/whatwg-fetch@3.6.20?classifier=sources

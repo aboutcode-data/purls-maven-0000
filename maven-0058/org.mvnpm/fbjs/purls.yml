@@ -1,2 +1,6 @@
 - pkg:maven/org.mvnpm/fbjs@0.4.0?classifier=sources
+- pkg:maven/org.mvnpm/fbjs@0.6.1
+- pkg:maven/org.mvnpm/fbjs@0.6.1?classifier=sources
 - pkg:maven/org.mvnpm/fbjs@0.8.18?classifier=sources
+- pkg:maven/org.mvnpm/fbjs@3.0.5
+- pkg:maven/org.mvnpm/fbjs@3.0.5?classifier=sources

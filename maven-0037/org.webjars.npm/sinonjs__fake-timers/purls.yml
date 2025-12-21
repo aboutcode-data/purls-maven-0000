@@ -1,5 +1,6 @@
 - pkg:maven/org.webjars.npm/sinonjs__fake-timers@10.3.0
 - pkg:maven/org.webjars.npm/sinonjs__fake-timers@10.3.0?classifier=sources
+- pkg:maven/org.webjars.npm/sinonjs__fake-timers@13.0.5
 - pkg:maven/org.webjars.npm/sinonjs__fake-timers@7.1.2
 - pkg:maven/org.webjars.npm/sinonjs__fake-timers@7.1.2?classifier=sources
 - pkg:maven/org.webjars.npm/sinonjs__fake-timers@9.1.2

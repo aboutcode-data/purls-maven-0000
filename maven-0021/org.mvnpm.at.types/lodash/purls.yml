@@ -5,3 +5,7 @@
 - pkg:maven/org.mvnpm.at.types/lodash@4.17.16?classifier=sources
 - pkg:maven/org.mvnpm.at.types/lodash@4.17.17
 - pkg:maven/org.mvnpm.at.types/lodash@4.17.17?classifier=sources
+- pkg:maven/org.mvnpm.at.types/lodash@4.17.18
+- pkg:maven/org.mvnpm.at.types/lodash@4.17.18?classifier=sources
+- pkg:maven/org.mvnpm.at.types/lodash@4.17.19
+- pkg:maven/org.mvnpm.at.types/lodash@4.17.19?classifier=sources

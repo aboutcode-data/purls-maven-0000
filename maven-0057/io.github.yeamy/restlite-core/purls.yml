@@ -3,3 +3,4 @@
 - pkg:maven/io.github.yeamy/restlite-core@1.0-RC2.2?classifier=sources
 - pkg:maven/io.github.yeamy/restlite-core@1.0-RC2?classifier=sources
 - pkg:maven/io.github.yeamy/restlite-core@1.0-RC3?classifier=sources
+- pkg:maven/io.github.yeamy/restlite-core@1.0-RC4?classifier=sources

@@ -1,0 +1,1 @@
+- pkg:maven/org.getthedocs.provider/docs-aws-provider-s3@0.1.0?classifier=sources

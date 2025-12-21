@@ -1,1 +1,3 @@
 - pkg:maven/org.mvnpm/streamx@2.22.0?classifier=sources
+- pkg:maven/org.mvnpm/streamx@2.22.1
+- pkg:maven/org.mvnpm/streamx@2.22.1?classifier=sources

@@ -10,3 +10,5 @@
 - pkg:maven/com.yandex.cloud/java-sdk-serverless@2.6.7?classifier=sources
 - pkg:maven/com.yandex.cloud/java-sdk-serverless@2.7.0
 - pkg:maven/com.yandex.cloud/java-sdk-serverless@2.7.0?classifier=sources
+- pkg:maven/com.yandex.cloud/java-sdk-serverless@2.8.0
+- pkg:maven/com.yandex.cloud/java-sdk-serverless@2.8.0?classifier=sources

@@ -249,3 +249,4 @@
 - pkg:maven/com.erudika/para-core@1.50.6
 - pkg:maven/com.erudika/para-core@1.50.6?classifier=sources
 - pkg:maven/com.erudika/para-core@1.50.7?classifier=sources
+- pkg:maven/com.erudika/para-core@1.50.8?classifier=sources

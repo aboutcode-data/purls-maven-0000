@@ -13,3 +13,5 @@
 - pkg:maven/gov.nasa.pds.2010.portal/ds-view@2.19.0?type=war
 - pkg:maven/gov.nasa.pds.2010.portal/ds-view@2.20.1?type=war
 - pkg:maven/gov.nasa.pds.2010.portal/ds-view@2.20.2?type=war
+- pkg:maven/gov.nasa.pds.2010.portal/ds-view@2.21.0?type=war
+- pkg:maven/gov.nasa.pds.2010.portal/ds-view@2.21.1?type=war

@@ -18,5 +18,6 @@
 - pkg:maven/org.codehaus.cargo/cargo-jetty-11-deployer@1.10.18?type=war
 - pkg:maven/org.codehaus.cargo/cargo-jetty-11-deployer@1.10.19?classifier=sources
 - pkg:maven/org.codehaus.cargo/cargo-jetty-11-deployer@1.10.19?type=war
+- pkg:maven/org.codehaus.cargo/cargo-jetty-11-deployer@1.10.20?classifier=sources
 - pkg:maven/org.codehaus.cargo/cargo-jetty-11-deployer@1.10.9?classifier=sources
 - pkg:maven/org.codehaus.cargo/cargo-jetty-11-deployer@1.10.9?type=war

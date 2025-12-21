@@ -12,3 +12,5 @@
 - pkg:maven/org.jitsi/jitsi-xmpp-extensions@1.0-95-ge113e35?classifier=sources
 - pkg:maven/org.jitsi/jitsi-xmpp-extensions@1.0-96-gb0509fc
 - pkg:maven/org.jitsi/jitsi-xmpp-extensions@1.0-96-gb0509fc?classifier=sources
+- pkg:maven/org.jitsi/jitsi-xmpp-extensions@1.0-97-g6f2f8f9
+- pkg:maven/org.jitsi/jitsi-xmpp-extensions@1.0-97-g6f2f8f9?classifier=sources

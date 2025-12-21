@@ -1,0 +1,2 @@
+- pkg:maven/org.mvnpm/lodash.curry@4.1.1
+- pkg:maven/org.mvnpm/lodash.curry@4.1.1?classifier=sources

@@ -1,1 +1,2 @@
 - pkg:maven/org.grails.plugins/audit-logging@6.0.0-M4?classifier=sources
+- pkg:maven/org.grails.plugins/audit-logging@6.0.0-M5?classifier=sources

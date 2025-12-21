@@ -52,3 +52,5 @@
 - pkg:maven/com.aliyun/alibabacloud-green20220302@2.18.6?classifier=sources
 - pkg:maven/com.aliyun/alibabacloud-green20220302@2.18.7
 - pkg:maven/com.aliyun/alibabacloud-green20220302@2.18.7?classifier=sources
+- pkg:maven/com.aliyun/alibabacloud-green20220302@2.18.8
+- pkg:maven/com.aliyun/alibabacloud-green20220302@2.18.8?classifier=sources

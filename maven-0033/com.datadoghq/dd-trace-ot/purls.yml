@@ -326,6 +326,7 @@
 - pkg:maven/com.datadoghq/dd-trace-ot@1.48.2?classifier=sources
 - pkg:maven/com.datadoghq/dd-trace-ot@1.49.0?classifier=sources
 - pkg:maven/com.datadoghq/dd-trace-ot@1.5.0?classifier=sources
+- pkg:maven/com.datadoghq/dd-trace-ot@1.50.0?classifier=sources
 - pkg:maven/com.datadoghq/dd-trace-ot@1.6.0?classifier=sources
 - pkg:maven/com.datadoghq/dd-trace-ot@1.7.0?classifier=sources
 - pkg:maven/com.datadoghq/dd-trace-ot@1.8.0?classifier=sources

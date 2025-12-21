@@ -1,0 +1,8 @@
+- pkg:maven/org.mvnpm.at.clerk/localizations@3.16.4
+- pkg:maven/org.mvnpm.at.clerk/localizations@3.16.4?classifier=sources
+- pkg:maven/org.mvnpm.at.clerk/localizations@3.16.5
+- pkg:maven/org.mvnpm.at.clerk/localizations@3.16.5?classifier=sources
+- pkg:maven/org.mvnpm.at.clerk/localizations@3.17.0
+- pkg:maven/org.mvnpm.at.clerk/localizations@3.17.0?classifier=sources
+- pkg:maven/org.mvnpm.at.clerk/localizations@3.17.1
+- pkg:maven/org.mvnpm.at.clerk/localizations@3.17.1?classifier=sources

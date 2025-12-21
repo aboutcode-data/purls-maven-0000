@@ -3,3 +3,5 @@
 - pkg:maven/ai.nixiesearch/llamacpp-server-java@0.0.2-b4902?classifier=sources
 - pkg:maven/ai.nixiesearch/llamacpp-server-java@0.0.3-b4902?classifier=sources
 - pkg:maven/ai.nixiesearch/llamacpp-server-java@0.0.3-b5117?classifier=sources
+- pkg:maven/ai.nixiesearch/llamacpp-server-java@0.0.3-b5604?classifier=sources
+- pkg:maven/ai.nixiesearch/llamacpp-server-java@0.0.4-b5604?classifier=sources

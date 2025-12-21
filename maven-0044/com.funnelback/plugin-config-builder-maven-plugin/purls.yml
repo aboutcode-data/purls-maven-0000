@@ -14,3 +14,4 @@
 - pkg:maven/com.funnelback/plugin-config-builder-maven-plugin@16.34.0?classifier=sources
 - pkg:maven/com.funnelback/plugin-config-builder-maven-plugin@16.35.2516
 - pkg:maven/com.funnelback/plugin-config-builder-maven-plugin@16.35.2516?classifier=sources
+- pkg:maven/com.funnelback/plugin-config-builder-maven-plugin@16.35.2521?classifier=sources

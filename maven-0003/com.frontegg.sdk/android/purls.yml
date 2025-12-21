@@ -54,6 +54,16 @@
 - pkg:maven/com.frontegg.sdk/android@1.2.41?classifier=sources
 - pkg:maven/com.frontegg.sdk/android@1.2.42-alpha.1747993481919?classifier=sources
 - pkg:maven/com.frontegg.sdk/android@1.2.42?classifier=sources
+- pkg:maven/com.frontegg.sdk/android@1.2.43-alpha.1748875125082?classifier=sources
+- pkg:maven/com.frontegg.sdk/android@1.2.43-alpha.1748933030753?classifier=sources
+- pkg:maven/com.frontegg.sdk/android@1.2.43-alpha.1748953091980?classifier=sources
+- pkg:maven/com.frontegg.sdk/android@1.2.43-alpha.1749019008598?classifier=sources
+- pkg:maven/com.frontegg.sdk/android@1.2.43?classifier=sources
+- pkg:maven/com.frontegg.sdk/android@1.2.44-alpha.1749565330084?classifier=sources
+- pkg:maven/com.frontegg.sdk/android@1.2.44-alpha.1749641238379?classifier=sources
+- pkg:maven/com.frontegg.sdk/android@1.2.44-alpha.1750159704037?classifier=sources
+- pkg:maven/com.frontegg.sdk/android@1.2.44?classifier=sources
+- pkg:maven/com.frontegg.sdk/android@1.2.45-alpha.1750334393743?classifier=sources
 - pkg:maven/com.frontegg.sdk/android@1.2.7?classifier=sources
 - pkg:maven/com.frontegg.sdk/android@1.2.8?classifier=sources
 - pkg:maven/com.frontegg.sdk/android@1.2.9?classifier=sources

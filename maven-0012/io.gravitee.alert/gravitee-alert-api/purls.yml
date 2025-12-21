@@ -36,3 +36,5 @@
 - pkg:maven/io.gravitee.alert/gravitee-alert-api@2.1.3?classifier=sources
 - pkg:maven/io.gravitee.alert/gravitee-alert-api@2.1.4
 - pkg:maven/io.gravitee.alert/gravitee-alert-api@2.1.4?classifier=sources
+- pkg:maven/io.gravitee.alert/gravitee-alert-api@2.1.5
+- pkg:maven/io.gravitee.alert/gravitee-alert-api@2.1.5?classifier=sources

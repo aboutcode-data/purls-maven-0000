@@ -14,6 +14,12 @@
 - pkg:maven/com.adobe.aemfd/aemfd-client-sdk@6.0.1244?classifier=sources
 - pkg:maven/com.adobe.aemfd/aemfd-client-sdk@6.0.1328?classifier=sources
 - pkg:maven/com.adobe.aemfd/aemfd-client-sdk@6.0.132?classifier=sources
+- pkg:maven/com.adobe.aemfd/aemfd-client-sdk@6.0.1360
+- pkg:maven/com.adobe.aemfd/aemfd-client-sdk@6.0.1360?classifier=sources
+- pkg:maven/com.adobe.aemfd/aemfd-client-sdk@6.0.1392
+- pkg:maven/com.adobe.aemfd/aemfd-client-sdk@6.0.1392?classifier=sources
+- pkg:maven/com.adobe.aemfd/aemfd-client-sdk@6.0.1394
+- pkg:maven/com.adobe.aemfd/aemfd-client-sdk@6.0.1394?classifier=sources
 - pkg:maven/com.adobe.aemfd/aemfd-client-sdk@6.0.192?classifier=sources
 - pkg:maven/com.adobe.aemfd/aemfd-client-sdk@6.0.234?classifier=sources
 - pkg:maven/com.adobe.aemfd/aemfd-client-sdk@6.0.334?classifier=sources

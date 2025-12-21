@@ -7,4 +7,11 @@
 - pkg:maven/ch.admin.bit.jeap/jeap-crypto-vault-starter@3.15.0?classifier=sources
 - pkg:maven/ch.admin.bit.jeap/jeap-crypto-vault-starter@3.16.0?classifier=sources
 - pkg:maven/ch.admin.bit.jeap/jeap-crypto-vault-starter@3.17.0?classifier=sources
+- pkg:maven/ch.admin.bit.jeap/jeap-crypto-vault-starter@3.18.0?classifier=sources
+- pkg:maven/ch.admin.bit.jeap/jeap-crypto-vault-starter@3.19.0?classifier=sources
+- pkg:maven/ch.admin.bit.jeap/jeap-crypto-vault-starter@3.20.0?classifier=sources
+- pkg:maven/ch.admin.bit.jeap/jeap-crypto-vault-starter@3.21.0?classifier=sources
+- pkg:maven/ch.admin.bit.jeap/jeap-crypto-vault-starter@3.22.0?classifier=sources
+- pkg:maven/ch.admin.bit.jeap/jeap-crypto-vault-starter@3.22.1?classifier=sources
+- pkg:maven/ch.admin.bit.jeap/jeap-crypto-vault-starter@3.23.0?classifier=sources
 - pkg:maven/ch.admin.bit.jeap/jeap-crypto-vault-starter@3.9.0?classifier=sources

@@ -41,6 +41,10 @@
 - pkg:maven/io.kjson/mustache-k@3.0
 - pkg:maven/io.kjson/mustache-k@3.0?classifier=sources
 - pkg:maven/io.kjson/mustache-k@3.1
+- pkg:maven/io.kjson/mustache-k@3.10
+- pkg:maven/io.kjson/mustache-k@3.10?classifier=sources
+- pkg:maven/io.kjson/mustache-k@3.11
+- pkg:maven/io.kjson/mustache-k@3.11?classifier=sources
 - pkg:maven/io.kjson/mustache-k@3.1?classifier=sources
 - pkg:maven/io.kjson/mustache-k@3.2
 - pkg:maven/io.kjson/mustache-k@3.2?classifier=sources
