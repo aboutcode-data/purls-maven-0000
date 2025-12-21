@@ -18,3 +18,5 @@
 - pkg:maven/dev.logchange/dev.logchange.gradle.plugin@1.16.8?classifier=sources
 - pkg:maven/dev.logchange/dev.logchange.gradle.plugin@1.16.9
 - pkg:maven/dev.logchange/dev.logchange.gradle.plugin@1.16.9?classifier=sources
+- pkg:maven/dev.logchange/dev.logchange.gradle.plugin@1.17.0
+- pkg:maven/dev.logchange/dev.logchange.gradle.plugin@1.17.0?classifier=sources

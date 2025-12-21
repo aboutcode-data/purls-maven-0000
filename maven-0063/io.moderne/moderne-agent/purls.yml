@@ -29,3 +29,9 @@
 - pkg:maven/io.moderne/moderne-agent@0.208.0?classifier=sources
 - pkg:maven/io.moderne/moderne-agent@0.209.0?classifier=sources
 - pkg:maven/io.moderne/moderne-agent@0.210.0?classifier=sources
+- pkg:maven/io.moderne/moderne-agent@0.211.0?classifier=sources
+- pkg:maven/io.moderne/moderne-agent@0.212.0?classifier=sources
+- pkg:maven/io.moderne/moderne-agent@0.213.0?classifier=sources
+- pkg:maven/io.moderne/moderne-agent@0.214.0?classifier=sources
+- pkg:maven/io.moderne/moderne-agent@0.215.0?classifier=sources
+- pkg:maven/io.moderne/moderne-agent@0.216.0?classifier=sources

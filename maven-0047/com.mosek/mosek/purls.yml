@@ -1,0 +1,1 @@
+- pkg:maven/com.mosek/mosek@11.0.8?classifier=sources

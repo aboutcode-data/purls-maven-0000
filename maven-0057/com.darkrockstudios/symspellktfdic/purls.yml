@@ -1,2 +1,4 @@
 - pkg:maven/com.darkrockstudios/symspellktfdic@3.0.9?classifier=sources
 - pkg:maven/com.darkrockstudios/symspellktfdic@3.1.0?classifier=sources
+- pkg:maven/com.darkrockstudios/symspellktfdic@3.2.0?classifier=sources
+- pkg:maven/com.darkrockstudios/symspellktfdic@3.3.0?classifier=sources

@@ -2,3 +2,4 @@
 - pkg:maven/com.datomic/query-support@0.8.17
 - pkg:maven/com.datomic/query-support@0.8.27
 - pkg:maven/com.datomic/query-support@0.8.28
+- pkg:maven/com.datomic/query-support@0.8.31

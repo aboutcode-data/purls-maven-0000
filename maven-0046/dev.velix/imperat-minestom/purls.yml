@@ -15,3 +15,6 @@
 - pkg:maven/dev.velix/imperat-minestom@1.5.0?classifier=sources
 - pkg:maven/dev.velix/imperat-minestom@1.5.1?classifier=sources
 - pkg:maven/dev.velix/imperat-minestom@1.6.1?classifier=sources
+- pkg:maven/dev.velix/imperat-minestom@1.7.0?classifier=sources
+- pkg:maven/dev.velix/imperat-minestom@1.7.1?classifier=sources
+- pkg:maven/dev.velix/imperat-minestom@1.7.2?classifier=sources

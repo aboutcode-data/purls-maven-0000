@@ -58,3 +58,5 @@
 - pkg:maven/org.semoss/semoss@4.2.0?classifier=sources
 - pkg:maven/org.semoss/semoss@4.2.2
 - pkg:maven/org.semoss/semoss@4.2.2?classifier=sources
+- pkg:maven/org.semoss/semoss@4.3.0
+- pkg:maven/org.semoss/semoss@4.3.0?classifier=sources

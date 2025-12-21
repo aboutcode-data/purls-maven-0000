@@ -1,2 +1,4 @@
 - pkg:maven/io.github.jiri-meluzin/confluence-java-client@1.1.VFEnhancements
 - pkg:maven/io.github.jiri-meluzin/confluence-java-client@1.1.VFEnhancements?classifier=sources
+- pkg:maven/io.github.jiri-meluzin/confluence-java-client@1.2.VFEnhancements
+- pkg:maven/io.github.jiri-meluzin/confluence-java-client@1.2.VFEnhancements?classifier=sources

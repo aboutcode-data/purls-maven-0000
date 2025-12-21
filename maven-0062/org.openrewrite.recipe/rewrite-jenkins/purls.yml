@@ -26,6 +26,7 @@
 - pkg:maven/org.openrewrite.recipe/rewrite-jenkins@0.21.0?classifier=sources
 - pkg:maven/org.openrewrite.recipe/rewrite-jenkins@0.21.1?classifier=sources
 - pkg:maven/org.openrewrite.recipe/rewrite-jenkins@0.21.2?classifier=sources
+- pkg:maven/org.openrewrite.recipe/rewrite-jenkins@0.22.0?classifier=sources
 - pkg:maven/org.openrewrite.recipe/rewrite-jenkins@0.3.0?classifier=sources
 - pkg:maven/org.openrewrite.recipe/rewrite-jenkins@0.3.1?classifier=sources
 - pkg:maven/org.openrewrite.recipe/rewrite-jenkins@0.3.2?classifier=sources

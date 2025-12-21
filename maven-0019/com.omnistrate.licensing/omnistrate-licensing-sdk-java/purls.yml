@@ -1,0 +1,10 @@
+- pkg:maven/com.omnistrate.licensing/omnistrate-licensing-sdk-java@0.0.42?classifier=sources
+- pkg:maven/com.omnistrate.licensing/omnistrate-licensing-sdk-java@0.0.44?classifier=sources
+- pkg:maven/com.omnistrate.licensing/omnistrate-licensing-sdk-java@0.0.45?classifier=sources
+- pkg:maven/com.omnistrate.licensing/omnistrate-licensing-sdk-java@0.1.0?classifier=sources
+- pkg:maven/com.omnistrate.licensing/omnistrate-licensing-sdk-java@0.1.2?classifier=sources
+- pkg:maven/com.omnistrate.licensing/omnistrate-licensing-sdk-java@v0.0.26?classifier=sources
+- pkg:maven/com.omnistrate.licensing/omnistrate-licensing-sdk-java@v0.0.27?classifier=sources
+- pkg:maven/com.omnistrate.licensing/omnistrate-licensing-sdk-java@v0.0.35?classifier=sources
+- pkg:maven/com.omnistrate.licensing/omnistrate-licensing-sdk-java@v0.0.37?classifier=sources
+- pkg:maven/com.omnistrate.licensing/omnistrate-licensing-sdk-java@v0.0.41?classifier=sources

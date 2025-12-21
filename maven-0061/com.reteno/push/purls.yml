@@ -45,3 +45,6 @@
 - pkg:maven/com.reteno/push@2.0.7?classifier=sources
 - pkg:maven/com.reteno/push@2.0.8?classifier=sources
 - pkg:maven/com.reteno/push@2.0.9?classifier=sources
+- pkg:maven/com.reteno/push@3.0.0-alpha01?classifier=sources
+- pkg:maven/com.reteno/push@3.0.0-alpha02?classifier=sources
+- pkg:maven/com.reteno/push@3.0.0-beta01?classifier=sources

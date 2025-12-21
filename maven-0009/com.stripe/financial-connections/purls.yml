@@ -112,6 +112,7 @@
 - pkg:maven/com.stripe/financial-connections@20.52.0?classifier=sources
 - pkg:maven/com.stripe/financial-connections@20.52.1?classifier=sources
 - pkg:maven/com.stripe/financial-connections@20.52.2?classifier=sources
+- pkg:maven/com.stripe/financial-connections@20.52.3?classifier=sources
 - pkg:maven/com.stripe/financial-connections@20.53.0?classifier=sources
 - pkg:maven/com.stripe/financial-connections@20.6.1?classifier=sources
 - pkg:maven/com.stripe/financial-connections@20.6.2?classifier=sources
@@ -126,3 +127,9 @@
 - pkg:maven/com.stripe/financial-connections@21.3.0?classifier=sources
 - pkg:maven/com.stripe/financial-connections@21.3.1?classifier=sources
 - pkg:maven/com.stripe/financial-connections@21.3.2?classifier=sources
+- pkg:maven/com.stripe/financial-connections@21.4.0?classifier=sources
+- pkg:maven/com.stripe/financial-connections@21.4.1?classifier=sources
+- pkg:maven/com.stripe/financial-connections@21.4.2?classifier=sources
+- pkg:maven/com.stripe/financial-connections@21.5.0?classifier=sources
+- pkg:maven/com.stripe/financial-connections@21.5.1?classifier=sources
+- pkg:maven/com.stripe/financial-connections@21.6.0?classifier=sources

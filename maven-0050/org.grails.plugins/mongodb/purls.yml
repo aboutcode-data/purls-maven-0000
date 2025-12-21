@@ -17,3 +17,4 @@
 - pkg:maven/org.grails.plugins/mongodb@8.1.2?classifier=sources
 - pkg:maven/org.grails.plugins/mongodb@8.2.0?classifier=sources
 - pkg:maven/org.grails.plugins/mongodb@9.0.0-M2?classifier=sources
+- pkg:maven/org.grails.plugins/mongodb@9.0.0-M3?classifier=sources

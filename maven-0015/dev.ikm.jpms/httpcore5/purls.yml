@@ -1,0 +1,2 @@
+- pkg:maven/dev.ikm.jpms/httpcore5@5.3.3-r1
+- pkg:maven/dev.ikm.jpms/httpcore5@5.3.3-r1?classifier=sources

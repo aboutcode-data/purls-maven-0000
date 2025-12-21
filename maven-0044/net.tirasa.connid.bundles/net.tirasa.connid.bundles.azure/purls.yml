@@ -8,3 +8,7 @@
 - pkg:maven/net.tirasa.connid.bundles/net.tirasa.connid.bundles.azure@2.0.1?classifier=sources
 - pkg:maven/net.tirasa.connid.bundles/net.tirasa.connid.bundles.azure@2.0.2
 - pkg:maven/net.tirasa.connid.bundles/net.tirasa.connid.bundles.azure@2.0.2?classifier=sources
+- pkg:maven/net.tirasa.connid.bundles/net.tirasa.connid.bundles.azure@2.0.3
+- pkg:maven/net.tirasa.connid.bundles/net.tirasa.connid.bundles.azure@2.0.3?classifier=sources
+- pkg:maven/net.tirasa.connid.bundles/net.tirasa.connid.bundles.azure@3.0.0
+- pkg:maven/net.tirasa.connid.bundles/net.tirasa.connid.bundles.azure@3.0.0?classifier=sources

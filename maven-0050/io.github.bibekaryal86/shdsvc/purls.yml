@@ -16,3 +16,7 @@
 - pkg:maven/io.github.bibekaryal86/shdsvc@0.1.7?classifier=sources
 - pkg:maven/io.github.bibekaryal86/shdsvc@0.1.8
 - pkg:maven/io.github.bibekaryal86/shdsvc@0.1.8?classifier=sources
+- pkg:maven/io.github.bibekaryal86/shdsvc@0.1.9
+- pkg:maven/io.github.bibekaryal86/shdsvc@0.1.9?classifier=sources
+- pkg:maven/io.github.bibekaryal86/shdsvc@1.0.0
+- pkg:maven/io.github.bibekaryal86/shdsvc@1.0.0?classifier=sources

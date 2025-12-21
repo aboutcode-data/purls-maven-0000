@@ -179,6 +179,7 @@
 - pkg:maven/com.pulumi/cloudamqp@3.20.2-alpha.1730190919?classifier=sources
 - pkg:maven/com.pulumi/cloudamqp@3.20.2?classifier=sources
 - pkg:maven/com.pulumi/cloudamqp@3.20.3?classifier=sources
+- pkg:maven/com.pulumi/cloudamqp@3.20.4?classifier=sources
 - pkg:maven/com.pulumi/cloudamqp@3.21.0-alpha.1725600315?classifier=sources
 - pkg:maven/com.pulumi/cloudamqp@3.21.0-alpha.1725644237?classifier=sources
 - pkg:maven/com.pulumi/cloudamqp@3.21.0-alpha.1725686399?classifier=sources

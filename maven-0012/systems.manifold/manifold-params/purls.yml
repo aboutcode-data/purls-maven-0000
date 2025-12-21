@@ -24,3 +24,9 @@
 - pkg:maven/systems.manifold/manifold-params@2024.1.54?classifier=sources
 - pkg:maven/systems.manifold/manifold-params@2024.1.55
 - pkg:maven/systems.manifold/manifold-params@2024.1.55?classifier=sources
+- pkg:maven/systems.manifold/manifold-params@2025.1.0
+- pkg:maven/systems.manifold/manifold-params@2025.1.0?classifier=sources
+- pkg:maven/systems.manifold/manifold-params@2025.1.1
+- pkg:maven/systems.manifold/manifold-params@2025.1.1?classifier=sources
+- pkg:maven/systems.manifold/manifold-params@2025.1.2
+- pkg:maven/systems.manifold/manifold-params@2025.1.2?classifier=sources

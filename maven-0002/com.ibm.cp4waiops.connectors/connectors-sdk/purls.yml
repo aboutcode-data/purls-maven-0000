@@ -26,6 +26,12 @@
 - pkg:maven/com.ibm.cp4waiops.connectors/connectors-sdk@1.4.16.2-jdk8?classifier=sources
 - pkg:maven/com.ibm.cp4waiops.connectors/connectors-sdk@1.4.16.3-jdk8
 - pkg:maven/com.ibm.cp4waiops.connectors/connectors-sdk@1.4.16.3-jdk8?classifier=sources
+- pkg:maven/com.ibm.cp4waiops.connectors/connectors-sdk@1.4.16.4-jdk8
+- pkg:maven/com.ibm.cp4waiops.connectors/connectors-sdk@1.4.16.4-jdk8?classifier=sources
+- pkg:maven/com.ibm.cp4waiops.connectors/connectors-sdk@1.4.16.5-jdk8
+- pkg:maven/com.ibm.cp4waiops.connectors/connectors-sdk@1.4.16.5-jdk8?classifier=sources
+- pkg:maven/com.ibm.cp4waiops.connectors/connectors-sdk@1.4.16.6-jdk8
+- pkg:maven/com.ibm.cp4waiops.connectors/connectors-sdk@1.4.16.6-jdk8?classifier=sources
 - pkg:maven/com.ibm.cp4waiops.connectors/connectors-sdk@1.4.16?classifier=sources
 - pkg:maven/com.ibm.cp4waiops.connectors/connectors-sdk@1.4.17
 - pkg:maven/com.ibm.cp4waiops.connectors/connectors-sdk@1.4.17?classifier=sources
@@ -104,6 +110,10 @@
 - pkg:maven/com.ibm.cp4waiops.connectors/connectors-sdk@2.2.0
 - pkg:maven/com.ibm.cp4waiops.connectors/connectors-sdk@2.2.0?classifier=sources
 - pkg:maven/com.ibm.cp4waiops.connectors/connectors-sdk@2.2.1
+- pkg:maven/com.ibm.cp4waiops.connectors/connectors-sdk@2.2.10
+- pkg:maven/com.ibm.cp4waiops.connectors/connectors-sdk@2.2.10?classifier=sources
+- pkg:maven/com.ibm.cp4waiops.connectors/connectors-sdk@2.2.11
+- pkg:maven/com.ibm.cp4waiops.connectors/connectors-sdk@2.2.11?classifier=sources
 - pkg:maven/com.ibm.cp4waiops.connectors/connectors-sdk@2.2.1?classifier=sources
 - pkg:maven/com.ibm.cp4waiops.connectors/connectors-sdk@2.2.2
 - pkg:maven/com.ibm.cp4waiops.connectors/connectors-sdk@2.2.2?classifier=sources

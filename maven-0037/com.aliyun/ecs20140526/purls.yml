@@ -166,3 +166,5 @@
 - pkg:maven/com.aliyun/ecs20140526@6.0.2?classifier=sources
 - pkg:maven/com.aliyun/ecs20140526@6.1.0
 - pkg:maven/com.aliyun/ecs20140526@6.1.0?classifier=sources
+- pkg:maven/com.aliyun/ecs20140526@7.0.0
+- pkg:maven/com.aliyun/ecs20140526@7.0.0?classifier=sources

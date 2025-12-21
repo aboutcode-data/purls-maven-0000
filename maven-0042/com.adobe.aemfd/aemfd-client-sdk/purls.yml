@@ -40,3 +40,6 @@
 - pkg:maven/com.adobe.aemfd/aemfd-client-sdk@6.0.966?classifier=sources
 - pkg:maven/com.adobe.aemfd/aemfd-client-sdk@6.0.968
 - pkg:maven/com.adobe.aemfd/aemfd-client-sdk@6.0.968?classifier=sources
+- pkg:maven/com.adobe.aemfd/aemfd-client-sdk@6.1.146?classifier=sources
+- pkg:maven/com.adobe.aemfd/aemfd-client-sdk@6.1.152
+- pkg:maven/com.adobe.aemfd/aemfd-client-sdk@6.1.152?classifier=sources

@@ -192,5 +192,9 @@
 - pkg:maven/com.applitools/eyes-sdk-core-java5@5.78.0?classifier=sources
 - pkg:maven/com.applitools/eyes-sdk-core-java5@5.78.1
 - pkg:maven/com.applitools/eyes-sdk-core-java5@5.78.1?classifier=sources
+- pkg:maven/com.applitools/eyes-sdk-core-java5@5.79.0
+- pkg:maven/com.applitools/eyes-sdk-core-java5@5.79.0?classifier=sources
 - pkg:maven/com.applitools/eyes-sdk-core-java5@5.8.0
 - pkg:maven/com.applitools/eyes-sdk-core-java5@5.8.0?classifier=sources
+- pkg:maven/com.applitools/eyes-sdk-core-java5@5.80.0
+- pkg:maven/com.applitools/eyes-sdk-core-java5@5.80.0?classifier=sources

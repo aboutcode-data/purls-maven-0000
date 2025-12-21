@@ -70,3 +70,5 @@
 - pkg:maven/com.hashicorp/cdktf-provider-vsphere@9.4.0?classifier=sources
 - pkg:maven/com.hashicorp/cdktf-provider-vsphere@9.5.0
 - pkg:maven/com.hashicorp/cdktf-provider-vsphere@9.5.0?classifier=sources
+- pkg:maven/com.hashicorp/cdktf-provider-vsphere@9.5.1
+- pkg:maven/com.hashicorp/cdktf-provider-vsphere@9.5.1?classifier=sources

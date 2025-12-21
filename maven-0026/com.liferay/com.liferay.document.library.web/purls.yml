@@ -2158,12 +2158,16 @@
 - pkg:maven/com.liferay/com.liferay.document.library.web@6.0.194?classifier=sources
 - pkg:maven/com.liferay/com.liferay.document.library.web@6.0.195?classifier=sources
 - pkg:maven/com.liferay/com.liferay.document.library.web@6.0.196?classifier=sources
+- pkg:maven/com.liferay/com.liferay.document.library.web@6.0.197?classifier=sources
+- pkg:maven/com.liferay/com.liferay.document.library.web@6.0.198?classifier=sources
+- pkg:maven/com.liferay/com.liferay.document.library.web@6.0.199?classifier=sources
 - pkg:maven/com.liferay/com.liferay.document.library.web@6.0.19?classifier=sources
 - pkg:maven/com.liferay/com.liferay.document.library.web@6.0.19?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.document.library.web@6.0.1?classifier=sources
 - pkg:maven/com.liferay/com.liferay.document.library.web@6.0.1?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.document.library.web@6.0.2
 - pkg:maven/com.liferay/com.liferay.document.library.web@6.0.20
+- pkg:maven/com.liferay/com.liferay.document.library.web@6.0.200?classifier=sources
 - pkg:maven/com.liferay/com.liferay.document.library.web@6.0.20?classifier=sources
 - pkg:maven/com.liferay/com.liferay.document.library.web@6.0.20?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.document.library.web@6.0.21

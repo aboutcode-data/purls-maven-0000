@@ -1,3 +1,4 @@
+- pkg:maven/de.eitco.cicd/typescript-maven-plugin@4.0.10?classifier=sources
 - pkg:maven/de.eitco.cicd/typescript-maven-plugin@4.0.1?classifier=sources
 - pkg:maven/de.eitco.cicd/typescript-maven-plugin@4.0.2?classifier=sources
 - pkg:maven/de.eitco.cicd/typescript-maven-plugin@4.0.3?classifier=sources

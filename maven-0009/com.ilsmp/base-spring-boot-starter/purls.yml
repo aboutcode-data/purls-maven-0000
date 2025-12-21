@@ -432,3 +432,7 @@
 - pkg:maven/com.ilsmp/base-spring-boot-starter@3.2.5.8?classifier=sources
 - pkg:maven/com.ilsmp/base-spring-boot-starter@3.2.5.9
 - pkg:maven/com.ilsmp/base-spring-boot-starter@3.2.5.9?classifier=sources
+- pkg:maven/com.ilsmp/base-spring-boot-starter@3.5.0
+- pkg:maven/com.ilsmp/base-spring-boot-starter@3.5.0?classifier=sources
+- pkg:maven/com.ilsmp/base-spring-boot-starter@3.5.1
+- pkg:maven/com.ilsmp/base-spring-boot-starter@3.5.1?classifier=sources

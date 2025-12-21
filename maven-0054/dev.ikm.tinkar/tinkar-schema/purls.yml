@@ -12,3 +12,7 @@
 - pkg:maven/dev.ikm.tinkar/tinkar-schema@1.35.0?classifier=sources
 - pkg:maven/dev.ikm.tinkar/tinkar-schema@1.36.0
 - pkg:maven/dev.ikm.tinkar/tinkar-schema@1.36.0?classifier=sources
+- pkg:maven/dev.ikm.tinkar/tinkar-schema@1.37.0
+- pkg:maven/dev.ikm.tinkar/tinkar-schema@1.37.0?classifier=sources
+- pkg:maven/dev.ikm.tinkar/tinkar-schema@1.38.0
+- pkg:maven/dev.ikm.tinkar/tinkar-schema@1.38.0?classifier=sources

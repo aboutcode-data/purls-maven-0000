@@ -10,3 +10,4 @@
 - pkg:maven/com.apzda.cloud/demo-bar-proto@1.2.21?classifier=sources
 - pkg:maven/com.apzda.cloud/demo-bar-proto@1.2.22
 - pkg:maven/com.apzda.cloud/demo-bar-proto@1.2.22?classifier=sources
+- pkg:maven/com.apzda.cloud/demo-bar-proto@3.4.0

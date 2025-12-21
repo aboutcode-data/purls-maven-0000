@@ -4,6 +4,10 @@
 - pkg:maven/com.alipay.sdk/alipay-sdk-java-v3@1.0.1.ALL?classifier=sources
 - pkg:maven/com.alipay.sdk/alipay-sdk-java-v3@1.0.2.ALL
 - pkg:maven/com.alipay.sdk/alipay-sdk-java-v3@1.0.2.ALL?classifier=sources
+- pkg:maven/com.alipay.sdk/alipay-sdk-java-v3@2.18.24.ALL
+- pkg:maven/com.alipay.sdk/alipay-sdk-java-v3@2.18.24.ALL?classifier=sources
+- pkg:maven/com.alipay.sdk/alipay-sdk-java-v3@2.18.25.ALL
+- pkg:maven/com.alipay.sdk/alipay-sdk-java-v3@2.18.25.ALL?classifier=sources
 - pkg:maven/com.alipay.sdk/alipay-sdk-java-v3@2.4.0.ALL
 - pkg:maven/com.alipay.sdk/alipay-sdk-java-v3@2.4.0.ALL?classifier=sources
 - pkg:maven/com.alipay.sdk/alipay-sdk-java-v3@2.5.0.ALL
@@ -38,5 +42,11 @@
 - pkg:maven/com.alipay.sdk/alipay-sdk-java-v3@3.1.16.ALL?classifier=sources
 - pkg:maven/com.alipay.sdk/alipay-sdk-java-v3@3.1.22.ALL
 - pkg:maven/com.alipay.sdk/alipay-sdk-java-v3@3.1.22.ALL?classifier=sources
+- pkg:maven/com.alipay.sdk/alipay-sdk-java-v3@3.1.31.ALL
+- pkg:maven/com.alipay.sdk/alipay-sdk-java-v3@3.1.31.ALL?classifier=sources
+- pkg:maven/com.alipay.sdk/alipay-sdk-java-v3@3.1.35.ALL
+- pkg:maven/com.alipay.sdk/alipay-sdk-java-v3@3.1.35.ALL?classifier=sources
+- pkg:maven/com.alipay.sdk/alipay-sdk-java-v3@3.1.38.ALL
+- pkg:maven/com.alipay.sdk/alipay-sdk-java-v3@3.1.38.ALL?classifier=sources
 - pkg:maven/com.alipay.sdk/alipay-sdk-java-v3@3.1.6.ALL
 - pkg:maven/com.alipay.sdk/alipay-sdk-java-v3@3.1.6.ALL?classifier=sources

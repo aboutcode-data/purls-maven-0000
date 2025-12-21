@@ -46,6 +46,10 @@
 - pkg:maven/org.anyline/anyline-log@8.7.2-20250125?classifier=sources
 - pkg:maven/org.anyline/anyline-log@8.7.2-20250212
 - pkg:maven/org.anyline/anyline-log@8.7.2-20250212?classifier=sources
+- pkg:maven/org.anyline/anyline-log@8.7.2-20250225
+- pkg:maven/org.anyline/anyline-log@8.7.2-20250225?classifier=sources
+- pkg:maven/org.anyline/anyline-log@8.7.2-20250312
+- pkg:maven/org.anyline/anyline-log@8.7.2-20250312?classifier=sources
 - pkg:maven/org.anyline/anyline-log@8.7.2-jdk11-20240919
 - pkg:maven/org.anyline/anyline-log@8.7.2-jdk11-20240919?classifier=sources
 - pkg:maven/org.anyline/anyline-log@8.7.2-jdk11-20241015
@@ -62,6 +66,8 @@
 - pkg:maven/org.anyline/anyline-log@8.7.2-jdk11-20250108?classifier=sources
 - pkg:maven/org.anyline/anyline-log@8.7.2-jdk11-20250212
 - pkg:maven/org.anyline/anyline-log@8.7.2-jdk11-20250212?classifier=sources
+- pkg:maven/org.anyline/anyline-log@8.7.2-jdk11-20250312
+- pkg:maven/org.anyline/anyline-log@8.7.2-jdk11-20250312?classifier=sources
 - pkg:maven/org.anyline/anyline-log@8.7.2-jdk17-20240917
 - pkg:maven/org.anyline/anyline-log@8.7.2-jdk17-20240917?classifier=sources
 - pkg:maven/org.anyline/anyline-log@8.7.2-jdk17-20240919
@@ -90,6 +96,8 @@
 - pkg:maven/org.anyline/anyline-log@8.7.2-jdk17-20250109?classifier=sources
 - pkg:maven/org.anyline/anyline-log@8.7.2-jdk17-20250212
 - pkg:maven/org.anyline/anyline-log@8.7.2-jdk17-20250212?classifier=sources
+- pkg:maven/org.anyline/anyline-log@8.7.2-jdk17-20250312
+- pkg:maven/org.anyline/anyline-log@8.7.2-jdk17-20250312?classifier=sources
 - pkg:maven/org.anyline/anyline-log@8.7.2-jdk21-20240916
 - pkg:maven/org.anyline/anyline-log@8.7.2-jdk21-20240916?classifier=sources
 - pkg:maven/org.anyline/anyline-log@8.7.2-jdk21-20240925
@@ -128,3 +136,7 @@
 - pkg:maven/org.anyline/anyline-log@8.7.2-jdk21-20250211?classifier=sources
 - pkg:maven/org.anyline/anyline-log@8.7.2-jdk21-20250212
 - pkg:maven/org.anyline/anyline-log@8.7.2-jdk21-20250212?classifier=sources
+- pkg:maven/org.anyline/anyline-log@8.7.2-jdk21-20250225
+- pkg:maven/org.anyline/anyline-log@8.7.2-jdk21-20250225?classifier=sources
+- pkg:maven/org.anyline/anyline-log@8.7.2-jdk21-20250312
+- pkg:maven/org.anyline/anyline-log@8.7.2-jdk21-20250312?classifier=sources

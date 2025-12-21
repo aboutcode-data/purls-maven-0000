@@ -32,3 +32,4 @@
 - pkg:maven/com.github.ngeor/archetype-quickstart-jdk8@2.8.4?classifier=sources
 - pkg:maven/com.github.ngeor/archetype-quickstart-jdk8@2.9.0?classifier=sources
 - pkg:maven/com.github.ngeor/archetype-quickstart-jdk8@3.0.0?classifier=sources
+- pkg:maven/com.github.ngeor/archetype-quickstart-jdk8@3.0.1?classifier=sources

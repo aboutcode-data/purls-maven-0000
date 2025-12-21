@@ -7,3 +7,4 @@
 - pkg:maven/com.lotame/cc-android-sdk@2.5.0.0?classifier=sources
 - pkg:maven/com.lotame/cc-android-sdk@2.6.0.0?classifier=sources
 - pkg:maven/com.lotame/cc-android-sdk@2.7.0.0?classifier=sources
+- pkg:maven/com.lotame/cc-android-sdk@2.8.0.0?classifier=sources

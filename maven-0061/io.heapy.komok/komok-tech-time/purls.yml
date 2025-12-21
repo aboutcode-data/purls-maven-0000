@@ -1,1 +1,2 @@
 - pkg:maven/io.heapy.komok/komok-tech-time@1.0.11?classifier=sources
+- pkg:maven/io.heapy.komok/komok-tech-time@1.0.12?classifier=sources

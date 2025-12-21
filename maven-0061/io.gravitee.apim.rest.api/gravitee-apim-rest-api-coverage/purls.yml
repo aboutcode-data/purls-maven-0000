@@ -223,6 +223,7 @@
 - pkg:maven/io.gravitee.apim.rest.api/gravitee-apim-rest-api-coverage@4.3.22
 - pkg:maven/io.gravitee.apim.rest.api/gravitee-apim-rest-api-coverage@4.3.23
 - pkg:maven/io.gravitee.apim.rest.api/gravitee-apim-rest-api-coverage@4.3.24
+- pkg:maven/io.gravitee.apim.rest.api/gravitee-apim-rest-api-coverage@4.3.25
 - pkg:maven/io.gravitee.apim.rest.api/gravitee-apim-rest-api-coverage@4.3.3
 - pkg:maven/io.gravitee.apim.rest.api/gravitee-apim-rest-api-coverage@4.3.4
 - pkg:maven/io.gravitee.apim.rest.api/gravitee-apim-rest-api-coverage@4.3.5
@@ -244,6 +245,7 @@
 - pkg:maven/io.gravitee.apim.rest.api/gravitee-apim-rest-api-coverage@4.4.19
 - pkg:maven/io.gravitee.apim.rest.api/gravitee-apim-rest-api-coverage@4.4.2
 - pkg:maven/io.gravitee.apim.rest.api/gravitee-apim-rest-api-coverage@4.4.20
+- pkg:maven/io.gravitee.apim.rest.api/gravitee-apim-rest-api-coverage@4.4.21
 - pkg:maven/io.gravitee.apim.rest.api/gravitee-apim-rest-api-coverage@4.4.3
 - pkg:maven/io.gravitee.apim.rest.api/gravitee-apim-rest-api-coverage@4.4.4
 - pkg:maven/io.gravitee.apim.rest.api/gravitee-apim-rest-api-coverage@4.4.5
@@ -254,6 +256,7 @@
 - pkg:maven/io.gravitee.apim.rest.api/gravitee-apim-rest-api-coverage@4.5.0
 - pkg:maven/io.gravitee.apim.rest.api/gravitee-apim-rest-api-coverage@4.5.0-alpha.1
 - pkg:maven/io.gravitee.apim.rest.api/gravitee-apim-rest-api-coverage@4.5.1
+- pkg:maven/io.gravitee.apim.rest.api/gravitee-apim-rest-api-coverage@4.5.10
 - pkg:maven/io.gravitee.apim.rest.api/gravitee-apim-rest-api-coverage@4.5.2
 - pkg:maven/io.gravitee.apim.rest.api/gravitee-apim-rest-api-coverage@4.5.3
 - pkg:maven/io.gravitee.apim.rest.api/gravitee-apim-rest-api-coverage@4.5.4
@@ -268,3 +271,7 @@
 - pkg:maven/io.gravitee.apim.rest.api/gravitee-apim-rest-api-coverage@4.6.2
 - pkg:maven/io.gravitee.apim.rest.api/gravitee-apim-rest-api-coverage@4.6.3
 - pkg:maven/io.gravitee.apim.rest.api/gravitee-apim-rest-api-coverage@4.6.4
+- pkg:maven/io.gravitee.apim.rest.api/gravitee-apim-rest-api-coverage@4.6.5
+- pkg:maven/io.gravitee.apim.rest.api/gravitee-apim-rest-api-coverage@4.7.0-alpha.1
+- pkg:maven/io.gravitee.apim.rest.api/gravitee-apim-rest-api-coverage@4.7.0-alpha.2
+- pkg:maven/io.gravitee.apim.rest.api/gravitee-apim-rest-api-coverage@4.7.0-alpha.3

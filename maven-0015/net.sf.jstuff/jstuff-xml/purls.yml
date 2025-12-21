@@ -74,3 +74,4 @@
 - pkg:maven/net.sf.jstuff/jstuff-xml@7.9.0?classifier=sources
 - pkg:maven/net.sf.jstuff/jstuff-xml@8.0.0?classifier=sources
 - pkg:maven/net.sf.jstuff/jstuff-xml@8.0.1?classifier=sources
+- pkg:maven/net.sf.jstuff/jstuff-xml@8.1.0?classifier=sources

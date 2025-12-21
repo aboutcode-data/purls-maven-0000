@@ -13,3 +13,4 @@
 - pkg:maven/org.webjars.npm/unist-util-is@4.0.4
 - pkg:maven/org.webjars.npm/unist-util-is@4.0.4?classifier=sources
 - pkg:maven/org.webjars.npm/unist-util-is@5.2.1
+- pkg:maven/org.webjars.npm/unist-util-is@6.0.0

@@ -18,3 +18,11 @@
 - pkg:maven/com.aliyun/maxcompute20220104@1.5.0?classifier=sources
 - pkg:maven/com.aliyun/maxcompute20220104@2.0.0
 - pkg:maven/com.aliyun/maxcompute20220104@2.0.0?classifier=sources
+- pkg:maven/com.aliyun/maxcompute20220104@3.0.0
+- pkg:maven/com.aliyun/maxcompute20220104@3.0.0?classifier=sources
+- pkg:maven/com.aliyun/maxcompute20220104@3.1.0
+- pkg:maven/com.aliyun/maxcompute20220104@3.1.0?classifier=sources
+- pkg:maven/com.aliyun/maxcompute20220104@3.2.0
+- pkg:maven/com.aliyun/maxcompute20220104@3.2.0?classifier=sources
+- pkg:maven/com.aliyun/maxcompute20220104@3.2.1
+- pkg:maven/com.aliyun/maxcompute20220104@3.2.1?classifier=sources

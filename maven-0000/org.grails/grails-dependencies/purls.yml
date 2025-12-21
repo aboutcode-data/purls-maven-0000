@@ -10,3 +10,5 @@
 - pkg:maven/org.grails/grails-dependencies@3.3.17?classifier=sources
 - pkg:maven/org.grails/grails-dependencies@3.3.18
 - pkg:maven/org.grails/grails-dependencies@3.3.18?classifier=sources
+- pkg:maven/org.grails/grails-dependencies@7.0.0-M2?classifier=sources
+- pkg:maven/org.grails/grails-dependencies@7.0.0-M3?classifier=sources

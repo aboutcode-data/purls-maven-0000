@@ -2,3 +2,5 @@
 - pkg:maven/io.accelerate/chlt-schema-lib@0.1.5?classifier=sources
 - pkg:maven/io.accelerate/chlt-schema-lib@0.1.6?classifier=sources
 - pkg:maven/io.accelerate/chlt-schema-lib@0.2.1?classifier=sources
+- pkg:maven/io.accelerate/chlt-schema-lib@0.2.2?classifier=sources
+- pkg:maven/io.accelerate/chlt-schema-lib@0.2.3?classifier=sources

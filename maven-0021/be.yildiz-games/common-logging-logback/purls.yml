@@ -77,6 +77,8 @@
 - pkg:maven/be.yildiz-games/common-logging-logback@1.1.41?classifier=sources
 - pkg:maven/be.yildiz-games/common-logging-logback@1.1.42
 - pkg:maven/be.yildiz-games/common-logging-logback@1.1.42?classifier=sources
+- pkg:maven/be.yildiz-games/common-logging-logback@1.1.43
+- pkg:maven/be.yildiz-games/common-logging-logback@1.1.43?classifier=sources
 - pkg:maven/be.yildiz-games/common-logging-logback@1.1.4?classifier=sources
 - pkg:maven/be.yildiz-games/common-logging-logback@1.1.5
 - pkg:maven/be.yildiz-games/common-logging-logback@1.1.5?classifier=sources

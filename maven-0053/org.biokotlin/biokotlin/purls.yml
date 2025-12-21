@@ -22,3 +22,4 @@
 - pkg:maven/org.biokotlin/biokotlin@0.21?classifier=sources
 - pkg:maven/org.biokotlin/biokotlin@0.22?classifier=sources
 - pkg:maven/org.biokotlin/biokotlin@0.23?classifier=sources
+- pkg:maven/org.biokotlin/biokotlin@0.24?classifier=sources

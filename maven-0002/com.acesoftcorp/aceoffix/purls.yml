@@ -1,0 +1,8 @@
+- pkg:maven/com.acesoftcorp/aceoffix@7.0.0.2
+- pkg:maven/com.acesoftcorp/aceoffix@7.0.0.2-javax
+- pkg:maven/com.acesoftcorp/aceoffix@7.0.0.2-javax?classifier=sources
+- pkg:maven/com.acesoftcorp/aceoffix@7.0.0.2?classifier=sources
+- pkg:maven/com.acesoftcorp/aceoffix@7.0.1.1
+- pkg:maven/com.acesoftcorp/aceoffix@7.0.1.1-javax
+- pkg:maven/com.acesoftcorp/aceoffix@7.0.1.1-javax?classifier=sources
+- pkg:maven/com.acesoftcorp/aceoffix@7.0.1.1?classifier=sources

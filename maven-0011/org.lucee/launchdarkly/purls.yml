@@ -2,3 +2,4 @@
 - pkg:maven/org.lucee/launchdarkly@5.10.8.0001L
 - pkg:maven/org.lucee/launchdarkly@6.1.0
 - pkg:maven/org.lucee/launchdarkly@7.4.1.0001L
+- pkg:maven/org.lucee/launchdarkly@7.7.0

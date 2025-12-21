@@ -1,3 +1,5 @@
+- pkg:maven/org.eclipse.platform/org.eclipse.e4.tools.emf.editor3x@4.10.0
+- pkg:maven/org.eclipse.platform/org.eclipse.e4.tools.emf.editor3x@4.10.0?classifier=sources
 - pkg:maven/org.eclipse.platform/org.eclipse.e4.tools.emf.editor3x@4.8.200
 - pkg:maven/org.eclipse.platform/org.eclipse.e4.tools.emf.editor3x@4.8.200?classifier=sources
 - pkg:maven/org.eclipse.platform/org.eclipse.e4.tools.emf.editor3x@4.9.0
