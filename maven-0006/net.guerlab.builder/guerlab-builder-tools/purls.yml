@@ -21,3 +21,4 @@
 - pkg:maven/net.guerlab.builder/guerlab-builder-tools@2.0.0?classifier=sources
 - pkg:maven/net.guerlab.builder/guerlab-builder-tools@2.1.0
 - pkg:maven/net.guerlab.builder/guerlab-builder-tools@2.1.0?classifier=sources
+- pkg:maven/net.guerlab.builder/guerlab-builder-tools@3.0.0?classifier=sources

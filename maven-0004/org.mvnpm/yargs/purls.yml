@@ -8,4 +8,6 @@
 - pkg:maven/org.mvnpm/yargs@3.27.0?classifier=sources
 - pkg:maven/org.mvnpm/yargs@3.5.4?classifier=sources
 - pkg:maven/org.mvnpm/yargs@6.6.0?classifier=sources
+- pkg:maven/org.mvnpm/yargs@7.0.2
+- pkg:maven/org.mvnpm/yargs@7.0.2?classifier=sources
 - pkg:maven/org.mvnpm/yargs@8.0.2?classifier=sources

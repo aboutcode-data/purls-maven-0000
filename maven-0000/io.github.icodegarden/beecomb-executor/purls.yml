@@ -16,3 +16,4 @@
 - pkg:maven/io.github.icodegarden/beecomb-executor@2.1.0?classifier=sources
 - pkg:maven/io.github.icodegarden/beecomb-executor@2.2.0
 - pkg:maven/io.github.icodegarden/beecomb-executor@2.2.0?classifier=sources
+- pkg:maven/io.github.icodegarden/beecomb-executor@2.3.0?classifier=sources

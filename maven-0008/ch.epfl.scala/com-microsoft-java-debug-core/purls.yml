@@ -55,6 +55,12 @@
 - pkg:maven/ch.epfl.scala/com-microsoft-java-debug-core@0.34.0%2B35?classifier=sources
 - pkg:maven/ch.epfl.scala/com-microsoft-java-debug-core@0.34.0%2B36
 - pkg:maven/ch.epfl.scala/com-microsoft-java-debug-core@0.34.0%2B36?classifier=sources
+- pkg:maven/ch.epfl.scala/com-microsoft-java-debug-core@0.34.0%2B37
+- pkg:maven/ch.epfl.scala/com-microsoft-java-debug-core@0.34.0%2B37?classifier=sources
+- pkg:maven/ch.epfl.scala/com-microsoft-java-debug-core@0.34.0%2B38
+- pkg:maven/ch.epfl.scala/com-microsoft-java-debug-core@0.34.0%2B38?classifier=sources
+- pkg:maven/ch.epfl.scala/com-microsoft-java-debug-core@0.34.0%2B39
+- pkg:maven/ch.epfl.scala/com-microsoft-java-debug-core@0.34.0%2B39?classifier=sources
 - pkg:maven/ch.epfl.scala/com-microsoft-java-debug-core@0.34.0%2B3?classifier=sources
 - pkg:maven/ch.epfl.scala/com-microsoft-java-debug-core@0.34.0%2B4
 - pkg:maven/ch.epfl.scala/com-microsoft-java-debug-core@0.34.0%2B4?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/io.airlift/mcp@345?classifier=sources
+- pkg:maven/io.airlift/mcp@346?classifier=sources

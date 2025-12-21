@@ -1,1 +1,2 @@
 - pkg:maven/org.hestiastore.index/core@0.0.3?classifier=sources
+- pkg:maven/org.hestiastore.index/core@0.0.4?classifier=sources

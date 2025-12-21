@@ -6,4 +6,5 @@
 - pkg:maven/io.github.lisi9988/springdoc-openapi-common@1.7.0-parameter-group-6?classifier=sources
 - pkg:maven/io.github.lisi9988/springdoc-openapi-common@1.7.0-parameter-group-7?classifier=sources
 - pkg:maven/io.github.lisi9988/springdoc-openapi-common@1.7.0-parameter-group-8?classifier=sources
+- pkg:maven/io.github.lisi9988/springdoc-openapi-common@1.7.0-parameter-group-9?classifier=sources
 - pkg:maven/io.github.lisi9988/springdoc-openapi-common@1.7.0-parameter-group?classifier=sources

@@ -55,3 +55,4 @@
 - pkg:maven/io.projectreactor.addons/reactor-pool@1.2.0-M3?classifier=sources
 - pkg:maven/io.projectreactor.addons/reactor-pool@1.2.0-M4?classifier=sources
 - pkg:maven/io.projectreactor.addons/reactor-pool@1.2.0-M5?classifier=sources
+- pkg:maven/io.projectreactor.addons/reactor-pool@1.2.0-M6?classifier=sources

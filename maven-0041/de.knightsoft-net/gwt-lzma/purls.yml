@@ -15,4 +15,5 @@
 - pkg:maven/de.knightsoft-net/gwt-lzma@1.2-7?classifier=sources
 - pkg:maven/de.knightsoft-net/gwt-lzma@1.2-8
 - pkg:maven/de.knightsoft-net/gwt-lzma@1.2-8?classifier=sources
+- pkg:maven/de.knightsoft-net/gwt-lzma@1.2-9?classifier=sources
 - pkg:maven/de.knightsoft-net/gwt-lzma@1.2?classifier=sources

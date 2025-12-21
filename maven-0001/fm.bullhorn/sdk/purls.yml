@@ -80,5 +80,9 @@
 - pkg:maven/fm.bullhorn/sdk@0.0.85?classifier=sources
 - pkg:maven/fm.bullhorn/sdk@0.0.86?classifier=sources
 - pkg:maven/fm.bullhorn/sdk@0.0.87?classifier=sources
+- pkg:maven/fm.bullhorn/sdk@0.0.88?classifier=sources
+- pkg:maven/fm.bullhorn/sdk@0.0.89?classifier=sources
 - pkg:maven/fm.bullhorn/sdk@0.0.8?classifier=sources
+- pkg:maven/fm.bullhorn/sdk@0.0.91?classifier=sources
+- pkg:maven/fm.bullhorn/sdk@0.0.92?classifier=sources
 - pkg:maven/fm.bullhorn/sdk@0.0.9?classifier=sources

@@ -7,6 +7,7 @@
 - pkg:maven/com.palantir.tritium/tritium-caffeine@0.100.0?classifier=sources
 - pkg:maven/com.palantir.tritium/tritium-caffeine@0.101.0?classifier=sources
 - pkg:maven/com.palantir.tritium/tritium-caffeine@0.102.0?classifier=sources
+- pkg:maven/com.palantir.tritium/tritium-caffeine@0.103.0?classifier=sources
 - pkg:maven/com.palantir.tritium/tritium-caffeine@0.11.0
 - pkg:maven/com.palantir.tritium/tritium-caffeine@0.11.0?classifier=sources
 - pkg:maven/com.palantir.tritium/tritium-caffeine@0.11.1

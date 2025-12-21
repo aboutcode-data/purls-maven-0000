@@ -1,0 +1,2 @@
+- pkg:maven/com.raqsoft.report/guide@20250815
+- pkg:maven/com.raqsoft.report/guide@20250815?classifier=sources

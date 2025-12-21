@@ -194,6 +194,10 @@
 - pkg:maven/com.larksuite.oapi/oapi-sdk@2.4.19?classifier=sources
 - pkg:maven/com.larksuite.oapi/oapi-sdk@2.4.20
 - pkg:maven/com.larksuite.oapi/oapi-sdk@2.4.20?classifier=sources
+- pkg:maven/com.larksuite.oapi/oapi-sdk@2.4.21
+- pkg:maven/com.larksuite.oapi/oapi-sdk@2.4.21?classifier=sources
+- pkg:maven/com.larksuite.oapi/oapi-sdk@2.4.22
+- pkg:maven/com.larksuite.oapi/oapi-sdk@2.4.22?classifier=sources
 - pkg:maven/com.larksuite.oapi/oapi-sdk@2.4.3
 - pkg:maven/com.larksuite.oapi/oapi-sdk@2.4.3?classifier=sources
 - pkg:maven/com.larksuite.oapi/oapi-sdk@2.4.4

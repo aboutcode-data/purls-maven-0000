@@ -226,6 +226,7 @@
 - pkg:maven/org.coldis.library/persistence@2.0.3?classifier=sources
 - pkg:maven/org.coldis.library/persistence@2.0.40
 - pkg:maven/org.coldis.library/persistence@2.0.40?classifier=sources
+- pkg:maven/org.coldis.library/persistence@2.0.41?classifier=sources
 - pkg:maven/org.coldis.library/persistence@2.0.7
 - pkg:maven/org.coldis.library/persistence@2.0.7?classifier=sources
 - pkg:maven/org.coldis.library/persistence@2.0.9

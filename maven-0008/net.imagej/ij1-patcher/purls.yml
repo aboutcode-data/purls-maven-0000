@@ -101,3 +101,4 @@
 - pkg:maven/net.imagej/ij1-patcher@1.2.8
 - pkg:maven/net.imagej/ij1-patcher@1.2.8?classifier=sources
 - pkg:maven/net.imagej/ij1-patcher@1.2.9?classifier=sources
+- pkg:maven/net.imagej/ij1-patcher@2.0.0?classifier=sources

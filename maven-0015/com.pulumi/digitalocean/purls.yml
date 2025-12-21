@@ -228,3 +228,5 @@
 - pkg:maven/com.pulumi/digitalocean@4.46.0?classifier=sources
 - pkg:maven/com.pulumi/digitalocean@4.47.0?classifier=sources
 - pkg:maven/com.pulumi/digitalocean@4.48.0?classifier=sources
+- pkg:maven/com.pulumi/digitalocean@4.50.0?classifier=sources
+- pkg:maven/com.pulumi/digitalocean@4.51.0?classifier=sources

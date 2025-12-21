@@ -18,3 +18,5 @@
 - pkg:maven/org.mvnpm.at.pothos/core@4.7.3?classifier=sources
 - pkg:maven/org.mvnpm.at.pothos/core@4.8.0
 - pkg:maven/org.mvnpm.at.pothos/core@4.8.0?classifier=sources
+- pkg:maven/org.mvnpm.at.pothos/core@4.8.1
+- pkg:maven/org.mvnpm.at.pothos/core@4.8.1?classifier=sources

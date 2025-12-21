@@ -10,3 +10,4 @@
 - pkg:maven/com.jvziyaoyao.scaler/image-viewer@1.1.1-alpha.6?classifier=sources
 - pkg:maven/com.jvziyaoyao.scaler/image-viewer@1.1.1-alpha.7?classifier=sources
 - pkg:maven/com.jvziyaoyao.scaler/image-viewer@1.1.1-alpha.8?classifier=sources
+- pkg:maven/com.jvziyaoyao.scaler/image-viewer@1.1.1-alpha.9?classifier=sources

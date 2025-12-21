@@ -19,6 +19,7 @@
 - pkg:maven/org.sonarsource.java/java-checks-common@8.16.0.39645?classifier=sources
 - pkg:maven/org.sonarsource.java/java-checks-common@8.17.0.39817?classifier=sources
 - pkg:maven/org.sonarsource.java/java-checks-common@8.17.1.39878?classifier=sources
+- pkg:maven/org.sonarsource.java/java-checks-common@8.18.0.40025?classifier=sources
 - pkg:maven/org.sonarsource.java/java-checks-common@8.2.0.36672?classifier=sources
 - pkg:maven/org.sonarsource.java/java-checks-common@8.3.0.36747?classifier=sources
 - pkg:maven/org.sonarsource.java/java-checks-common@8.4.0.37032?classifier=sources
@@ -29,3 +30,4 @@
 - pkg:maven/org.sonarsource.java/java-checks-common@8.9.0.37768?classifier=sources
 - pkg:maven/org.sonarsource.java/java-checks-common@8.9.1.38281?classifier=sources
 - pkg:maven/org.sonarsource.java/java-checks-common@8.9.2.39294?classifier=sources
+- pkg:maven/org.sonarsource.java/java-checks-common@8.9.3.40165?classifier=sources

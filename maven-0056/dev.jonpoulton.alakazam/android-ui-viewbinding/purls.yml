@@ -38,3 +38,4 @@
 - pkg:maven/dev.jonpoulton.alakazam/android-ui-viewbinding@5.0.0?classifier=sources
 - pkg:maven/dev.jonpoulton.alakazam/android-ui-viewbinding@6.0.0?classifier=sources
 - pkg:maven/dev.jonpoulton.alakazam/android-ui-viewbinding@6.1.0?classifier=sources
+- pkg:maven/dev.jonpoulton.alakazam/android-ui-viewbinding@6.2.0?classifier=sources

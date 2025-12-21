@@ -8,3 +8,4 @@
 - pkg:maven/net.truej/sql@3.0.0-beta6?classifier=sources
 - pkg:maven/net.truej/sql@3.0.0-beta7?classifier=sources
 - pkg:maven/net.truej/sql@3.0.0-beta8?classifier=sources
+- pkg:maven/net.truej/sql@3.0.0-beta9?classifier=sources

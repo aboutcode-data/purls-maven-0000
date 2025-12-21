@@ -738,3 +738,5 @@
 - pkg:maven/org.anyline/anyline-struts@8.7.2-20250603?classifier=sources
 - pkg:maven/org.anyline/anyline-struts@8.7.2-20250630
 - pkg:maven/org.anyline/anyline-struts@8.7.2-20250630?classifier=sources
+- pkg:maven/org.anyline/anyline-struts@8.7.2-20250805?classifier=sources
+- pkg:maven/org.anyline/anyline-struts@8.7.2-20250806?classifier=sources

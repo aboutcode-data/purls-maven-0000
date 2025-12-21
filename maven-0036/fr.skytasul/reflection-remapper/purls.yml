@@ -1,1 +1,2 @@
 - pkg:maven/fr.skytasul/reflection-remapper@1.0.0?classifier=sources
+- pkg:maven/fr.skytasul/reflection-remapper@2.0.0?classifier=sources

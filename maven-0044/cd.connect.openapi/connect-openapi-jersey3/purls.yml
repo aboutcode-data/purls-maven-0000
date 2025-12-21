@@ -54,3 +54,4 @@
 - pkg:maven/cd.connect.openapi/connect-openapi-jersey3@9.2?classifier=sources
 - pkg:maven/cd.connect.openapi/connect-openapi-jersey3@9.3
 - pkg:maven/cd.connect.openapi/connect-openapi-jersey3@9.3?classifier=sources
+- pkg:maven/cd.connect.openapi/connect-openapi-jersey3@9.4?classifier=sources

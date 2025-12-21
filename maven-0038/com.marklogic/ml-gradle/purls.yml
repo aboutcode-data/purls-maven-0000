@@ -20,3 +20,5 @@
 - pkg:maven/com.marklogic/ml-gradle@4.7.0?classifier=sources
 - pkg:maven/com.marklogic/ml-gradle@4.8.0?classifier=sources
 - pkg:maven/com.marklogic/ml-gradle@5.0.0?classifier=sources
+- pkg:maven/com.marklogic/ml-gradle@6.0.0
+- pkg:maven/com.marklogic/ml-gradle@6.0.0?classifier=sources

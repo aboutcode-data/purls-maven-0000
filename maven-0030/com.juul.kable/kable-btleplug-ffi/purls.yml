@@ -1,0 +1,4 @@
+- pkg:maven/com.juul.kable/kable-btleplug-ffi@0.39.0-rc1?classifier=sources
+- pkg:maven/com.juul.kable/kable-btleplug-ffi@0.39.0?classifier=sources
+- pkg:maven/com.juul.kable/kable-btleplug-ffi@0.39.1?classifier=sources
+- pkg:maven/com.juul.kable/kable-btleplug-ffi@0.39.2?classifier=sources

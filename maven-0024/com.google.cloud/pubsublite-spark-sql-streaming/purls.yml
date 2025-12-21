@@ -26,3 +26,5 @@
 - pkg:maven/com.google.cloud/pubsublite-spark-sql-streaming@0.4.5?classifier=sources
 - pkg:maven/com.google.cloud/pubsublite-spark-sql-streaming@1.0.0
 - pkg:maven/com.google.cloud/pubsublite-spark-sql-streaming@1.0.0?classifier=sources
+- pkg:maven/com.google.cloud/pubsublite-spark-sql-streaming@1.0.1
+- pkg:maven/com.google.cloud/pubsublite-spark-sql-streaming@1.0.1?classifier=sources

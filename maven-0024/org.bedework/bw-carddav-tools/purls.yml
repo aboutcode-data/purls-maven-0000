@@ -29,3 +29,4 @@
 - pkg:maven/org.bedework/bw-carddav-tools@5.0.7
 - pkg:maven/org.bedework/bw-carddav-tools@5.0.7?classifier=sources
 - pkg:maven/org.bedework/bw-carddav-tools@6.0.0?classifier=sources
+- pkg:maven/org.bedework/bw-carddav-tools@6.0.1?classifier=sources

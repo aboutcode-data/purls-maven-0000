@@ -74,3 +74,4 @@
 - pkg:maven/be.yildiz-games/module-window@5.5.2?classifier=sources
 - pkg:maven/be.yildiz-games/module-window@5.6.0
 - pkg:maven/be.yildiz-games/module-window@5.6.0?classifier=sources
+- pkg:maven/be.yildiz-games/module-window@5.7.0?classifier=sources

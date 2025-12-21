@@ -50,6 +50,7 @@
 - pkg:maven/com.imsweb/mph@1.39?classifier=sources
 - pkg:maven/com.imsweb/mph@1.3?classifier=sources
 - pkg:maven/com.imsweb/mph@1.4
+- pkg:maven/com.imsweb/mph@1.40?classifier=sources
 - pkg:maven/com.imsweb/mph@1.4?classifier=sources
 - pkg:maven/com.imsweb/mph@1.5
 - pkg:maven/com.imsweb/mph@1.5?classifier=sources

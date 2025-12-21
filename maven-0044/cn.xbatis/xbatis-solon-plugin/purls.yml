@@ -26,3 +26,4 @@
 - pkg:maven/cn.xbatis/xbatis-solon-plugin@1.8.9-M2?classifier=sources
 - pkg:maven/cn.xbatis/xbatis-solon-plugin@1.8.9-M3?classifier=sources
 - pkg:maven/cn.xbatis/xbatis-solon-plugin@1.8.9?classifier=sources
+- pkg:maven/cn.xbatis/xbatis-solon-plugin@1.9.0?classifier=sources

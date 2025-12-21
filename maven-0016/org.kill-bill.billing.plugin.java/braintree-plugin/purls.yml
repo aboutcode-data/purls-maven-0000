@@ -1,2 +1,3 @@
 - pkg:maven/org.kill-bill.billing.plugin.java/braintree-plugin@1.0.0
 - pkg:maven/org.kill-bill.billing.plugin.java/braintree-plugin@1.0.0?classifier=sources
+- pkg:maven/org.kill-bill.billing.plugin.java/braintree-plugin@1.0.1?classifier=sources

@@ -2,3 +2,4 @@
 - pkg:maven/org.bitbucket.tbrugz/qon-auth-keycloak@0.7?classifier=sources
 - pkg:maven/org.bitbucket.tbrugz/qon-auth-keycloak@0.8
 - pkg:maven/org.bitbucket.tbrugz/qon-auth-keycloak@0.8?classifier=sources
+- pkg:maven/org.bitbucket.tbrugz/qon-auth-keycloak@0.9?classifier=sources

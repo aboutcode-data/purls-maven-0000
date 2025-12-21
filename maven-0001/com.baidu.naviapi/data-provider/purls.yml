@@ -4,5 +4,6 @@
 - pkg:maven/com.baidu.naviapi/data-provider@1.21?type=aar
 - pkg:maven/com.baidu.naviapi/data-provider@1.22?classifier=sources
 - pkg:maven/com.baidu.naviapi/data-provider@1.23?classifier=sources
+- pkg:maven/com.baidu.naviapi/data-provider@1.24?classifier=sources
 - pkg:maven/com.baidu.naviapi/data-provider@1.2?classifier=sources
 - pkg:maven/com.baidu.naviapi/data-provider@1.2?type=aar

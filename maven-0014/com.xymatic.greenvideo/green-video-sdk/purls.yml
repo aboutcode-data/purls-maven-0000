@@ -7,3 +7,8 @@
 - pkg:maven/com.xymatic.greenvideo/green-video-sdk@2.0.45?classifier=sources
 - pkg:maven/com.xymatic.greenvideo/green-video-sdk@2.0.46?classifier=sources
 - pkg:maven/com.xymatic.greenvideo/green-video-sdk@2.0.47?classifier=sources
+- pkg:maven/com.xymatic.greenvideo/green-video-sdk@2.0.48?classifier=sources
+- pkg:maven/com.xymatic.greenvideo/green-video-sdk@2.0.49?classifier=sources
+- pkg:maven/com.xymatic.greenvideo/green-video-sdk@2.0.50?classifier=sources
+- pkg:maven/com.xymatic.greenvideo/green-video-sdk@2.0.51?classifier=sources
+- pkg:maven/com.xymatic.greenvideo/green-video-sdk@2.0.52?classifier=sources

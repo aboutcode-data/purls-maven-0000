@@ -1,0 +1,2 @@
+- pkg:maven/org.jetbrains.kotlinx/kotlinx-browser-js@0.4?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx/kotlinx-browser-js@0.5.0?classifier=sources

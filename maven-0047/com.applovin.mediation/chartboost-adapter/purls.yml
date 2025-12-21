@@ -49,3 +49,6 @@
 - pkg:maven/com.applovin.mediation/chartboost-adapter@9.8.2.0?classifier=sources
 - pkg:maven/com.applovin.mediation/chartboost-adapter@9.8.2.1?classifier=sources
 - pkg:maven/com.applovin.mediation/chartboost-adapter@9.8.3.0?classifier=sources
+- pkg:maven/com.applovin.mediation/chartboost-adapter@9.9.1.0?classifier=sources
+- pkg:maven/com.applovin.mediation/chartboost-adapter@9.9.2.0?classifier=sources
+- pkg:maven/com.applovin.mediation/chartboost-adapter@9.9.2.1?classifier=sources

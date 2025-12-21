@@ -8,3 +8,4 @@
 - pkg:maven/org.eclipse.jnosql.lite/mapping-lite-graph-test@1.1.0?classifier=sources
 - pkg:maven/org.eclipse.jnosql.lite/mapping-lite-graph-test@1.1.8
 - pkg:maven/org.eclipse.jnosql.lite/mapping-lite-graph-test@1.1.8?classifier=sources
+- pkg:maven/org.eclipse.jnosql.lite/mapping-lite-graph-test@1.1.9?classifier=sources

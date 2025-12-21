@@ -314,3 +314,5 @@
 - pkg:maven/com.gu/content-api-models-scala_2.12@28.0.0?classifier=sources
 - pkg:maven/com.gu/content-api-models-scala_2.12@29.0.0
 - pkg:maven/com.gu/content-api-models-scala_2.12@29.0.0?classifier=sources
+- pkg:maven/com.gu/content-api-models-scala_2.12@30.0.0-PREVIEW.add-new-podcast-fields.2025-08-07T1437.73d8c924
+- pkg:maven/com.gu/content-api-models-scala_2.12@30.0.0-PREVIEW.add-new-podcast-fields.2025-08-07T1437.73d8c924?classifier=sources

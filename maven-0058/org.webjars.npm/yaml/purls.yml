@@ -45,3 +45,4 @@
 - pkg:maven/org.webjars.npm/yaml@2.7.0
 - pkg:maven/org.webjars.npm/yaml@2.7.1
 - pkg:maven/org.webjars.npm/yaml@2.8.0
+- pkg:maven/org.webjars.npm/yaml@2.8.1

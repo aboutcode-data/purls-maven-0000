@@ -4,3 +4,4 @@
 - pkg:maven/com.dataliquid/commons-xml@1.1.0?classifier=sources
 - pkg:maven/com.dataliquid/commons-xml@1.2.0
 - pkg:maven/com.dataliquid/commons-xml@1.2.0?classifier=sources
+- pkg:maven/com.dataliquid/commons-xml@1.2.1?classifier=sources

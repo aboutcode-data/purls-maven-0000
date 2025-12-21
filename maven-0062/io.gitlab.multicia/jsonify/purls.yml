@@ -1,0 +1,4 @@
+- pkg:maven/io.gitlab.multicia/jsonify@0.1.20250724
+- pkg:maven/io.gitlab.multicia/jsonify@0.1.20250724?classifier=sources
+- pkg:maven/io.gitlab.multicia/jsonify@0.1.20250730
+- pkg:maven/io.gitlab.multicia/jsonify@0.1.20250730?classifier=sources
