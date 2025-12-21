@@ -368,6 +368,7 @@
 - pkg:maven/com.cleverpush/cleverpush@1.34.29?classifier=sources
 - pkg:maven/com.cleverpush/cleverpush@1.34.2?classifier=sources
 - pkg:maven/com.cleverpush/cleverpush@1.34.30?classifier=sources
+- pkg:maven/com.cleverpush/cleverpush@1.34.31?classifier=sources
 - pkg:maven/com.cleverpush/cleverpush@1.34.3?classifier=sources
 - pkg:maven/com.cleverpush/cleverpush@1.34.4?classifier=sources
 - pkg:maven/com.cleverpush/cleverpush@1.34.5?classifier=sources

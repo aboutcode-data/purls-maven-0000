@@ -101,6 +101,7 @@
 - pkg:maven/com.liferay/com.liferay.journal.content.asset.addon.entry.conversions@3.0.16?classifier=sources
 - pkg:maven/com.liferay/com.liferay.journal.content.asset.addon.entry.conversions@3.0.17?classifier=sources
 - pkg:maven/com.liferay/com.liferay.journal.content.asset.addon.entry.conversions@3.0.18?classifier=sources
+- pkg:maven/com.liferay/com.liferay.journal.content.asset.addon.entry.conversions@3.0.19?classifier=sources
 - pkg:maven/com.liferay/com.liferay.journal.content.asset.addon.entry.conversions@3.0.1?classifier=sources
 - pkg:maven/com.liferay/com.liferay.journal.content.asset.addon.entry.conversions@3.0.1?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.journal.content.asset.addon.entry.conversions@3.0.2
@@ -174,6 +175,7 @@
 - pkg:maven/com.liferay/com.liferay.journal.content.asset.addon.entry.conversions@4.0.22?classifier=sources
 - pkg:maven/com.liferay/com.liferay.journal.content.asset.addon.entry.conversions@4.0.23?classifier=sources
 - pkg:maven/com.liferay/com.liferay.journal.content.asset.addon.entry.conversions@4.0.24?classifier=sources
+- pkg:maven/com.liferay/com.liferay.journal.content.asset.addon.entry.conversions@4.0.25?classifier=sources
 - pkg:maven/com.liferay/com.liferay.journal.content.asset.addon.entry.conversions@4.0.2?classifier=sources
 - pkg:maven/com.liferay/com.liferay.journal.content.asset.addon.entry.conversions@4.0.2?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.journal.content.asset.addon.entry.conversions@4.0.3
@@ -250,6 +252,7 @@
 - pkg:maven/com.liferay/com.liferay.journal.content.asset.addon.entry.conversions@5.0.24?classifier=sources
 - pkg:maven/com.liferay/com.liferay.journal.content.asset.addon.entry.conversions@5.0.25?classifier=sources
 - pkg:maven/com.liferay/com.liferay.journal.content.asset.addon.entry.conversions@5.0.26?classifier=sources
+- pkg:maven/com.liferay/com.liferay.journal.content.asset.addon.entry.conversions@5.0.27?classifier=sources
 - pkg:maven/com.liferay/com.liferay.journal.content.asset.addon.entry.conversions@5.0.2?classifier=sources
 - pkg:maven/com.liferay/com.liferay.journal.content.asset.addon.entry.conversions@5.0.2?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.journal.content.asset.addon.entry.conversions@5.0.3

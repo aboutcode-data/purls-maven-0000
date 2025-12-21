@@ -1,1 +1,3 @@
+- pkg:maven/tech.riemann/etp-trace@3.4.3.20250313?classifier=sources
 - pkg:maven/tech.riemann/etp-trace@3.4.3?classifier=sources
+- pkg:maven/tech.riemann/etp-trace@3.4.4?classifier=sources

@@ -52,5 +52,7 @@
 - pkg:maven/hu.icellmobilsoft.coffee/coffee-module-notification-dto@1.8.1?classifier=sources
 - pkg:maven/hu.icellmobilsoft.coffee/coffee-module-notification-dto@1.9.0
 - pkg:maven/hu.icellmobilsoft.coffee/coffee-module-notification-dto@1.9.0?classifier=sources
+- pkg:maven/hu.icellmobilsoft.coffee/coffee-module-notification-dto@2.10.0
+- pkg:maven/hu.icellmobilsoft.coffee/coffee-module-notification-dto@2.10.0?classifier=sources
 - pkg:maven/hu.icellmobilsoft.coffee/coffee-module-notification-dto@2.9.0
 - pkg:maven/hu.icellmobilsoft.coffee/coffee-module-notification-dto@2.9.0?classifier=sources

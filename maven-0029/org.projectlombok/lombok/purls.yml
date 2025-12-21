@@ -88,6 +88,7 @@
 - pkg:maven/org.projectlombok/lombok@1.18.32?classifier=sources
 - pkg:maven/org.projectlombok/lombok@1.18.34?classifier=sources
 - pkg:maven/org.projectlombok/lombok@1.18.36?classifier=sources
+- pkg:maven/org.projectlombok/lombok@1.18.38?classifier=sources
 - pkg:maven/org.projectlombok/lombok@1.18.4
 - pkg:maven/org.projectlombok/lombok@1.18.4?classifier=sources
 - pkg:maven/org.projectlombok/lombok@1.18.6

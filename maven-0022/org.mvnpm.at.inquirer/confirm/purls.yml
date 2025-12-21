@@ -1,0 +1,2 @@
+- pkg:maven/org.mvnpm.at.inquirer/confirm@5.1.8?classifier=sources
+- pkg:maven/org.mvnpm.at.inquirer/confirm@5.1.9?classifier=sources

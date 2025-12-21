@@ -1,0 +1,2 @@
+- pkg:maven/io.github.yexey/docx-replacer@0.9?classifier=sources
+- pkg:maven/io.github.yexey/docx-replacer@1.0.0?classifier=sources

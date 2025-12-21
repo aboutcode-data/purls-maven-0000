@@ -207,3 +207,5 @@
 - pkg:maven/org.xwiki.commons/xwiki-commons-tool-spoon-tests@17.0.0-rc-1
 - pkg:maven/org.xwiki.commons/xwiki-commons-tool-spoon-tests@17.1.0
 - pkg:maven/org.xwiki.commons/xwiki-commons-tool-spoon-tests@17.1.0-rc-1
+- pkg:maven/org.xwiki.commons/xwiki-commons-tool-spoon-tests@17.2.0
+- pkg:maven/org.xwiki.commons/xwiki-commons-tool-spoon-tests@17.2.0-rc-1

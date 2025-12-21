@@ -10,3 +10,7 @@
 - pkg:maven/ba.sake/regenesca_2.13@0.4.3?classifier=sources
 - pkg:maven/ba.sake/regenesca_2.13@0.4.4
 - pkg:maven/ba.sake/regenesca_2.13@0.4.4?classifier=sources
+- pkg:maven/ba.sake/regenesca_2.13@0.5.0
+- pkg:maven/ba.sake/regenesca_2.13@0.5.0?classifier=sources
+- pkg:maven/ba.sake/regenesca_2.13@0.6.0
+- pkg:maven/ba.sake/regenesca_2.13@0.6.0?classifier=sources

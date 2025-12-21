@@ -104,3 +104,5 @@
 - pkg:maven/org.apache.flink/flink-compress@1.20.1?classifier=sources
 - pkg:maven/org.apache.flink/flink-compress@2.0-preview1
 - pkg:maven/org.apache.flink/flink-compress@2.0-preview1?classifier=sources
+- pkg:maven/org.apache.flink/flink-compress@2.0.0
+- pkg:maven/org.apache.flink/flink-compress@2.0.0?classifier=sources

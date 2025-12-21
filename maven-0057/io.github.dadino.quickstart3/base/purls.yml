@@ -20,3 +20,4 @@
 - pkg:maven/io.github.dadino.quickstart3/base@0.14.9?classifier=sources
 - pkg:maven/io.github.dadino.quickstart3/base@0.15.0?classifier=sources
 - pkg:maven/io.github.dadino.quickstart3/base@0.16.0?classifier=sources
+- pkg:maven/io.github.dadino.quickstart3/base@0.16.1?classifier=sources

@@ -1,2 +1,5 @@
+- pkg:maven/org.mvnpm/path-exists@1.0.0?classifier=sources
+- pkg:maven/org.mvnpm/path-exists@2.1.0?classifier=sources
+- pkg:maven/org.mvnpm/path-exists@3.0.0?classifier=sources
 - pkg:maven/org.mvnpm/path-exists@4.0.0?classifier=sources
 - pkg:maven/org.mvnpm/path-exists@5.0.0?classifier=sources

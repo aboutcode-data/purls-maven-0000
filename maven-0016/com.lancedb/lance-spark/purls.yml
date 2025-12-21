@@ -7,3 +7,4 @@
 - pkg:maven/com.lancedb/lance-spark@0.23.2?classifier=sources
 - pkg:maven/com.lancedb/lance-spark@0.23.3?classifier=sources
 - pkg:maven/com.lancedb/lance-spark@0.23.4?classifier=sources
+- pkg:maven/com.lancedb/lance-spark@0.25.1?classifier=sources

@@ -23,3 +23,4 @@
 - pkg:maven/io.github.webrtc-sdk/android@125.6422.05?classifier=sources
 - pkg:maven/io.github.webrtc-sdk/android@125.6422.06.1?classifier=sources
 - pkg:maven/io.github.webrtc-sdk/android@125.6422.06?classifier=sources
+- pkg:maven/io.github.webrtc-sdk/android@125.6422.07?classifier=sources

@@ -24,3 +24,5 @@
 - pkg:maven/jp.co.tis.gsp/gsp-dba-maven-plugin@5.0.0?classifier=sources
 - pkg:maven/jp.co.tis.gsp/gsp-dba-maven-plugin@5.1.0
 - pkg:maven/jp.co.tis.gsp/gsp-dba-maven-plugin@5.1.0?classifier=sources
+- pkg:maven/jp.co.tis.gsp/gsp-dba-maven-plugin@5.2.0
+- pkg:maven/jp.co.tis.gsp/gsp-dba-maven-plugin@5.2.0?classifier=sources

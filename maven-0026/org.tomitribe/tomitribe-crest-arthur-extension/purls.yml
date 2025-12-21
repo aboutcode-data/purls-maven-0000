@@ -30,3 +30,7 @@
 - pkg:maven/org.tomitribe/tomitribe-crest-arthur-extension@0.31?classifier=sources
 - pkg:maven/org.tomitribe/tomitribe-crest-arthur-extension@0.32
 - pkg:maven/org.tomitribe/tomitribe-crest-arthur-extension@0.32?classifier=sources
+- pkg:maven/org.tomitribe/tomitribe-crest-arthur-extension@0.34
+- pkg:maven/org.tomitribe/tomitribe-crest-arthur-extension@0.34?classifier=sources
+- pkg:maven/org.tomitribe/tomitribe-crest-arthur-extension@0.35
+- pkg:maven/org.tomitribe/tomitribe-crest-arthur-extension@0.35?classifier=sources

@@ -36,6 +36,7 @@
 - pkg:maven/com.frontegg.sdk/android@1.2.30?classifier=sources
 - pkg:maven/com.frontegg.sdk/android@1.2.32?classifier=sources
 - pkg:maven/com.frontegg.sdk/android@1.2.33?classifier=sources
+- pkg:maven/com.frontegg.sdk/android@1.2.35?classifier=sources
 - pkg:maven/com.frontegg.sdk/android@1.2.3?classifier=sources
 - pkg:maven/com.frontegg.sdk/android@1.2.7?classifier=sources
 - pkg:maven/com.frontegg.sdk/android@1.2.8?classifier=sources

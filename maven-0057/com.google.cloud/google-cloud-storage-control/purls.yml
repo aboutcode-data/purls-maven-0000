@@ -52,3 +52,5 @@
 - pkg:maven/com.google.cloud/google-cloud-storage-control@2.48.2?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-storage-control@2.49.0
 - pkg:maven/com.google.cloud/google-cloud-storage-control@2.49.0?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-storage-control@2.50.0
+- pkg:maven/com.google.cloud/google-cloud-storage-control@2.50.0?classifier=sources

@@ -8,3 +8,17 @@
 - pkg:maven/cn.xbatis/xbatis-spring-boot-starter@1.8.3-M2?classifier=sources
 - pkg:maven/cn.xbatis/xbatis-spring-boot-starter@1.8.3-M3-spring-boot3?classifier=sources
 - pkg:maven/cn.xbatis/xbatis-spring-boot-starter@1.8.3-M3?classifier=sources
+- pkg:maven/cn.xbatis/xbatis-spring-boot-starter@1.8.3-spring-boot3?classifier=sources
+- pkg:maven/cn.xbatis/xbatis-spring-boot-starter@1.8.3?classifier=sources
+- pkg:maven/cn.xbatis/xbatis-spring-boot-starter@1.8.5-M1-spring-boot3?classifier=sources
+- pkg:maven/cn.xbatis/xbatis-spring-boot-starter@1.8.5-M1?classifier=sources
+- pkg:maven/cn.xbatis/xbatis-spring-boot-starter@1.8.5-M2-spring-boot3?classifier=sources
+- pkg:maven/cn.xbatis/xbatis-spring-boot-starter@1.8.5-M2?classifier=sources
+- pkg:maven/cn.xbatis/xbatis-spring-boot-starter@1.8.5-M3-spring-boot3?classifier=sources
+- pkg:maven/cn.xbatis/xbatis-spring-boot-starter@1.8.5-M3?classifier=sources
+- pkg:maven/cn.xbatis/xbatis-spring-boot-starter@1.8.5-M5-spring-boot3?classifier=sources
+- pkg:maven/cn.xbatis/xbatis-spring-boot-starter@1.8.5-M5?classifier=sources
+- pkg:maven/cn.xbatis/xbatis-spring-boot-starter@1.8.5-M6-spring-boot3?classifier=sources
+- pkg:maven/cn.xbatis/xbatis-spring-boot-starter@1.8.5-M6?classifier=sources
+- pkg:maven/cn.xbatis/xbatis-spring-boot-starter@1.8.5-spring-boot3?classifier=sources
+- pkg:maven/cn.xbatis/xbatis-spring-boot-starter@1.8.5?classifier=sources

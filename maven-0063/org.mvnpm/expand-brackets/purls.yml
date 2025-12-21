@@ -1,0 +1,2 @@
+- pkg:maven/org.mvnpm/expand-brackets@2.1.4?classifier=sources
+- pkg:maven/org.mvnpm/expand-brackets@4.0.0?classifier=sources

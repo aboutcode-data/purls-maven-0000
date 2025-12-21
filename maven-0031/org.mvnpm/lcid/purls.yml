@@ -1,0 +1,3 @@
+- pkg:maven/org.mvnpm/lcid@1.0.0?classifier=sources
+- pkg:maven/org.mvnpm/lcid@3.1.1?classifier=sources
+- pkg:maven/org.mvnpm/lcid@5.0.0?classifier=sources

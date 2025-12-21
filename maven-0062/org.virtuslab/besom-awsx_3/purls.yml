@@ -1,5 +1,7 @@
 - pkg:maven/org.virtuslab/besom-awsx_3@2.11.0-core.0.3
 - pkg:maven/org.virtuslab/besom-awsx_3@2.11.0-core.0.3?classifier=sources
+- pkg:maven/org.virtuslab/besom-awsx_3@2.21.1-core.0.4
+- pkg:maven/org.virtuslab/besom-awsx_3@2.21.1-core.0.4?classifier=sources
 - pkg:maven/org.virtuslab/besom-awsx_3@2.5.0-core.0.2
 - pkg:maven/org.virtuslab/besom-awsx_3@2.5.0-core.0.2?classifier=sources
 - pkg:maven/org.virtuslab/besom-awsx_3@2.7.0-core.0.3

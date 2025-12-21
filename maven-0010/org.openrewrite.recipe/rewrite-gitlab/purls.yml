@@ -9,3 +9,4 @@
 - pkg:maven/org.openrewrite.recipe/rewrite-gitlab@0.7.0?classifier=sources
 - pkg:maven/org.openrewrite.recipe/rewrite-gitlab@0.8.0?classifier=sources
 - pkg:maven/org.openrewrite.recipe/rewrite-gitlab@0.9.0?classifier=sources
+- pkg:maven/org.openrewrite.recipe/rewrite-gitlab@0.9.1?classifier=sources

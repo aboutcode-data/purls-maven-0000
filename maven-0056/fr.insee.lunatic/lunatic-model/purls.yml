@@ -88,5 +88,7 @@
 - pkg:maven/fr.insee.lunatic/lunatic-model@4.0.0?classifier=sources
 - pkg:maven/fr.insee.lunatic/lunatic-model@4.1.0
 - pkg:maven/fr.insee.lunatic/lunatic-model@4.1.0?classifier=sources
+- pkg:maven/fr.insee.lunatic/lunatic-model@4.2.0
+- pkg:maven/fr.insee.lunatic/lunatic-model@4.2.0?classifier=sources
 - pkg:maven/fr.insee.lunatic/lunatic-model@5.0.0-SNAPSHOT.1
 - pkg:maven/fr.insee.lunatic/lunatic-model@5.0.0-SNAPSHOT.1?classifier=sources

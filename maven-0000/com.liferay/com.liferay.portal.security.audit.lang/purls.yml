@@ -100,6 +100,7 @@
 - pkg:maven/com.liferay/com.liferay.portal.security.audit.lang@3.0.16?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.security.audit.lang@3.0.17?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.security.audit.lang@3.0.18?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.security.audit.lang@3.0.19?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.security.audit.lang@3.0.4
 - pkg:maven/com.liferay/com.liferay.portal.security.audit.lang@3.0.4?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.security.audit.lang@3.0.4?classifier=sources-commercial
@@ -148,6 +149,7 @@
 - pkg:maven/com.liferay/com.liferay.portal.security.audit.lang@4.0.19?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.security.audit.lang@4.0.20?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.security.audit.lang@4.0.21?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.security.audit.lang@4.0.22?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.security.audit.lang@4.0.3
 - pkg:maven/com.liferay/com.liferay.portal.security.audit.lang@4.0.3?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.security.audit.lang@4.0.3?classifier=sources-commercial

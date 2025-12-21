@@ -129,3 +129,5 @@
 - pkg:maven/dev.inmo/micro_utils.koin-android-debug@0.24.9?classifier=sources
 - pkg:maven/dev.inmo/micro_utils.koin-android-debug@0.25.0?classifier=sources
 - pkg:maven/dev.inmo/micro_utils.koin-android-debug@0.25.1?classifier=sources
+- pkg:maven/dev.inmo/micro_utils.koin-android-debug@0.25.2?classifier=sources
+- pkg:maven/dev.inmo/micro_utils.koin-android-debug@0.25.3?classifier=sources

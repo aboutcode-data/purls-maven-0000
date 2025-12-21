@@ -1,1 +1,3 @@
+- pkg:maven/org.mvnpm/color-string@0.3.0?classifier=sources
 - pkg:maven/org.mvnpm/color-string@1.9.1?classifier=sources
+- pkg:maven/org.mvnpm/color-string@2.0.1?classifier=sources

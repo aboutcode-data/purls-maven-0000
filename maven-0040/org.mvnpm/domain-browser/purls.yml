@@ -1,0 +1,2 @@
+- pkg:maven/org.mvnpm/domain-browser@1.2.0?classifier=sources
+- pkg:maven/org.mvnpm/domain-browser@5.7.0?classifier=sources

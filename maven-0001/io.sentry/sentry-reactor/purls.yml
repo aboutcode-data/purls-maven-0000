@@ -1,1 +1,4 @@
 - pkg:maven/io.sentry/sentry-reactor@8.3.0?classifier=sources
+- pkg:maven/io.sentry/sentry-reactor@8.4.0?classifier=sources
+- pkg:maven/io.sentry/sentry-reactor@8.5.0?classifier=sources
+- pkg:maven/io.sentry/sentry-reactor@8.6.0?classifier=sources

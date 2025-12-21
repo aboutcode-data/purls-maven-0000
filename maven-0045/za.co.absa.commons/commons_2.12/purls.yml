@@ -94,3 +94,5 @@
 - pkg:maven/za.co.absa.commons/commons_2.12@1.3.6?classifier=sources
 - pkg:maven/za.co.absa.commons/commons_2.12@2.0.0
 - pkg:maven/za.co.absa.commons/commons_2.12@2.0.0?classifier=sources
+- pkg:maven/za.co.absa.commons/commons_2.12@2.0.1
+- pkg:maven/za.co.absa.commons/commons_2.12@2.0.1?classifier=sources

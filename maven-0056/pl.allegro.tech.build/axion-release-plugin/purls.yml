@@ -64,6 +64,7 @@
 - pkg:maven/pl.allegro.tech.build/axion-release-plugin@1.18.15?classifier=sources
 - pkg:maven/pl.allegro.tech.build/axion-release-plugin@1.18.16?classifier=sources
 - pkg:maven/pl.allegro.tech.build/axion-release-plugin@1.18.17?classifier=sources
+- pkg:maven/pl.allegro.tech.build/axion-release-plugin@1.18.18?classifier=sources
 - pkg:maven/pl.allegro.tech.build/axion-release-plugin@1.18.1?classifier=sources
 - pkg:maven/pl.allegro.tech.build/axion-release-plugin@1.18.2?classifier=sources
 - pkg:maven/pl.allegro.tech.build/axion-release-plugin@1.18.3?classifier=sources

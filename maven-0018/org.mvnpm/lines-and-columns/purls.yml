@@ -9,3 +9,4 @@
 - pkg:maven/org.mvnpm/lines-and-columns@1.2.2?classifier=sources
 - pkg:maven/org.mvnpm/lines-and-columns@1.2.3?classifier=sources
 - pkg:maven/org.mvnpm/lines-and-columns@1.2.4?classifier=sources
+- pkg:maven/org.mvnpm/lines-and-columns@2.0.4?classifier=sources

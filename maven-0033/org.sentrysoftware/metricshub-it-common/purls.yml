@@ -6,3 +6,4 @@
 - pkg:maven/org.sentrysoftware/metricshub-it-common@0.9.08
 - pkg:maven/org.sentrysoftware/metricshub-it-common@1.0.00
 - pkg:maven/org.sentrysoftware/metricshub-it-common@1.0.01
+- pkg:maven/org.sentrysoftware/metricshub-it-common@1.0.02

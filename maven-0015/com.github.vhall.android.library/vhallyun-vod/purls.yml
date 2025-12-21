@@ -48,3 +48,7 @@
 - pkg:maven/com.github.vhall.android.library/vhallyun-vod@2.6.9?type=aar
 - pkg:maven/com.github.vhall.android.library/vhallyun-vod@2.7.0?classifier=sources
 - pkg:maven/com.github.vhall.android.library/vhallyun-vod@2.7.0?type=aar
+- pkg:maven/com.github.vhall.android.library/vhallyun-vod@2.7.4?classifier=sources
+- pkg:maven/com.github.vhall.android.library/vhallyun-vod@2.7.4?type=aar
+- pkg:maven/com.github.vhall.android.library/vhallyun-vod@2.7.6?classifier=sources
+- pkg:maven/com.github.vhall.android.library/vhallyun-vod@2.7.6?type=aar

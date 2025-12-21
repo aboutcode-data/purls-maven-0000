@@ -2,4 +2,6 @@
 - pkg:maven/org.mvnpm.at.babel/generator@7.23.0?classifier=sources
 - pkg:maven/org.mvnpm.at.babel/generator@7.24.7?classifier=sources
 - pkg:maven/org.mvnpm.at.babel/generator@7.25.6?classifier=sources
+- pkg:maven/org.mvnpm.at.babel/generator@7.26.10?classifier=sources
 - pkg:maven/org.mvnpm.at.babel/generator@7.26.3?classifier=sources
+- pkg:maven/org.mvnpm.at.babel/generator@7.27.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/be.smals.recipe.kmehr/recipe-kmehr-business-connector-recipe@3.1.0
+- pkg:maven/be.smals.recipe.kmehr/recipe-kmehr-business-connector-recipe@3.1.0?classifier=sources

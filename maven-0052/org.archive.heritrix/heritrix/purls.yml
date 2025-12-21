@@ -30,3 +30,5 @@
 - pkg:maven/org.archive.heritrix/heritrix@3.6.0?classifier=src&type=zip
 - pkg:maven/org.archive.heritrix/heritrix@3.7.0?classifier=src&type=tar.gz
 - pkg:maven/org.archive.heritrix/heritrix@3.7.0?classifier=src&type=zip
+- pkg:maven/org.archive.heritrix/heritrix@3.8.0?classifier=src&type=tar.gz
+- pkg:maven/org.archive.heritrix/heritrix@3.8.0?classifier=src&type=zip

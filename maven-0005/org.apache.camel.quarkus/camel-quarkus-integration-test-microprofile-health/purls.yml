@@ -28,3 +28,5 @@
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-integration-test-microprofile-health@3.18.0?classifier=sources
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-integration-test-microprofile-health@3.19.0
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-integration-test-microprofile-health@3.19.0?classifier=sources
+- pkg:maven/org.apache.camel.quarkus/camel-quarkus-integration-test-microprofile-health@3.20.0
+- pkg:maven/org.apache.camel.quarkus/camel-quarkus-integration-test-microprofile-health@3.20.0?classifier=sources

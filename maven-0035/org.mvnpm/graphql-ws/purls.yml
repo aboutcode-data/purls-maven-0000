@@ -1,1 +1,2 @@
 - pkg:maven/org.mvnpm/graphql-ws@5.16.0?classifier=sources
+- pkg:maven/org.mvnpm/graphql-ws@6.0.4?classifier=sources

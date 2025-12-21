@@ -1,0 +1,2 @@
+- pkg:maven/org.mvnpm/trim-trailing-lines@1.1.4?classifier=sources
+- pkg:maven/org.mvnpm/trim-trailing-lines@2.1.0?classifier=sources

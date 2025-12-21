@@ -1,0 +1,2 @@
+- pkg:maven/dev.dsf/dsf-bpe-process-api-v2@2.0.0-M2
+- pkg:maven/dev.dsf/dsf-bpe-process-api-v2@2.0.0-M2?classifier=sources

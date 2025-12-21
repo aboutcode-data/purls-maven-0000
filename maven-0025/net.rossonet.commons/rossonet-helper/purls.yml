@@ -16,3 +16,4 @@
 - pkg:maven/net.rossonet.commons/rossonet-helper@0.4.8?classifier=sources
 - pkg:maven/net.rossonet.commons/rossonet-helper@0.4.9?classifier=sources
 - pkg:maven/net.rossonet.commons/rossonet-helper@0.5.2?classifier=sources
+- pkg:maven/net.rossonet.commons/rossonet-helper@0.5.5?classifier=sources

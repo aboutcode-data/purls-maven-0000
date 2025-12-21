@@ -1,0 +1,2 @@
+- pkg:maven/de.thesdrs/coreutilities@0.0.1?classifier=sources
+- pkg:maven/de.thesdrs/coreutilities@1.0?classifier=sources

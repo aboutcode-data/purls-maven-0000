@@ -52,3 +52,5 @@
 - pkg:maven/io.asgardeo.tomcat.saml.agent/io.asgardeo.tomcat.saml.agent.sample@0.1.45?type=war
 - pkg:maven/io.asgardeo.tomcat.saml.agent/io.asgardeo.tomcat.saml.agent.sample@0.1.46?classifier=sources
 - pkg:maven/io.asgardeo.tomcat.saml.agent/io.asgardeo.tomcat.saml.agent.sample@0.1.46?type=war
+- pkg:maven/io.asgardeo.tomcat.saml.agent/io.asgardeo.tomcat.saml.agent.sample@0.1.48?classifier=sources
+- pkg:maven/io.asgardeo.tomcat.saml.agent/io.asgardeo.tomcat.saml.agent.sample@0.1.48?type=war
