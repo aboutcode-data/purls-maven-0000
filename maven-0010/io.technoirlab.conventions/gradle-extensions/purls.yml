@@ -3,3 +3,4 @@
 - pkg:maven/io.technoirlab.conventions/gradle-extensions@v39?classifier=sources
 - pkg:maven/io.technoirlab.conventions/gradle-extensions@v40?classifier=sources
 - pkg:maven/io.technoirlab.conventions/gradle-extensions@v41?classifier=sources
+- pkg:maven/io.technoirlab.conventions/gradle-extensions@v42?classifier=sources

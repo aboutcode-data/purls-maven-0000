@@ -6,3 +6,4 @@
 - pkg:maven/org.webjars.npm/sharp@0.30.4?classifier=sources
 - pkg:maven/org.webjars.npm/sharp@0.32.6
 - pkg:maven/org.webjars.npm/sharp@0.32.6?classifier=sources
+- pkg:maven/org.webjars.npm/sharp@0.33.5

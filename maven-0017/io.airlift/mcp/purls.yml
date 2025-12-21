@@ -23,3 +23,10 @@
 - pkg:maven/io.airlift/mcp@367?classifier=sources
 - pkg:maven/io.airlift/mcp@368?classifier=sources
 - pkg:maven/io.airlift/mcp@369?classifier=sources
+- pkg:maven/io.airlift/mcp@370?classifier=sources
+- pkg:maven/io.airlift/mcp@371?classifier=sources
+- pkg:maven/io.airlift/mcp@372?classifier=sources
+- pkg:maven/io.airlift/mcp@373?classifier=sources
+- pkg:maven/io.airlift/mcp@374?classifier=sources
+- pkg:maven/io.airlift/mcp@375?classifier=sources
+- pkg:maven/io.airlift/mcp@376?classifier=sources

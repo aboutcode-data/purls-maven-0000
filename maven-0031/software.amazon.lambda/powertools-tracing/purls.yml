@@ -93,3 +93,5 @@
 - pkg:maven/software.amazon.lambda/powertools-tracing@2.3.0?classifier=sources
 - pkg:maven/software.amazon.lambda/powertools-tracing@2.4.0?classifier=sources
 - pkg:maven/software.amazon.lambda/powertools-tracing@2.5.0?classifier=sources
+- pkg:maven/software.amazon.lambda/powertools-tracing@2.6.0?classifier=sources
+- pkg:maven/software.amazon.lambda/powertools-tracing@2.7.0?classifier=sources

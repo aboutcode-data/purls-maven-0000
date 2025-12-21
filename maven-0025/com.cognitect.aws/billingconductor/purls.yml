@@ -18,3 +18,4 @@
 - pkg:maven/com.cognitect.aws/billingconductor@852.2.1526.0?classifier=sources
 - pkg:maven/com.cognitect.aws/billingconductor@871.2.29.35
 - pkg:maven/com.cognitect.aws/billingconductor@871.2.29.35?classifier=sources
+- pkg:maven/com.cognitect.aws/billingconductor@871.2.35.10?classifier=sources

@@ -144,3 +144,4 @@
 - pkg:maven/com.ibm.cp4waiops.connectors/connectors-sdk@2.3.5?classifier=sources
 - pkg:maven/com.ibm.cp4waiops.connectors/connectors-sdk@2.3.6?classifier=sources
 - pkg:maven/com.ibm.cp4waiops.connectors/connectors-sdk@2.3.7?classifier=sources
+- pkg:maven/com.ibm.cp4waiops.connectors/connectors-sdk@3.0.0?classifier=sources

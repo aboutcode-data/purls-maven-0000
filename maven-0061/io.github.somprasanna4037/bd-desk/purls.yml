@@ -4,3 +4,5 @@
 - pkg:maven/io.github.somprasanna4037/bd-desk@1.0.3?classifier=sources
 - pkg:maven/io.github.somprasanna4037/bd-desk@1.0.4?classifier=sources
 - pkg:maven/io.github.somprasanna4037/bd-desk@1.0.8?classifier=sources
+- pkg:maven/io.github.somprasanna4037/bd-desk@1.0.9?classifier=sources
+- pkg:maven/io.github.somprasanna4037/bd-desk@1.1.0?classifier=sources

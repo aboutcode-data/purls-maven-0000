@@ -1,1 +1,3 @@
 - pkg:maven/io.bitryon/bitryon-logger@1.0.2?classifier=sources
+- pkg:maven/io.bitryon/bitryon-logger@1.0.51?classifier=sources
+- pkg:maven/io.bitryon/bitryon-logger@1.0.60?classifier=sources

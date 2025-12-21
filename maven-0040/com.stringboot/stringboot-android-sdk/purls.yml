@@ -12,3 +12,5 @@
 - pkg:maven/com.stringboot/stringboot-android-sdk@1.0.5?type=aar
 - pkg:maven/com.stringboot/stringboot-android-sdk@1.0.7?classifier=sources
 - pkg:maven/com.stringboot/stringboot-android-sdk@1.0.7?type=aar
+- pkg:maven/com.stringboot/stringboot-android-sdk@1.0.8?classifier=sources
+- pkg:maven/com.stringboot/stringboot-android-sdk@1.0.8?type=aar

@@ -1,3 +1,5 @@
+- pkg:maven/io.spinnaker.kork/kork-secrets-api@2025.3-0?classifier=sources
+- pkg:maven/io.spinnaker.kork/kork-secrets-api@2025.3.0?classifier=sources
 - pkg:maven/io.spinnaker.kork/kork-secrets-api@main-100?classifier=sources
 - pkg:maven/io.spinnaker.kork/kork-secrets-api@main-101?classifier=sources
 - pkg:maven/io.spinnaker.kork/kork-secrets-api@main-102?classifier=sources
@@ -7,6 +9,19 @@
 - pkg:maven/io.spinnaker.kork/kork-secrets-api@main-106?classifier=sources
 - pkg:maven/io.spinnaker.kork/kork-secrets-api@main-107?classifier=sources
 - pkg:maven/io.spinnaker.kork/kork-secrets-api@main-108?classifier=sources
+- pkg:maven/io.spinnaker.kork/kork-secrets-api@main-109?classifier=sources
+- pkg:maven/io.spinnaker.kork/kork-secrets-api@main-111?classifier=sources
+- pkg:maven/io.spinnaker.kork/kork-secrets-api@main-112?classifier=sources
+- pkg:maven/io.spinnaker.kork/kork-secrets-api@main-113?classifier=sources
+- pkg:maven/io.spinnaker.kork/kork-secrets-api@main-114?classifier=sources
+- pkg:maven/io.spinnaker.kork/kork-secrets-api@main-115?classifier=sources
+- pkg:maven/io.spinnaker.kork/kork-secrets-api@main-116?classifier=sources
+- pkg:maven/io.spinnaker.kork/kork-secrets-api@main-117?classifier=sources
+- pkg:maven/io.spinnaker.kork/kork-secrets-api@main-118?classifier=sources
+- pkg:maven/io.spinnaker.kork/kork-secrets-api@main-119?classifier=sources
+- pkg:maven/io.spinnaker.kork/kork-secrets-api@main-120?classifier=sources
+- pkg:maven/io.spinnaker.kork/kork-secrets-api@main-121?classifier=sources
+- pkg:maven/io.spinnaker.kork/kork-secrets-api@main-122?classifier=sources
 - pkg:maven/io.spinnaker.kork/kork-secrets-api@main-84?classifier=sources
 - pkg:maven/io.spinnaker.kork/kork-secrets-api@main-85?classifier=sources
 - pkg:maven/io.spinnaker.kork/kork-secrets-api@main-86?classifier=sources

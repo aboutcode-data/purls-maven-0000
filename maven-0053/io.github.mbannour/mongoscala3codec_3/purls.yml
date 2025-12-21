@@ -28,3 +28,5 @@
 - pkg:maven/io.github.mbannour/mongoscala3codec_3@0.0.6?classifier=sources
 - pkg:maven/io.github.mbannour/mongoscala3codec_3@0.0.7-M1
 - pkg:maven/io.github.mbannour/mongoscala3codec_3@0.0.7-M1?classifier=sources
+- pkg:maven/io.github.mbannour/mongoscala3codec_3@0.0.7-M2
+- pkg:maven/io.github.mbannour/mongoscala3codec_3@0.0.7-M2?classifier=sources

@@ -4,3 +4,5 @@
 - pkg:maven/org.gov4j.govway/govway-monitor-ui-components@20251006?classifier=sources
 - pkg:maven/org.gov4j.govway/govway-monitor-ui-components@20251017?classifier=sources
 - pkg:maven/org.gov4j.govway/govway-monitor-ui-components@20251023?classifier=sources
+- pkg:maven/org.gov4j.govway/govway-monitor-ui-components@20251028?classifier=sources
+- pkg:maven/org.gov4j.govway/govway-monitor-ui-components@20251105?classifier=sources

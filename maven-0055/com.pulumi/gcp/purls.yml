@@ -411,4 +411,5 @@
 - pkg:maven/com.pulumi/gcp@9.1.0?classifier=sources
 - pkg:maven/com.pulumi/gcp@9.2.0?classifier=sources
 - pkg:maven/com.pulumi/gcp@9.3.0?classifier=sources
+- pkg:maven/com.pulumi/gcp@9.4.0?classifier=sources
 - pkg:maven/com.pulumi/gcp@v6.31.0-alpha.1657285227%2B6c9897a8?classifier=sources

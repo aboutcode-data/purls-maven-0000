@@ -74,3 +74,4 @@
 - pkg:maven/org.copper-engine/copper-coreengine@5.5.1?classifier=sources
 - pkg:maven/org.copper-engine/copper-coreengine@5.5.2
 - pkg:maven/org.copper-engine/copper-coreengine@5.5.2?classifier=sources
+- pkg:maven/org.copper-engine/copper-coreengine@6.0.0?classifier=sources

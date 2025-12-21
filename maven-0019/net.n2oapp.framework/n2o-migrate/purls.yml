@@ -3,3 +3,4 @@
 - pkg:maven/net.n2oapp.framework/n2o-migrate@7.29.2?classifier=sources
 - pkg:maven/net.n2oapp.framework/n2o-migrate@7.29.3?classifier=sources
 - pkg:maven/net.n2oapp.framework/n2o-migrate@7.29.4?classifier=sources
+- pkg:maven/net.n2oapp.framework/n2o-migrate@7.29.5?classifier=sources

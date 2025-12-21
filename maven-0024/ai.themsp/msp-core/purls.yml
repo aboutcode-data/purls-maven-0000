@@ -22,6 +22,14 @@
 - pkg:maven/ai.themsp/msp-core@0.9.1?classifier=sources
 - pkg:maven/ai.themsp/msp-core@2.0.0?classifier=sources
 - pkg:maven/ai.themsp/msp-core@2.1.0?classifier=sources
+- pkg:maven/ai.themsp/msp-core@2.10.0?classifier=sources
+- pkg:maven/ai.themsp/msp-core@2.11.0?classifier=sources
+- pkg:maven/ai.themsp/msp-core@2.12.0?classifier=sources
+- pkg:maven/ai.themsp/msp-core@2.12.1-newsbreak-msp-migration?classifier=sources
+- pkg:maven/ai.themsp/msp-core@2.12.1?classifier=sources
+- pkg:maven/ai.themsp/msp-core@2.12.2-newsbreak-msp-migration?classifier=sources
+- pkg:maven/ai.themsp/msp-core@2.12.3-newsbreak-msp-migration?classifier=sources
+- pkg:maven/ai.themsp/msp-core@2.12.4-newsbreak-msp-migration?classifier=sources
 - pkg:maven/ai.themsp/msp-core@2.2.0?classifier=sources
 - pkg:maven/ai.themsp/msp-core@2.2.1?classifier=sources
 - pkg:maven/ai.themsp/msp-core@2.2.2?classifier=sources
@@ -48,3 +56,4 @@
 - pkg:maven/ai.themsp/msp-core@2.7.3-newsbreak-msp-migration?classifier=sources
 - pkg:maven/ai.themsp/msp-core@2.7.4-newsbreak-msp-migration?classifier=sources
 - pkg:maven/ai.themsp/msp-core@2.8.0?classifier=sources
+- pkg:maven/ai.themsp/msp-core@2.9.0?classifier=sources

@@ -10,3 +10,4 @@
 - pkg:maven/com.code-intelligence/cifuzz-maven-extension@1.13.2?classifier=sources
 - pkg:maven/com.code-intelligence/cifuzz-maven-extension@1.14.8?classifier=sources
 - pkg:maven/com.code-intelligence/cifuzz-maven-extension@1.14.9?classifier=sources
+- pkg:maven/com.code-intelligence/cifuzz-maven-extension@1.15.0?classifier=sources

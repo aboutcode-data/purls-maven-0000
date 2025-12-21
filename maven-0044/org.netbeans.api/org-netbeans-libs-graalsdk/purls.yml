@@ -26,3 +26,4 @@
 - pkg:maven/org.netbeans.api/org-netbeans-libs-graalsdk@RELEASE250?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-libs-graalsdk@RELEASE260?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-libs-graalsdk@RELEASE270?classifier=sources
+- pkg:maven/org.netbeans.api/org-netbeans-libs-graalsdk@RELEASE280?classifier=sources

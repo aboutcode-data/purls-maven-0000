@@ -144,6 +144,10 @@
 - pkg:maven/com.google.apis/google-api-services-iamcredentials@v1-rev20250717-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-iamcredentials@v1-rev20250911-2.0.0
 - pkg:maven/com.google.apis/google-api-services-iamcredentials@v1-rev20250911-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-iamcredentials@v1-rev20251009-2.0.0
+- pkg:maven/com.google.apis/google-api-services-iamcredentials@v1-rev20251009-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-iamcredentials@v1-rev20251022-2.0.0
+- pkg:maven/com.google.apis/google-api-services-iamcredentials@v1-rev20251022-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-iamcredentials@v1-rev21-1.25.0
 - pkg:maven/com.google.apis/google-api-services-iamcredentials@v1-rev21-1.25.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-iamcredentials@v1-rev28-1.18.0-rc

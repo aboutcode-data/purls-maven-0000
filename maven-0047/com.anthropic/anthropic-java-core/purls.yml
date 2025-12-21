@@ -25,6 +25,7 @@
 - pkg:maven/com.anthropic/anthropic-java-core@1.4.0?classifier=sources
 - pkg:maven/com.anthropic/anthropic-java-core@2.0.0?classifier=sources
 - pkg:maven/com.anthropic/anthropic-java-core@2.1.0?classifier=sources
+- pkg:maven/com.anthropic/anthropic-java-core@2.10.0?classifier=sources
 - pkg:maven/com.anthropic/anthropic-java-core@2.2.0?classifier=sources
 - pkg:maven/com.anthropic/anthropic-java-core@2.3.0?classifier=sources
 - pkg:maven/com.anthropic/anthropic-java-core@2.3.1?classifier=sources

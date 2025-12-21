@@ -5,6 +5,8 @@
 - pkg:maven/org.mvnpm/open@10.1.2?classifier=sources
 - pkg:maven/org.mvnpm/open@10.2.0
 - pkg:maven/org.mvnpm/open@10.2.0?classifier=sources
+- pkg:maven/org.mvnpm/open@11.0.0
+- pkg:maven/org.mvnpm/open@11.0.0?classifier=sources
 - pkg:maven/org.mvnpm/open@6.4.0
 - pkg:maven/org.mvnpm/open@6.4.0?classifier=sources
 - pkg:maven/org.mvnpm/open@7.4.2?classifier=sources

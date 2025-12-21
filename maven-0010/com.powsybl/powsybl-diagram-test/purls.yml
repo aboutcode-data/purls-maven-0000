@@ -33,3 +33,4 @@
 - pkg:maven/com.powsybl/powsybl-diagram-test@4.8.1
 - pkg:maven/com.powsybl/powsybl-diagram-test@4.8.1?classifier=sources
 - pkg:maven/com.powsybl/powsybl-diagram-test@4.9.0?classifier=sources
+- pkg:maven/com.powsybl/powsybl-diagram-test@5.0.0?classifier=sources

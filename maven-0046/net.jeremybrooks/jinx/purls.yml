@@ -32,3 +32,4 @@
 - pkg:maven/net.jeremybrooks/jinx@3.0.3?classifier=sources
 - pkg:maven/net.jeremybrooks/jinx@3.1.0
 - pkg:maven/net.jeremybrooks/jinx@3.1.0?classifier=sources
+- pkg:maven/net.jeremybrooks/jinx@3.2.0?classifier=sources

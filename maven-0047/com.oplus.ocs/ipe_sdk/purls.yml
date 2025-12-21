@@ -1,2 +1,3 @@
 - pkg:maven/com.oplus.ocs/ipe_sdk@1.0.2?type=aar
 - pkg:maven/com.oplus.ocs/ipe_sdk@1.0.3?type=aar
+- pkg:maven/com.oplus.ocs/ipe_sdk@1.0.4?type=aar

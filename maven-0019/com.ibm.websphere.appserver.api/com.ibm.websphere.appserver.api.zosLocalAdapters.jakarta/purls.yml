@@ -2,3 +2,4 @@
 - pkg:maven/com.ibm.websphere.appserver.api/com.ibm.websphere.appserver.api.zosLocalAdapters.jakarta@1.0.104?classifier=sources
 - pkg:maven/com.ibm.websphere.appserver.api/com.ibm.websphere.appserver.api.zosLocalAdapters.jakarta@1.0.105?classifier=sources
 - pkg:maven/com.ibm.websphere.appserver.api/com.ibm.websphere.appserver.api.zosLocalAdapters.jakarta@1.0.106?classifier=sources
+- pkg:maven/com.ibm.websphere.appserver.api/com.ibm.websphere.appserver.api.zosLocalAdapters.jakarta@1.0.107?classifier=sources

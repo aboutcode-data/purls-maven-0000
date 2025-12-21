@@ -6,3 +6,4 @@
 - pkg:maven/org.bidib.jbidib.eu.hansolo/SteelSeries@3.9.31.2?classifier=sources
 - pkg:maven/org.bidib.jbidib.eu.hansolo/SteelSeries@3.9.31.3?classifier=sources
 - pkg:maven/org.bidib.jbidib.eu.hansolo/SteelSeries@3.9.31.4?classifier=sources
+- pkg:maven/org.bidib.jbidib.eu.hansolo/SteelSeries@3.9.31.5?classifier=sources

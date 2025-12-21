@@ -494,3 +494,10 @@
 - pkg:maven/io.airlift/jaxrs@367?classifier=sources
 - pkg:maven/io.airlift/jaxrs@368?classifier=sources
 - pkg:maven/io.airlift/jaxrs@369?classifier=sources
+- pkg:maven/io.airlift/jaxrs@370?classifier=sources
+- pkg:maven/io.airlift/jaxrs@371?classifier=sources
+- pkg:maven/io.airlift/jaxrs@372?classifier=sources
+- pkg:maven/io.airlift/jaxrs@373?classifier=sources
+- pkg:maven/io.airlift/jaxrs@374?classifier=sources
+- pkg:maven/io.airlift/jaxrs@375?classifier=sources
+- pkg:maven/io.airlift/jaxrs@376?classifier=sources

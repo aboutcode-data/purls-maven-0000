@@ -26,3 +26,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-websvc-clientapi@RELEASE250?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-websvc-clientapi@RELEASE260?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-websvc-clientapi@RELEASE270?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-websvc-clientapi@RELEASE280?classifier=sources

@@ -82,3 +82,4 @@
 - pkg:maven/dev.inmo/micro_utils.serialization.encapsulator-linuxarm64@0.26.4?classifier=sources
 - pkg:maven/dev.inmo/micro_utils.serialization.encapsulator-linuxarm64@0.26.5?classifier=sources
 - pkg:maven/dev.inmo/micro_utils.serialization.encapsulator-linuxarm64@0.26.6?classifier=sources
+- pkg:maven/dev.inmo/micro_utils.serialization.encapsulator-linuxarm64@0.26.7?classifier=sources

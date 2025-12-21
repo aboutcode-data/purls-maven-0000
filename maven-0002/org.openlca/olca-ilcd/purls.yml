@@ -4,3 +4,4 @@
 - pkg:maven/org.openlca/olca-ilcd@2.0.0?classifier=sources
 - pkg:maven/org.openlca/olca-ilcd@3.0.0
 - pkg:maven/org.openlca/olca-ilcd@3.0.0?classifier=sources
+- pkg:maven/org.openlca/olca-ilcd@3.1.0?classifier=sources
