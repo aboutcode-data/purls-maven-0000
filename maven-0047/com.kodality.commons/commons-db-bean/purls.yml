@@ -1,0 +1,2 @@
+- pkg:maven/com.kodality.commons/commons-db-bean@1.11
+- pkg:maven/com.kodality.commons/commons-db-bean@1.11?classifier=sources

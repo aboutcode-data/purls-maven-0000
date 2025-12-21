@@ -2,3 +2,5 @@
 - pkg:maven/org.mvnpm/is-fullwidth-code-point@2.0.0?classifier=sources
 - pkg:maven/org.mvnpm/is-fullwidth-code-point@3.0.0?classifier=sources
 - pkg:maven/org.mvnpm/is-fullwidth-code-point@4.0.0?classifier=sources
+- pkg:maven/org.mvnpm/is-fullwidth-code-point@5.1.0
+- pkg:maven/org.mvnpm/is-fullwidth-code-point@5.1.0?classifier=sources

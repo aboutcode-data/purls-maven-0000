@@ -9,3 +9,11 @@
 - pkg:maven/org.mvnpm.at.opentelemetry/instrumentation-pg@0.54.1?classifier=sources
 - pkg:maven/org.mvnpm.at.opentelemetry/instrumentation-pg@0.55.0
 - pkg:maven/org.mvnpm.at.opentelemetry/instrumentation-pg@0.55.0?classifier=sources
+- pkg:maven/org.mvnpm.at.opentelemetry/instrumentation-pg@0.56.0
+- pkg:maven/org.mvnpm.at.opentelemetry/instrumentation-pg@0.56.0?classifier=sources
+- pkg:maven/org.mvnpm.at.opentelemetry/instrumentation-pg@0.56.1
+- pkg:maven/org.mvnpm.at.opentelemetry/instrumentation-pg@0.56.1?classifier=sources
+- pkg:maven/org.mvnpm.at.opentelemetry/instrumentation-pg@0.57.0
+- pkg:maven/org.mvnpm.at.opentelemetry/instrumentation-pg@0.57.0?classifier=sources
+- pkg:maven/org.mvnpm.at.opentelemetry/instrumentation-pg@0.58.0
+- pkg:maven/org.mvnpm.at.opentelemetry/instrumentation-pg@0.58.0?classifier=sources

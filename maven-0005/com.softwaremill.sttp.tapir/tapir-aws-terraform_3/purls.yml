@@ -1,0 +1,2 @@
+- pkg:maven/com.softwaremill.sttp.tapir/tapir-aws-terraform_3@1.11.43
+- pkg:maven/com.softwaremill.sttp.tapir/tapir-aws-terraform_3@1.11.43?classifier=sources

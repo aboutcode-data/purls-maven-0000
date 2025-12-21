@@ -1,5 +1,6 @@
 - pkg:maven/com.aliyun/antiddos_public20170518@1.0.0
 - pkg:maven/com.aliyun/antiddos_public20170518@1.0.0?classifier=sources
+- pkg:maven/com.aliyun/antiddos_public20170518@1.0.10?classifier=sources
 - pkg:maven/com.aliyun/antiddos_public20170518@1.0.5
 - pkg:maven/com.aliyun/antiddos_public20170518@1.0.5?classifier=sources
 - pkg:maven/com.aliyun/antiddos_public20170518@1.0.6

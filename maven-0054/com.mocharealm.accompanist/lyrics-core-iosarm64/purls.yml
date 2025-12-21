@@ -1,0 +1,2 @@
+- pkg:maven/com.mocharealm.accompanist/lyrics-core-iosarm64@0.3.3?classifier=sources
+- pkg:maven/com.mocharealm.accompanist/lyrics-core-iosarm64@0.3.4?classifier=sources

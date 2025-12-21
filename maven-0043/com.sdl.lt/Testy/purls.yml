@@ -695,8 +695,10 @@
 - pkg:maven/com.sdl.lt/Testy@20.08.54.0_fb50992?classifier=sources
 - pkg:maven/com.sdl.lt/Testy@20.08.55.0_522b4e3
 - pkg:maven/com.sdl.lt/Testy@20.08.55.0_522b4e3?classifier=sources
+- pkg:maven/com.sdl.lt/Testy@20.08.559.0_c4d70f0?classifier=sources
 - pkg:maven/com.sdl.lt/Testy@20.08.56.0_0940ecf
 - pkg:maven/com.sdl.lt/Testy@20.08.56.0_0940ecf?classifier=sources
+- pkg:maven/com.sdl.lt/Testy@20.08.566.0_10e16cf?classifier=sources
 - pkg:maven/com.sdl.lt/Testy@20.08.57.0_999cd1a
 - pkg:maven/com.sdl.lt/Testy@20.08.57.0_999cd1a?classifier=sources
 - pkg:maven/com.sdl.lt/Testy@20.08.58.0_647eab9

@@ -12,3 +12,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-htmlui@RELEASE240?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-htmlui@RELEASE250?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-htmlui@RELEASE260?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-htmlui@RELEASE270?classifier=sources

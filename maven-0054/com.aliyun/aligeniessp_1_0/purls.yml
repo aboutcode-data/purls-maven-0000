@@ -40,3 +40,6 @@
 - pkg:maven/com.aliyun/aligeniessp_1_0@2.3.0?classifier=sources
 - pkg:maven/com.aliyun/aligeniessp_1_0@2.4.0
 - pkg:maven/com.aliyun/aligeniessp_1_0@2.4.0?classifier=sources
+- pkg:maven/com.aliyun/aligeniessp_1_0@2.5.0?classifier=sources
+- pkg:maven/com.aliyun/aligeniessp_1_0@2.5.1?classifier=sources
+- pkg:maven/com.aliyun/aligeniessp_1_0@2.5.2?classifier=sources

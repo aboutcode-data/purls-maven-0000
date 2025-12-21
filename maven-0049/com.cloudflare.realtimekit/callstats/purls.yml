@@ -12,3 +12,4 @@
 - pkg:maven/com.cloudflare.realtimekit/callstats@1.7.23?classifier=sources
 - pkg:maven/com.cloudflare.realtimekit/callstats@1.7.24?classifier=sources
 - pkg:maven/com.cloudflare.realtimekit/callstats@1.7.25?classifier=sources
+- pkg:maven/com.cloudflare.realtimekit/callstats@1.7.26?classifier=sources

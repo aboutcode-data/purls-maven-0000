@@ -49,3 +49,4 @@
 - pkg:maven/io.moderne/moderne-agent@0.230.0?classifier=sources
 - pkg:maven/io.moderne/moderne-agent@0.231.0?classifier=sources
 - pkg:maven/io.moderne/moderne-agent@0.232.0?classifier=sources
+- pkg:maven/io.moderne/moderne-agent@0.234.0?classifier=sources

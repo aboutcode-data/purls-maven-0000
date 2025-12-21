@@ -53,3 +53,5 @@
 - pkg:maven/com.adobe.aem/aem-dox-sdk-api@2025.7.0?classifier=sources
 - pkg:maven/com.adobe.aem/aem-dox-sdk-api@2025.7.1
 - pkg:maven/com.adobe.aem/aem-dox-sdk-api@2025.7.1?classifier=sources
+- pkg:maven/com.adobe.aem/aem-dox-sdk-api@2025.8.0
+- pkg:maven/com.adobe.aem/aem-dox-sdk-api@2025.8.0?classifier=sources

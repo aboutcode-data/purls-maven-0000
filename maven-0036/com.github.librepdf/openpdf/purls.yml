@@ -169,3 +169,4 @@
 - pkg:maven/com.github.librepdf/openpdf@2.2.3?classifier=sources
 - pkg:maven/com.github.librepdf/openpdf@2.2.4?classifier=sources
 - pkg:maven/com.github.librepdf/openpdf@2.4.0?classifier=sources
+- pkg:maven/com.github.librepdf/openpdf@3.0.0?classifier=sources

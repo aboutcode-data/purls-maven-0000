@@ -2,6 +2,8 @@
 - pkg:maven/org.archive.heritrix/heritrix@3.10.0?classifier=src&type=zip
 - pkg:maven/org.archive.heritrix/heritrix@3.10.1?classifier=src&type=tar.gz
 - pkg:maven/org.archive.heritrix/heritrix@3.10.1?classifier=src&type=zip
+- pkg:maven/org.archive.heritrix/heritrix@3.10.2?classifier=src&type=tar.gz
+- pkg:maven/org.archive.heritrix/heritrix@3.10.2?classifier=src&type=zip
 - pkg:maven/org.archive.heritrix/heritrix@3.4.0-20190205?classifier=src&type=tar.gz
 - pkg:maven/org.archive.heritrix/heritrix@3.4.0-20190205?classifier=src&type=zip
 - pkg:maven/org.archive.heritrix/heritrix@3.4.0-20190207?classifier=src&type=tar.gz

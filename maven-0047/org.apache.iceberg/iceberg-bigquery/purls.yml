@@ -1,0 +1,1 @@
+- pkg:maven/org.apache.iceberg/iceberg-bigquery@1.10.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.jboss.qa.noe/noe-core@0.18.3
+- pkg:maven/org.jboss.qa.noe/noe-core@0.18.3?classifier=sources

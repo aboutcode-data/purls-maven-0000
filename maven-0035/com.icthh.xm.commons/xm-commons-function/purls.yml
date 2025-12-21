@@ -22,3 +22,6 @@
 - pkg:maven/com.icthh.xm.commons/xm-commons-function@4.0.46?classifier=sources
 - pkg:maven/com.icthh.xm.commons/xm-commons-function@4.0.47?classifier=sources
 - pkg:maven/com.icthh.xm.commons/xm-commons-function@4.0.48?classifier=sources
+- pkg:maven/com.icthh.xm.commons/xm-commons-function@4.0.50?classifier=sources
+- pkg:maven/com.icthh.xm.commons/xm-commons-function@4.0.51?classifier=sources
+- pkg:maven/com.icthh.xm.commons/xm-commons-function@4.0.52?classifier=sources

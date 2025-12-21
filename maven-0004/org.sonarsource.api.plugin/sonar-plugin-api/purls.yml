@@ -20,6 +20,7 @@
 - pkg:maven/org.sonarsource.api.plugin/sonar-plugin-api@11.4.0.2922?classifier=sources
 - pkg:maven/org.sonarsource.api.plugin/sonar-plugin-api@12.0.0.2960?classifier=sources
 - pkg:maven/org.sonarsource.api.plugin/sonar-plugin-api@13.0.0.3026?classifier=sources
+- pkg:maven/org.sonarsource.api.plugin/sonar-plugin-api@13.1.0.3124?classifier=sources
 - pkg:maven/org.sonarsource.api.plugin/sonar-plugin-api@9.10.0.269?classifier=sources
 - pkg:maven/org.sonarsource.api.plugin/sonar-plugin-api@9.11.0.290?classifier=sources
 - pkg:maven/org.sonarsource.api.plugin/sonar-plugin-api@9.12.0.310?classifier=sources

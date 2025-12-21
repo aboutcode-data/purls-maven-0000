@@ -1,0 +1,2 @@
+- pkg:maven/net.linlan.eframe/eframe-api@1.1.1?classifier=sources
+- pkg:maven/net.linlan.eframe/eframe-api@1.1.4?classifier=sources

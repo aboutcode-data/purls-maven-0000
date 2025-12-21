@@ -1,3 +1,4 @@
+- pkg:maven/net.javacrumbs.shedlock/shedlock-provider-opensearch-java@6.10.0?classifier=sources
 - pkg:maven/net.javacrumbs.shedlock/shedlock-provider-opensearch-java@6.2.0
 - pkg:maven/net.javacrumbs.shedlock/shedlock-provider-opensearch-java@6.2.0?classifier=sources
 - pkg:maven/net.javacrumbs.shedlock/shedlock-provider-opensearch-java@6.3.0

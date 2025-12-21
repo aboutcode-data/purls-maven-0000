@@ -9,3 +9,4 @@
 - pkg:maven/com.yodo1.suit.pay/lib@6.3.5?classifier=sources
 - pkg:maven/com.yodo1.suit.pay/lib@6.3.7.0?classifier=sources
 - pkg:maven/com.yodo1.suit.pay/lib@6.5.0.0?classifier=sources
+- pkg:maven/com.yodo1.suit.pay/lib@6.5.3.0?classifier=sources

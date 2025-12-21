@@ -1,3 +1,8 @@
 - pkg:maven/xyz.malefic.compose/theming@1.1.0?classifier=sources
 - pkg:maven/xyz.malefic.compose/theming@1.1.1?classifier=sources
 - pkg:maven/xyz.malefic.compose/theming@1.1.2?classifier=sources
+- pkg:maven/xyz.malefic.compose/theming@2.0.0?classifier=sources
+- pkg:maven/xyz.malefic.compose/theming@2.0.2?classifier=sources
+- pkg:maven/xyz.malefic.compose/theming@2.0.4?classifier=sources
+- pkg:maven/xyz.malefic.compose/theming@2.0.5?classifier=sources
+- pkg:maven/xyz.malefic.compose/theming@2.1.0?classifier=sources

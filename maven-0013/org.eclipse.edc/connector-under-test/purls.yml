@@ -1,1 +1,2 @@
 - pkg:maven/org.eclipse.edc/connector-under-test@0.13.2?classifier=sources
+- pkg:maven/org.eclipse.edc/connector-under-test@0.14.0?classifier=sources

@@ -4,3 +4,4 @@
 - pkg:maven/org.qubership.atp/atp-itf-core@4.4.109?classifier=sources
 - pkg:maven/org.qubership.atp/atp-itf-core@4.4.110?classifier=sources
 - pkg:maven/org.qubership.atp/atp-itf-core@4.4.111?classifier=sources
+- pkg:maven/org.qubership.atp/atp-itf-core@4.4.112?classifier=sources

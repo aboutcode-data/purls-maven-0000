@@ -85,6 +85,11 @@
 - pkg:maven/org.danilopianini/gradle-java-qa@1.129.0?classifier=sources
 - pkg:maven/org.danilopianini/gradle-java-qa@1.13.0?classifier=sources
 - pkg:maven/org.danilopianini/gradle-java-qa@1.130.0?classifier=sources
+- pkg:maven/org.danilopianini/gradle-java-qa@1.131.0?classifier=sources
+- pkg:maven/org.danilopianini/gradle-java-qa@1.132.0?classifier=sources
+- pkg:maven/org.danilopianini/gradle-java-qa@1.133.0?classifier=sources
+- pkg:maven/org.danilopianini/gradle-java-qa@1.134.0?classifier=sources
+- pkg:maven/org.danilopianini/gradle-java-qa@1.135.0?classifier=sources
 - pkg:maven/org.danilopianini/gradle-java-qa@1.14.0?classifier=sources
 - pkg:maven/org.danilopianini/gradle-java-qa@1.15.0?classifier=sources
 - pkg:maven/org.danilopianini/gradle-java-qa@1.16.0?classifier=sources

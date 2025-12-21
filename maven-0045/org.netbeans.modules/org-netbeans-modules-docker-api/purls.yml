@@ -26,4 +26,5 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-docker-api@RELEASE240?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-docker-api@RELEASE250?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-docker-api@RELEASE260?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-docker-api@RELEASE270?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-docker-api@RELEASE90?classifier=sources

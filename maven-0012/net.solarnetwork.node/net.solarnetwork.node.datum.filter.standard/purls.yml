@@ -32,3 +32,5 @@
 - pkg:maven/net.solarnetwork.node/net.solarnetwork.node.datum.filter.standard@3.9.0?classifier=sources
 - pkg:maven/net.solarnetwork.node/net.solarnetwork.node.datum.filter.standard@4.0.0
 - pkg:maven/net.solarnetwork.node/net.solarnetwork.node.datum.filter.standard@4.0.0?classifier=sources
+- pkg:maven/net.solarnetwork.node/net.solarnetwork.node.datum.filter.standard@4.0.1
+- pkg:maven/net.solarnetwork.node/net.solarnetwork.node.datum.filter.standard@4.0.1?classifier=sources

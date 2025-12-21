@@ -1,0 +1,2 @@
+- pkg:maven/org.opendaylight.ietf.model/rfc8519-ietf-packet-fields@1.0.0
+- pkg:maven/org.opendaylight.ietf.model/rfc8519-ietf-packet-fields@1.0.0?classifier=sources

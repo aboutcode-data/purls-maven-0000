@@ -113,6 +113,10 @@
 - pkg:maven/me.proton.core/network-dagger@34.0.0?classifier=sources
 - pkg:maven/me.proton.core/network-dagger@34.0.1?classifier=sources
 - pkg:maven/me.proton.core/network-dagger@34.1.0?classifier=sources
+- pkg:maven/me.proton.core/network-dagger@34.2.0?classifier=sources
+- pkg:maven/me.proton.core/network-dagger@34.2.1?classifier=sources
+- pkg:maven/me.proton.core/network-dagger@34.3.0?classifier=sources
+- pkg:maven/me.proton.core/network-dagger@34.4.0?classifier=sources
 - pkg:maven/me.proton.core/network-dagger@7.1.0?classifier=sources
 - pkg:maven/me.proton.core/network-dagger@7.1.10?classifier=sources
 - pkg:maven/me.proton.core/network-dagger@7.1.11?classifier=sources

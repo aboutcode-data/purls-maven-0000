@@ -1,0 +1,1 @@
+- pkg:maven/io.quarkiverse.grpc.zero/quarkus-grpc-zero@0.0.3?classifier=sources

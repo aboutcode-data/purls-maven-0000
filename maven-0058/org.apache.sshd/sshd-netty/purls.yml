@@ -19,6 +19,8 @@
 - pkg:maven/org.apache.sshd/sshd-netty@2.14.0?classifier=sources
 - pkg:maven/org.apache.sshd/sshd-netty@2.15.0
 - pkg:maven/org.apache.sshd/sshd-netty@2.15.0?classifier=sources
+- pkg:maven/org.apache.sshd/sshd-netty@2.16.0
+- pkg:maven/org.apache.sshd/sshd-netty@2.16.0?classifier=sources
 - pkg:maven/org.apache.sshd/sshd-netty@2.2.0
 - pkg:maven/org.apache.sshd/sshd-netty@2.2.0?classifier=sources
 - pkg:maven/org.apache.sshd/sshd-netty@2.3.0
@@ -43,3 +45,5 @@
 - pkg:maven/org.apache.sshd/sshd-netty@2.9.2?classifier=sources
 - pkg:maven/org.apache.sshd/sshd-netty@2.9.3
 - pkg:maven/org.apache.sshd/sshd-netty@2.9.3?classifier=sources
+- pkg:maven/org.apache.sshd/sshd-netty@3.0.0-M1
+- pkg:maven/org.apache.sshd/sshd-netty@3.0.0-M1?classifier=sources

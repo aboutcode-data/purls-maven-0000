@@ -1,4 +1,5 @@
 - pkg:maven/io.github.quillraven.fleks/Fleks-wasm-js@2.10?classifier=sources
 - pkg:maven/io.github.quillraven.fleks/Fleks-wasm-js@2.11?classifier=sources
+- pkg:maven/io.github.quillraven.fleks/Fleks-wasm-js@2.12?classifier=sources
 - pkg:maven/io.github.quillraven.fleks/Fleks-wasm-js@2.8?classifier=sources
 - pkg:maven/io.github.quillraven.fleks/Fleks-wasm-js@2.9?classifier=sources

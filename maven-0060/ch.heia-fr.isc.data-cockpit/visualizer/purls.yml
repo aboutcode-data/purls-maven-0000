@@ -1,0 +1,2 @@
+- pkg:maven/ch.heia-fr.isc.data-cockpit/visualizer@1.0.0?classifier=sources
+- pkg:maven/ch.heia-fr.isc.data-cockpit/visualizer@1.1.0?classifier=sources

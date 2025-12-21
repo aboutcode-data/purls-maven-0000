@@ -32,3 +32,5 @@
 - pkg:maven/org.apache.parquet/parquet-format-structures@1.15.1?classifier=sources
 - pkg:maven/org.apache.parquet/parquet-format-structures@1.15.2
 - pkg:maven/org.apache.parquet/parquet-format-structures@1.15.2?classifier=sources
+- pkg:maven/org.apache.parquet/parquet-format-structures@1.16.0
+- pkg:maven/org.apache.parquet/parquet-format-structures@1.16.0?classifier=sources

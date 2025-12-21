@@ -4,3 +4,4 @@
 - pkg:maven/org.radarbase/radar-expression-lang@0.4.3?classifier=sources
 - pkg:maven/org.radarbase/radar-expression-lang@0.5.0?classifier=sources
 - pkg:maven/org.radarbase/radar-expression-lang@0.5.2?classifier=sources
+- pkg:maven/org.radarbase/radar-expression-lang@0.6.0?classifier=sources

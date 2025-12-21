@@ -1,2 +1,8 @@
 - pkg:maven/io.airlift/mcp@345?classifier=sources
 - pkg:maven/io.airlift/mcp@346?classifier=sources
+- pkg:maven/io.airlift/mcp@347?classifier=sources
+- pkg:maven/io.airlift/mcp@348?classifier=sources
+- pkg:maven/io.airlift/mcp@349?classifier=sources
+- pkg:maven/io.airlift/mcp@350?classifier=sources
+- pkg:maven/io.airlift/mcp@351?classifier=sources
+- pkg:maven/io.airlift/mcp@352?classifier=sources

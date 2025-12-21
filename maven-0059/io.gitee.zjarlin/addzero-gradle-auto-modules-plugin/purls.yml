@@ -1,0 +1,4 @@
+- pkg:maven/io.gitee.zjarlin/addzero-gradle-auto-modules-plugin@0.0.608?classifier=sources
+- pkg:maven/io.gitee.zjarlin/addzero-gradle-auto-modules-plugin@0.0.612?classifier=sources
+- pkg:maven/io.gitee.zjarlin/addzero-gradle-auto-modules-plugin@0.0.615?classifier=sources
+- pkg:maven/io.gitee.zjarlin/addzero-gradle-auto-modules-plugin@0.0.616?classifier=sources

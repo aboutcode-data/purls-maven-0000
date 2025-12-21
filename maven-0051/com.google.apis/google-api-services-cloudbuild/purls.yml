@@ -4300,3 +4300,5 @@
 - pkg:maven/com.google.apis/google-api-services-cloudbuild@v2-rev20250418-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-cloudbuild@v2-rev20250718-2.0.0
 - pkg:maven/com.google.apis/google-api-services-cloudbuild@v2-rev20250718-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-cloudbuild@v2-rev20250814-2.0.0
+- pkg:maven/com.google.apis/google-api-services-cloudbuild@v2-rev20250814-2.0.0?classifier=sources
