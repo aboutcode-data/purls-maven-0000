@@ -7,3 +7,6 @@
 - pkg:maven/dev.puzzleshq/puzzle-loader-core@1.0.7-alpha?classifier=sources
 - pkg:maven/dev.puzzleshq/puzzle-loader-core@1.0.8-alpha?classifier=sources
 - pkg:maven/dev.puzzleshq/puzzle-loader-core@1.0.9-alpha?classifier=sources
+- pkg:maven/dev.puzzleshq/puzzle-loader-core@1.1.0-alpha?classifier=sources
+- pkg:maven/dev.puzzleshq/puzzle-loader-core@1.1.1-alpha?classifier=sources
+- pkg:maven/dev.puzzleshq/puzzle-loader-core@1.1.2-alpha?classifier=sources

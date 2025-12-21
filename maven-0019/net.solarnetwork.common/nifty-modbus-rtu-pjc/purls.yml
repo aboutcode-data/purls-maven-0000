@@ -11,3 +11,4 @@
 - pkg:maven/net.solarnetwork.common/nifty-modbus-rtu-pjc@0.6.0?classifier=sources
 - pkg:maven/net.solarnetwork.common/nifty-modbus-rtu-pjc@0.7.0?classifier=sources
 - pkg:maven/net.solarnetwork.common/nifty-modbus-rtu-pjc@0.8.0?classifier=sources
+- pkg:maven/net.solarnetwork.common/nifty-modbus-rtu-pjc@1.0.0?classifier=sources

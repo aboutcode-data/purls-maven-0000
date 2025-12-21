@@ -12,3 +12,4 @@
 - pkg:maven/com.grookage.leia/leia-http-processor@0.0.1-RC27?classifier=sources
 - pkg:maven/com.grookage.leia/leia-http-processor@1.0.0?classifier=sources
 - pkg:maven/com.grookage.leia/leia-http-processor@1.0.1?classifier=sources
+- pkg:maven/com.grookage.leia/leia-http-processor@1.0.2?classifier=sources

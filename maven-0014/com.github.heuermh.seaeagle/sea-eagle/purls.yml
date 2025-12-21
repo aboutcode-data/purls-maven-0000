@@ -12,3 +12,4 @@
 - pkg:maven/com.github.heuermh.seaeagle/sea-eagle@0.7?classifier=sources
 - pkg:maven/com.github.heuermh.seaeagle/sea-eagle@0.8
 - pkg:maven/com.github.heuermh.seaeagle/sea-eagle@0.8?classifier=sources
+- pkg:maven/com.github.heuermh.seaeagle/sea-eagle@0.9?classifier=sources

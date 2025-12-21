@@ -461,6 +461,8 @@
 - pkg:maven/org.springframework.data/spring-data-couchbase@5.4.0
 - pkg:maven/org.springframework.data/spring-data-couchbase@5.4.0?classifier=sources
 - pkg:maven/org.springframework.data/spring-data-couchbase@5.4.1
+- pkg:maven/org.springframework.data/spring-data-couchbase@5.4.10
+- pkg:maven/org.springframework.data/spring-data-couchbase@5.4.10?classifier=sources
 - pkg:maven/org.springframework.data/spring-data-couchbase@5.4.1?classifier=sources
 - pkg:maven/org.springframework.data/spring-data-couchbase@5.4.2
 - pkg:maven/org.springframework.data/spring-data-couchbase@5.4.2?classifier=sources
@@ -486,6 +488,8 @@
 - pkg:maven/org.springframework.data/spring-data-couchbase@5.5.2?classifier=sources
 - pkg:maven/org.springframework.data/spring-data-couchbase@5.5.3
 - pkg:maven/org.springframework.data/spring-data-couchbase@5.5.3?classifier=sources
+- pkg:maven/org.springframework.data/spring-data-couchbase@5.5.4
+- pkg:maven/org.springframework.data/spring-data-couchbase@5.5.4?classifier=sources
 - pkg:maven/org.springframework.data/spring-data-couchbase@6.0.0-M1
 - pkg:maven/org.springframework.data/spring-data-couchbase@6.0.0-M1?classifier=sources
 - pkg:maven/org.springframework.data/spring-data-couchbase@6.0.0-M2
@@ -496,3 +500,5 @@
 - pkg:maven/org.springframework.data/spring-data-couchbase@6.0.0-M4?classifier=sources
 - pkg:maven/org.springframework.data/spring-data-couchbase@6.0.0-M5
 - pkg:maven/org.springframework.data/spring-data-couchbase@6.0.0-M5?classifier=sources
+- pkg:maven/org.springframework.data/spring-data-couchbase@6.0.0-M6
+- pkg:maven/org.springframework.data/spring-data-couchbase@6.0.0-M6?classifier=sources

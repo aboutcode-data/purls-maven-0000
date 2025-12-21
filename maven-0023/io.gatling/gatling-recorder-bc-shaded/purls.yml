@@ -25,3 +25,4 @@
 - pkg:maven/io.gatling/gatling-recorder-bc-shaded@1.80.0
 - pkg:maven/io.gatling/gatling-recorder-bc-shaded@1.80.0?classifier=sources
 - pkg:maven/io.gatling/gatling-recorder-bc-shaded@1.81.0?classifier=sources
+- pkg:maven/io.gatling/gatling-recorder-bc-shaded@1.82.0?classifier=sources

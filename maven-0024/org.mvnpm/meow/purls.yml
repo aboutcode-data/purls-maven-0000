@@ -1,3 +1,5 @@
 - pkg:maven/org.mvnpm/meow@13.2.0?classifier=sources
+- pkg:maven/org.mvnpm/meow@14.0.0
+- pkg:maven/org.mvnpm/meow@14.0.0?classifier=sources
 - pkg:maven/org.mvnpm/meow@3.7.0?classifier=sources
 - pkg:maven/org.mvnpm/meow@9.0.0?classifier=sources

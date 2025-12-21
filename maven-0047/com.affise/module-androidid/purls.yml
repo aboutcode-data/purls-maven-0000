@@ -32,3 +32,5 @@
 - pkg:maven/com.affise/module-androidid@1.6.62?classifier=sources
 - pkg:maven/com.affise/module-androidid@1.6.63?classifier=sources
 - pkg:maven/com.affise/module-androidid@1.6.64?classifier=sources
+- pkg:maven/com.affise/module-androidid@1.6.65?classifier=sources
+- pkg:maven/com.affise/module-androidid@1.6.66?classifier=sources

@@ -1,3 +1,5 @@
+- pkg:maven/org.mvnpm/d3-timer@1.0.10
+- pkg:maven/org.mvnpm/d3-timer@1.0.10?classifier=sources
 - pkg:maven/org.mvnpm/d3-timer@2.0.0?classifier=sources
 - pkg:maven/org.mvnpm/d3-timer@3.0.0?classifier=sources
 - pkg:maven/org.mvnpm/d3-timer@3.0.1?classifier=sources

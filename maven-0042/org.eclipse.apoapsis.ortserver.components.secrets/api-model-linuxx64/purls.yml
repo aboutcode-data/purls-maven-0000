@@ -15,3 +15,6 @@
 - pkg:maven/org.eclipse.apoapsis.ortserver.components.secrets/api-model-linuxx64@0.28.0?classifier=sources
 - pkg:maven/org.eclipse.apoapsis.ortserver.components.secrets/api-model-linuxx64@0.28.1?classifier=sources
 - pkg:maven/org.eclipse.apoapsis.ortserver.components.secrets/api-model-linuxx64@0.28.2?classifier=sources
+- pkg:maven/org.eclipse.apoapsis.ortserver.components.secrets/api-model-linuxx64@0.29.0?classifier=sources
+- pkg:maven/org.eclipse.apoapsis.ortserver.components.secrets/api-model-linuxx64@0.30.0?classifier=sources
+- pkg:maven/org.eclipse.apoapsis.ortserver.components.secrets/api-model-linuxx64@0.31.0?classifier=sources

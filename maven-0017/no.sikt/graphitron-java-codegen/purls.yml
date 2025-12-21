@@ -7,3 +7,6 @@
 - pkg:maven/no.sikt/graphitron-java-codegen@5.2.0?classifier=sources
 - pkg:maven/no.sikt/graphitron-java-codegen@5.3.0?classifier=sources
 - pkg:maven/no.sikt/graphitron-java-codegen@6.0.0?classifier=sources
+- pkg:maven/no.sikt/graphitron-java-codegen@6.1.0?classifier=sources
+- pkg:maven/no.sikt/graphitron-java-codegen@6.1.1?classifier=sources
+- pkg:maven/no.sikt/graphitron-java-codegen@6.1.2?classifier=sources

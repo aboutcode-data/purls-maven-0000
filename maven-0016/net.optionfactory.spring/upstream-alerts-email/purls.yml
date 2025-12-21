@@ -57,3 +57,4 @@
 - pkg:maven/net.optionfactory.spring/upstream-alerts-email@22.2?classifier=sources
 - pkg:maven/net.optionfactory.spring/upstream-alerts-email@22.3?classifier=sources
 - pkg:maven/net.optionfactory.spring/upstream-alerts-email@22.4?classifier=sources
+- pkg:maven/net.optionfactory.spring/upstream-alerts-email@22.5?classifier=sources

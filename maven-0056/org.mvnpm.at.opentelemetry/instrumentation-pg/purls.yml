@@ -17,3 +17,5 @@
 - pkg:maven/org.mvnpm.at.opentelemetry/instrumentation-pg@0.57.0?classifier=sources
 - pkg:maven/org.mvnpm.at.opentelemetry/instrumentation-pg@0.58.0
 - pkg:maven/org.mvnpm.at.opentelemetry/instrumentation-pg@0.58.0?classifier=sources
+- pkg:maven/org.mvnpm.at.opentelemetry/instrumentation-pg@0.58.3
+- pkg:maven/org.mvnpm.at.opentelemetry/instrumentation-pg@0.58.3?classifier=sources

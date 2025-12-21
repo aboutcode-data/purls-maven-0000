@@ -1,6 +1,7 @@
 - pkg:maven/net.truej/sql@0.0.1?classifier=sources
 - pkg:maven/net.truej/sql@0.0.2?classifier=sources
 - pkg:maven/net.truej/sql@3.0.0-beta10?classifier=sources
+- pkg:maven/net.truej/sql@3.0.0-beta11?classifier=sources
 - pkg:maven/net.truej/sql@3.0.0-beta1?classifier=sources
 - pkg:maven/net.truej/sql@3.0.0-beta2?classifier=sources
 - pkg:maven/net.truej/sql@3.0.0-beta3?classifier=sources

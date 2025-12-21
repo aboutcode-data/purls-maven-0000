@@ -329,6 +329,7 @@
 - pkg:maven/com.graphql-java/graphql-java-agent@24.0?classifier=sources
 - pkg:maven/com.graphql-java/graphql-java-agent@24.1?classifier=sources
 - pkg:maven/com.graphql-java/graphql-java-agent@24.2?classifier=sources
+- pkg:maven/com.graphql-java/graphql-java-agent@24.3?classifier=sources
 - pkg:maven/com.graphql-java/graphql-java-agent@25.0.beta-1?classifier=sources
 - pkg:maven/com.graphql-java/graphql-java-agent@25.0.beta-2?classifier=sources
 - pkg:maven/com.graphql-java/graphql-java-agent@25.0.beta-3?classifier=sources

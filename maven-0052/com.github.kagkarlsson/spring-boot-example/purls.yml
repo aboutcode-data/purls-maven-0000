@@ -53,6 +53,7 @@
 - pkg:maven/com.github.kagkarlsson/spring-boot-example@15.5.0?classifier=sources
 - pkg:maven/com.github.kagkarlsson/spring-boot-example@15.6.0?classifier=sources
 - pkg:maven/com.github.kagkarlsson/spring-boot-example@16.0.0?classifier=sources
+- pkg:maven/com.github.kagkarlsson/spring-boot-example@16.1.0?classifier=sources
 - pkg:maven/com.github.kagkarlsson/spring-boot-example@6.0
 - pkg:maven/com.github.kagkarlsson/spring-boot-example@6.0?classifier=sources
 - pkg:maven/com.github.kagkarlsson/spring-boot-example@6.1

@@ -14,3 +14,4 @@
 - pkg:maven/io.gravitee.scoring/gravitee-scoring-api@0.6.0?classifier=sources
 - pkg:maven/io.gravitee.scoring/gravitee-scoring-api@0.7.0
 - pkg:maven/io.gravitee.scoring/gravitee-scoring-api@0.7.0?classifier=sources
+- pkg:maven/io.gravitee.scoring/gravitee-scoring-api@0.7.1?classifier=sources

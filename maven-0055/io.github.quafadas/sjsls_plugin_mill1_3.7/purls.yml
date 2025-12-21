@@ -1,2 +1,4 @@
+- pkg:maven/io.github.quafadas/sjsls_plugin_mill1_3.7@0.12.14
+- pkg:maven/io.github.quafadas/sjsls_plugin_mill1_3.7@0.12.14?classifier=sources
 - pkg:maven/io.github.quafadas/sjsls_plugin_mill1_3.7@0.2.12
 - pkg:maven/io.github.quafadas/sjsls_plugin_mill1_3.7@0.2.12?classifier=sources

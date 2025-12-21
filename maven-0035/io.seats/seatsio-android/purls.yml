@@ -24,3 +24,4 @@
 - pkg:maven/io.seats/seatsio-android@14.4.0?classifier=sources
 - pkg:maven/io.seats/seatsio-android@15.0.0?classifier=sources
 - pkg:maven/io.seats/seatsio-android@15.1.0?classifier=sources
+- pkg:maven/io.seats/seatsio-android@16.0.0?classifier=sources

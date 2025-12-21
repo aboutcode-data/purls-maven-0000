@@ -6,3 +6,4 @@
 - pkg:maven/com.pierfrancescosoffritti.androidyoutubeplayer/chromecast-sender@0.29?classifier=sources
 - pkg:maven/com.pierfrancescosoffritti.androidyoutubeplayer/chromecast-sender@0.30?classifier=sources
 - pkg:maven/com.pierfrancescosoffritti.androidyoutubeplayer/chromecast-sender@0.31?classifier=sources
+- pkg:maven/com.pierfrancescosoffritti.androidyoutubeplayer/chromecast-sender@0.32?classifier=sources

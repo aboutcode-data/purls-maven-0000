@@ -1,0 +1,6 @@
+- pkg:maven/site.addzero/addzero-gradle-modules-buddy@2025.09.20?classifier=sources
+- pkg:maven/site.addzero/addzero-gradle-modules-buddy@2025.09.22?classifier=sources
+- pkg:maven/site.addzero/addzero-gradle-modules-buddy@2025.09.23?classifier=sources
+- pkg:maven/site.addzero/addzero-gradle-modules-buddy@2025.09.24?classifier=sources
+- pkg:maven/site.addzero/addzero-gradle-modules-buddy@2025.09.26?classifier=sources
+- pkg:maven/site.addzero/addzero-gradle-modules-buddy@2025.09.29?classifier=sources

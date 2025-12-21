@@ -156,6 +156,7 @@
 - pkg:maven/com.revenuecat.purchases/purchases-store-amazon@8.22.0?classifier=sources
 - pkg:maven/com.revenuecat.purchases/purchases-store-amazon@8.22.1?classifier=sources
 - pkg:maven/com.revenuecat.purchases/purchases-store-amazon@8.23.0?classifier=sources
+- pkg:maven/com.revenuecat.purchases/purchases-store-amazon@8.24.0?classifier=sources
 - pkg:maven/com.revenuecat.purchases/purchases-store-amazon@8.3.0?classifier=sources
 - pkg:maven/com.revenuecat.purchases/purchases-store-amazon@8.3.1?classifier=sources
 - pkg:maven/com.revenuecat.purchases/purchases-store-amazon@8.4.0?classifier=sources
@@ -179,5 +180,10 @@
 - pkg:maven/com.revenuecat.purchases/purchases-store-amazon@9.3.1?classifier=sources
 - pkg:maven/com.revenuecat.purchases/purchases-store-amazon@9.3.2?classifier=sources
 - pkg:maven/com.revenuecat.purchases/purchases-store-amazon@9.4.0?classifier=sources
+- pkg:maven/com.revenuecat.purchases/purchases-store-amazon@9.5.0?classifier=sources
+- pkg:maven/com.revenuecat.purchases/purchases-store-amazon@9.6.0?classifier=sources
+- pkg:maven/com.revenuecat.purchases/purchases-store-amazon@9.7.0?classifier=sources
+- pkg:maven/com.revenuecat.purchases/purchases-store-amazon@9.7.1?classifier=sources
+- pkg:maven/com.revenuecat.purchases/purchases-store-amazon@9.7.2?classifier=sources
 - pkg:maven/com.revenuecat.purchases/purchases-store-amazon@AMAZON.RC1?classifier=sources
 - pkg:maven/com.revenuecat.purchases/purchases-store-amazon@AMAZON.RC1?type=aar

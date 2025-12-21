@@ -26,3 +26,5 @@
 - pkg:maven/com.trackingplan.client/sdk@1.7.0?classifier=sources
 - pkg:maven/com.trackingplan.client/sdk@1.8.0?classifier=sources
 - pkg:maven/com.trackingplan.client/sdk@1.9.0?classifier=sources
+- pkg:maven/com.trackingplan.client/sdk@2.0.0?classifier=sources
+- pkg:maven/com.trackingplan.client/sdk@2.1.0?classifier=sources

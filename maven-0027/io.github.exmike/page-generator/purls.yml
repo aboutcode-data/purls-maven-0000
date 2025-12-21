@@ -3,3 +3,14 @@
 - pkg:maven/io.github.exmike/page-generator@1.0.2?classifier=sources
 - pkg:maven/io.github.exmike/page-generator@1.0.3?classifier=sources
 - pkg:maven/io.github.exmike/page-generator@1.0.4?classifier=sources
+- pkg:maven/io.github.exmike/page-generator@2.0.0-playwright?classifier=sources
+- pkg:maven/io.github.exmike/page-generator@2.0.1-playwright?classifier=sources
+- pkg:maven/io.github.exmike/page-generator@2.0.2-playwright?classifier=sources
+- pkg:maven/io.github.exmike/page-generator@2.0.3-playwright?classifier=sources
+- pkg:maven/io.github.exmike/page-generator@2.0.4-playwright?classifier=sources
+- pkg:maven/io.github.exmike/page-generator@2.0.5-playwright?classifier=sources
+- pkg:maven/io.github.exmike/page-generator@2.0.6-playwright?classifier=sources
+- pkg:maven/io.github.exmike/page-generator@2.0.7-playwright?classifier=sources
+- pkg:maven/io.github.exmike/page-generator@2.0.8-playwright?classifier=sources
+- pkg:maven/io.github.exmike/page-generator@2.0.9-playwright?classifier=sources
+- pkg:maven/io.github.exmike/page-generator@2.1.0-playwright?classifier=sources

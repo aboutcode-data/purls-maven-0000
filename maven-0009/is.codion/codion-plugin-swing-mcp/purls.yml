@@ -8,3 +8,5 @@
 - pkg:maven/is.codion/codion-plugin-swing-mcp@0.18.46?classifier=sources
 - pkg:maven/is.codion/codion-plugin-swing-mcp@0.18.47?classifier=sources
 - pkg:maven/is.codion/codion-plugin-swing-mcp@0.18.48?classifier=sources
+- pkg:maven/is.codion/codion-plugin-swing-mcp@0.18.49?classifier=sources
+- pkg:maven/is.codion/codion-plugin-swing-mcp@0.18.50?classifier=sources

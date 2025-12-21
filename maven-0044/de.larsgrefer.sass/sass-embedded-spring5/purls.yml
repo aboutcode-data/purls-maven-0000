@@ -23,4 +23,7 @@
 - pkg:maven/de.larsgrefer.sass/sass-embedded-spring5@4.0.2?classifier=sources
 - pkg:maven/de.larsgrefer.sass/sass-embedded-spring5@4.1.0?classifier=sources
 - pkg:maven/de.larsgrefer.sass/sass-embedded-spring5@4.2.0?classifier=sources
+- pkg:maven/de.larsgrefer.sass/sass-embedded-spring5@4.3.0-rc4?classifier=sources
+- pkg:maven/de.larsgrefer.sass/sass-embedded-spring5@4.3.0?classifier=sources
+- pkg:maven/de.larsgrefer.sass/sass-embedded-spring5@4.3.1?classifier=sources
 - pkg:maven/de.larsgrefer.sass/sass-embedded-spring5@unspecified?classifier=sources

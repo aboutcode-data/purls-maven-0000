@@ -1,0 +1,4 @@
+- pkg:maven/io.spinnaker.kork/kork-secrets-api@main-84?classifier=sources
+- pkg:maven/io.spinnaker.kork/kork-secrets-api@main-85?classifier=sources
+- pkg:maven/io.spinnaker.kork/kork-secrets-api@main-86?classifier=sources
+- pkg:maven/io.spinnaker.kork/kork-secrets-api@main-87?classifier=sources

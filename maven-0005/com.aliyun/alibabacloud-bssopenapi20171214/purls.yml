@@ -34,3 +34,4 @@
 - pkg:maven/com.aliyun/alibabacloud-bssopenapi20171214@3.0.4?classifier=sources
 - pkg:maven/com.aliyun/alibabacloud-bssopenapi20171214@4.0.0
 - pkg:maven/com.aliyun/alibabacloud-bssopenapi20171214@4.0.0?classifier=sources
+- pkg:maven/com.aliyun/alibabacloud-bssopenapi20171214@4.0.1?classifier=sources

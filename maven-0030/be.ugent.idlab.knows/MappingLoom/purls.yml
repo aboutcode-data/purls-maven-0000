@@ -1,0 +1,2 @@
+- pkg:maven/be.ugent.idlab.knows/MappingLoom@0.0.0?classifier=sources
+- pkg:maven/be.ugent.idlab.knows/MappingLoom@0.6.0?classifier=sources

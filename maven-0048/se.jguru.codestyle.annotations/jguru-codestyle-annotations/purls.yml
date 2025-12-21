@@ -51,3 +51,4 @@
 - pkg:maven/se.jguru.codestyle.annotations/jguru-codestyle-annotations@3.2.1
 - pkg:maven/se.jguru.codestyle.annotations/jguru-codestyle-annotations@3.2.1?classifier=sources
 - pkg:maven/se.jguru.codestyle.annotations/jguru-codestyle-annotations@4.0.1?classifier=sources
+- pkg:maven/se.jguru.codestyle.annotations/jguru-codestyle-annotations@4.0.2?classifier=sources

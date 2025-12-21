@@ -60,3 +60,6 @@
 - pkg:maven/io.quarkus.code/code-quarkus-web-deps@48?classifier=sources
 - pkg:maven/io.quarkus.code/code-quarkus-web-deps@49?classifier=sources
 - pkg:maven/io.quarkus.code/code-quarkus-web-deps@50?classifier=sources
+- pkg:maven/io.quarkus.code/code-quarkus-web-deps@51?classifier=sources
+- pkg:maven/io.quarkus.code/code-quarkus-web-deps@52?classifier=sources
+- pkg:maven/io.quarkus.code/code-quarkus-web-deps@53?classifier=sources

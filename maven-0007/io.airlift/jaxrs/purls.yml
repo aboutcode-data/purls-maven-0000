@@ -477,3 +477,14 @@
 - pkg:maven/io.airlift/jaxrs@350?classifier=sources
 - pkg:maven/io.airlift/jaxrs@351?classifier=sources
 - pkg:maven/io.airlift/jaxrs@352?classifier=sources
+- pkg:maven/io.airlift/jaxrs@353?classifier=sources
+- pkg:maven/io.airlift/jaxrs@354?classifier=sources
+- pkg:maven/io.airlift/jaxrs@355?classifier=sources
+- pkg:maven/io.airlift/jaxrs@356?classifier=sources
+- pkg:maven/io.airlift/jaxrs@357?classifier=sources
+- pkg:maven/io.airlift/jaxrs@358?classifier=sources
+- pkg:maven/io.airlift/jaxrs@359?classifier=sources
+- pkg:maven/io.airlift/jaxrs@360?classifier=sources
+- pkg:maven/io.airlift/jaxrs@361?classifier=sources
+- pkg:maven/io.airlift/jaxrs@362?classifier=sources
+- pkg:maven/io.airlift/jaxrs@363?classifier=sources

@@ -28,6 +28,7 @@
 - pkg:maven/love.forte.simbot.gradle/simbot-gradle-suspendtransforms@4.11.1?classifier=sources
 - pkg:maven/love.forte.simbot.gradle/simbot-gradle-suspendtransforms@4.12.0?classifier=sources
 - pkg:maven/love.forte.simbot.gradle/simbot-gradle-suspendtransforms@4.13.0?classifier=sources
+- pkg:maven/love.forte.simbot.gradle/simbot-gradle-suspendtransforms@4.14.0?classifier=sources
 - pkg:maven/love.forte.simbot.gradle/simbot-gradle-suspendtransforms@4.2.0?classifier=sources
 - pkg:maven/love.forte.simbot.gradle/simbot-gradle-suspendtransforms@4.3.0?classifier=sources
 - pkg:maven/love.forte.simbot.gradle/simbot-gradle-suspendtransforms@4.3.1?classifier=sources

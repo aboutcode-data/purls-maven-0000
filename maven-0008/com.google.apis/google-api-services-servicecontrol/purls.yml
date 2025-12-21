@@ -606,6 +606,8 @@
 - pkg:maven/com.google.apis/google-api-services-servicecontrol@v1-rev20250124-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-servicecontrol@v1-rev20250411-2.0.0
 - pkg:maven/com.google.apis/google-api-services-servicecontrol@v1-rev20250411-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-servicecontrol@v1-rev20250820-2.0.0
+- pkg:maven/com.google.apis/google-api-services-servicecontrol@v1-rev20250820-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-servicecontrol@v1-rev22-1.18.0-rc
 - pkg:maven/com.google.apis/google-api-services-servicecontrol@v1-rev22-1.18.0-rc?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-servicecontrol@v1-rev22-1.20.0
@@ -1268,3 +1270,5 @@
 - pkg:maven/com.google.apis/google-api-services-servicecontrol@v2-rev20250124-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-servicecontrol@v2-rev20250425-2.0.0
 - pkg:maven/com.google.apis/google-api-services-servicecontrol@v2-rev20250425-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-servicecontrol@v2-rev20250820-2.0.0
+- pkg:maven/com.google.apis/google-api-services-servicecontrol@v2-rev20250820-2.0.0?classifier=sources

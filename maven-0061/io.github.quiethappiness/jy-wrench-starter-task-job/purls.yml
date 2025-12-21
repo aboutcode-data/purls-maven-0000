@@ -1,0 +1,4 @@
+- pkg:maven/io.github.quiethappiness/jy-wrench-starter-task-job@1.0.4?classifier=sources
+- pkg:maven/io.github.quiethappiness/jy-wrench-starter-task-job@1.1.0?classifier=sources
+- pkg:maven/io.github.quiethappiness/jy-wrench-starter-task-job@1.2.0?classifier=sources
+- pkg:maven/io.github.quiethappiness/jy-wrench-starter-task-job@1.2.1?classifier=sources

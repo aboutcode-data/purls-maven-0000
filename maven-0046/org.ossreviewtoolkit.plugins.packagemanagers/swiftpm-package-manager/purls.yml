@@ -101,3 +101,6 @@
 - pkg:maven/org.ossreviewtoolkit.plugins.packagemanagers/swiftpm-package-manager@67.1.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.packagemanagers/swiftpm-package-manager@68.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.packagemanagers/swiftpm-package-manager@68.1.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.packagemanagers/swiftpm-package-manager@68.2.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.packagemanagers/swiftpm-package-manager@69.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.packagemanagers/swiftpm-package-manager@69.1.0?classifier=sources
